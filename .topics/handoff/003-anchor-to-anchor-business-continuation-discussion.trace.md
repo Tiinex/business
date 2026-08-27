@@ -44,19 +44,19 @@
 
 - business-lineage-root
   - Material: current Tiinex organization/business lineage root
-  - Material Reference: [tiinex.trace.md](../tiinex.trace.md)
+  - Material Reference: [001-tiinex.trace.md](../001-tiinex.trace.md)
   - Purpose: establish the current business hierarchy and existing materialized branches
   - Availability: available
 
 - business-roles-branch
   - Material: current Roles branch anchor showing that concrete organizational Roles remain to be materialized when actually defined
-  - Material Reference: [Roles](../roles/roles.trace.md)
+  - Material Reference: [Roles](../roles/001-roles.trace.md)
   - Purpose: ground the known semantic coverage gap before discussing concrete Role additions
   - Availability: available
 
 - business-initiatives-branch
   - Material: current Initiatives branch anchor awaiting concrete initiatives
-  - Material Reference: [Initiatives](../initiatives/initiatives.trace.md)
+  - Material Reference: [Initiatives](../initiatives/001-initiatives.trace.md)
   - Purpose: ground the existing branch before discussing which real initiatives warrant Project artifacts
   - Availability: available
 
@@ -126,4 +126,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:JqF4U5jAFQuZ874OlfZvu9hW07vHSQC9aIb1x6eRKO4
+  - Value:j0s9cHmdjnmorB5rGjwQ7wi5kVlHk6BkmISVxTQrQHg

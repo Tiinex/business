@@ -52,8 +52,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Business Development — Loom To Anchor Root Schema Runtime Projection Convergence Return](../handoff/010-loom-to-anchor-root-schema-runtime-projection-convergence-return.trace.md)
-  - Value: gSCgYDKqgBERdKo63x89IyP70C9eNsMRtWqiP_vCcag
+  - Value: qGfZS-Pm6CCuemkPpNKNxd01s-6EyBWtYHEslHmluiE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:gOFF6To6DtJBEHuNy97-2XM3ON16omJdbTltC9GGQVQ
+  - Value:A4vW22OiFAhT_fhY4bke9lGCT3aXZYQkPy-vDeZPgsQ

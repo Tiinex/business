@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-08-26 14:56:00
-  - Trace: [Roles](roles.trace.md)
+  - Trace: [Roles](001-roles.trace.md)
   - Origin:
-    - [relative](roles.trace.md)
+    - [relative](001-roles.trace.md)
 - Current
   - Current Schema: [tiinex.party.role.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/party/role/tiinex.party.role.v1.schema.md)
   - Created At: 2026-08-26 21:00:45
@@ -52,9 +52,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Roles](roles.trace.md)
-  - Value: xMSzKL3Xy4RXueW6KHwbM5F3pne-E9fWuk-3djPl39w
+  - Towards: [Roles](001-roles.trace.md)
+  - Value: xnHKkXbbCKm5veLR7AzfsJP0AnkVk_ydXRv3R79RQTQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ducV4iEOE5L_GOcK2YgA0UnfjQc7TdXbrFN9jrXmoVs
+  - Value: zFhQX6Y4JiYgbNOwdw7266mD5MfWwN8noa9XIyxAeuk

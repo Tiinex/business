@@ -167,8 +167,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Anchor Consolidation Of Axiom Disposition And Loom Routing](../business-development/005-anchor-axiom-disposition-consolidation-and-loom-routing-decision.trace.md)
-  - Value: kqzS40-hh0PPxEzp1YC0RXSgjB9r0_CI-Lh1nAu9jFg
+  - Value: tm2Q-2gre4AtvG61H8jPT5JlSQhDc78sacwdh_NffbE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:7jXuvkToeHlH_VU5uJUJSf0HXwU8KDnxx5JVQTGHueg
+  - Value:gF41rfIfxYNZDJlmIV6L5irszVYGnkun8lpgpdu5l9o

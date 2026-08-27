@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.resource.v1](https://github.com/Tiinex/docs/blob/master/.topics/.schemas/resource/tiinex.resource.v1.schema.md)
   - Created At: 2026-08-26 15:02:00
-  - Trace: [bounty-fund.trace.md](bounty-fund.trace.md)
+  - Trace: [001-bounty-fund.trace.md](001-bounty-fund.trace.md)
   - Origin:
-    - [relative](bounty-fund.trace.md)
+    - [relative](001-bounty-fund.trace.md)
 - Current
   - Current Schema: [tiinex.decision.v1](https://github.com/Tiinex/docs/blob/e713557f8be630967571d11a73f9ecd05ae329ce/.topics/.schemas/core/decision/tiinex.decision.v1.schema.md)
   - Created At: 2026-08-26 15:06:00
@@ -46,9 +46,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [bounty-fund.trace.md](bounty-fund.trace.md)
-  - Value: FKjRLRZnKODDMyuc7kUclgT4TvIRHL2zDzzOfgZWICQ
+  - Towards: [001-bounty-fund.trace.md](001-bounty-fund.trace.md)
+  - Value: 7bBbUYC7s19hkydtdRehVMJ-J8bgXq6WwGjVwGO2so4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: xzLJWKSoc3T6Z2yLXy7e9KPMc5QB9VfXZyi5Hddz1gM
+  - Value: 52Ngfoy9BvWtryqH7EIzZjDKlG0IP4z8A59fZugsMrA

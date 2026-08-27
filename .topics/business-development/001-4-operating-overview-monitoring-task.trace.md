@@ -47,8 +47,8 @@ Design a shared operating overview that lets Sigma, other humans, LLMs, Tooling,
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Business Development](001-business-development-project.trace.md)
-  - Value: p1lrm5eQklSARfZ7Gkgxdu1qQRlT2ivmvLe-wo6TwPA
+  - Value: _Vo_j04LvA-ElYJCr1d7guLhTivasi2AcvmpF1HLrGc
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: k5amjJRbSrCcO-iCb6WBFjiGdFv5au4qLFFgHCfyyNI
+  - Value: rU9NU3xQY42oibyityD-H9zlubG7Z9dDGlJaLOYuGNE

@@ -47,8 +47,8 @@ Make Tiinex Discovery reliably identify current, historical, root, leaf, cross-r
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Tooling](002-tooling-project.trace.md)
-  - Value: ttGDyrDpEo9mqBL7armC42aip4IaNFsx2NjAVwTP66Y
+  - Value: 0zVe7vLWB7VMnz_nU766CpSRIadi72v6t8oX4sxuCxY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: x1rL7J84B58GCoR_ZsLiYdvh8SpWXD2spm9SWwCka38
+  - Value: Tig87EpJGvKaLJPUQeD7Wfxb3zz_YDgWNni_RqSOt7E

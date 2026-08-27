@@ -214,8 +214,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Current Repository Frontier And Portfolio Synthesis](../business-development/003-current-repository-frontier-and-portfolio-synthesis-research.trace.md)
-  - Value: 3LVrnQtt9EIhbKyJ3r-N4FeMsCm8nQqsbDHTouyvuYg
+  - Value: g43lAHYeTSRqKNRLYPqroqojvU3x7bYYzWT8eUVbjKw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:HVaJMFFjqTuV3euzdRzJXhQ6QlV06GDQTk-ZgttRBwY
+  - Value:1yzibo2l_LQQCKfTQYjTuATC4WoK4v9WlkG61awQdP8

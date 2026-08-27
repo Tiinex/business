@@ -47,8 +47,8 @@ Provide a credible public reference experience showing what Tiinex is, how prove
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Viewer](003-viewer-project.trace.md)
-  - Value: XDkhY9nCj-07BBfSmD-4x3UdUMulAmdvu6lIp-52odM
+  - Value: bTq9sIP2kEnVOJ5A6oUEQMVFXF9n8wjj6IdtzSTUpKU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: kjHpB1SSUMAlhj-mxQ47th9dYnUt-nQXVsujMWeRi_M
+  - Value: 8c18AOAFdQBMPZR3mGvN6agY6xXBuEODIEdwMsYyfh4

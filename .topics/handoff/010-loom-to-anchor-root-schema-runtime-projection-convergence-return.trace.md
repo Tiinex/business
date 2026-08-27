@@ -128,8 +128,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [009-anchor-to-loom-root-schema-runtime-projection-convergence.trace.md](009-anchor-to-loom-root-schema-runtime-projection-convergence.trace.md)
-  - Value: MR-v-toiNAmDFAxTp32AVrMZaUxvy9r6OKd4Fz2J7-o
+  - Value: bAsrYKh6ggb6DRDYRWlKfvd5bTd8LnyKvVQSwfKtg6Q
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:gSCgYDKqgBERdKo63x89IyP70C9eNsMRtWqiP_vCcag
+  - Value:qGfZS-Pm6CCuemkPpNKNxd01s-6EyBWtYHEslHmluiE

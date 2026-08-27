@@ -46,8 +46,8 @@ Define how Projects, Tasks, Milestones, Schedules, Roles, Resources, Decisions, 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Core](001-core-project.trace.md)
-  - Value: iPnUakoUgOJxovtSJtf3TEcAIJrfOv7NTah1MIagOMU
+  - Value: 2_rmvvAEq0llL5ah-e27rJ8AoITWCjGTPMJ-KzEdA_8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: A7T-bQ7gZcE8YOVwKYaBI_sdZiD3paPSvDSQYxT5RLc
+  - Value: aob0wtsV7mCHPjnJwPUefyuVHPz2_KMbc8IDR3feswQ

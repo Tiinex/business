@@ -66,8 +66,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tooling And Workflow Iteration Efficiency](../initiatives/002-6-tooling-workflow-iteration-efficiency-task.trace.md)
-  - Value: o0aXOVASCLNdE-yQ_hmWtcMSRtJh6QlukqgPotWamm8
+  - Value: uvAQVOfdb30uadHxisqVpRuC9HrgqvjJQK-Z-_WQL-M
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:QZ5z145PHaXbQuN_cYgJWbTmCBB6oh8ohfCKpvVvShI
+  - Value:6L-B2_2hcVMe4IPpU0eDbKB16rSCQmgnWTCRJwQHVm8

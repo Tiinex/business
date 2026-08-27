@@ -125,8 +125,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [007-anchor-to-axiom-root-parent-origin-schema-convergence.trace.md](007-anchor-to-axiom-root-parent-origin-schema-convergence.trace.md)
-  - Value: KURkAOdkCuAJTwkMu9l1VOnQA41a9YXCCnNsrlxIQyA
+  - Value: 9M6xvOw7hDwMBwuj1JNqVVGCKmUTa9GCu_Xg0TKG8lQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:lelaypqw99mMiDxHn7tF9kZeRnLZPPj3ODAHcZEVEOY
+  - Value:-21G7q5XZlElW4R1jC_hI5emZ-YdT6qK6KKvvdDOdKM

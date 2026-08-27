@@ -38,7 +38,7 @@
   - Implementation: `src/tooling/portable/lineage/lineage.search.js` now uses the canonical `LineageResolutionStatus` enum and an explicit topological Parent-status set, and requires both edge endpoints before mutating root/leaf/parent/child relations.
   - Changed Surface: exactly 2 Site files differ from the incoming qualified Site Workspace: `src/tooling/portable/lineage/lineage.search.js` and `src/tooling/portable/lineage/lineage.search.test.mjs`.
   - Regression Evidence: focused search-lineage coverage proves verified Parent topology, preserves stable topology for mismatch without rewriting qualification, and keeps a missing Parent as a loaded root with no guessed parent.
-  - Business Reproduction Evidence: against the carried Business Workspace, modified Tooling projects `.topics/initiatives/002-tooling-project.trace.md` as `root=false`, `leaf=false`, parent `.topics/initiatives/initiatives.trace.md`, with eight loaded children including Browser Companion; `.topics/initiatives/002-6-tooling-workflow-iteration-efficiency-task.trace.md` projects as `root=false`, `leaf=true`, parent Tiinex Tooling.
+  - Business Reproduction Evidence: against the carried Business Workspace, modified Tooling projects `.topics/initiatives/002-tooling-project.trace.md` as `root=false`, `leaf=false`, parent `.topics/initiatives/001-initiatives.trace.md`, with eight loaded children including Browser Companion; `.topics/initiatives/002-6-tooling-workflow-iteration-efficiency-task.trace.md` projects as `root=false`, `leaf=true`, parent Tiinex Tooling.
   - Qualification Evidence: `lineage.search.test.mjs`, `lineage.resolve.test.mjs`, `lineage.traverse.test.mjs`, portable task orchestration, portable operation catalog, architecture shape, and TypeScript typecheck all pass; the real Business search-lineage reproduction also passes with connected relation facets.
 
 ## Required Context
@@ -116,8 +116,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [011-anchor-to-loom-lineage-search-topology-commit-gate.trace.md](011-anchor-to-loom-lineage-search-topology-commit-gate.trace.md)
-  - Value: GgnyR5dv-Y2g4IyBINbjk82bx_Jd0g4iZLFwq-cUOvE
+  - Value: obF3QJm9g-x65FHvezdMLMIsrjKH0samNb-PD_7GWVI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:IBxjDdl4CWcomnaWR7onIjNiTmS4tdFLv18XTNWQTuk
+  - Value:aLNa_rr5zQOmR76dLtfvMSfucVf-SJOe_SjZsQCvVWQ

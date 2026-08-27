@@ -70,8 +70,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Business Development — Loom Lineage Search Topology Commit Gate Return](../handoff/012-loom-to-anchor-lineage-search-topology-commit-gate-return.trace.md)
-  - Value: IBxjDdl4CWcomnaWR7onIjNiTmS4tdFLv18XTNWQTuk
+  - Value: aLNa_rr5zQOmR76dLtfvMSfucVf-SJOe_SjZsQCvVWQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:aSNZLUuUKp49sDSJdE9WFImZ0tpZs6TTXMY_Q3_yGqA
+  - Value:TQPGE4b92Xc8nD9SVfLrTXAQSx8TWS2vpH0uJXfeXsI

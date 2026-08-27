@@ -145,8 +145,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [005-anchor-to-loom-root-and-handoff-carrier-repair.trace.md](005-anchor-to-loom-root-and-handoff-carrier-repair.trace.md)
-  - Value: 7jXuvkToeHlH_VU5uJUJSf0HXwU8KDnxx5JVQTGHueg
+  - Value: gF41rfIfxYNZDJlmIV6L5irszVYGnkun8lpgpdu5l9o
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Etdu_HiAjIzRG8AkMYcwtSMKh3OnqjSI6Hr0elI8fHM
+  - Value: c4X9GefJm8ylObb0Sn3rU1lu7HFNN1XVNSyCPiMu0nM

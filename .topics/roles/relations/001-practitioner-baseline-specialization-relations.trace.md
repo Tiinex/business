@@ -58,8 +58,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Axiom Business Lineage And Composition Gap Disposition](../../decisions/001-axiom-business-lineage-and-composition-gap-disposition.trace.md)
-  - Value: -Y37Kk6OhdyZomqLWO6iMFUy1xp1TYM9cIAH_h5RjWc
+  - Value: 7IrMDIMpUH8qiItmoe4-pUuR8kK6kmSXGSppSucpIA4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:aO68JZ6RWAizNUjW4UflVUYx30K79acrLd_ux2RGbHw
+  - Value:i-XS_lKJpV8B6aFLwPMJ6VDNJe16D25aGQzJUR1CFTY

@@ -50,8 +50,8 @@ Reopen this decision if the selected adapter cannot provide immutable predecesso
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Current Repository Frontier And Portfolio Synthesis](003-current-repository-frontier-and-portfolio-synthesis-research.trace.md)
-  - Value: 3LVrnQtt9EIhbKyJ3r-N4FeMsCm8nQqsbDHTouyvuYg
+  - Value: g43lAHYeTSRqKNRLYPqroqojvU3x7bYYzWT8eUVbjKw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:mKkUbUeVdRjBimV20DjmShNxLkiFtj5eiAzYTGmlNLU
+  - Value:Y5O2Atvv_EmxJr6l-rPfDRqyBGQFMkOeQlasXtHzE4M

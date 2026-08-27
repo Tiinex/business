@@ -34,7 +34,7 @@
   - Material: the local Tiinex organization root for the artifactized business lineage
   - Purpose: establishes the semantic root from which the carried business branches and financing artifacts are traversed
   - Availability: available
-  - Material Reference: [tiinex.trace.md](../tiinex.trace.md)
+  - Material Reference: [001-tiinex.trace.md](../001-tiinex.trace.md)
 
 ## Reference Context
 
@@ -48,19 +48,19 @@
   - Material: the landed directory-anchor and Parent-lineage structure decision
   - Purpose: explains why semantic directories carry local anchor artifacts and why paths are not semantic authority
   - Availability: available
-  - Material Reference: [Business Lineage Structure](../business-structure.trace.md)
+  - Material Reference: [Business Lineage Structure](../decisions/001-business-lineage-structure-decision.trace.md)
 
 - financing-model-decision
   - Material: the landed append-oriented financing lineage model
   - Purpose: explains fund ingress, allocation, usage, projection, reversal, privacy, and accounting boundaries used by the carried financing artifacts
   - Availability: available
-  - Material Reference: [Financing Lineage Model](../financing/financing-lineage-decision.trace.md)
+  - Material Reference: [Financing Lineage Model](../financing/001-financing-lineage-decision.trace.md)
 
 - bounty-model-decision
   - Material: the landed Bounty Fund and bounty-financing model decision
   - Purpose: explains why the bounty program lives under the Bounty Fund lineage and why existing schemas are pressure-tested before inventing a bounty-specific schema
   - Availability: available
-  - Material Reference: [Bounty Financing Model](../financing/funds/bounty/bounty-model-decision.trace.md)
+  - Material Reference: [Bounty Financing Model](../financing/funds/bounty/001-bounty-model-decision.trace.md)
 
 ## Retained Responsibilities
 
@@ -98,4 +98,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 5c2HvJy9sJ3jiUsqbVdpPjN3F6BR-pkAZY_Fq7CZHIs
+  - Value: 7QA6B_WIhhvQ2z3UJ4KKZe76C38c-SsvWPiknDuTvik

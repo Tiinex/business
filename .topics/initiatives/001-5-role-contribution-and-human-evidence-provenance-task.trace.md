@@ -53,8 +53,8 @@ Make material role contributions inspectable as first-class provenance so Tiinex
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Core](001-core-project.trace.md)
-  - Value: iPnUakoUgOJxovtSJtf3TEcAIJrfOv7NTah1MIagOMU
+  - Value: 2_rmvvAEq0llL5ah-e27rJ8AoITWCjGTPMJ-KzEdA_8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:uB8gu6EuYUjpeclSB7U_I71c9EfRrUnq1SGGNqznDKw
+  - Value:yjsgAXkoW-qOrj-ZJpxmALD47WjtSPz3_lNf8s8o1_0

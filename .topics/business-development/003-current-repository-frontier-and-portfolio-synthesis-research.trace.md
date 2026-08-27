@@ -52,8 +52,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Portfolio Planning And Artifact Composition Decision](002-portfolio-planning-and-artifact-composition-decision.trace.md)
-  - Value: WYnUyyMTfwSZamc-2YvlEkqHtsVKPbslEQsPvlr_1Ns
+  - Value: C9jsCzDtShe9z3yTA8SrNSNNTM-MEtO5tdbGf77QyJI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:3LVrnQtt9EIhbKyJ3r-N4FeMsCm8nQqsbDHTouyvuYg
+  - Value:g43lAHYeTSRqKNRLYPqroqojvU3x7bYYzWT8eUVbjKw

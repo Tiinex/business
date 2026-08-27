@@ -147,8 +147,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Anchor Pre-Commit Orchestration And Git Quality Gate](../business-development/008-anchor-pre-commit-orchestration-and-git-quality-gate-decision.trace.md)
-  - Value: aSNZLUuUKp49sDSJdE9WFImZ0tpZs6TTXMY_Q3_yGqA
+  - Value: TQPGE4b92Xc8nD9SVfLrTXAQSx8TWS2vpH0uJXfeXsI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:yc0PVrejFAL8K16AaeyOsP8OboTQ6v9UWjGj1CTmEyo
+  - Value:6RpRWJVVlVzsSD4Wvl7yELWjVur2A1hD_gATn1WakFA

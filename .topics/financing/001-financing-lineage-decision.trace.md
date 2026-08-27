@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-08-26 14:58:00
-  - Trace: [financing.trace.md](financing.trace.md)
+  - Trace: [001-financing.trace.md](001-financing.trace.md)
   - Origin:
-    - [relative](financing.trace.md)
+    - [relative](001-financing.trace.md)
 - Current
   - Current Schema: [tiinex.decision.v1](https://github.com/Tiinex/docs/blob/e713557f8be630967571d11a73f9ecd05ae329ce/.topics/.schemas/core/decision/tiinex.decision.v1.schema.md)
   - Created At: 2026-08-26 15:05:00
@@ -49,9 +49,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [financing.trace.md](financing.trace.md)
-  - Value: 0VYrDWW46FFpadoVL9t-AL68Hm2DhRaOC02TcbB5KjU
+  - Towards: [001-financing.trace.md](001-financing.trace.md)
+  - Value: 2Ja7fNJ6bWvxuydz7ZnW5c4gkMip1K38pEE55WYV0xM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 7epyGMDxWYrQx5KnQTljh44_hV2do127FkzTuextpRk
+  - Value: T_WL3JYPFXYjvpRF_9K6VWpgeuurRfsRCTSyUYCzBV0

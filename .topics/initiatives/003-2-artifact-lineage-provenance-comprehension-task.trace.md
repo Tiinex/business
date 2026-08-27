@@ -47,8 +47,8 @@ Make individual Tiinex artifacts and their lineage/provenance understandable to 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Viewer](003-viewer-project.trace.md)
-  - Value: XDkhY9nCj-07BBfSmD-4x3UdUMulAmdvu6lIp-52odM
+  - Value: bTq9sIP2kEnVOJ5A6oUEQMVFXF9n8wjj6IdtzSTUpKU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: eSmK3vF8RzO3kCLBktQlzoli6mRMFsGjXW4U39FILec
+  - Value: yaCGkfi8U5MeRgMUeDur6U6O1QTiEqGDcyaslfD3bcM

@@ -137,8 +137,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Business Development — Axiom semantic gap review](../handoff/004-anchor-to-axiom-business-lineage-and-composition-gap-handoff.trace.md)
-  - Value: HVaJMFFjqTuV3euzdRzJXhQ6QlV06GDQTk-ZgttRBwY
+  - Value: 1yzibo2l_LQQCKfTQYjTuATC4WoK4v9WlkG61awQdP8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:-Y37Kk6OhdyZomqLWO6iMFUy1xp1TYM9cIAH_h5RjWc
+  - Value:7IrMDIMpUH8qiItmoe4-pUuR8kK6kmSXGSppSucpIA4

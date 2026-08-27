@@ -115,8 +115,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Anchor Business Stabilization And Parallel Workstreams Decision](../business-development/006-anchor-business-stabilization-and-parallel-workstreams-decision.trace.md)
-  - Value: gOFF6To6DtJBEHuNy97-2XM3ON16omJdbTltC9GGQVQ
+  - Value: A4vW22OiFAhT_fhY4bke9lGCT3aXZYQkPy-vDeZPgsQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:GgnyR5dv-Y2g4IyBINbjk82bx_Jd0g4iZLFwq-cUOvE
+  - Value:obF3QJm9g-x65FHvezdMLMIsrjKH0samNb-PD_7GWVI

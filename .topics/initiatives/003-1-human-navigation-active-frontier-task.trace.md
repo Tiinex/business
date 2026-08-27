@@ -47,8 +47,8 @@ Give a human a clear way to enter Tiinex, understand what is current versus hist
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Viewer](003-viewer-project.trace.md)
-  - Value: XDkhY9nCj-07BBfSmD-4x3UdUMulAmdvu6lIp-52odM
+  - Value: bTq9sIP2kEnVOJ5A6oUEQMVFXF9n8wjj6IdtzSTUpKU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: T3s3NMUnenMUImx2FNCPozbJH-HLCewU9CA4vISE5uM
+  - Value: Va38ytbleL6kwC4A9JVzl2NQu1xDrkXwfCyv5QLZf_8

@@ -47,8 +47,8 @@ Provide reliable creation-time integrity, validation, graph inspection, repair p
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Tooling](002-tooling-project.trace.md)
-  - Value: ttGDyrDpEo9mqBL7armC42aip4IaNFsx2NjAVwTP66Y
+  - Value: 0zVe7vLWB7VMnz_nU766CpSRIadi72v6t8oX4sxuCxY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 68DJZ4ogqB7XtkoPkhOvZIx2Aajv8Gc2vFLTFtGhBEc
+  - Value: n2vd0QXGRSjusguwMoODNA8mQuJ-7cnWJ1A89w-SOAw
