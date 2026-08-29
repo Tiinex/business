@@ -1,12 +1,12 @@
 # Continuity Context
 
-- Envelope Schema: [tiinex.root.v1](tiinex.root.v1.schema.md)
+- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/tiinex.root.v1.schema.md)
 - Current
-  - Current Schema: [tiinex.party.organization.v1](tiinex.party.organization.v1.schema.md)
+  - Current Schema: [tiinex.party.organization.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/party/organization/tiinex.party.organization.v1.schema.md)
   - Created At: 2026-08-26 14:55:00
-  - Summary: Tiinex project organization for business, organizational, and financial continuity.
-  - Status: draft/local
-  - Why: Materialized from the current Anchor/Sigma business design conversation under the received Anchor-to-Anchor Handoff.
+  - Summary: Current Tiinex project-organization root for organizational, operating, and financial continuity.
+  - Status: accepted/local
+  - Why: Serve as the durable organizational root for current Tiinex work so Projects, Roles, financing, and organizational Tasks can be understood through explicit provenance rather than chat history or repository prose.
 
 ---
 
@@ -42,4 +42,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: I5bYzRG0q6hwwKntzZFHteClGsiGQRVN7yr7uo9TcFI
+  - Value: p4YGHsMqWThhcRwqAOWh1RznaqBKd_pndsSvDXyZycQ

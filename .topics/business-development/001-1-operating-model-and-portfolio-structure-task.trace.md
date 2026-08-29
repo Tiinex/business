@@ -12,7 +12,7 @@
   - Created At: 2026-08-26 22:30:00
   - Authors: Anchor; Sigma
   - Summary: Operating Model And Portfolio Structure
-  - Status: draft/local
+  - Status: accepted/local
 
 ---
 
@@ -20,15 +20,15 @@
 
 ## Objective
 
-Establish and maintain the minimal professional Tiinex operating structure: organization, roles, initiatives, epic-level work packages, future milestones, roadmap boundaries, and recoverable Anchor continuation.
+Maintain the minimal professional Tiinex operating structure: one organization root, bounded Roles and Projects, manager-readable work packages, truthful cross-repository context, and recoverable continuation without turning Business into a technical task tracker.
 
 ## Done Criteria
 
 - Business exposes stable organizational anchors without becoming a central implementation task store.
-- Core, Tooling, and Viewer exist as bounded Initiative/Project roots with meaningful epic-level work packages.
-- Cross-repository work can bind to Business anchors through explicit permalinks without corrupting natural Parent lineage.
-- Roadmap and Milestone artifacts are created only after the epic landscape is sufficiently visible.
-- Anchor continuation can be reconstructed from durable Business artifacts and a qualified Handoff rather than conversation memory.
+- Core, Tooling, and Viewer have bounded Project roots with only the work packages needed to explain current or next organizational outcomes.
+- A human developer can start from local current work, understand the outcome and Done boundary, and follow truthful Parent context upward when more explanation is needed.
+- Stale intermediate decisions, handoffs, validation reports, and superseded orchestration material do not dominate current HEAD when Git history is the appropriate recovery boundary.
+- Anchor continuation can be reconstructed from durable current artifacts and a qualified Handoff rather than conversation memory.
 
 ## Scope
 
@@ -47,8 +47,8 @@ Establish and maintain the minimal professional Tiinex operating structure: orga
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Business Development](001-business-development-project.trace.md)
-  - Value: _Vo_j04LvA-ElYJCr1d7guLhTivasi2AcvmpF1HLrGc
+  - Value: dxtfDTU66MwQI1ezqdpysgc1grW7UMmHOkoFRHyW3co
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: P6FesRvBLF_DoiWakppAtfLqFjQYrU_aftHKlICbVok
+  - Value: 6szv3sF87vzGXGZc5wjmlrRrY-CXj-bXEXb6jC9cUts

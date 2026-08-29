@@ -36,13 +36,13 @@
 
 ## Coordination State
 
-- Description: Active. Roles are consolidated in Business. Site history has a declared cutoff, Docs has a maintained-authority/history boundary, and Business has an active portfolio coordination decision. Initiative and epic materialization is the current tranche.
-- Boundary: Roadmap is intentionally deferred until initiative work packages are visible. Operating Monitoring/Workspace composition remains provisional pending schema and Tooling gap discovery. Processes are intentionally last and must be learned from real artifact behavior.
+- Description: Active through Foundation Readiness. The immediate goal is not more Business taxonomy but a small current operating picture, fair closure of the public challenge, clear public-trust/repository projections, and a recoverable handoff boundary before ordinary feature expansion resumes.
+- Boundary: Implementation details stay in Docs/Site/Tooling. Business records priority, dependency, owner, gate, external obligation, risk, and expected outcome at a level a non-developer manager can understand.
 
 ## Milestones And Outcomes
 
-- Description: Near-term outcomes are a coherent Initiative portfolio, meaningful epic-level work packages, durable Tooling defect capture, and a complete Anchor continuation Handoff. Later outcomes include a portfolio Roadmap, funding/resource visibility, public trust projection, operating overview, and reusable Processes grounded in observed work.
-- Boundary: Milestones and roadmap ordering are not declared complete by this Project artifact; dedicated Milestone/Schedule artifacts should own them when enough evidence exists.
+- Description: Near-term success is an inspectable Business authority surface, explicit foundation blockers, closed public obligations, human-readable cross-repository work, and a qualified recovery point that carries Business, Docs, and Site together.
+- Boundary: A later Roadmap or Process artifact is created only when stable sequencing or repeated behavior justifies it; neither is needed merely to make the current portfolio look complete.
 
 ## Interpretation Limits
 
@@ -53,8 +53,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex](../001-tiinex.trace.md)
-  - Value: I5bYzRG0q6hwwKntzZFHteClGsiGQRVN7yr7uo9TcFI
+  - Value: p4YGHsMqWThhcRwqAOWh1RznaqBKd_pndsSvDXyZycQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:_Vo_j04LvA-ElYJCr1d7guLhTivasi2AcvmpF1HLrGc
+  - Value: dxtfDTU66MwQI1ezqdpysgc1grW7UMmHOkoFRHyW3co

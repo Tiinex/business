@@ -21,43 +21,35 @@
 
 ## Objective
 
-Make Tiinex's public and current working surfaces professional, current, recoverable, and consistent with Business Vision/Operations while preserving valuable history in Git rather than leaving superseded material in normal discovery forever.
+Make Tiinex public entrypoints and repository working surfaces accurately project current provenance, while keeping historical material recoverable in Git instead of letting it dominate ordinary discovery.
 
 ## Done Criteria
 
-- GitHub organization first-contact surface accurately explains current Tiinex identity and points to current grounding rather than stale experiments.
-- `tiinex.dev` has a deliberate entry Workspace/surface aligned with current Viewer/runtime capability rather than an accidental historical startup state.
-- Repository READMEs/orientation files clearly classify current, partially current, historical, experimental, superseded, and read-only surfaces without requiring project archaeology.
-- The historical Tiinex Architecture Vision image is updated/re-authored to reflect the current Vision boundary and shared semantics/runtime/consumer direction while preserving the historical image as evidence rather than silently overwriting its era.
-- Normal Discovery favors current working state; historical Discovery is explicit/time-based.
-- Valuable current signal in old material is re-authored into the active lineage with truthful historical commit permalink Origin/Relation before redundant working-tree copies are removed.
-- `.topics/.cache`, obsolete closure residue, stale fixtures, superseded artifacts, and other clutter are reduced only after recoverability and current-lineage replacement are demonstrated.
-- Git history remains the historical authority; current working trees become condensed Tiinex rather than desktop-like archives.
-- Public-facing cleanup does not rewrite old read-only Site/Docs history merely to repair cosmetic Parent chains.
+- The GitHub organization profile, repository first-contact material, and tiinex.dev describe the same current Tiinex identity and current-vs-historical boundary expressed by provenance.
+- Contribution, security/support, governance, and funding guidance are understandable without requiring internal archaeology and do not become competing semantic authority.
+- Repository working trees favor current material; superseded intermediate artifacts are removed from current HEAD only when Git history or another explicit recovery boundary preserves them.
+- Public claims about release/functioning are limited to what current Site/Docs/Tooling evidence actually qualifies.
+- Presentation remains shorter and easier to scan than internal provenance, while deeper artifact paths stay available for people who need exact evidence.
 
 ## Scope
 
-- Tiinex GitHub organization/profile and appropriate repository first-contact files.
-- `tiinex.dev` entry Workspace/public Viewer projection.
-- Repository working-set classification and recoverability-gated cleanup.
-- Architecture/Vision visual refresh.
-- Current/history/superseded presentation boundaries shared with Discovery and Viewer work.
+- Public `.github`, README/orientation material, repository metadata, tiinex.dev entry surfaces, and current/history presentation boundaries.
+- Current working-tree hygiene where stale material interferes with comprehension.
+- Do not rewrite historical artifacts merely to make old lineage resemble the current organization.
 
 ## Dependencies
 
-- [Vision And Current Grounding](001-6-vision-and-current-grounding-task.trace.md)
+- [Foundation Readiness And Operating Reconciliation](001-4-1-foundation-readiness-operating-reconciliation-task.trace.md)
 - [Operating Overview And Monitoring](001-4-operating-overview-monitoring-task.trace.md)
-- [Discovery Active Frontier Resolution](../initiatives/002-1-discovery-active-frontier-resolution-task.trace.md)
-- Current Git durability checkpoint and explicit recovery verification before destructive cleanup.
-
----
+- [Human Navigation And Active Frontier Experience](../initiatives/001-3-1-human-navigation-active-frontier-task.trace.md)
+- Explicit recovery verification before destructive current-surface cleanup.
 
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Business Development](001-business-development-project.trace.md)
-  - Value: _Vo_j04LvA-ElYJCr1d7guLhTivasi2AcvmpF1HLrGc
+  - Value: dxtfDTU66MwQI1ezqdpysgc1grW7UMmHOkoFRHyW3co
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:X_h6VndB-r-VfKigORFdBkRrRukvNV6MePxRqpxxye8
+  - Value: JtO0_iTYLLP5pmFo_C08nv_bAYeVTytR99TCeHKn4I8

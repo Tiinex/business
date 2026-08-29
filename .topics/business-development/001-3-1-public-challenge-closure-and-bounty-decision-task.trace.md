@@ -65,8 +65,8 @@ Close the published "build a traceable AI lineage schema and prove it works" cha
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Public Trust, Contribution And Governance Surface](001-3-public-trust-contribution-governance-task.trace.md)
-  - Value: IFSSehYOJKnuYWDfQ26nNA1H-yEP54XVZ6cnmZGYigU
+  - Value: tA3Wqnxyu4-A8YnQdYhA5VazkxjcvseSpEqTj5eBNWI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:HVBZVlDlsiVFXCE_USfHLvLIMJAnaVV6NUo8TQeOECg
+  - Value: A7OHeSU3Lmyr2zkNWom7knJrFZqapRC7_KGX5Bz7kuk
