@@ -28,6 +28,7 @@ Make Tiinex continuation reliably cold-startable from one qualified Handoff carr
 - Cold-start role understanding resolves the role semantics needed to act correctly, including known shared/base-role inheritance or specialization and the bounded delta of concrete roles such as Anchor, Axiom, Loom, and Sigma. A cold LLM or Tooling path must not need conversation memory to know inherited versus role-specific responsibilities.
 - Role resolution fails closed when inheritance/specialization authority is unavailable or ambiguous: it reports the gap instead of flattening each role into an isolated document, inferring inheritance from names/folders, or inventing a base-role contract.
 - Stable-major carrier creation requires complete qualified `tiinex-business`, `tiinex-docs`, and `tiinex-site` Workspace snapshots together; a major containing only a subset is not accepted as the Tiinex foundation recovery point.
+- During Foundation Readiness, every inter-role Handoff carrier preserves complete carried `tiinex-business`, `tiinex-docs`, and `tiinex-site` source Workspaces turn-to-turn even when the semantic transfer is narrower. A lost Workspace must not be silently replaced by a fresh GitHub checkout and treated as continuity-equivalent; fresh remote material may be used as comparison/recovery evidence, not as a substitute for the carried source chain. This current operating constraint records Sigma's explicit cold-start/transport requirement.
 - Carrier lineage remains a human progress/recovery projection and never replaces artifact Parent lineage. If no prior carrier lineage is known, manufacture may start a fresh carrier root at `001` without repository-global carrier history.
 - Fixed-width/dimension prefixes survive manufacture and round-trip qualification; continuation suffixes may express turns/retries/divergence and explicit major advancement marks a stable carrier checkpoint.
 - A bounded Handoff/export scope may omit ancestor bytes, but it must not terminate a declared Parent recovery chain merely because the Parent was omitted. Each Parent edge that crosses transport scope must retain or gain one qualified version-stable recovery route, expand the carried scope, or fail closed.
@@ -65,4 +66,4 @@ Make Tiinex continuation reliably cold-startable from one qualified Handoff carr
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: oEVh3RlM24_aNPpjcncY12CLDiehUPr2qto3gTuBcZI
+  - Value: a8ekDkVypqn4pQqlb0MEwtKHifLtuOhKEyDz6MHE5M0
