@@ -39,6 +39,14 @@ Make Tiinex development iteration observably faster and more parallelizable by m
 - Treat additional externally visible host wait/review as a separate observed factor when visible. Do not infer hidden trigger logic from timing or wording correlations and do not design workarounds around host controls.
 - Do not optimize by suppressing meaningful findings, multiplying tiny tests without a distinct contract purpose, or replacing exact qualification with unverified caches.
 
+## Specialist Discovery Disposition
+
+- Loom completed a bounded three-workspace efficiency Discovery against the carried Business, Docs, and Site snapshots. Anchor independently rechecked the material claims used for the next-work ordering.
+- The strongest current result is orchestration/contract composition, not a demonstrated need to weaken validation: the current Site source already contains focused, restartable, checkpoint, profiling, and closure primitives, but they do not yet form one explicit developer-to-closure contract.
+- The first concrete technical slice is **Validation Contract Unification** in `Tiinex/site`, downstream of the durable Site copy of Loom's Discovery. It should establish focused/tooling, integration, and closure profiles that compose rather than drift, with restartable receipts in the ordinary bounded development loop.
+- Timing/restart receipts, exact workset reuse, Handoff manufacture profiling/reuse, conditional parallel-safe groups, bootstrap role resolution, and the shared graph projection remain ordered follow-on seams from the Discovery; they are not duplicated here as Business subtasks.
+- Business owns priority and acceptance. Detailed Loom work and verification stay in Site/Tooling source, and transport Handoffs do not become permanent Business work ancestry.
+
 ## Dependencies
 
 - Real measured multi-role Tiinex work as the primary performance dataset.
@@ -51,6 +59,9 @@ Make Tiinex development iteration observably faster and more parallelizable by m
 - This work package is Active during the foundation phase for measurement and simplification only; it is not authority to open a broad new Tooling feature tranche.
 - Recent observations include both fast bounded Tiinex operations and materially longer turns where local validation cost and external host wait cannot yet be separated reliably. A Business-reconciliation turn on 2026-08-29 also entered extended host processing before Sigma interrupted it for observation; that event is evidence of friction, not evidence of a specific trigger.
 - The desired outcome is a faster understandable development loop: focused checks during bounded work, explicit broader integration gates, a small meaningful regression spine, and phase timing sufficient to identify where time is actually spent.
+- Foundation Priority: this is Loom's priority 1 when Loom begins new development or decomposes new Tooling work. Broader Tooling capability and Viewer-support work should not materially expand the validation/checkpoint burden before this iteration seam is made practical enough for routine development.
+- Developer Loop Boundary: ordinary bounded implementation should have focused, restartable checks chosen by the changed contract/risk. Broad qualification remains available for integration and acceptance gates; it should not be the default price of every small local change.
+- Human Test Boundary: Sigma or another human should not be used as the routine test runner for Tooling semantics that can be covered by deterministic Tooling/fixture checks. Human review remains valuable for product comprehension, judgment, and real-path evidence after machine-verifiable behavior is qualified.
 
 ---
 
@@ -58,8 +69,8 @@ Make Tiinex development iteration observably faster and more parallelizable by m
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Tooling](001-2-tooling-project.trace.md)
-  - Value: r9jB8WC2FVPxtL4hQGcU0buUznxvGHkwK-mT_SdGQ3I
+  - Value: id2V3L4aVv616_NbFUngZrbSnZ9T_HN5G-x8Z1003W4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: xKfu9lGo7SI-mUyEIXYEB2kQslTnyL4ZrL5sewb-yhY
+  - Value: HYsccUvA0Y3cWgJbmAOrvD5u4SdCPtbo5UTA2bhXVb4

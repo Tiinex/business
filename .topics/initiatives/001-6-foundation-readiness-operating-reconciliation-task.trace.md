@@ -2,11 +2,11 @@
 
 - Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/tiinex.root.v1.schema.md)
 - Parent
-  - Parent Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
-  - Created At: 2026-08-26 22:30:00
-  - Trace: [Operating Overview And Monitoring](001-4-operating-overview-monitoring-task.trace.md)
+  - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
+  - Created At: 2026-08-26 14:57:00
+  - Trace: [Initiatives](001-initiatives.trace.md)
   - Origin:
-    - [relative](001-4-operating-overview-monitoring-task.trace.md)
+    - [relative](001-initiatives.trace.md)
 - Current
   - Current Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
   - Created At: 2026-08-29 01:20:00
@@ -26,6 +26,9 @@ Make Tiinex organizationally understandable, publicly honest, recoverable, and h
 ## Done Criteria
 
 - Business shows a small current frontier with owner/Role, dependency, expected outcome, and Done gate at a level a non-developer manager can understand.
+- Business leaf-first discovery remains trustworthy: stable leaves are current organizational truth, and `business-development/` exposes at most one active lineage per currently working Role rather than accumulated completed work.
+- Business itself passes repository-only semantic cold start: an isolated general LLM given only the current `Tiinex/business` repository can recover Tiinex identity, current state, priorities, boundaries, resources, and unknowns without Handoff, Handoff package, Anchor pre-context, or Tooling bootstrap.
+- A CEO can understand and direct the current organizational picture through ordinary repository/web/LLM surfaces, including on mobile; local IDE/terminal/remote-PC access is an escalation path for technical execution or deep inspection rather than a prerequisite for executive comprehension.
 - Detailed implementation work lives in Docs, Site, or Tooling near the code or semantics it changes; a human developer can understand that local Task without LLM support and follow Parent upward for wider context.
 - Current organizational Topic/Task lineage is truthful, dimension-path aligned with declared Parent ancestry, and reachable to `.topics/001-tiinex.trace.md` where organizational lineage applies.
 - The public challenge/bounty is closed fairly under its published boundary, with result and payout evidence preserved.
@@ -45,7 +48,7 @@ Make Tiinex organizationally understandable, publicly honest, recoverable, and h
 
 ## Dependencies
 
-- Parent work package: [Operating Overview And Monitoring](001-4-operating-overview-monitoring-task.trace.md).
+- Portfolio sequence: [Tiinex Roadmap](001-5-roadmap.trace.md).
 - Organization root: [Tiinex](../001-tiinex.trace.md).
 - Current Business, Docs, and Site snapshots and qualified Tooling used for discovery/validation.
 - Sigma for human priority, bounty/payout decisions, product observation, and final foundation acceptance.
@@ -56,6 +59,7 @@ Make Tiinex organizationally understandable, publicly honest, recoverable, and h
 ### Active
 
 - **Foundation Readiness** — Anchor coordinates current truth and dependency ordering; Sigma supplies human acceptance.
+- **Business repository-only cold start** — make Business semantically self-sufficient for a blank LLM and final isolated quality testing.
 - **Public challenge closure** — externally time-bound and must be closed fairly before it disappears from current work.
 - **Tooling iteration efficiency** — measure and simplify the development loop without broad feature expansion.
 - **Human navigation baseline** — preserve the strongest observed PoC comprehension patterns and make Parent/lineage orientation usable without LLM support.
@@ -84,9 +88,9 @@ Make Tiinex organizationally understandable, publicly honest, recoverable, and h
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Operating Overview And Monitoring](001-4-operating-overview-monitoring-task.trace.md)
-  - Value: _3bd0POLyT9TEnvh63Mm2X8A4aQuoeuwt42JHHcrvk4
+  - Towards: [Initiatives](001-initiatives.trace.md)
+  - Value: ooAvsZ-ZLG6eafU4w8lMBq8-Zj5rrurJeLA_o2dMh0I
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: bxXf3eSUqvTfTmJrIrDzaf-aNXugv8iQoqBC7kndvEo
+  - Value: iU8sDCJZpdCBP_MB6Rxk8InamgZBvbZXQnRPgy1dPM0

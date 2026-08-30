@@ -21,7 +21,7 @@
 
 ## Current Read
 
-This branch carries bounded Tiinex initiatives that need organizational, resource, or financial continuity.
+This branch carries bounded Tiinex initiatives and durable portfolio surfaces that need organizational, resource, or financial continuity: product areas, current maturity, Roadmap, Foundation/public-readiness work, and other work packages that outlive one repository-editing session.
 
 ## Design Direction
 
@@ -29,7 +29,7 @@ Use concrete Project artifacts when an initiative actually exists. Do not pre-cr
 
 ## Next Artifacts
 
-tiinex.project.v1 descendants for actual coordinated Tiinex efforts.
+Concrete Project/Task/Topic descendants only when an actual durable initiative, organizational gate, or portfolio surface exists. Transient repository editing belongs in that repository's active workbench instead.
 
 ---
 
@@ -41,4 +41,4 @@ tiinex.project.v1 descendants for actual coordinated Tiinex efforts.
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: R5Fv3xeMg51j9bQuSnDRgao6IgM-lVHZ55dHGoNcIDU
+  - Value: ooAvsZ-ZLG6eafU4w8lMBq8-Zj5rrurJeLA_o2dMh0I

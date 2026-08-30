@@ -4,15 +4,15 @@
 - Parent
   - Parent Schema: [tiinex.discovery.research.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/discovery/research/tiinex.discovery.research.v1.schema.md)
   - Created At: 2026-08-29 10:09:00
-  - Trace: [Public Repository LLM Ingress Baseline](001-7-1-1-public-repository-llm-ingress-baseline-research.trace.md)
+  - Trace: [Public Repository LLM Ingress Baseline](001-8-1-1-public-repository-llm-ingress-baseline-research.trace.md)
   - Origin:
-    - [relative](001-7-1-1-public-repository-llm-ingress-baseline-research.trace.md)
+    - [relative](001-8-1-1-public-repository-llm-ingress-baseline-research.trace.md)
 - Current
   - Current Schema: [tiinex.discovery.follow.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/discovery/follow/tiinex.discovery.follow.v1.schema.md)
   - Created At: 2026-08-29 10:09:00
   - Authors: Anchor; Sigma
   - Summary: Public Repository LLM Readiness Follow
-  - Status: draft/local
+  - Status: accepted/local
 
 ---
 
@@ -50,15 +50,16 @@
 - Following these repository surfaces does not prove model-provider behavior, release qualification, security, correctness of every repo claim, or permission to mutate any repository.
 - A green discovery projection is not sufficient by itself to close the parent task; explicit cold-start acceptance/validation evidence remains required.
 - Until exact Follow runtime support exists, refresh results are manual bounded observations and must disclose freshness.
+- This Follow descends from a one-time Research baseline because that bounded inquiry established the initial repository field. It is not a general rule that Follow requires Research first; ordinary manager/Epic status observation may use a direct bounded Follow when no separate research question deserves its own artifact.
 
 ---
 
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Public Repository LLM Ingress Baseline](001-7-1-1-public-repository-llm-ingress-baseline-research.trace.md)
-  - Value: z1Z2pZztsBcIQUT0QWPthuX9EmbnYOt-BtJ4cSUh--c
+  - Towards: [Public Repository LLM Ingress Baseline](001-8-1-1-public-repository-llm-ingress-baseline-research.trace.md)
+  - Value: r4bSZ9UG5R6g8IVnXLjOXXR0IXb2bUtqrl_GBjO08X0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: TjQ-v28etLU33QclEneqkdBIJvorpiD1b1KyNUXrhpw
+  - Value: _HceGvxOmf-fojmx1d-GjjuE9OSG362WH6laXYanT_4

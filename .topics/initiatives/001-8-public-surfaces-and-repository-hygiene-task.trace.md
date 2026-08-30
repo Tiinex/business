@@ -2,11 +2,11 @@
 
 - Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/tiinex.root.v1.schema.md)
 - Parent
-  - Parent Schema: [tiinex.project.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/project/tiinex.project.v1.schema.md)
-  - Created At: 2026-08-26 22:24:00
-  - Trace: [Tiinex Business Development](001-business-development-project.trace.md)
+  - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
+  - Created At: 2026-08-26 14:57:00
+  - Trace: [Initiatives](001-initiatives.trace.md)
   - Origin:
-    - [relative](001-business-development-project.trace.md)
+    - [relative](001-initiatives.trace.md)
 - Current
   - Current Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
   - Created At: 2026-08-27 23:54:00
@@ -39,17 +39,16 @@ Make Tiinex public entrypoints and repository working surfaces accurately projec
 
 ## Dependencies
 
-- [Foundation Readiness And Operating Reconciliation](001-4-1-foundation-readiness-operating-reconciliation-task.trace.md)
-- [Operating Overview And Monitoring](001-4-operating-overview-monitoring-task.trace.md)
-- [Human Navigation And Active Frontier Experience](../initiatives/001-3-1-human-navigation-active-frontier-task.trace.md)
+- [Foundation Readiness And Operating Reconciliation](001-6-foundation-readiness-operating-reconciliation-task.trace.md)
+- [Human Navigation And Active Frontier Experience](001-3-1-human-navigation-active-frontier-task.trace.md)
 - Explicit recovery verification before destructive current-surface cleanup.
 
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Tiinex Business Development](001-business-development-project.trace.md)
-  - Value: dxtfDTU66MwQI1ezqdpysgc1grW7UMmHOkoFRHyW3co
+  - Towards: [Initiatives](001-initiatives.trace.md)
+  - Value: ooAvsZ-ZLG6eafU4w8lMBq8-Zj5rrurJeLA_o2dMh0I
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: JtO0_iTYLLP5pmFo_C08nv_bAYeVTytR99TCeHKn4I8
+  - Value: 225g3JxSdVX1aAzXu1aN84JgQXKvijyvtHMhx1HN_i8

@@ -4,15 +4,15 @@
 - Parent
   - Parent Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
   - Created At: 2026-08-27 23:54:00
-  - Trace: [Public Surfaces And Repository Hygiene](001-7-public-surfaces-and-repository-hygiene-task.trace.md)
+  - Trace: [Public Surfaces And Repository Hygiene](001-8-public-surfaces-and-repository-hygiene-task.trace.md)
   - Origin:
-    - [relative](001-7-public-surfaces-and-repository-hygiene-task.trace.md)
+    - [relative](001-8-public-surfaces-and-repository-hygiene-task.trace.md)
 - Current
   - Current Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
   - Created At: 2026-08-29 10:09:00
   - Authors: Anchor; Sigma
   - Summary: Repository LLM Cold-Start And Bootstrap Surface
-  - Status: draft/local
+  - Status: accepted/local
 
 ---
 
@@ -43,7 +43,7 @@ Make every public Tiinex repository a safe, bounded first-contact surface for a 
 
 ## Dependencies
 
-- [Public Surfaces And Repository Hygiene](001-7-public-surfaces-and-repository-hygiene-task.trace.md).
+- [Public Surfaces And Repository Hygiene](001-8-public-surfaces-and-repository-hygiene-task.trace.md).
 - [Portable Handoff, Cold-Start And LLM Ingress](../initiatives/001-2-2-portable-handoff-cold-start-ingress-task.trace.md).
 - Current organization orientation/context in `Tiinex/.github`.
 - Current `Tiinex/site` portable bootstrap Markdown and bootstrap pointer.
@@ -54,9 +54,9 @@ Make every public Tiinex repository a safe, bounded first-contact surface for a 
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Public Surfaces And Repository Hygiene](001-7-public-surfaces-and-repository-hygiene-task.trace.md)
-  - Value: JtO0_iTYLLP5pmFo_C08nv_bAYeVTytR99TCeHKn4I8
+  - Towards: [Public Surfaces And Repository Hygiene](001-8-public-surfaces-and-repository-hygiene-task.trace.md)
+  - Value: 225g3JxSdVX1aAzXu1aN84JgQXKvijyvtHMhx1HN_i8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: MX41lwq2K34KbmJ6VhNhMd5h3qgm02oLfSR4XPaGy8w
+  - Value: W9ilLnXyCbsYd4_wCczszY87LLtPjEgULC5tmjA_Ikk

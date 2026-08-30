@@ -25,18 +25,18 @@ This branch groups persistent Tiinex project funding destinations. It is a subje
 
 ## Design Direction
 
-Each concrete fund owns its own Resource-rooted lineage. Receipts, allocations, usage, reversals, releases, and transfers belong with the affected fund instead of being duplicated into a separate donations catalog.
+Each concrete fund owns its own Resource-rooted lineage. General Fund is the default project-funding destination when no narrower project fund is explicitly selected; Bounty Fund is purpose-bounded. Receipts, allocations, usage, reversals, releases, and transfers belong with the affected fund instead of being duplicated into a separate donations catalog.
 
 ## Next Artifacts
 
-Bounty Fund descendants and future purpose-specific fund roots only when a real commitment or allocation requires them. Do not keep empty funding categories in current Business merely because they once existed.
+General Fund and Bounty Fund are the current persistent destinations. Add future purpose-specific fund roots only when a real commitment, restriction, or allocation requires them. A fund artifact does not by itself prove custody, receipt, or balance.
 
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-financing.trace.md](../001-financing.trace.md)
-  - Value: ITrkApNfhzrK0ShwX67WY0hMa5aO5COp7oP7CMbqrAo
+  - Value: LTTkyewmuNe9TEAVXdu4Nl28fHjw18N_PzWcMOCIYqg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: bO1mJLTUwnqoqJekdByE0MmYOUbfBufbg6b144L8n48
+  - Value: HtUMdKLV37Rcm-RlatIrRSqX90zVcdXmc3Zi7xV4tjM

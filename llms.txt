@@ -1,0 +1,47 @@
+# Tiinex/business LLM Router
+
+You may be reading this repository with no prior Tiinex context. Do not require a Handoff, Handoff package, Anchor role prompt, chat history, or Tooling bootstrap merely to understand what Tiinex is.
+
+## Read in this order
+
+1. `.topics/executive/001-executive-grounding.trace.md` — scan-first executive answer to what Tiinex is, current position, resources, priorities, operating boundary, and unknowns.
+2. `.topics/initiatives/001-4-current-progress-and-maturity.trace.md` — what has already been demonstrated and which areas remain unqualified.
+3. `.topics/initiatives/001-5-roadmap.trace.md` — phase-gated sequence and direct links to the real work artifacts that own execution state.
+4. `.topics/initiatives/001-5-1-roadmap-follow.trace.md` — bounded current roadmap roll-up contract; resolve linked artifact state instead of copying status into the Roadmap.
+5. `.topics/001-tiinex.trace.md` — Tiinex organization root and organizational boundary.
+6. `.topics/initiatives/001-6-foundation-readiness-operating-reconciliation-task.trace.md` — current Foundation gate and operating picture.
+7. `.topics/initiatives/001-initiatives.trace.md` and its Core / Tooling / Viewer children — product/initiative boundaries.
+8. `.topics/roles/001-roles.trace.md` and concrete Role children — responsibility/authority boundaries.
+9. `.topics/business-development/001-business-development-project.trace.md` — current Business-repository workbench; at most one active lineage per working Role, not durable portfolio truth.
+10. `.topics/financing/001-2-funding-readiness-and-financial-provenance.trace.md` — funding sustainability plus financial provenance for contributions, invoices, receipts, balances, and tax estimates.
+11. `.topics/financing/001-2-1-sustainable-founder-capacity-resource-need.trace.md` — current sustainable-capacity resource need.
+12. `.topics/financing/funds/general/001-1-2-general-fund.trace.md` — general project-funding destination; no balance is implied.
+13. `.topics/financing/001-3-voluntary-support-and-tips.trace.md` — support-route boundary; Tip Jars are not automatically project funds.
+14. `.topics/financing/001-4-funding-channels-and-campaigns-discovery.trace.md` — planned provider-neutral discovery for campaigns/channels; example providers are not claimed active.
+15. `.topics/initiatives/001-6-1-business-repository-only-cold-start-acceptance-task.trace.md` — the repository-only truthfulness acceptance test.
+
+## Reading rules
+
+- `.topics/**` is current Business semantic/provenance authority. `README.md` and this file are routing/projection surfaces, not competing authority.
+- Preserve `Parent` as continuity ancestry; do not replace it with directory proximity or a generic related-link interpretation.
+- Respect artifact status and interpretation limits. `draft/local` is not the same as accepted or completed.
+- State unknowns as unknowns. Do not invent legal incorporation, employment/headcount, project balance, budget/runway, production readiness, commercial customer segments, pricing, secured funding, calendar delivery dates, tax liability, or complete runtime/schema coverage.
+- The roadmap is phase-gated, not a guaranteed calendar. Later phases may change with evidence. Roadmap owns sequencing; linked work artifacts own status/blockers/acceptance; Roadmap Follow is the bounded way to resolve a fresh roll-up.
+- A pledged contribution is not received funds. An invoice is not payment. A derived balance or tax reserve must remain distinguishable from the underlying events and from legally settled accounting/tax facts. Do not claim PayPal, Kickstarter, GitHub Sponsors, direct transfer, or another provider is active unless a real provider/channel binding artifact supports it.
+- Tiinex is not one Viewer, one CLI, one schema repository, an autonomous agent framework, or a general-purpose AI runtime.
+- AI/LLM workflows are consumers and pressure tests, not the identity boundary.
+- Git history is recoverability/history; do not treat superseded historical material as current merely because it can be found in Git.
+- `business-development/` is an active workbench. It should expose at most one active lineage per currently working Role, and each leaf should be current/readable enough to appear directly in a leaf-first Feed. Do not treat its transient improvement threads as the durable portfolio map; durable Foundation/public-readiness/Roadmap work lives with Initiatives and stable finance lives under Financing.
+- Do not assume a local checkout, terminal, IDE, or remote PC is needed for organizational understanding. Those are escalation surfaces for technical work; first-contact semantic truth must remain readable from the repository itself.
+
+## Optional operational bootstrap
+
+Semantic orientation above must work without bootstrap. If the task requires Tiinex Tooling, the current Foundation evidence points to a qualified portable bootstrap pointer in `Tiinex/site` at commit `ba59d72c0ad0015170838b4ce906b538da4f78f8`:
+
+`src/tooling/portable/bootstrap/tiinex.llm.bootstrap.pointer.json`
+
+That pointer declares host-mediated remote fetch, no remote write, no source mutation, and no execution of received package code. If the pointer or exact ref is unavailable, do not guess or silently substitute a moving source; continue reading the supplied artifacts and disclose the operational limitation.
+
+## Expected first-contact behavior
+
+When asked “What is Tiinex?” answer briefly from Executive Grounding first. If asked “How far along is it?”, use Current Progress And Maturity rather than inventing a percentage. If asked “What happens next?”, use the phase-gated Roadmap. If asked “How is the roadmap going?”, resolve Roadmap Follow against the linked work artifacts rather than repeating a stored status summary. If asked about funding or money, distinguish founder contribution, pledge, receipt, balance, budget, tax estimate, and secured external funding exactly as the financing artifacts do.

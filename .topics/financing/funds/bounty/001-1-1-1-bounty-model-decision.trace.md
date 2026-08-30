@@ -47,8 +47,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-1-bounty-fund.trace.md](001-1-1-bounty-fund.trace.md)
-  - Value: 029nN5j7AKog7oTMLJCLFAGkmcP54uKn3yKEFGeHUZ8
+  - Value: pBpDDPAlhNO3MzIj_m-3jvpXJRxldC_G83UzgSe3bQ4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: nuLILh6xfvCBXWYEnQiq5PAlODUrR4CjovRXg9JPnyw
+  - Value: gGGb__L3n2DiE-oTyEKkRz6oq1iHSKqdQQhs05D0nzM

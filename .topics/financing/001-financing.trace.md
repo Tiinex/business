@@ -21,15 +21,15 @@
 
 ## Current Read
 
-This branch carries the organizational and financial lineage needed to sustain Tiinex as an open-source project while keeping Tiinex itself free rather than introducing a paid edition or paywall.
+This branch carries the organizational and financial lineage needed to sustain Tiinex as an open-source project while keeping Tiinex itself free rather than introducing a paid edition or paywall. It includes persistent project funds, funding-readiness/resource needs, bounded voluntary-support routes, and the current Discovery for provider-neutral funding channels/campaigns.
 
 ## Design Direction
 
-Preserve truthful financial origin, boundaries, allocation, and use as lineage. Treat bookkeeping, tax, accounting, dashboards, and other administrative views as later projections or companion records rather than rewriting source history.
+Preserve truthful financial origin, recipient/economic-party identity, restrictions, allocation, and use as lineage. Keep project funds distinct from personal appreciation routes. Treat bookkeeping, tax, accounting, dashboards, and other administrative views as projections or companion records over real events rather than rewriting source history.
 
 ## Next Artifacts
 
-Concrete fund descendants and later receipt/allocation/usage evidence when real events require them. Do not pre-create financial structure that has no current event or decision behind it.
+Current descendants include project Funds, funding-readiness/financial-provenance guidance, voluntary-support routes, and a planned Funding Channels And Campaigns Discovery. Add receipt/allocation/usage/payment evidence only when real events require it; do not fabricate balances or financial structure merely for completeness.
 
 # Continuity Integrity
 
@@ -39,4 +39,4 @@ Concrete fund descendants and later receipt/allocation/usage evidence when real 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ITrkApNfhzrK0ShwX67WY0hMa5aO5COp7oP7CMbqrAo
+  - Value: LTTkyewmuNe9TEAVXdu4Nl28fHjw18N_PzWcMOCIYqg
