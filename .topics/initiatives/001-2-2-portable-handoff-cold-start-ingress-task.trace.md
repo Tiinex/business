@@ -28,14 +28,17 @@ Make Tiinex continuation reliably cold-startable from one qualified Handoff carr
 - Cold-start role understanding resolves the role semantics needed to act correctly, including known shared/base-role inheritance or specialization and the bounded delta of concrete roles such as Anchor, Axiom, Loom, and Sigma. A cold LLM or Tooling path must not need conversation memory to know inherited versus role-specific responsibilities.
 - Role resolution fails closed when inheritance/specialization authority is unavailable or ambiguous: it reports the gap instead of flattening each role into an isolated document, inferring inheritance from names/folders, or inventing a base-role contract.
 - Stable-major carrier creation requires complete qualified `tiinex-business`, `tiinex-docs`, and `tiinex-site` Workspace snapshots together; a major containing only a subset is not accepted as the Tiinex foundation recovery point.
-- Carrier lineage remains a human progress/recovery projection and never replaces artifact Parent lineage.
-- Fixed-width/dimension prefixes survive manufacture and round-trip qualification.
+- Carrier lineage remains a human progress/recovery projection and never replaces artifact Parent lineage. If no prior carrier lineage is known, manufacture may start a fresh carrier root at `001` without repository-global carrier history.
+- Fixed-width/dimension prefixes survive manufacture and round-trip qualification; continuation suffixes may express turns/retries/divergence and explicit major advancement marks a stable carrier checkpoint.
+- A bounded Handoff/export scope may omit ancestor bytes, but it must not terminate a declared Parent recovery chain merely because the Parent was omitted. Each Parent edge that crosses transport scope must retain or gain one qualified version-stable recovery route, expand the carried scope, or fail closed.
 - The next stable foundation major is created only after Business, Docs, and Site are mutually current enough for Sigma to accept the foundation and cold-start qualification succeeds.
 
 ## Scope
 
 - Handoff manufacture, cold-start routing, workspace completeness, fixed-width carrier lineage, role-semantic resolution for cold recipients, and recovery qualification.
 - Do not use a Handoff to reconstruct semantic work that should already exist as source artifacts.
+- Transport recovery augmentation is package/export responsibility when scope omits ancestry. It must preserve the canonical source artifact bytes or declare a derived package representation explicitly; it must not silently rewrite source semantic authority merely to make a package self-navigable.
+- Relative recovery is sufficient when the Parent is actually carried/materialized in the same qualified source scope. A Parent outside that scope requires a qualified version-stable adapter route when one exists; transport must not fabricate a local duplicate solely to create `relative`.
 - Do not declare a stable major merely because generic packaging succeeds; the Tiinex-specific three-workspace gate is an additional acceptance requirement.
 
 ## Semantic Discovery Disposition
@@ -62,4 +65,4 @@ Make Tiinex continuation reliably cold-startable from one qualified Handoff carr
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: XCQt4Ikn6uuZQy3_dJ3IQRqWG_xxaU3BCh8mDWeboh8
+  - Value: oEVh3RlM24_aNPpjcncY12CLDiehUPr2qto3gTuBcZI
