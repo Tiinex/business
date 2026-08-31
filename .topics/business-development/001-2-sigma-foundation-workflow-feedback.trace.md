@@ -49,6 +49,8 @@
 - Living-role representation: Sigma should remain visible through explicit observation, decision, constraint, acceptance/rejection, and follow-up evidence when those materially affect Tiinex; co-authorship alone is not sufficient durable representation of the human role.
 - Process/role improvement expectation: when repeated work reveals a missing subprocess, role blind spot, convention drift, or recurring human teaching burden, Anchor should route a durable process/role/tooling improvement rather than leave the real operating method in chat memory.
 - Commit ergonomics request: Sigma wants a deterministic non-LLM commit-message workflow derived from staged Tiinex artifacts, preferably rendering one line per affected artifact as `.topics/<path>/<dimension> [<type>] <Why>`, exposed through an easy VS Code task in Business, Docs, and Site. `Why` is preferred because it records rationale more reliably than title/summary and reduces repeated AI/token cost.
+- Lineage-projection observation: Sigma rejected a cleanup where serial Handoff/research/return artifacts were given successive majors. Although their declared Parent edges still formed chains, leaf-first discovery visually presented them as many stable/current leaves. Sigma expects serial work to extend one local dimension path; a new major should communicate a real stable/re-anchor point or genuinely distinct branch, not merely a new turn or role boundary.
+- Source-hygiene observation: Sigma also rejected raw validation/checkpoint JSON receipts appearing as repository source changes. Such runtime receipts are useful qualification evidence but should remain build/package-local unless intentionally promoted into durable semantic provenance.
 
 ## Disposition
 
@@ -70,4 +72,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: F6j9XJVJxoeu-Q4Bqm5uxwXWoA540K7DvlQbganWByA
+  - Value: tr12nKAE7JrHy_JRlJ4V2lVm8ubi-EotKZb6pMgUgpY
