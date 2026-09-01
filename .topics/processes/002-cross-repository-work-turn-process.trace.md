@@ -40,6 +40,16 @@ This process projects the real Foundation work loop observed across Business, Do
 - If return manufacture itself fails, perform only the narrow transport/carrier diagnosis required to expose and retry that failure. Do not restart broad repository validation or unrelated implementation before recoverable transport exists.
 - Anchor reconciles returns, preserves Sigma observations as explicit human evidence when material, and starts another Business major before opening a materially new cross-repository turn.
 
+
+## Post-Landing Reduction Gate
+
+- Reduction is downstream of durability, not a substitute for it. A closed lineage MUST NOT be reduced from current source before the relevant human acceptance checkpoint has been applied/committed/pushed and the landed state has been verified against the accepted candidate.
+- The existing Accepted Change Landing process owns the apply-and-verify boundary. A reduction may proceed only from a landed-as-accepted outcome (or equivalent explicit landing evidence), never merely because a carrier was emitted or a role reported completion.
+- When closed intermediate lineage is removed from current HEAD, materialize an observable `tiinex.reduction.v1` carry-forward artifact when later work depends on the reduced outcome or when the removal would otherwise hide why the current frontier changed.
+- The reduction must identify its source context, carry-forward state, loss/uncertainty, and validation, and must preserve immutable/version-stable expansion paths to removed source artifacts before deletion. Commit-pinned Git permalinks are the normal repository-backed expansion route when the removed bytes were already landed there.
+- Do not reduce open descendants, unresolved obligations, rejected/unlanded candidates, or the only recoverable copy of evidence. If durable recovery cannot be demonstrated, fail closed and keep the source material in current HEAD.
+- Reduction may intentionally make current HEAD smaller and leaf-first discovery clearer; it does not rewrite the historical Parent/Trace/Origin truth of the removed artifacts and does not turn Git history into current semantic authority.
+
 ## Improvement Loop
 
 - If real workflow repeatedly differs from the represented process, treat the mismatch as evidence rather than human folklore.
@@ -67,4 +77,4 @@ This process projects the real Foundation work loop observed across Business, Do
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: KbyysXXmUHUur0IrAIN1_ymMsUeT6Y_7Pw7U4W3tiNg
+  - Value: _1dsgMDIFUHpMSI-bcLTn14-3QKm6CfIsorPDruQ2ZM

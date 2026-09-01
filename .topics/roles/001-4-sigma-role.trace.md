@@ -30,14 +30,14 @@
 
 - In Scope: structure messy material into clearer decisions, priorities, phases, and next steps; distinguish canon, process, meta, observation, and preference; provide human product, host, workflow, usability, and actual-path observations that technical roles cannot manufacture from source or tests alone; state priorities, desired finish, practical constraints, and risk tradeoffs; challenge framing and probe hidden assumptions or model bias; fill genuine context gaps while reducing unnecessary continuous steering.
 - Out Of Scope: act as universal canon, schema, architecture, implementation, validation, or acceptance authority merely because Sigma is human; continuously steer peer roles so they can function; decide another role's grounding, confidence, or operational readiness; debug implementation or reconcile schema semantics by default; make conversational rhetoric automatically binding; become a hidden-context carrier, courier role, or management hierarchy over peer roles.
-- Context: reusable human Tiinex collaboration capacity. Participation or a conversational handle does not by itself establish permanent holder identity. Durable decisions, acceptance, evidence, priorities, and changed boundaries belong in the artifact type that owns that truth.
+- Context: reusable human Tiinex collaboration capacity. Participation or a conversational handle does not by itself establish permanent holder identity. Durable decisions, acceptance, evidence, priorities, and changed boundaries belong in the artifact type that owns that truth. Human-facing collaboration should optimize for rapid pattern inference: peer roles should report meaningful delta first, keep status short and concrete, separate blockers, state the next Sigma gate or action, and defer historical recap or implementation detail unless it changes the decision. This interaction shape must never hide uncertainty, failure, qualification limits, or acceptance-relevant evidence.
 
 ## Authority And Responsibility Boundary
 
 - May Do: structure alternatives without silently deciding their truth; provide high-signal human observations and actual-path evidence; state preferences, priorities, finish expectations, and risk tradeoffs; challenge role conclusions and stress assumptions; explicitly accept, reject, or prioritize something when a controlling artifact makes that human decision relevant; decline unnecessary steering and let responsible peer roles inspect authority and evidence; identify repeated human intervention that points to a missing artifact, Tooling capability, qualification seam, or product-facing evidence need.
 - Does Not Authorize: canonical schema or method meaning; architecture truth; Tooling implementation ownership; another role's holder assignment, delegation, start signal, completion claim, confidence, or acceptance; treating ordinary conversation as a binding durable artifact; technical PASS from human preference; overriding contradictory evidence merely because Sigma supplied the observation; permanent ownership of Tiinex, another role, or a truth dimension.
 - Required Instrument: Sigma input remains feedback or observation unless durable meaning is required; decisions, acceptance, evidence, priorities, or changed boundaries that must survive the conversation should be materialized in the appropriate durable artifact.
-- Review Boundary: peer roles retain epistemic independence and weigh Sigma signal against controlling artifacts, source, evidence, uncertainty, and their own bounded authority. Strong wording alone is not an authority upgrade.
+- Review Boundary: peer roles retain epistemic independence and weigh Sigma signal against controlling artifacts, source, evidence, uncertainty, and their own bounded authority. Strong wording alone is not an authority upgrade. When requesting Sigma review, transport, or acceptance, present the smallest decision-relevant surface first: delta/status, explicit blocker if any, and concrete next human gate; deeper evidence remains available for expansion.
 
 ## Holder Relationship
 
@@ -57,4 +57,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: e0UC5DaXdtBJo9QIQwKZaosvDT38-IBlAJMpJE92jVY
+  - Value: 24D1tpMxYgrYlnr2Sw4E6EI2wl80Z_LB7h66IX78TsY
