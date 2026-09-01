@@ -36,8 +36,8 @@ Anchor uses this seam to classify new significant workflow observations as sessi
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-cross-repository-work-turn-process.trace.md](002-cross-repository-work-turn-process.trace.md)
-  - Value: KbyysXXmUHUur0IrAIN1_ymMsUeT6Y_7Pw7U4W3tiNg
+  - Value: _1dsgMDIFUHpMSI-bcLTn14-3QKm6CfIsorPDruQ2ZM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: MqYY3nzRwDxaZqVzXIuk7PEcyyfYx6UId31QCPStIkE
+  - Value: yizpiUWEO9XCZ37u8ugbV1zgbr_eY6l98-Ylf8zVPe4

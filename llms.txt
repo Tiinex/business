@@ -28,6 +28,7 @@ You may be reading this repository with no prior Tiinex context. Do not require 
 - State unknowns as unknowns. Do not invent legal incorporation, employment/headcount, project balance, budget/runway, production readiness, commercial customer segments, pricing, secured funding, calendar delivery dates, tax liability, or complete runtime/schema coverage.
 - The roadmap is phase-gated, not a guaranteed calendar. Later phases may change with evidence. Roadmap owns sequencing; linked work artifacts own status/blockers/acceptance; Roadmap Follow is the bounded way to resolve a fresh roll-up.
 - A pledged contribution is not received funds. An invoice is not payment. A derived balance or tax reserve must remain distinguishable from the underlying events and from legally settled accounting/tax facts. Do not claim PayPal, Kickstarter, GitHub Sponsors, direct transfer, or another provider is active unless a real provider/channel binding artifact supports it.
+- The public AI-lineage challenge closed submissions on 2026-09-01 and is in review/funding. Do not infer a winner, qualification result, payout, or payment receipt until the dedicated closure lineage records those later states.
 - Tiinex is not one Viewer, one CLI, one schema repository, an autonomous agent framework, or a general-purpose AI runtime.
 - AI/LLM workflows are consumers and pressure tests, not the identity boundary.
 - Git history is recoverability/history; do not treat superseded historical material as current merely because it can be found in Git.
@@ -36,7 +37,7 @@ You may be reading this repository with no prior Tiinex context. Do not require 
 
 ## Optional operational bootstrap
 
-Semantic orientation above must work without bootstrap. If the task requires Tiinex Tooling, the current Foundation evidence points to a qualified portable bootstrap pointer in `Tiinex/site` at commit `ba59d72c0ad0015170838b4ce906b538da4f78f8`:
+Semantic orientation above must work without bootstrap. If the task requires Tiinex Tooling, the last Sigma-accepted stable Foundation checkpoint exposes a qualified portable bootstrap pointer in `Tiinex/site` at commit `56ba75025b7a8fd44b5318d2560d2ec63eb0106f`:
 
 `src/tooling/portable/bootstrap/tiinex.llm.bootstrap.pointer.json`
 
