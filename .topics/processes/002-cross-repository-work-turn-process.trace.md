@@ -33,6 +33,11 @@ This process projects the real Foundation work loop observed across Business, Do
 - Before accepting a role return into source, separate semantic/source changes from generated Tooling output. Raw validation/checkpoint receipts such as transient JSON are build/package evidence by default and must not enter the current `.topics` source surface merely because they were produced during qualification. If evidence deserves durable source provenance, promote or summarize it in an appropriate semantic artifact; package/build-local raw receipts may remain transport evidence.
 - One full-source carrier may serve multiple roles when canonical Tooling supports multiple qualified routes; recipient transport text selects the exact route without requiring duplicate ZIP carriers.
 - Role returns should use canonical Handoff manufacture and preserve the inherited full-source carrier during Foundation even when work scope is narrow. A successful work result does not excuse a transport-convention regression.
+- The same full-source invariant applies to **outbound** Foundation specialist Handoffs: bounded semantic/implementation scope must not be translated into a Site-only, Docs-only, or Business-only carrier. The carrier must still contain complete carried Business, Docs, and Site source so the recipient can cold-start or warm-start without depending on prior chat/session Workspace retention. A warm role session may reuse its local host context for convenience, but that context is never a substitute for bytes required by the carrier contract.
+- If Anchor discovers after dispatch that an outbound carrier violated the 3/3 invariant, stop the specialist turn before further substantive work, preserve no chat-only progress as accepted source, correct the carrier from the same carried 3/3 baseline, and retry the transport as carrier continuation/retry rather than opening a new semantic major.
+- After a substantive specialist slice is durable and its focused qualification is green, manufacture or refresh a recoverable full-source return checkpoint **before** entering broad/long closure. That checkpoint is recovery transport, not acceptance, and may continue the carrier suffix without declaring a new stable major.
+- If host execution budget becomes low, an external host/safety-check stall consumes the turn, or broad validation threatens recoverable return manufacture, stop substantive implementation and broad validation; preserve durable evidence and manufacture the full-source return immediately. If final carrier qualification cannot complete, return the manufactured carrier with its blocked/incomplete state stated truthfully rather than leaving the result only in chat prose.
+- If return manufacture itself fails, perform only the narrow transport/carrier diagnosis required to expose and retry that failure. Do not restart broad repository validation or unrelated implementation before recoverable transport exists.
 - Anchor reconciles returns, preserves Sigma observations as explicit human evidence when material, and starts another Business major before opening a materially new cross-repository turn.
 
 ## Improvement Loop
@@ -62,4 +67,4 @@ This process projects the real Foundation work loop observed across Business, Do
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: eSzxQF06SKUgc9k-JC8jH46EJPNaOj64X1UbQU_4sqg
+  - Value: KbyysXXmUHUur0IrAIN1_ymMsUeT6Y_7Pw7U4W3tiNg

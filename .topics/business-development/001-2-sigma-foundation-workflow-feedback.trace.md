@@ -51,6 +51,10 @@
 - Commit ergonomics request: Sigma wants a deterministic non-LLM commit-message workflow derived from staged Tiinex artifacts, preferably rendering one line per affected artifact as `.topics/<path>/<dimension> [<type>] <Why>`, exposed through an easy VS Code task in Business, Docs, and Site. `Why` is preferred because it records rationale more reliably than title/summary and reduces repeated AI/token cost.
 - Lineage-projection observation: Sigma rejected a cleanup where serial Handoff/research/return artifacts were given successive majors. Although their declared Parent edges still formed chains, leaf-first discovery visually presented them as many stable/current leaves. Sigma expects serial work to extend one local dimension path; a new major should communicate a real stable/re-anchor point or genuinely distinct branch, not merely a new turn or role boundary.
 - Source-hygiene observation: Sigma also rejected raw validation/checkpoint JSON receipts appearing as repository source changes. Such runtime receipts are useful qualification evidence but should remain build/package-local unless intentionally promoted into durable semantic provenance.
+- Host-exhaustion observation: in a later Loom turn involving an additional host safety check, the run reported about 25m44s of worked time and then lost the execution budget needed to manufacture its return. The substantive result survived only as chat prose until Sigma explicitly requested a forced return. Sigma treats roughly 25–26 minutes as an observed practical ceiling for affected ChatGPT turns, not as a Tiinex runtime benchmark or guaranteed host limit.
+- Forced-return observation: after Sigma supplied an explicit stop-and-return instruction, Loom manufactured a recovery return in about 3m45s, and a narrow corrected 3/3 carrier retry completed in about 2m12s. This supports making recoverable return transport precede broad closure once a substantive slice is qualified, rather than leaving package manufacture until the end of a long host-exposed turn.
+- Return-first constraint: when execution budget is low, a host stall is observed, or broad closure is about to begin after substantive work, the role should stop new implementation, preserve durable evidence, and prioritize a full-source recoverable return/checkpoint. A package may truthfully remain blocked/incompletely qualified; chat-only success is not an acceptable substitute for recoverable transport.
+- Outbound-carrier correction observation: Anchor later dispatched a bounded Loom continuation in a Site-only carrier while relying on Business/Docs remaining in Loom's warm session. Sigma identified this as the same continuity failure mode the 3/3 Foundation rule exists to prevent and stopped Loom before further substantive work. The corrected operating rule is that full Business/Docs/Site source is required in outbound Foundation Handoffs as well as returns; warm-session context is convenience only and must never satisfy carrier completeness.
 
 ## Disposition
 
@@ -72,4 +76,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: tr12nKAE7JrHy_JRlJ4V2lVm8ubi-EotKZb6pMgUgpY
+  - Value: NBeR7FsrkElEfzlQoUZE1dU9TPJthmtiidzD7eeK77g
