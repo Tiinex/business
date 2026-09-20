@@ -1,23 +1,25 @@
 # Continuity Context
 
-- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/tiinex.root.v1.schema.md)
+- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/8145c280093dff5d0b67db2aa72d5f5c12b6c7cb/.topics/.schemas/tiinex.root.v1.schema.md)
 - Current
-  - Current Schema: [tiinex.workspace.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/tiinex.workspace.v1.schema.md)
-  - Created At: 2026-08-26 16:30:00
-  - Authors: Anchor
-  - Why: Provide the durable entrypoint for the current Tiinex Business authority surface and its manager-readable organizational provenance.
-  - Summary: Current tiinex/business Workspace for organization, portfolio, Roles, financing, and foundation-readiness continuity.
+  - Current Schema: [tiinex.workspace.v1](https://github.com/Tiinex/docs/blob/f202904124303a0d9a6f09c1419bf7c2a31a1fee/.topics/.schemas/tiinex.workspace.v1.schema.md)
+  - Created At: 2026-09-20 09:05:37
+  - Authors: local-user
+  - Why: Establish an explicit portable Workspace entrypoint for this repository.
+  - Summary: Business Workspace.
   - Status: active/local
 
 ---
 
-# tiinex/business — Workspace
+# Business
 
 ## Workspace Entrypoints
 
-### tiinex-business
+### Repository source
 
-- Source Kind: local-directory
+- Source Kind: github-tree
+- Repository: Tiinex/business
+- Ref: master
 - Root Path: .
 - Repo Files Discovery: on
 
@@ -25,4 +27,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: SwnbI_-tJfkeci0ETMQbuiLGui5Yaiv2J2W2BzL6Nm8
+  - Value: HCY1RAFWwfjB71-qcbN0aa-tSu95HkKfBvrT-BWXfJY
