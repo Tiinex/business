@@ -11,7 +11,7 @@
 
 ---
 
-# Business
+# Tiinex Business
 
 ## Workspace Entrypoints
 
