@@ -25,12 +25,14 @@ Choose the natural semantic owner before authoring work.
 
 ## Classification
 
-- **Organizational owner:** Business when why, priority, initiative, funding, role, or cross-repository acceptance is the primary authority.
-- **Implementation owner:** the Workspace whose domain is actually changed.
-- **Placement:** use the qualified Scaffold capability for the selected Workspace; ordinary subject work belongs beneath that Workspace's work capability rather than an invented directory.
+- **Organizational owner:** Business when why, priority, initiative, main-project outcome, funding, role, or cross-repository acceptance/disposition is the primary authority.
+- **Implementation owner:** the Workspace whose domain is actually changed. Workspace identity does not imply Project identity; one Project may span multiple Workspaces and one Workspace may carry work from multiple Projects.
+- **Work shape:** choose Project only for a real bounded coordinated outcome with its own purpose/scope/outcome boundary. Project → Project expresses a genuine subproject. Choose Task for one bounded executable unit; Task → Task expresses ordinary subtasks. Do not insert Project merely to group Tasks or satisfy Viewer layout.
+- **Ancestry:** for Tiinex-specific development, identify the nearest governing Business Project before repository work is materialized. Related Project/Task relations supplement but do not replace direct Parent when continuation ancestry is known. Canonical authority artifacts may keep domain-native ancestry; the bounded work that changes them should still enter through Project/work ancestry unless explicitly classified otherwise.
+- **Placement:** use the qualified Scaffold capability for the selected Workspace; ordinary subject work belongs beneath that Workspace's work capability rather than an invented directory. Project hierarchy does not mirror repository directories.
 - **Process binding:** select a qualified specialized Process when one is applicable; otherwise use the smallest established generic process such as Development And Acceptance.
 
-Process inventory is not applicability. When applicability is unclear, stop and disposition instead of guessing.
+Process inventory is not applicability. When Project-vs-Task meaning, ancestry, placement, or process applicability is unclear, stop and disposition instead of guessing.
 
 ## Entry Binding
 
@@ -50,8 +52,8 @@ The owning Workspace, artifact family/schema, target placement, Business relatio
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-establish-work-need-and-boundary.trace.md](001-1-establish-work-need-and-boundary.trace.md)
-  - Value: IE6Ip16jz4GYGa-C8kQlQfv1G04GLD75AZFhUf4Ep2c
+  - Value: g39fo-xLlEbOSuILM3RrtnhGOpiUuVydSxoVfWQ7c0E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: YfKCn-0iqgsoNdDEHJCR_CGLmxSDnineEEuyktpkqss
+  - Value: dgzKVy_8fBzEgYIwetANemkvdBZYGXytej3wOTWZyK8

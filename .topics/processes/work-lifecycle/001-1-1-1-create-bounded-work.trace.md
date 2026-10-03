@@ -26,9 +26,12 @@ Create the smallest authoritative work artifact that can own the current frontie
 ## Rules
 
 - Author in the natural owning Workspace and qualified Scaffold placement.
-- Use the artifact schema appropriate to the work kind; do not force all work into one Task shape.
-- Declare real Parent continuity and typed relations where the schema supports them; directory placement must not manufacture lineage.
-- Relate implementation work to its Business owner when organizational follow-up is required, without copying implementation state into Business.
+- Use the artifact schema appropriate to the work kind. Project owns a real coordinated outcome; Task owns bounded executable work; Task children are the default subtask mechanism when no independent Project boundary exists.
+- Declare real Parent continuity and typed relations where the schema supports them; directory placement and filename shape must not manufacture lineage.
+- For Tiinex-specific development work that crosses a repository boundary, require the intended upstream Business Project Parent to be qualified and immutable/published before the child is authored. Supply exact Parent bytes plus commit-pinned recovery when materializing the child.
+- If the required cross-repository Parent is new and not yet published, author/checkpoint the upstream spawn boundary and STOP. The truthful interrupted state is `spawn intended; child not materialized`, not a parentless child awaiting later cleanup.
+- A Workspace-qualified selector such as `business::path` is runtime resolution input only and must not be serialized as durable replacement for immutable external Parent recovery.
+- Related Project/Task relations may support coordination but do not replace Parent where direct continuation is intended.
 - Record acceptance criteria or desired outcome at the authority boundary that can actually judge them.
 
 ## Exit Condition
@@ -45,8 +48,8 @@ One bounded current artifact owns the work and can be grounded independently of 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-1-classify-owner-placement-and-applicable-process.trace.md](001-1-1-classify-owner-placement-and-applicable-process.trace.md)
-  - Value: YfKCn-0iqgsoNdDEHJCR_CGLmxSDnineEEuyktpkqss
+  - Value: dgzKVy_8fBzEgYIwetANemkvdBZYGXytej3wOTWZyK8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: OJNmnY-ihydHENdpOgyJJNgLM7NXtOlpkqB_1oz-iS0
+  - Value: VcXMBXpGwbqnhrDmBo65Pr5S51HcWyWY2eUXjjHzW2s

@@ -45,8 +45,8 @@ The current outcome is accepted and verified, returned for bounded rework, or ex
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-1-1-1-execute-through-applicable-process.trace.md](001-1-1-1-1-execute-through-applicable-process.trace.md)
-  - Value: W4GgAeTHo-6ydd14d-qcpNe7CYk0hepK8JisAYhdPf4
+  - Value: j6ck07AC5SgD2pzYy6eWUKnqwM4UTDI2-5Ri0Fn5U6A
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: cTrgTA1iT1Dda990TP8sDw5cf-VfR-QKm6eE2qGsExk
+  - Value: 5hZZrSqKpDh61-eTXMwHr9vPME9edq7cTMV4Q6ExkY0

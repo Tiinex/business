@@ -54,8 +54,8 @@ This process is complete for the current work instance when terminal history is 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-1-1-1-1-accept-land-and-verify-outcome.trace.md](001-1-1-1-1-1-accept-land-and-verify-outcome.trace.md)
-  - Value: cTrgTA1iT1Dda990TP8sDw5cf-VfR-QKm6eE2qGsExk
+  - Value: 5hZZrSqKpDh61-eTXMwHr9vPME9edq7cTMV4Q6ExkY0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: gz3aV3zAx7o096nCKlT1CV6DSYSTV-TqaGITuy3iGzo
+  - Value: 2q4kB77zure_r5mWfSYW-_1b94C3GolP70Z3mriGgS0

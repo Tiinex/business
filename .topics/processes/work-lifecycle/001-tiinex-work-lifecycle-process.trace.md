@@ -40,9 +40,13 @@ Use this lifecycle to avoid session-local conventions for creating Tasks, Projec
 
 A Session Entry may carry the applicable Process as required Grounding Material together with the current bounded work, Role material, and participating Workspaces. A cold LLM should therefore be able to recover both `what work is current` and `how that class of work is intended to proceed` without inventing a new execution convention.
 
-## Business Boundary
+## Project, Task, And Business Boundary
 
-Business owns organizational why, priority, desired outcome, and acceptance boundary when those concerns are organizational. Implementation truth remains in the natural Workspace that owns the affected domain. Business follow-up should point to spawned work and its disposition rather than copy repository implementation detail.
+Follow the accepted [Project, Task, And Spawn Topology Decision](../../decisions/001-1-project-task-and-spawn-topology-decision.trace.md). Project hierarchy, Task decomposition, semantic Parent, filename dimension, and Workspace placement are distinct concerns. A Project exists only when it owns a real bounded coordinated outcome; it is not a visual grouping node. A child Project is a subproject when direct Project continuity is real. A Task is one bounded executable unit and may have Task children for subtasks without inventing a Project.
+
+Business owns organizational why, priority, main-project outcome, and acceptance/disposition when those concerns are organizational. Implementation truth remains in the natural Workspace that owns the affected domain. Tiinex-specific development work should normally remain semantically traceable through Parent ancestry to its governing Business Project. Business follow-up should derive child work/disposition rather than copy repository implementation detail.
+
+When that ancestry crosses repositories, durable child work is materialized only after the upstream Parent has qualified immutable published recovery. If that Parent is not yet published, checkpoint/publish the upstream spawn boundary and stop; do not create parentless implementation work or temporary durable `workspace::path` ancestry to repair later.
 
 ## Reduction Boundary
 
@@ -62,4 +66,4 @@ Terminal or superseded execution history should become Reduction material once i
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: d2UsCgTmWTJ6fWGHQPvJtyQu9nghaO--7uOFlbNpPRg
+  - Value: dQzt98OXeCT_iZbCw46spUJSf7JVBk5KTKaUZs5rdao
