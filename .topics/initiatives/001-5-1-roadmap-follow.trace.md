@@ -67,8 +67,8 @@ A linked Epic or Task changing state therefore requires **no Roadmap edit**. The
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Roadmap](001-5-roadmap.trace.md)
-  - Value: jj1qLgoL2wZPyT25H26aO0Y03DYuZz2OjeJOFjoYX9o
+  - Value: L-BB1q-gi7sQF3YUsIFhSVdSFGcdBxffi0-YHfV-Z-Q
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:RXmA-vFQnHCVlfgM_mB7_htuHxv4hqg7UwDaZoTaFCA
+  - Value:Jfi6zX2votswXkfVMnLXjA_iX0-USO96MZgZ-DM4Ij8

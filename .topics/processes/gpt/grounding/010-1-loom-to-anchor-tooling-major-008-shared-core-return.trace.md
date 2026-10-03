@@ -161,8 +161,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-tooling-major-008-shared-core-implementation-evidence.trace.md](010-tooling-major-008-shared-core-implementation-evidence.trace.md)
-  - Value: mLBCDufZ-ZPle7s_x1-HZ1pT6218B789wELIQpnbRv8
+  - Value: kAXeloKtcu2_RD2eTu6lnplIeZBn1ZNekajyZ25OyvU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: UVkPvtg5uvm-YWvLUqx8Y45bx1ctzGwFSqghcV9sNRc
+  - Value: RMBzKupte-QLBkBiXMw_qwLwQlFmEirMh6MsqV2lCuo

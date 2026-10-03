@@ -64,8 +64,8 @@ Extension VS Code acceptance harness, deterministic host-test fixtures/adapters 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-anchor-kodax-host-repair-acceptance-and-machine-gate-disposition.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-anchor-kodax-host-repair-acceptance-and-machine-gate-disposition.trace.md)
-  - Value: l4EAFGqUUUUmI2EV3R7YsqLNEPSfPVMspKEiuoSJEXs
+  - Value: lYj7t0IZEfKonOy_JQ_8C1FooCrDh9EIFrw5ZKWeRaM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: HIyLNM3rktvNX_DXoMaWo4Mftpi0WigERKHKyvCezpY
+  - Value: K0nTC4dUKGwAvXWSYvhPlQ2DeH78EV2C3ggcIlvQs3M

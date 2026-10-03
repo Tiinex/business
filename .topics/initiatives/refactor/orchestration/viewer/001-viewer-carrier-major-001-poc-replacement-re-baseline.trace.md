@@ -66,8 +66,8 @@ Product-contract discovery/reconciliation only. Current App/Site/Verse source ma
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-stream-day-parallel-major-001-orchestration.trace.md](../001-stream-day-parallel-major-001-orchestration.trace.md)
-  - Value: XVBIK1Q4XsLJQCqk_bq8MYdQKtMcwCt_2zSdwyHtSKQ
+  - Value: EXyD_wjMpy58iJCXcN3rHWsSgdSx5CqlT48QifolzvU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: wz1PGnrabH3tF_luOd9jUI6KJLopuZHtqa3RzYyNLHg
+  - Value: eRCaZEyb9pauyXMMG-HCnRmLb1ops-iUIqn9PrV_fJI

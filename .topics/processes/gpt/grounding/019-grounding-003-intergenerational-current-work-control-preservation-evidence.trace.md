@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-25 13:40:33
-  - Trace: [001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md](../../../handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md)
+  - Trace: [001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md](../../../work/handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md)
   - Origin:
-    - [relative](../../../handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md)
+    - [relative](../../../work/handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md)
 - Current
   - Current Schema: tiinex.evidence.v1
   - Created At: 2026-09-25 14:08:15
@@ -30,7 +30,7 @@
 - Known Source: exact user-returned successor carrier `anchor-grounding-001-1-1-1-1-1-1-1-anchor-to-anchor.handoff-package.zip`, its fresh run and sequential retrospective video, exact returned Handoff bytes copied into this Business workspace, repaired Core source/tests, and a two-generation black-box return replay using the repaired Core followed by the child carrier's own embedded bootstrap.
 - Preservation Basis: preserve the demonstrated generations defect separately from earlier current-work and endpoint-reference defects; qualify only the exact mechanical continuity repair demonstrated by black-box replay.
 - Provenance Limits: no Sigma general-grounding acceptance, downstream phase opening, remote mutation, publication, release, or claim that all possible future orchestration defects are absent.
-- Incoming Fresh Return: [Post-Repair Fresh Successor Replay Return](../../../handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md).
+- Incoming Fresh Return: [Post-Repair Fresh Successor Replay Return](../../../work/handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md).
 
 ## Evidence Material
 
@@ -78,9 +78,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md](../../../handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md)
-  - Value: Wmwgd0hN0aqY0TaBcJT3srPCcpWuJU3Vc42gQ7ajR1I
+  - Towards: [001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md](../../../work/handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md)
+  - Value: bcze0TCqD5QuS4U9nwESgxU4IRGMcn8nZRAx1NDSuxE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: OH1FnbNeNRUMlzcVuJfG__8nSs3ZdHcJOtz0IJGU10Y
+  - Value: INGBPskSTrnojz0aNZy0TPumGPEUKDysvlzJf5-A3i4

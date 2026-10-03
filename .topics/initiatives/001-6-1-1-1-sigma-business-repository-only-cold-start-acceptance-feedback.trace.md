@@ -58,8 +58,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/4cb7046454f1cf75333097fc1a3d4562838afc26/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Isolated Business Repository-Only Cold-Start Acceptance — Anchor To Sigma](001-6-1-1-anchor-to-sigma-isolated-business-cold-start-acceptance-handoff.trace.md)
-  - Value: lOWMbMGY0IemT2t_kSG0MD3_6reM4LYlnWKQ7au4ff8
+  - Value: oYU7Iojr0IuwL7G8AI-s4xHh0rtsg9_Bo7IFxV10ZHo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/4cb7046454f1cf75333097fc1a3d4562838afc26/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:uSTJgNfU09etnvIk5L8xxUagEmS3SGhP5-CQTIskdEQ
+  - Value:gs_AHpUDTiMm0NUTlUFs-9KOfgD8wPDlo-P2DqOisL8

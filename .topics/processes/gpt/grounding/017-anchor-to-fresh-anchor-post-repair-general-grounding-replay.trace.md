@@ -133,8 +133,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [016-grounding-003-current-work-and-return-reference-closure-evidence.trace.md](016-grounding-003-current-work-and-return-reference-closure-evidence.trace.md)
-  - Value: i4B-ZMSmgkToizTLbLvtRr57ZcY6SCUZRaRau7_rWUA
+  - Value: NvEbquuJnQ7GidnaddTFgVptphbEKRJJrgkw4LRXVZk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: FN6QFMGwrAvtmILmvFaO7-ImfD_TudluDdCemGKOqmg
+  - Value: -N-ZF1jc_6IinlcpMzRRpcwdkYSYuhQNxPRGYTIZMbo

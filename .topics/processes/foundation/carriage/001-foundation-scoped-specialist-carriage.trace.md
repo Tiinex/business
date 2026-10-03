@@ -50,8 +50,8 @@ This is a bounded Foundation/Turn-2 operating refinement. It does not change Tii
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-cross-repository-work-turn-process.trace.md](../../002-cross-repository-work-turn-process.trace.md)
-  - Value: _1dsgMDIFUHpMSI-bcLTn14-3QKm6CfIsorPDruQ2ZM
+  - Value: hD-4JIf4W6BtLAQ08wjUUegIK8ElVzcl_6DrD4L1q88
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Ui261AFV26UVbnsBiob3pB0bxfW06KpScttwool4Eio
+  - Value: VT5W32VJNGfeddJn08cKtgX13RWLsj-1NAkAZuLge6I

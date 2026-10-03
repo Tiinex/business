@@ -101,8 +101,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [033-tooling-major-008-minimal-003-behavioral-and-return-ux-evidence.trace.md](../033-tooling-major-008-minimal-003-behavioral-and-return-ux-evidence.trace.md)
-  - Value: 0TnEl0F53ADsCtRNGAjNHrpzpIrXgVvAHeLaQ-zXmlY
+  - Value: bOcrZnK_9cE8Gc6geqDAa5IY9hCkN5cIJR3m8agvk6Y
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:km7lSul7MrcOy8xnEIIVTMVWj1TRblyQpW5PUkj0FlM
+  - Value:9YWLU5GwQxN7QKf-HUflBeHf35KR4nr-UiiBRzW5Py8

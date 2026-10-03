@@ -66,8 +66,8 @@ Feed, Tree, Lineage, Atlas, Tooling, and LLM ingress are possible projections or
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Product Use Cases](001-use-cases.trace.md)
-  - Value: CG5-37pyBAATVTWlOvAL3ua8wlYFl-JrAH3e52d0n7Y
+  - Value: C9I4otLcADjxnhl_zOsJO-8Pa1TzumdR32T8-hcRcrI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:GGJfS52dMUIkqlbzzVsllF-u3HP4cFf3KWJI-APtyGQ
+  - Value:iiJke6Lmt9mtbfNThW81ymxTk6GuNaL9doEuRo9RayY

@@ -143,8 +143,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-anchor-to-loom-operator-context-top-level-workspace-boundary-rec.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-anchor-to-loom-operator-context-top-level-workspace-boundary-rec.trace.md)
-  - Value: E_cAj7D8sjfCxhtEqOyf-aq1GK6vlMoLGKisSRk3I2A
+  - Value: Xqqb8yyj5gJ_3NM_8Kid2s0gj32gJE9e6_JnY-ejydc
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: V8ln7nLqjJL-Fg9u3xhhS0dKfEcyteVgoLDIKW9AivY
+  - Value: uB2dk1oL998ql1fpbL26JfF1W2o0GndOMaeVGwiCbYU

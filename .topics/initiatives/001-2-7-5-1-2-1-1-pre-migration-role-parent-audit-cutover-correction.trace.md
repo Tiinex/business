@@ -52,8 +52,8 @@ Portable common authoring/audit handling of exact historical Role Parents during
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-2-1-canonical-role-authoring-cutover-enablement.trace.md](001-2-7-5-1-2-1-canonical-role-authoring-cutover-enablement.trace.md)
-  - Value: 6JMU1QVWnVCv9VEH5e_l8uE_G64U5sA5DdtVYiP7zS4
+  - Value: MjVLd4WrTdNp2aipAx1hBAcZnEzpp8J12GVn7kxCIdc
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 9U7jpleTHQpoQ5tJAkQoC35E3c5G64jXLZjmgAPZuGo
+  - Value: KVBrC93EISsthDNRMPPgpzl-gLlBOVEvGOq-KwhrzEg

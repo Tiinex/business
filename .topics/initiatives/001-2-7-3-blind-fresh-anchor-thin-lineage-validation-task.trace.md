@@ -96,8 +96,8 @@ Current Carrier Major 001 thin-lineage grounding front only. This Task validates
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-thin-lineage-anchor-grounding-orchestration-epic.trace.md](001-2-7-thin-lineage-anchor-grounding-orchestration-epic.trace.md)
-  - Value: f0iMMxJZ5jrOIRd7SjL14TG2K-HriaX17b7g784ItO0
+  - Value: 0m0GzTrrKzgIlf48M98tVUVYGCiVrcODzNnkx2aTpM0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: UIm93s4JX5kGXxdFxwO8Hajgl8iYEVGlY-QfSes2rFE
+  - Value: pWoRLJrxdt1mw16qGdTnFE4GXVS_BWWaE446txxUu0E

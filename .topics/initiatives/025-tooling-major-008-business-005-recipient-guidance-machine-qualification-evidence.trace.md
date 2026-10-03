@@ -89,8 +89,8 @@ From an empty directory containing only the untouched business-005 carrier:
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [055-anchor-to-anchor-bounded-recipient-continuation.trace.md](handoffs/055-anchor-to-anchor-bounded-recipient-continuation.trace.md)
-  - Value: 6qh7FVJGCF9cfZg3512Xop6wPiusEK8WD7jddvKXLsY
+  - Value: i0T6TynKGDEIqhNpMeEil5ban9ZpabSx6cCcMS02nBA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:xR-D9akylJ4l-5qgnLLy9WY7iqMqQ0n4BZOPbSXYaT4
+  - Value:QA-xJ9ECRKZ0Xkdiqf-2bqlLRUs8rg1j3GFK40s_uEg

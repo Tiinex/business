@@ -87,8 +87,8 @@ The machine/tooling surface is qualified for the independent fresh-Anchor run. T
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [049-anchor-to-anchor-fresh-anchor-behavioral-gate-ready-after-carrie.trace.md](handoffs/049-anchor-to-anchor-fresh-anchor-behavioral-gate-ready-after-carrie.trace.md)
-  - Value: 4pjJHUAE9QZ-sEQDSDqxBrGaN_clAOqzFcCC_A2EB_g
+  - Value: d2wvg87R9hCYDlrMg_YjJ-2pq3mnxoFpXt0-Jt_tmLU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Vn6AALvjfjzaocMFqx6Oftw1jORE5W1ucVz0M1XsI_Y
+  - Value: eYuDsw0suwSfy0LNK2wb3GjxF_9UzcS1ammkrSeSgws

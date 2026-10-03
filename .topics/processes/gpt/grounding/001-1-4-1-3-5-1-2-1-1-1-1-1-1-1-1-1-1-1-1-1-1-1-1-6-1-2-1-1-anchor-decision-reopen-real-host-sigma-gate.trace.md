@@ -53,8 +53,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-anchor-integrated-fan-in-acceptance-evidence.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-anchor-integrated-fan-in-acceptance-evidence.trace.md)
-  - Value: M4wZI4HLbxflsx78aKfPIznNwYq1qC9fz4LtyIa4wHE
+  - Value: NG2m24HnCIHJpqwzq1XQhJVKRRKTPhSQ-gG4DtUwex8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: _jvKGL0dGfDgN-Y2s87wzzf6md9zO10vjfq6dPyP_UM
+  - Value: 9bG8B_UEKPB1q2pxoiAo6ZlVoqsHqbBjn-QyMWuzjSk

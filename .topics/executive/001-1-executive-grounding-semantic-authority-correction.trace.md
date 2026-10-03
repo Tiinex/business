@@ -63,8 +63,8 @@ When a fresh successor needs both stable meaning and current state, compose this
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-executive-grounding.trace.md](001-executive-grounding.trace.md)
-  - Value: esDgVwGISDuNI5sPxe0oxKlDS3YEwKsVlV-XSY8KCs8
+  - Value: wYJcWk3mw9VG1O8hYy8FSxDpx8-kZMpf1hsubLy5N4c
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: goBSMnejnR8wuXoozZYn_QHgWDZ8qOMu_dEQlGXDPEo
+  - Value: fy81jPyGFtsAzCy91WCSJw3eRcFX7NG_aN1rq7rT2Ec

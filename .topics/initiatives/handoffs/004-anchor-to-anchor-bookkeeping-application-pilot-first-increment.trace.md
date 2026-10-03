@@ -84,8 +84,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-1-bookkeeping-application-pilot-first-working-increment-task.trace.md](../002-1-bookkeeping-application-pilot-first-working-increment-task.trace.md)
-  - Value: GTTzXqb1PJICs-yZg0BF3Q-It6gacFTD5NdC0SivGlU
+  - Value: W1aHiYw3mrrb-F_G0N8t_OKvf_ycBwmRd0CE_TBFimY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: TgbqaGB4WutKDPTbVo-2y9y6dzd03WnQ5n6Tp6wJZnU
+  - Value: EWXNVq1ZFgQ6uQbhtEtBrcvey3kUyRgI3KaBQdacJuA

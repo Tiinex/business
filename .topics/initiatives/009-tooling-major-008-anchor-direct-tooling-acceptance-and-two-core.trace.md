@@ -116,8 +116,8 @@ Cache internal identity/path must derive from qualified Workspace/provenance/art
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [034-anchor-to-anchor-tooling-major-008-canonical-build-parity-contin.trace.md](handoffs/034-anchor-to-anchor-tooling-major-008-canonical-build-parity-contin.trace.md)
-  - Value: PfeTM8V8JorQIyQncRfW6ERVucekmBHlIOtiVg7GHvI
+  - Value: F63ZnD42ZzRYyH-Mr9yF9Am8ukNVYiAx5_CJKhfmOLQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: QPlHhjvSdQhjHmXPDRRRgBxx1dfAUfSKRTcEmU7e4xo
+  - Value: 7TRxN8-sNrB9mOpYV-5pLvgSqcQAKmPVD-w6iItd0Pw

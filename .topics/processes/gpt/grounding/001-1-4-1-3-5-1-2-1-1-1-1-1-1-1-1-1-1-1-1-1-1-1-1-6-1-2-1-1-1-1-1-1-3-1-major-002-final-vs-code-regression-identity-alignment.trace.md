@@ -66,8 +66,8 @@ Land the bounded repository-owned VS Code regression correction that aligns test
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-1-1-3-major-002-anchor-fan-in-stale-vs-code-test-identity-evidence.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-1-1-3-major-002-anchor-fan-in-stale-vs-code-test-identity-evidence.trace.md)
-  - Value: 0V1im6FCnYB0TrRFeDNPfpBiEXIPDdGt6mrQmuHwvbU
+  - Value: CeBHbo-zeCEQax00Mqg3mLd1RIE5o34KD9mIX9tX8qA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: RpM6w3Lb5KvHr2L0JXm8t8AXGGqgGP5GgQUDbcxcG2Q
+  - Value: URh6N3YKWs7sau3TebDEsOo9ENOY1lCCrN2O_QWFsos

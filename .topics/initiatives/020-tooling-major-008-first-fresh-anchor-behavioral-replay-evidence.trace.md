@@ -77,8 +77,8 @@ One neutralized fresh replay is therefore required. The replay must preserve the
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [050-anchor-to-anchor-final-fresh-anchor-behavioral-gate-ready.trace.md](handoffs/050-anchor-to-anchor-final-fresh-anchor-behavioral-gate-ready.trace.md)
-  - Value: NmY8dXRrFlCbrH-Up95Fbf2peRdi3vxF45uwcRGRJfA
+  - Value: Q-ILikIYxcimxfXrsDJRjvxPnNN37_qfsAMoIxVyvpg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:7HZGQm_DCP3o9Jx1cwZQV1XhXc03Ow9hWoxAEZdsnmE
+  - Value:F_A_sBzPc_t3pi7OHy_wnFIQSnO96Ruwv4qCMwHvmAU

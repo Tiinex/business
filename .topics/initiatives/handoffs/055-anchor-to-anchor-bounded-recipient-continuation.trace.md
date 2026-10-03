@@ -129,8 +129,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [024-tooling-major-008-bounded-recipient-continuation.trace.md](../024-tooling-major-008-bounded-recipient-continuation.trace.md)
-  - Value: pANqVgh-a2YU4Dr_Te2gB8kmqIa1Cd0UbVCyH1xGjgQ
+  - Value: 8t_qRMyZzWt6Q_OyfBk29HV2NEAzCSMd6eyBYs8HyGQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:6qh7FVJGCF9cfZg3512Xop6wPiusEK8WD7jddvKXLsY
+  - Value:i0T6TynKGDEIqhNpMeEil5ban9ZpabSx6cCcMS02nBA

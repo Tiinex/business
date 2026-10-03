@@ -77,8 +77,8 @@ Review when portable Tooling gains a qualified delegation-preflight mechanism, w
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [003-grounding-major-001-delegation-return-reservation-preflight.trace.md](003-grounding-major-001-delegation-return-reservation-preflight.trace.md)
-  - Value: PawxbSgttLQEH7zXEqGu8k2SQa3nh-KVcUQpLVaQxGM
+  - Value: 1XpYs9CGMZQXTmHPL5Tsg4Fn07RvxOzO9sV3UAVVzsk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: KzJf93XP35ZOxFrXJsRTSOr46vfQR5dOiQSh7qq8dqU
+  - Value: G14nodCDXpSpDjCmnoqeTKB2ilDI4VLHM759GoHLmuU

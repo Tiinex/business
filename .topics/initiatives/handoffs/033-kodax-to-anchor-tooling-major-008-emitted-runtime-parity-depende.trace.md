@@ -154,8 +154,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [007-tooling-major-008-kodax-emitted-runtime-parity-resume-dependency.trace.md](../007-tooling-major-008-kodax-emitted-runtime-parity-resume-dependency.trace.md)
-  - Value: v1GJvZmogHALyg33U4nWKlbNe4wqeUH8XIK-hGuJf6s
+  - Value: F5j9_A7-8ovsjRchq-mjDXF4xqRwd4NRTDPe0DqxYiQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: T2w036PmLTpq4cbI49Ell0mCP7W66iD5LPwt2hYZ4MQ
+  - Value: QwqVJOcasRjM2bnKEnPL4J9L423FI3YIhqBXBo7BjbE

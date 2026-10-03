@@ -296,8 +296,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-anchor-carrier-major-001-organization-github-recovery-coverage-g.trace.md](../orchestration/anchor/001-anchor-carrier-major-001-organization-github-recovery-coverage-g.trace.md)
-  - Value: ukwBnkGC49wDeHFsVLqw0asmlNzUVV7wRIBJukPLB4k
+  - Value: IG3q3PSIf2yxbRhAk7Z90_rIUZi8EFdVczU2zRk7Q8s
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: aZ2RIhNSy8ZqZMZQ6dJNJoObRNwcSE31j9ew594liKY
+  - Value: sz2MwQrlx5yE1Hu9BJFYr5QBhIwz8K9Jf-32qij6WSY

@@ -53,8 +53,8 @@ Core host-neutral package/cache projection and qualification mechanics only. No 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-blank-workspace-qualified-delegation-acceptance.trace.md](001-2-7-5-1-blank-workspace-qualified-delegation-acceptance.trace.md)
-  - Value: yesQil2Qu4qHbmcJYHGIWacZMcpqZ3-inxvGoa5W-mE
+  - Value: iIyO5oqj-MHakpqIguyQG2knabtFujJ1nJc3EVicMto
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: e4w9tqngZJkyrlo-8m31jFbvg4Wp7eKRVQGX_YToczY
+  - Value: DyYtEgdrbOyAYpmvdTg5N_UXWVlHiD6shgrjLwpbag0

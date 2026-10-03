@@ -53,8 +53,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-2-major-002-one-handoff-package-representation-evidence.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-2-major-002-one-handoff-package-representation-evidence.trace.md)
-  - Value: zzBRkzdAmQ4FBGQSIB6OO5KSbZaYi1tW4ydmjEeAnUs
+  - Value: XL3H2j3Rt4MPpmBmM7ZpyVqBcP2LUqmPKTAuTGTQYjU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: iw-Wr8TFzUVhTIeordOqmmelBIY_yOGVue_RaEd_lwg
+  - Value: pjrfkvvzh8MvOrulWMWFPhalcYp5bxJ1MuqGNO9Dvg4

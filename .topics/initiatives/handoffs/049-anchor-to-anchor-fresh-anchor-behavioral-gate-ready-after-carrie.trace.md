@@ -144,8 +144,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [018-tooling-major-008-final-fresh-anchor-hermetic-and-carrier-contin.trace.md](../018-tooling-major-008-final-fresh-anchor-hermetic-and-carrier-contin.trace.md)
-  - Value: 8rHCCDim9DnGZsPC83S4Tw85lW3yl2J__Xn6cULnlfI
+  - Value: cmpNap-kt_oHXKPUNykXmVOCG00TbrUqV2PVKBD2eV0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 4pjJHUAE9QZ-sEQDSDqxBrGaN_clAOqzFcCC_A2EB_g
+  - Value: d2wvg87R9hCYDlrMg_YjJ-2pq3mnxoFpXt0-Jt_tmLU

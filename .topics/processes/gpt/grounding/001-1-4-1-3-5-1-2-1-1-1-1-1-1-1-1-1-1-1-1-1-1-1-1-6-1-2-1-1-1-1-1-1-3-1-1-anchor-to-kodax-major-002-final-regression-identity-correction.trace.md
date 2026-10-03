@@ -120,8 +120,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-1-1-3-1-major-002-final-vs-code-regression-identity-alignment.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-1-1-3-1-major-002-final-vs-code-regression-identity-alignment.trace.md)
-  - Value: RpM6w3Lb5KvHr2L0JXm8t8AXGGqgGP5GgQUDbcxcG2Q
+  - Value: URh6N3YKWs7sau3TebDEsOo9ENOY1lCCrN2O_QWFsos
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: TxMXxjRgdpy75njGnll34Fb7nTVH8txhfTNiX6aL8UI
+  - Value: Rj8vx30WE3vj7369h2ZtBnsb_hyVnQ7hv_akNst0HeI

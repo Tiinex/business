@@ -76,8 +76,8 @@ Completion of this Task means the exact accepted Major 008 source implementation
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [005-tooling-major-008-anchor-emitted-runtime-parity-blocker-evidence.trace.md](005-tooling-major-008-anchor-emitted-runtime-parity-blocker-evidence.trace.md)
-  - Value: evXhAOARyujwxq1x2x5rIoFxpFtz9maueE54vP6HSDA
+  - Value: RpXXfX4c6dLrBQiTyIdnsJgEEz5PPh5HNaveVdcRTKU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 7SQfn4iWGkM48eceRMLm2SCwgWTTN4DTIS879JQrKfw
+  - Value: Smqa6nFTYxO7oyBljKxucWCIHZSboCpP8Qtp_5HgcBI

@@ -117,8 +117,8 @@ Parallel bounded recovery across Core package manufacture/inspection/grounding a
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-anchor-to-sigma-reconciled-real-host-acceptance-gate.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-anchor-to-sigma-reconciled-real-host-acceptance-gate.trace.md)
-  - Value: Ebr-Lo3KdDKoEI-6ReFR7bO19XoV_SD1UhqGTKehMZk
+  - Value: UyRa3gaEaJlus4X5P90wzqbAG0Yz3U2UTHt5iOHTWhc
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: UHveabmJPnd_Xcd2Zq0VujGITB3GYRIsOnunsLN1zwU
+  - Value: vjIuR02JuqDuRXl8BIEb24Fmg6WMUp5aD4BUjLZZclw

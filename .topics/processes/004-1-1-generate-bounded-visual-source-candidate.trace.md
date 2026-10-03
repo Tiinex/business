@@ -39,8 +39,8 @@ Treat large design drift, missing required material, severe cutoffs, incoherent 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Establish Generative Context Boundary](004-1-establish-generative-context-boundary.trace.md)
-  - Value: xQyIsBSY2f-9TZRpHE0e0Ap1SlEvvsNzthOUN7KEEVU
+  - Value: yA_PlfEFEoxWKIgFSy_i6KnRWwG2qK2D2NkmFD4ojd4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:r5hXzEh_GWOM_Og7wEC0K9Rwy1rtSN1LePz8k_BAt4w
+  - Value:iTiUYEOWmUtVD_2Vjm4hLNcIL3KR8YJMeK-UUEKP4vc

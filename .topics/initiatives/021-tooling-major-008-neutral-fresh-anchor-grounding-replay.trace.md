@@ -58,8 +58,8 @@ Sigma is an explicitly required human participant in this current work because S
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [051-anchor-to-anchor-neutral-fresh-anchor-replay-preparation.trace.md](handoffs/051-anchor-to-anchor-neutral-fresh-anchor-replay-preparation.trace.md)
-  - Value: UX9OL-Ao26wuvx7YhQTbq0y65V7PMq1X99n5dMRP-GM
+  - Value: e3xAe7BmSrUfqVqJzbuRnZwC9fL8Dqid87N4BrfZp04
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:U9dFBQXi4N69C-LfBfqLAqbePBWm4jTsTlBw--TG94E
+  - Value:ktlBrk1YxCtS4OF1ohUaivWgpJDCihswwgLUhQvPz4s

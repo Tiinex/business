@@ -40,7 +40,7 @@
 - latest-core-projection-state
   - Transfer Kind: work-and-responsibility
   - Description: preserve the latest reconciled Core state returned by Loom for forward-qualified delegation closure projection together with the newly staged downstream-delegate correction Task/Handoff.
-  - Controlling Artifact: [Downstream Delegate Selection Projection Mechanics](core::.topics/grounding/025-downstream-delegate-selection-projection-mechanics.trace.md)
+  - Controlling Artifact: [Downstream Delegate Selection Projection Mechanics](core::.topics/work/grounding/025-downstream-delegate-selection-projection-mechanics.trace.md)
   - Boundary: Core mechanics remain subordinate to accepted Axiom delegation semantics and retained Anchor acceptance.
 
 ## Required Context
@@ -59,13 +59,13 @@
 
 - docs-delegation-semantics
   - Material: accepted Axiom semantic disposition for qualified delegation and return/reconciliation.
-  - Material Reference: [Qualified Delegation Grounding Semantic Disposition](docs::.topics/grounding/011-qualified-delegation-grounding-semantic-disposition.trace.md)
+  - Material Reference: [Qualified Delegation Grounding Semantic Disposition](docs::.topics/work/grounding/011-qualified-delegation-grounding-semantic-disposition.trace.md)
   - Purpose: semantic authority for the recipient-versus-downstream-delegate distinction.
   - Availability: available
 
 - core-correction-handoff
   - Material: qualified Anchor-to-Loom Handoff for the downstream-delegate selection correction.
-  - Material Reference: [Anchor To Loom — Downstream Delegate Selection Projection Mechanics](core::.topics/grounding/handoffs/035-anchor-to-loom-downstream-delegate-selection-projection-mechanic.trace.md)
+  - Material Reference: [Anchor To Loom — Downstream Delegate Selection Projection Mechanics](core::.topics/work/grounding/handoffs/035-anchor-to-loom-downstream-delegate-selection-projection-mechanic.trace.md)
   - Purpose: exact specialist continuation frontier if the correction must be resumed by a fresh Loom session.
   - Availability: available
 
@@ -130,8 +130,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-5-1-downstream-delegate-selection-projection-correction.trace.md](../001-2-7-5-1-5-1-downstream-delegate-selection-projection-correction.trace.md)
-  - Value: yCIqwxGqU4bka7SwoGorNSXFIEWAv_qdzbkyfRgQlCo
+  - Value: UGLFuFEs06xd7uRmdamMThJSQL_MedjmNTasDShpqog
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: JkEYHe6hVBXPPk5hSpKSotK-VaXH1gG-Tn6GnZckGS4
+  - Value: fUSVy3gNORipDu1bKx39dmgApt3swMfdktNzqN_QzIs

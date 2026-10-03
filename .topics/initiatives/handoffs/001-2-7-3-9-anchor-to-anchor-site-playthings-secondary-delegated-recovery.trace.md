@@ -134,8 +134,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-3-8-anchor-to-anchor-site-playthings-secondary-trial-staged-recovery.trace.md](001-2-7-3-8-anchor-to-anchor-site-playthings-secondary-trial-staged-recovery.trace.md)
-  - Value: PP57_k8LEgLpX20iIzWApXLEPBgKkKk8bLtAA3dYoQw
+  - Value: wlcO58JwgBOC-8iWDLElwXtXTPXnkxJY9skXCn5earo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: qPlq6G4aSzSoypkP41R0w-RY9oy0SD0D7sSF1AcCJJ4
+  - Value: 4how4UewlHOceozxZ8SOw0L_IP2gvEZm1ZAB2YL3i2c

@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-27 16:12:32
-  - Trace: [012-anchor-to-sigma-vs-code-primary-workflow-host-adapter-candidate.trace.md](../../../handoffs/012-anchor-to-sigma-vs-code-primary-workflow-host-adapter-candidate.trace.md)
+  - Trace: [012-anchor-to-sigma-vs-code-primary-workflow-host-adapter-candidate.trace.md](../../../work/handoffs/012-anchor-to-sigma-vs-code-primary-workflow-host-adapter-candidate.trace.md)
   - Origin:
-    - [relative](../../../handoffs/012-anchor-to-sigma-vs-code-primary-workflow-host-adapter-candidate.trace.md)
+    - [relative](../../../work/handoffs/012-anchor-to-sigma-vs-code-primary-workflow-host-adapter-candidate.trace.md)
 - Current
   - Current Schema: tiinex.evidence.v1
   - Created At: 2026-09-27 17:54:30
@@ -64,9 +64,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [012-anchor-to-sigma-vs-code-primary-workflow-host-adapter-candidate.trace.md](../../../handoffs/012-anchor-to-sigma-vs-code-primary-workflow-host-adapter-candidate.trace.md)
-  - Value: ljcf5Q0pamet3FXSaIE1nG2OMtE0_KjVgwEtecfaw-I
+  - Towards: [012-anchor-to-sigma-vs-code-primary-workflow-host-adapter-candidate.trace.md](../../../work/handoffs/012-anchor-to-sigma-vs-code-primary-workflow-host-adapter-candidate.trace.md)
+  - Value: 9umw7gcqCd_t0eZf0x03BJ_w1L7M63fVJUu_U6kIwNg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: pXAkSFx0q34e58ZeN68xs9tGHfGs9YnaLvMYrhm9Fwg
+  - Value: Jgu1D5ebRxOQHliArwJNtCeTjvhQhnJdQEYUtsP0_6Q

@@ -72,8 +72,8 @@ Use the next real specialist returns and fresh sessions as evidence. Anchor shou
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-to-anchor-production-successor-takeover.trace.md](../../../initiatives/refactor/orchestration/handoffs/010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-to-anchor-production-successor-takeover.trace.md)
-  - Value: j6rJnhk5iSvszAADNr_hiOh67-cel_aQ_o7q1pW5uMM
+  - Value: 5D0gZXolNGgsOMD_GOJRQWqvcfo2kthhoxDpY5nzoYU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: mK4JerPYAZOZ_kE5IiYaXyvvMaJG088uZtuBc-a9VBw
+  - Value: jTVFgwCW8ZihcSXR6y7vNZDtvpyMCtrgznqd_tVN5vk

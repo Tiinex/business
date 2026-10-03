@@ -137,8 +137,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-8-tooling-major-008-native-handoff-authoring-and-durable-pointer-c.trace.md](../001-2-8-tooling-major-008-native-handoff-authoring-and-durable-pointer-c.trace.md)
-  - Value: pGG1b6GOIfihv1TvR8xXuymohSGoimS0jzPdVMD1-dI
+  - Value: U3AcllG0KFOOGyXhJAxrhKkO8jpFQ9NPoMydu-j_huU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: DRGvjt6Rn0hBQdTVWWIET3yuw7Js2U2YC5YIwnu2sZ8
+  - Value: ld-IfKW6_ifSu0Del0hDXMzZ_9swDhL1jL7Z9PFLKsQ

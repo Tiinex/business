@@ -72,8 +72,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [043-anchor-to-anchor-direct-package-v1-machine-qualified-commit-gate.trace.md](handoffs/043-anchor-to-anchor-direct-package-v1-machine-qualified-commit-gate.trace.md)
-  - Value: NhpLHeBh8yXVzxmRSjqZZXkLZMDTlYKq8jO9PE_9CmE
+  - Value: faNuWREIHK-8su5QCmgU2lQuyVPuDJJhYJzBuUrtDws
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:Anf5H0Y2_3CEAfvPvEbrPhhHzyr7N6a7r2f4ZpFvglQ
+  - Value:IPvXRElFqJ603cJG0G8OgaR_pEBAQk1SYVDsoejX7HQ

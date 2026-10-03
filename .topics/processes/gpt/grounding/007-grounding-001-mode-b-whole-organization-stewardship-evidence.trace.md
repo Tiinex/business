@@ -110,8 +110,8 @@ The successor considered the currently visible organization-wide lanes and selec
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [014-1-1-1-1-anchor-full-recovery-recovered-returns-integrated-conversation-b.trace.md](../../../initiatives/refactor/orchestration/handoffs/014-1-1-1-1-anchor-full-recovery-recovered-returns-integrated-conversation-b.trace.md)
-  - Value: LJU0w3r8MyOEjnequs0iv127LXdSBBvLdQ01SjEPZ18
+  - Value: OUPnD27-dKJSIhPYbUu7NjeqanWRKPzVPMjIiAyUzBA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: p1B9Bu7MWnOod0YJwe9E59wKpFNg6YGR6JspfwQr0Zw
+  - Value: 7wguFse1YjUzhsTDWmAty5c85SicPsAFfyvaPU3NgLY

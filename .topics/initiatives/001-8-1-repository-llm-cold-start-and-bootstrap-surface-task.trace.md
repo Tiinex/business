@@ -55,8 +55,8 @@ Make every public Tiinex repository a safe, bounded first-contact surface for a 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Public Surfaces And Repository Hygiene](001-8-public-surfaces-and-repository-hygiene-task.trace.md)
-  - Value: 225g3JxSdVX1aAzXu1aN84JgQXKvijyvtHMhx1HN_i8
+  - Value: 1jrFi45G0UH6MQGDw33Yks1Mil2JQa4VSlIfChBvJlM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: W9ilLnXyCbsYd4_wCczszY87LLtPjEgULC5tmjA_Ikk
+  - Value: XoP783Hg-maCuUBTMat8OGeqsgdOKJEoWDRgxY4JvNA

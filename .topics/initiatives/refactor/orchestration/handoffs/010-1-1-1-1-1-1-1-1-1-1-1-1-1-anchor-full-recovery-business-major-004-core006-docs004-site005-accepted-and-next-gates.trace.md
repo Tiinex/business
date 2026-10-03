@@ -153,13 +153,13 @@
 
 - core-major-006-return
   - Material: qualified Loom Core Major 006 return.
-  - Material Reference: [Core Major 006 Return](core::.topics/refactor/orchestration/handoffs/002-1-loom-to-anchor-core-major-006-source-eligibility-hygiene-and-rec.trace.md)
+  - Material Reference: [Core Major 006 Return](core::.topics/work/refactor/orchestration/handoffs/002-1-loom-to-anchor-core-major-006-source-eligibility-hygiene-and-rec.trace.md)
   - Purpose: accepted shared source-eligibility result.
   - Availability: available
 
 - docs-major-004-return
   - Material: qualified Axiom Docs Major 004 return.
-  - Material Reference: [Docs Major 004 Return](docs::.topics/role-authority/001-3-6-4-3-1-1-2-1-1-2-axiom-to-anchor-docs-major-004-canonical-continuity-schema-refer.trace.md)
+  - Material Reference: [Docs Major 004 Return](docs::.topics/work/role-authority/001-3-6-4-3-1-1-2-1-1-2-axiom-to-anchor-docs-major-004-canonical-continuity-schema-refer.trace.md)
   - Purpose: accepted semantic schema-reference authority disposition.
   - Availability: available
 
@@ -229,8 +229,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-accepted-returns-and-nex.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-accepted-returns-and-nex.trace.md)
-  - Value: YGLGP4O8ZcL1OA3-P_joxSlbk3pF0tu-ErcnVKpIA20
+  - Value: 4kpuaquVO4OgLc9q77A53ZhqfTKKZFurqdCRcmkiC2U
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: nIIgC0SwPlyU2Rkofjuq4E9n3um0gHzVcPtQUSC7qWQ
+  - Value: PT3WFOgpZynghtVnxzFU8cFDJZTgD4Xfa5vXJ_S9d6Q

@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: tiinex.evidence.v1
   - Created At: 2026-09-27 13:50:00
-  - Trace: [007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md](../processes/gpt/vscode-reentry/007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md)
+  - Trace: [007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md](../../processes/gpt/vscode-reentry/007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md)
   - Origin:
-    - [relative](../processes/gpt/vscode-reentry/007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md)
+    - [relative](../../processes/gpt/vscode-reentry/007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md)
 - Current
   - Current Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-27 13:52:00
@@ -24,24 +24,24 @@
 - Purpose: return one canonical five-Workspace VS Code candidate after closing the demonstrated Incoming bootstrap-coordinate blocker and removing committed generated ZIP fixtures, while preserving frozen Core and the shared human/LLM Tooling architecture.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Sigma
 - To Kind: role
-- To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
 - vscode-embedded-bootstrap-primary-workflow-candidate
   - Transfer Kind: work-and-responsibility
   - Description: test the exact carried VS Code source in the real Windows VS Code host. Primary acceptance is Discovery/Incoming open and inspect, Ground, Merge/Replace and apply, Artifact creation, Outgoing single and multi-route Pack, Transport, then reviewed Commit/Push. Build VSIX locally if desired; generated VSIX, patch files and source ZIPs are not canonical transport material.
-  - Controlling Artifact: [Embedded bootstrap ingress and source-hygiene closure Evidence](../processes/gpt/vscode-reentry/007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md)
+  - Controlling Artifact: [Embedded bootstrap ingress and source-hygiene closure Evidence](../../processes/gpt/vscode-reentry/007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md)
   - Boundary: Core remains frozen. VS Code consumes shared Core Tooling and must not invent missing semantics or API behavior. A newly demonstrated capability gap is returned as a blocker before owner-boundary changes.
 
 ## Required Context
 
 - bootstrap-closure-evidence
   - Material: exact root cause, VS Code-only correction, bootstrap-currentness invariant, ZIP fixture hygiene, machine qualification and remaining real-host gate.
-  - Material Reference: [Embedded bootstrap ingress and source-hygiene closure Evidence](../processes/gpt/vscode-reentry/007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md)
+  - Material Reference: [Embedded bootstrap ingress and source-hygiene closure Evidence](../../processes/gpt/vscode-reentry/007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md)
   - Purpose: distinguishes the bounded host correction from Core/package semantic changes.
   - Availability: available
 
@@ -85,7 +85,7 @@
 
 - shared-core-human-parity-boundary
   - Material: prior shared-Core human-parity qualification and Package V1 freeze lineage.
-  - Material Reference: [shared-Core merge candidate Evidence](../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
+  - Material Reference: [shared-Core merge candidate Evidence](../../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
   - Purpose: preserve the rule that Core owns semantics while VS Code owns human interaction/orchestration.
   - Availability: available
 
@@ -93,7 +93,7 @@
 
 - anchor-blocker-recovery
   - Retained By: Anchor
-  - Retained By Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
   - Responsibility: investigate any concrete reproducible blocker returned by Sigma from this exact candidate, keeping Core frozen unless a separately demonstrated owner-level Core defect is reviewed with Sigma.
   - Boundary: Anchor does not infer Sigma acceptance, perform remote mutation, or substitute loose build artifacts for canonical Handoff transport.
 
@@ -124,7 +124,7 @@
 - Signal Kind: disposition
 - Signal Meaning: Sigma tests this exact carried candidate in real VS Code and either accepts the source frontier and performs the intended commit/push disposition, or returns one concrete reproducible blocker tied to the exact primary workflow step. Delivery or local machine qualification alone does not establish product acceptance.
 - Return To: Anchor
-- Return To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -137,9 +137,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md](../processes/gpt/vscode-reentry/007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md)
-  - Value: dF2xYjPp89JNgheFyxOe5McZN62AvmMV0PSJWxGxHIk
+  - Towards: [007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md](../../processes/gpt/vscode-reentry/007-vs-code-re-entry-embedded-bootstrap-ingress-and-source-hygiene-closure-evidence.trace.md)
+  - Value: s8uvjtuLlAwHLzQFSqJsIvkpvY5DXvMLKs1o5PJJx8g
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: AgHKtSkWAm9HO47wJ5yDwQSMGLMPdms1TpeeUG2QTEQ
+  - Value: vo3qyEeYs-UjXVn4BBkiz1GUek7E8WFpuZhi1NCvUb4

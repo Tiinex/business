@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: tiinex.evidence.v1
   - Created At: 2026-09-27 16:11:32
-  - Trace: [008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md](../processes/gpt/vscode-reentry/008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md)
+  - Trace: [008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md](../../processes/gpt/vscode-reentry/008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md)
   - Origin:
-    - [relative](../processes/gpt/vscode-reentry/008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md)
+    - [relative](../../processes/gpt/vscode-reentry/008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md)
 - Current
   - Current Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-27 16:12:32
@@ -24,24 +24,24 @@
 - Purpose: return one canonical five-Workspace VS Code candidate after closing Sigma's demonstrated Attach Handoff, Transport, and Outgoing Files Projection host defects while preserving frozen Core and the shared human/LLM Tooling architecture.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Sigma
 - To Kind: role
-- To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
 - vscode-primary-workflow-host-adapter-candidate
   - Transfer Kind: work-and-responsibility
   - Description: test the exact carried VS Code source in the real Windows VS Code host. Primary acceptance is Incoming open/inspect/Ground, Merge/Replace/apply, Artifact creation, Attach Handoff with exact participant endpoints, Outgoing exact Files preview, single and multi-route Pack, Transport, then reviewed Commit/Push. Outgoing Files should match the actual Core-manufactured carrier structure rather than a host-specific pending model.
-  - Controlling Artifact: [Primary workflow host-adapter closure Evidence](../processes/gpt/vscode-reentry/008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md)
+  - Controlling Artifact: [Primary workflow host-adapter closure Evidence](../../processes/gpt/vscode-reentry/008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md)
   - Boundary: Core remains frozen. VS Code consumes shared Core Tooling and must not infer semantic Role labels, transport routing, carrier paths, lineage, package structure or missing Core capabilities.
 
 ## Required Context
 
 - host-adapter-closure-evidence
   - Material: Sigma real-host observations, exact root causes, bounded VS Code corrections, exact carrier-preview rule, machine qualification and remaining real-host gate.
-  - Material Reference: [Primary workflow host-adapter closure Evidence](../processes/gpt/vscode-reentry/008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md)
+  - Material Reference: [Primary workflow host-adapter closure Evidence](../../processes/gpt/vscode-reentry/008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md)
   - Purpose: distinguishes demonstrated VS Code host defects from Core/package semantics and defines the exact acceptance surface.
   - Availability: available
 
@@ -85,7 +85,7 @@
 
 - shared-core-human-parity-boundary
   - Material: prior shared-Core human-parity and Package V1 qualification lineage.
-  - Material Reference: [shared-Core merge candidate Evidence](../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
+  - Material Reference: [shared-Core merge candidate Evidence](../../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
   - Purpose: preserve the rule that Core owns semantics while VS Code owns human interaction/orchestration.
   - Availability: available
 
@@ -93,7 +93,7 @@
 
 - anchor-blocker-recovery
   - Retained By: Anchor
-  - Retained By Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
   - Responsibility: investigate any concrete reproducible blocker returned by Sigma from this exact candidate, keeping Core frozen unless a separately demonstrated owner-level Core defect or missing capability is reviewed with Sigma.
   - Boundary: Anchor does not infer Sigma acceptance, perform remote mutation, or ask Sigma to act as an iterative live debugger when the blocker can be reproduced from supplied evidence.
 
@@ -124,7 +124,7 @@
 - Signal Kind: disposition
 - Signal Meaning: Sigma tests this exact carried candidate in real VS Code and either accepts the source frontier and performs the intended commit/push disposition, or returns one concrete reproducible blocker tied to the exact primary workflow step. Delivery or machine qualification alone does not establish product acceptance.
 - Return To: Anchor
-- Return To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -137,9 +137,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md](../processes/gpt/vscode-reentry/008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md)
-  - Value: KEeyiPE04Rxi71qXGz022uM9_xNeyL2Wa4D_uOT1fds
+  - Towards: [008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md](../../processes/gpt/vscode-reentry/008-vs-code-re-entry-primary-workflow-host-adapter-closure-evidence.trace.md)
+  - Value: xA6LapVPrBuWaUKCfvFm0PVoiLokkdiBmV1PhV8TM4E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ljcf5Q0pamet3FXSaIE1nG2OMtE0_KjVgwEtecfaw-I
+  - Value: 9umw7gcqCd_t0eZf0x03BJ_w1L7M63fVJUu_U6kIwNg

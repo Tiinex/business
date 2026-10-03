@@ -58,8 +58,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Public Repository LLM Ingress Baseline](001-8-1-1-public-repository-llm-ingress-baseline-research.trace.md)
-  - Value: r4bSZ9UG5R6g8IVnXLjOXXR0IXb2bUtqrl_GBjO08X0
+  - Value: tFwkegSjnvUAIvJ8Jv5LBkm8uxs_TtSqMGjwdnBMmAE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: _HceGvxOmf-fojmx1d-GjjuE9OSG362WH6laXYanT_4
+  - Value: knHPVF65QKruXFbtYn4sWkIArWWlq05XLcEaseNjAZA

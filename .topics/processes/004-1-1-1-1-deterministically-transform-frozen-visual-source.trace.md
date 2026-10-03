@@ -39,8 +39,8 @@ Use shared transform rules across comparable candidates and fail visibly when as
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Accept Or Reject And Freeze Visual Source](004-1-1-1-accept-or-reject-and-freeze-visual-source.trace.md)
-  - Value: RSRJh_roAfVMJ1OsGzegJwQEQcXOSP0U0VZb69ZH1Rw
+  - Value: iYsq1UBfS6ahFKttg03xDcRgcV0wq5IJKuxIaY8oWxI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:T00I9sukWcycZU0RkUEDhdbP9hKyxf6oPS5onu8rUC0
+  - Value:_-CV3QKBpQwOyN4rGW3mhBaNi1xg5JD08qV4AS4_vCY

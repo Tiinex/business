@@ -155,8 +155,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [011-tooling-major-008-kodax-canonical-build-environment-blocker-evid.trace.md](../011-tooling-major-008-kodax-canonical-build-environment-blocker-evid.trace.md)
-  - Value: yp0Oq9zfAOzwxQ-_i6Ve641F-98Gfc7W0vCHQZ0ylpU
+  - Value: Ex-3dzfEXboAp_-KsPkCwiZ4sqmRi1xM1lmsfaMYiDQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: tk0Joyy28-tF8MwdsVcB4g9beh30ipvGHYHC-FwS-bs
+  - Value: 6KGlVBWNzOP7KoWkhi9vavEkyIMFXDQeRZH_k_Pkoug

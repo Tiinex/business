@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: tiinex.evidence.v1
   - Created At: 2026-09-26 20:25:04
-  - Trace: [003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md](../processes/gpt/vscode-reentry/003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md)
+  - Trace: [003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md](../../processes/gpt/vscode-reentry/003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md)
   - Origin:
-    - [relative](../processes/gpt/vscode-reentry/003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md)
+    - [relative](../../processes/gpt/vscode-reentry/003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md)
 - Current
   - Current Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-26 20:25:50
@@ -24,30 +24,30 @@
 - Purpose: preserve the exact five-Workspace frontier after the first tested VS Code-only human-parity bridge delta and continue the bridge without changing the frozen Core semantics or reconstructing state from chat.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Anchor
 - To Kind: role
-- To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
 - vscode-human-parity-bridge-continuation
   - Transfer Kind: work-and-responsibility
   - Description: continue the VS Code-only shared-Core bridge from the exact carried source. Preserve the explicit Core-projected Return To endpoint/reference authoring delta, migrate legacy Extension Host fixtures through qualified Tooling rather than manual resealing, then complete Core-driven Incoming/Outgoing/Transport grounding and return parity plus host qualification.
-  - Controlling Artifact: [Core-frozen VS Code checkpoint Evidence](../processes/gpt/vscode-reentry/003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md)
+  - Controlling Artifact: [Core-frozen VS Code checkpoint Evidence](../../processes/gpt/vscode-reentry/003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md)
   - Boundary: Core is frozen. Do not change Core semantics or implementation without first stopping and bringing the concrete blocker to Sigma. Do not add VS Code-private Tiinex semantics, V2 compatibility, label-to-reference inference, or fixture-specific semantic shortcuts.
 
 ## Required Context
 
 - current-checkpoint
   - Material: exact tested VS Code-only bridge checkpoint from this turn.
-  - Material Reference: [Core-frozen VS Code checkpoint Evidence](../processes/gpt/vscode-reentry/003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md)
+  - Material Reference: [Core-frozen VS Code checkpoint Evidence](../../processes/gpt/vscode-reentry/003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md)
   - Purpose: preserves the exact source delta, test boundary, fixture discovery, frozen-Core rule, and next frontier.
   - Availability: available
 
 - prior-core-closure
   - Material: exact Core Package V1 and return-qualification closure Evidence from the preceding recovery.
-  - Material Reference: [Core closure Evidence](../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
+  - Material Reference: [Core closure Evidence](../../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
   - Purpose: defines the frozen shared-Core baseline VS Code must consume without semantic regression.
   - Availability: available
 
@@ -93,13 +93,13 @@
 
 - sigma-core-blocker-disposition
   - Retained By: Sigma
-  - Retained By Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
   - Responsibility: decide with Anchor whether any newly demonstrated bridge blocker justifies reopening frozen Core.
   - Boundary: Anchor must stop and bring the blocker to Sigma before modifying Core.
 
 - sigma-final-acceptance
   - Retained By: Sigma
-  - Retained By Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
   - Responsibility: final human acceptance and commit/merge/push disposition after the VS Code bridge passes the agreed human-parity workflows.
   - Boundary: local tests and recovery transport do not establish Sigma acceptance.
 
@@ -135,7 +135,7 @@
 - Signal Kind: result
 - Signal Meaning: return one stable full five-Workspace Package V1 to Sigma after VS Code gives humans the same relevant Core-qualified package/grounding/authoring/return capabilities as Tiinex LLM tooling through the minimal shared bridge, the legacy fixture is canonically migrated, and the strongest available build/unit/integration/Extension Host workflows are green without parallel VS Code semantics.
 - Return To: Sigma
-- Return To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -147,9 +147,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md](../processes/gpt/vscode-reentry/003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md)
-  - Value: DQQ3nB8N3spLBIbKt4WCjAD51cqcLzKdm4uLiOzqqdk
+  - Towards: [003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md](../../processes/gpt/vscode-reentry/003-vs-code-re-entry-core-frozen-return-endpoint-bridge-checkpoint-e.trace.md)
+  - Value: YBtFn9Op6X6LEVXEViefZ5rEc_IFSfeAvPGcIfVLAUI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 8oqP7qEH69pnhjhj_3j3WakmMpGxYUpn2mz5mcydheQ
+  - Value: fqPPw7wcEd1UDhcz06IUI7xMvGku6irWF6bE-ApxJLk

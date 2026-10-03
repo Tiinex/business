@@ -127,8 +127,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [017-anchor-to-fresh-anchor-post-repair-general-grounding-replay.trace.md](017-anchor-to-fresh-anchor-post-repair-general-grounding-replay.trace.md)
-  - Value: FN6QFMGwrAvtmILmvFaO7-ImfD_TudluDdCemGKOqmg
+  - Value: -N-ZF1jc_6IinlcpMzRRpcwdkYSYuhQNxPRGYTIZMbo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: p0wgicIVsO5Q0Ro5B39XDLPF_z0E-NAsG6kjFTwbjIw
+  - Value: NnQn4FFzxeYjlMOHcWhgavg3Sqw4aENpbpMMj2KDtdg

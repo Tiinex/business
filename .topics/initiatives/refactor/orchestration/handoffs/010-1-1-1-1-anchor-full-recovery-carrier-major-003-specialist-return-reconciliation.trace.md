@@ -148,7 +148,7 @@
 
 - core-major-003-return
   - Material: qualified Loom to Anchor Core Major 003 return.
-  - Material Reference: [Core Major 003 Return](core::.topics/refactor/orchestration/handoffs/001-2-2-loom-to-anchor-core-major-003-manufacture-runtime-source-hygiene-alignment-return.trace.md)
+  - Material Reference: [Core Major 003 Return](core::.topics/work/refactor/orchestration/handoffs/001-2-2-loom-to-anchor-core-major-003-manufacture-runtime-source-hygiene-alignment-return.trace.md)
   - Purpose: exact accepted Core result and host-adoption boundary.
   - Availability: available
 - viewer-major-003-return
@@ -223,8 +223,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-anchor-full-recovery-vscode-source-salvage-and-glimmer-quarantine.trace.md](010-1-1-1-anchor-full-recovery-vscode-source-salvage-and-glimmer-quarantine.trace.md)
-  - Value: y9yOMOPXeenMwrnN9CiqJLGMDpnp13cf_7gr8adAq4w
+  - Value: -nm7EI3uFVpgod2WzykulrQC_LTEOAkcIRBbDgXDy94
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: MgFnp8WJQCALZjZR0jKtH7gEHvC1wQLkVk3UEmfrg8U
+  - Value: DrRvl52MxQxsne8811DTOTduTtwBzas9D5nxigWsh8A

@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-25 14:18:51
-  - Trace: [002-anchor-to-anchor-final-general-grounding-return.trace.md](../../../handoffs/002-anchor-to-anchor-final-general-grounding-return.trace.md)
+  - Trace: [002-anchor-to-anchor-final-general-grounding-return.trace.md](../../../work/handoffs/002-anchor-to-anchor-final-general-grounding-return.trace.md)
   - Origin:
-    - [relative](../../../handoffs/002-anchor-to-anchor-final-general-grounding-return.trace.md)
+    - [relative](../../../work/handoffs/002-anchor-to-anchor-final-general-grounding-return.trace.md)
 - Current
   - Current Schema: tiinex.evidence.v1
   - Created At: 2026-09-25 14:48:09
@@ -30,7 +30,7 @@
 - Known Source: exact final fresh-run silent video, exact returned successor package `anchor-grounding-001-1-1-1-1-1-1-1-1-1-anchor-to-anchor.handoff-package.zip`, exact returned Handoff copied unchanged into this Workspace, sequential Retro 1 and Retro 2 visible in the same recorded fresh run, separate successor-package ZIP-only grounding performed after receipt, and the exact current Core gate outputs.
 - Preservation Basis: record only what the final fresh generation, successor bytes, receipts, black-box grounding and retrospectives establish; preserve runtime/UI limitations as limitations rather than converting them into semantic failures or hidden success claims.
 - Provenance Limits: no claim that every future organizational shape is defect-free, no Sigma human acceptance manufactured by Tooling, no reduction/redacting acceptance, no VS Code readiness, no remote mutation/publication/release.
-- Incoming Final Fresh Return: [Final General Grounding Return](../../../handoffs/002-anchor-to-anchor-final-general-grounding-return.trace.md).
+- Incoming Final Fresh Return: [Final General Grounding Return](../../../work/handoffs/002-anchor-to-anchor-final-general-grounding-return.trace.md).
 
 ## Evidence Material
 
@@ -76,9 +76,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [002-anchor-to-anchor-final-general-grounding-return.trace.md](../../../handoffs/002-anchor-to-anchor-final-general-grounding-return.trace.md)
-  - Value: Wk-8AK-63s4AbKuacTyzDHkBptoYXQvs5BbPJjMR2Eo
+  - Towards: [002-anchor-to-anchor-final-general-grounding-return.trace.md](../../../work/handoffs/002-anchor-to-anchor-final-general-grounding-return.trace.md)
+  - Value: X-CI2A5FyBX0iRTYumOnNPTfuP1Xmmj3IJC08SuK_Nw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 6frBUcRHT0veSfZ1j2hscpVtgvwIMuTJ4HErvTAK_eU
+  - Value: TdYek7aZEMHtxmrCh6MxjfsdtW84dIV5PRdHRUdEtSA

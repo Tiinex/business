@@ -67,8 +67,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md](002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
-  - Value: a3LZIx2yyzUDhzY148-fydpXmnioZQInCtmArxcfgXU
+  - Value: NJFEjze3aYMRdLWs2_HRZX9CoCA8aHB7YzEh-12J8Kw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: hS7fCYjmhmB-KxibZjiz4obWW0xov8NRQ4oGMsZ_As4
+  - Value: hvfJfMDedPTuAQK1H3hySXAtlWKMGtOapAR-mBK2HrI

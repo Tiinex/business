@@ -92,8 +92,8 @@ Anchor should reconcile the exact internal `HandoffLeavesResult` / `projected.fi
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [030-anchor-to-kodax-tooling-major-008-emitted-runtime-parity-correct.trace.md](handoffs/030-anchor-to-kodax-tooling-major-008-emitted-runtime-parity-correct.trace.md)
-  - Value: 9Srle8q2Xm9EFa-r9a590aWCOBbjVCqqN5PjIrFDDVE
+  - Value: waxmUtlzIBzUwiSNnLZfnZDZeuAffdlaBBGFhJ3oIb4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Xb0mpOfj1U2z7Ph9GrYLoQ22CdV2DPem1cpoauvNuAA
+  - Value: bJG8PciEL5qApxx10jgcShhWTeq4hCemGM13KG81QhA

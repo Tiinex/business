@@ -89,8 +89,8 @@ Make Tiinex organizationally understandable, publicly honest, recoverable, and h
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Initiatives](001-initiatives.trace.md)
-  - Value: ooAvsZ-ZLG6eafU4w8lMBq8-Zj5rrurJeLA_o2dMh0I
+  - Value: pWr4HL_QQBPq0_BjNUtyrsTpS4d6atqEeR3TiLnJkD8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: iU8sDCJZpdCBP_MB6Rxk8InamgZBvbZXQnRPgy1dPM0
+  - Value: tw5CrUnfTcJMxlhxdOUXz7nRAgJguRJw2lkrbs6xILA

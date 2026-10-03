@@ -71,12 +71,12 @@
   - Availability: available
 
 - issued-axiom-route
-  - Material: Docs Handoff `docs::.topics/grounding/handoffs/001-anchor-to-axiom-thin-lineage-anchor-grounding-semantics.trace.md`.
+  - Material: Docs Handoff `docs::.topics/work/grounding/handoffs/001-anchor-to-axiom-thin-lineage-anchor-grounding-semantics.trace.md`.
   - Purpose: semantic/Role/process specialist work already prepared for routing to the existing Axiom project/chat.
   - Availability: available
 
 - issued-loom-route
-  - Material: Core Handoff `core::.topics/grounding/handoffs/001-anchor-to-loom-thin-lineage-grounding-projection-tooling.trace.md`.
+  - Material: Core Handoff `core::.topics/work/grounding/handoffs/001-anchor-to-loom-thin-lineage-grounding-projection-tooling.trace.md`.
   - Purpose: portable Tooling specialist work already prepared for routing to the existing Loom project/chat.
   - Availability: available
 
@@ -121,8 +121,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Anchor Thin-Lineage Grounding Kickoff](../001-2-7-1-anchor-thin-lineage-grounding-kickoff-task.trace.md)
-  - Value: IY7hFKsFLzB1CTOKtN_9_GpFpo0gmF4NeTR2iln7o7c
+  - Value: WyrXMRL2PH0ZyKqKvWrDdHbGxH81Wdx-R8xFLDDhg1E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:k42gzGfR-eh2Nl7EUPl1fg9yZc4KVG3x05pid_Pn3PU
+  - Value:GRi3iNd-8hUhYh6sGSQQZA4IhpeWob8tINjxlEvWVow

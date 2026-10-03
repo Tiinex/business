@@ -58,8 +58,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [036-tooling-major-008-final-core-llm-package-v1-freeze-qualification-evidence.trace.md](../initiatives/036-tooling-major-008-final-core-llm-package-v1-freeze-qualification-evidence.trace.md)
-  - Value: 0a0reE38Sel-cJVMnxPyA4VlLXlQ8JMDPpF4a8b5C0c
+  - Value: fWNxs_AY8mSMNM4osmUCw4GeW5ozrKlzLCufzCz5qEg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Pjs4wVweSKadLZvIwEPH-yWwvfXKLjtonZyFFo44Ack
+  - Value: 7H0SfAYiO3nXgk4ThbsQT-BcC8EwYxFbdk8LAuyy_5U

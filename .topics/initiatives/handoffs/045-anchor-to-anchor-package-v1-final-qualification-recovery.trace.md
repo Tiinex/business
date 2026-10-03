@@ -103,8 +103,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [016-tooling-major-008-package-v1-final-qualification-and-freeze-gates.trace.md](../016-tooling-major-008-package-v1-final-qualification-and-freeze-gates.trace.md)
-  - Value: 5JtuWr2GjE1KvS2X_j74ZSWulNQRF9AANy9FbMI5Fm4
+  - Value: nDpqIqszBoice6qkhkuzsyCfaxTPu_QqqDiBRJkJFlg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:V8TkyMX5AwG5-AXBo2XtgKoP-m-199EIhGgVT83Uij8
+  - Value:wpKyx7FvO_C8_OhBlegUDTFKCZpOphcoje_JMZ9kdN8

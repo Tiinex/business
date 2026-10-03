@@ -71,8 +71,8 @@ VS Code may render semantic participant choices only from shared qualified parti
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-anchor-major-001-session-participant-and-operator-continuity-har.trace.md](001-1-4-1-anchor-major-001-session-participant-and-operator-continuity-har.trace.md)
-  - Value: G720AFkM8X7Eug8WzTPnRCFxcKNLIRZ6HJQG4FJPEeY
+  - Value: kzJ8E6rWUTsQwBrgNCiLvHL74ePPpasy8YoinLGF4zg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: qEyvt2XBjKbngSRrcEs7EARvAYf4fw4hNJ7-zZ5FYwc
+  - Value: yiMdARWZeb0V_dLpuQ4VvhKKXQp1YCePCA6UdSAJ6Zw

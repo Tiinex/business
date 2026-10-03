@@ -154,8 +154,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-3-anchor-to-loom-real-host-sigma-gate-shared-mechanics-recovery-package-correction.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-3-anchor-to-loom-real-host-sigma-gate-shared-mechanics-recovery-package-correction.trace.md)
-  - Value: 3UqpEhLZhZKfTUIrPOZAfh5u4b076gyvrOUZPKf7_Wc
+  - Value: WuFq1gpr8bpw2EBNqowcfZeqUTdJeXFtPu0KL7Uh3O8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: E84fsgBmJS49POoaWZCee974GK9lN8FmBP348p6Zz1M
+  - Value: CWl5g3iXnGJAIAhEtMrYl598MmmJqDEj9uwAW6JH84c

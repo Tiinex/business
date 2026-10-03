@@ -46,8 +46,8 @@ Use the successor transition as a test of durable grounding. Recurrent operator 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-processes.trace.md](../../001-processes.trace.md)
-  - Value: -dIbKFmhRYlDVjL-4TkCoeb6KCK-5wH6l4U8zsPgj8s
+  - Value: cb5ORHgmT5h7tcfiX3xUedGVFH9fqhwB7yeRs7WJ34c
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 36pLg0YupLa3sw1FGqwHe6Pkzg9rn6j0DE6xym7-6a8
+  - Value: oAiaOAjUPX4pUHW8NTJASFEzVkBqPC4AzpeJcdwEY50

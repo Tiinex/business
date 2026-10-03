@@ -55,8 +55,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-major-002-latest-sigma-carrier-purity-and-lifecycle-evidence.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-major-002-latest-sigma-carrier-purity-and-lifecycle-evidence.trace.md)
-  - Value: Ui20IC1sFSgAUpWNL9bkAeTjlTtEq65Gc5yppHzTVbI
+  - Value: RXW5BcHsBCv6XEJcyirR3IC8fiZgZX_bGqijfq4cEL8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 9t0Nqr2fEUy6m61S4E8RZTV-aUpbKw92QKSl-4wHG4o
+  - Value: s6kOhJNc3pROqr9amgdk3W2if84YWFAvLzVbPy4EAMk

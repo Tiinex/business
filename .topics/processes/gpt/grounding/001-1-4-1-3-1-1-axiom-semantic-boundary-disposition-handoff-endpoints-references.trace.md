@@ -105,8 +105,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-1-anchor-to-axiom-independent-semantic-boundary-audit.trace.md](001-1-4-1-3-1-anchor-to-axiom-independent-semantic-boundary-audit.trace.md)
-  - Value: cAdJLXSyWI9qEnNYk05DNfEHeNopZrx9o9zXIJ25ygs
+  - Value: FkeacD8T5Kqx9CcMi3ouF_E2mv6r71VKw5ZU02Jv73g
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ZGkh5bDKrRJQNN7P1JK8h85S8BCMBbPmElMJbpIK8EE
+  - Value: 4zzxWWNBWkP8ltBZ5YNwf5VN6ZQDSvGn-wnHQPJ3vY0

@@ -120,8 +120,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-anchor-sigma-real-host-gate-sequencing-disposition.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-anchor-sigma-real-host-gate-sequencing-disposition.trace.md)
-  - Value: EIWkIxhzvtotc9YaT9sZvcTwnFNL5wGuiY17XPub1sA
+  - Value: 6_Y2ESTzMdWPL6xwjvuw6PgAdtsUDgCldW6xgOZi4eY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 8fJfdgCx3ZtsNj3wtIf9a28cvyHQ_AFMW0gmnEYVstQ
+  - Value: UZdlyewyC_2weDvTq42sXVdIImZSiYOF1XgU3eWIT3w

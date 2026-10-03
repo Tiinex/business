@@ -59,8 +59,8 @@ Reduce recipient friction demonstrated by the passed minimal cold-start run with
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [059-anchor-to-anchor-recipient-ux-return-hardening-transition.trace.md](handoffs/059-anchor-to-anchor-recipient-ux-return-hardening-transition.trace.md)
-  - Value: g8nOvNADue4UPwdISHeiHF3irot_KHnJGEpM5gKHY68
+  - Value: a-tg7eyWdYlpgzvkzwCBmyswEY0USjg1hDQyT7C5-2g
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 1UQOoikslensfcVW5cnAPD2ttZsjkOHYC0MktFZOJX8
+  - Value: -vezCvhk0rCoyp5G9t-6KlRYJuFaS2CQZ0KG741Ftog

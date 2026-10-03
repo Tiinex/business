@@ -156,8 +156,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [012-2-anchor-to-anchor-general-stewardship-return-preparation-defect-r.trace.md](012-2-anchor-to-anchor-general-stewardship-return-preparation-defect-r.trace.md)
-  - Value: tVEZnjEbWwQI4BRaMiTnI5CjMyL_YbtgG8fCBem4PP0
+  - Value: wIYbWKt192FXHC3u50cgmp2y_7E02PmUrE0Y1VxZjOM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 5W6uHrnKbbTKymY51-X28bWzldlvlhCC1VGHIWPBlKI
+  - Value: FqNtqxtU7gHMy8e2FOdeI4RvXnI0DZ9cxpuPPLBXPyU

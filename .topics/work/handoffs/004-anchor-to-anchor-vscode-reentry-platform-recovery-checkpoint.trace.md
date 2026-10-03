@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: tiinex.evidence.v1
   - Created At: 2026-09-25 23:35:58
-  - Trace: [002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md](../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
+  - Trace: [002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md](../../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
   - Origin:
-    - [relative](../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
+    - [relative](../../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
 - Current
   - Current Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-25 23:36:50
@@ -24,24 +24,24 @@
 - Purpose: preserve a recoverable Anchor continuation after repeated host/runtime interruption, carrying the exact carrier-017 baseline plus durable bridge-discovery evidence so VS Code thin-bridge work can resume without conversation memory.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Anchor
 - To Kind: role
-- To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
 - vscode-reentry-recovery
   - Transfer Kind: work-and-responsibility
   - Description: resume the bounded VS Code re-entry from the exact carrier-017 source baseline and the new platform-recovery/discovery checkpoint. Reapply only source changes that are independently justified by the rediscovered seams; do not assume interrupted edits survived.
-  - Controlling Artifact: [platform recovery and bridge discovery checkpoint](../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
+  - Controlling Artifact: [platform recovery and bridge discovery checkpoint](../../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
   - Boundary: continue local discovery, implementation, and validation only; no remote mutation or Sigma acceptance is implied.
 
 ## Required Context
 
 - recovery-evidence
   - Material: exact recovery/discovery Evidence that records the qualified source baseline, lost uncheckpointed mutation state, and concrete Core/VS Code bridge seams.
-  - Material Reference: [recovery Evidence](../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
+  - Material Reference: [recovery Evidence](../../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
   - Purpose: prevent conversation-only reconstruction and anchor the next implementation attempt to reproducible source facts.
   - Availability: available
 
@@ -87,7 +87,7 @@
 
 - sigma-final-acceptance
   - Retained By: Sigma
-  - Retained By Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
   - Responsibility: final human acceptance plus commit/push after Anchor returns a stable, fully validated multi-Workspace Handoff Package.
   - Boundary: Sigma is not used as a live debugger for this recovery turn.
 
@@ -118,7 +118,7 @@
 - Signal Kind: result
 - Signal Meaning: Anchor produces a stable multi-Workspace Package V1 checkpoint only after full Core validation, extension local-Core validation, full VS Code build/tests, routed and pointerless actual workflow qualification, and recovery/transport projection checks are green.
 - Return To: Sigma
-- Return To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -130,9 +130,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md](../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
-  - Value: FS1wmUVfBU25C_fa6EAG0DCev6AdgQHBcZyAuFNz4PU
+  - Towards: [002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md](../../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
+  - Value: df99b7NAMhF1VLr5aqmMjNeExxWJ2IzRkjHdb_8xwYM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: sDkAZN1PZCNMElTO_sYOskxmB6EXKQpU-mTDGBC-Fz4
+  - Value: FTwl15Lu1LoSP9OlfI_fJGld2LpHsc58kCCDbIskxG0

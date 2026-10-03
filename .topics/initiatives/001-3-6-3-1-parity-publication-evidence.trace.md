@@ -58,8 +58,8 @@ Node/npm dependency requests cannot resolve registry.npmjs.org in this execution
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-3-6-3-playthings-parity-master-publishing-task.trace.md](001-3-6-3-playthings-parity-master-publishing-task.trace.md)
-  - Value: 78cJ5X-DngDlHi9HdWMLDoIZ0KkHwN2RxnQPA4rNyNA
+  - Value: -pbqQwXuREzBhfLq5o0Oa71R35Z4XEBDh7176dq86qw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: UdcmOWURmW01BU6kavieE6zt6K3jv3dVsDTtqJmgyfI
+  - Value: k19kG9SbYga4hSICPYqPCX4Q-1oIqWikKwrSAWHR8YU

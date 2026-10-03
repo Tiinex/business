@@ -45,7 +45,7 @@
 
 - final-fresh-return
   - Material: exact final fresh Anchor return Handoff whose successor carrier preserved selected-Handoff current-work control.
-  - Material Reference: [Final General Grounding Return](../../../handoffs/002-anchor-to-anchor-final-general-grounding-return.trace.md)
+  - Material Reference: [Final General Grounding Return](../../../work/handoffs/002-anchor-to-anchor-final-general-grounding-return.trace.md)
   - Purpose: preserve the final intergenerational behavioral result without relying on chat history.
   - Availability: available
 
@@ -110,8 +110,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [022-grounding-003-final-general-anchor-grounding-technical-qualification-evidence.trace.md](022-grounding-003-final-general-anchor-grounding-technical-qualification-evidence.trace.md)
-  - Value: 6frBUcRHT0veSfZ1j2hscpVtgvwIMuTJ4HErvTAK_eU
+  - Value: TdYek7aZEMHtxmrCh6MxjfsdtW84dIV5PRdHRUdEtSA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: A8Pp3z4if7_JMw52f_yVPhv5A_w2WYiM-Qz12Mr5tIs
+  - Value: KsBY70gYdDktHSsqm1UcLv5mPKJ-YtcTAPvKEk_TBjs

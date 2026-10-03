@@ -51,7 +51,7 @@
 
 - preceding-fresh-return
   - Material: exact fresh Anchor return Handoff that exposed the generations continuity loss.
-  - Material Reference: [Post-Repair Fresh Successor Replay Return](../../../handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md)
+  - Material Reference: [Post-Repair Fresh Successor Replay Return](../../../work/handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md)
   - Purpose: preserve the original behavioral result and failure boundary without hindsight rewriting.
   - Availability: available
 
@@ -133,8 +133,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [019-grounding-003-intergenerational-current-work-control-preservation-evidence.trace.md](019-grounding-003-intergenerational-current-work-control-preservation-evidence.trace.md)
-  - Value: OH1FnbNeNRUMlzcVuJfG__8nSs3ZdHcJOtz0IJGU10Y
+  - Value: INGBPskSTrnojz0aNZy0TPumGPEUKDysvlzJf5-A3i4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: dpfo8BaizwlVGNP21Qgi6Y537WXAA7GRApMdtDVgFaQ
+  - Value: LnGQgPCtdveFiTWawq6gs2gv1qa-HYgFLpIBtoR4s-g

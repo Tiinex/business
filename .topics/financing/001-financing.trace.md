@@ -35,8 +35,8 @@ Current descendants include project Funds, funding-readiness/financial-provenanc
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-tiinex.trace.md](../001-tiinex.trace.md)
-  - Value: p4YGHsMqWThhcRwqAOWh1RznaqBKd_pndsSvDXyZycQ
+  - Value: ktyPg8Ak50TwtAgUsEWAaM2Dejwhv0RY49fT8AkCwRg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: LTTkyewmuNe9TEAVXdu4Nl28fHjw18N_PzWcMOCIYqg
+  - Value: uEfQuuNQnAJkdu1Rz--gDaIr4lmcEkdM5wuQII9C1q8

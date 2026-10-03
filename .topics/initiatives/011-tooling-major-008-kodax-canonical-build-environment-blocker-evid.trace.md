@@ -92,8 +92,8 @@ Because the exact lockfile dependencies are unavailable in this execution enviro
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [038-anchor-to-kodax-tooling-major-008-thin-vs-code-consumer-and-cano.trace.md](handoffs/038-anchor-to-kodax-tooling-major-008-thin-vs-code-consumer-and-cano.trace.md)
-  - Value: B2EU3tjvSbspOb35xFyyRyO_v0mRHQRQo1HdEpJbZo0
+  - Value: FRvKycczT1ZKggFH1m6E6_OvOtrrbrjs48OR_6opvUQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: yp0Oq9zfAOzwxQ-_i6Ve641F-98Gfc7W0vCHQZ0ylpU
+  - Value: Ex-3dzfEXboAp_-KsPkCwiZ4sqmRi1xM1lmsfaMYiDQ

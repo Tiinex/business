@@ -112,8 +112,8 @@ Review this Decision when a later qualified Anchor Role continuation incorporate
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-2-1-anchor-to-anchor-grounding-major-001-fresh-and-re-grounding-reli.trace.md](002-2-1-anchor-to-anchor-grounding-major-001-fresh-and-re-grounding-reli.trace.md)
-  - Value: CaKHXeO_J9hmruVHJNW2G_2hqEQWVMOVe8q3G1Nuzdg
+  - Value: CaoPXO8JX2PwJaFZxV-EHP5k_7dQp6RegTiUzoN1OlQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 1dEFf4pM9OzJxxBojb_eUrGj-L9oD7aJyviJ7TGsx40
+  - Value: BzmDvY23DqqDEEE85k5DGOzusM7LDw60WZ9Xd9Uhcas

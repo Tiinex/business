@@ -37,8 +37,8 @@ Treat this as a process definition, not as proof that any specific Epic is compl
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Processes](001-processes.trace.md)
-  - Value: -dIbKFmhRYlDVjL-4TkCoeb6KCK-5wH6l4U8zsPgj8s
+  - Value: cb5ORHgmT5h7tcfiX3xUedGVFH9fqhwB7yeRs7WJ34c
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: W3iJjUK4Yk6BZx6ko6BbLuKgkZaoa3TMvG0v_Rj762o
+  - Value: mDldbwKgqjVAMlom8c8KnN8cnB71lXhwNNQE1JlPxfE

@@ -67,8 +67,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Viewer Present State And Atlas Readiness](001-3-3-viewer-present-state-and-atlas-readiness-discovery.trace.md)
-  - Value: N-kZqyfcah-tSE7SnZaSrSSsVp9lfirqBoXMtfmLUuo
+  - Value: 9O060_114D4eO9QAKtByfnSAWd5SW_1jZlMoME9KChU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:yvu8iGTuzLSYzzohFZ2pddBPQTVa2ODsNQ1EyATdi90
+  - Value:sn11i6zblgAHEX7V3T36v7lV9MAOxtAxJJFcEcjDL2k

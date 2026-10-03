@@ -219,8 +219,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-successor-replay-vscode-host-adoption-launched.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-successor-replay-vscode-host-adoption-launched.trace.md)
-  - Value: jO_hlUA0GajZr--CcCz-HO6sQuGomQsisQAZn1793AY
+  - Value: qNEXV4jI2R07K09CDepCT22mZqIyKj0FkPzJsN0VnLM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 5Ofvoj1zJa1I-grDyqO6gIOeFOkYV0rzZHJVZ_b5yLc
+  - Value: rz2hkGvdIL7Q4yfDWi-T7EJzIblhQawmHCo26Y1eZdk

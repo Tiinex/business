@@ -79,8 +79,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [060-anchor-to-anchor-final-minimal-recipient-smoke-recovery.trace.md](handoffs/060-anchor-to-anchor-final-minimal-recipient-smoke-recovery.trace.md)
-  - Value: bTOXsQLq2vCu0CWb7u4e9ft97PzIqbajXQDY6VrV6t0
+  - Value: Vhp1Jeg150V-xxKWaqpA2tq-gZ4urQe73xnZL-aY3ug
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:z0fUOuMymxIGs0ResqFQr6wdhJMBaOH0s5_giOGjfrw
+  - Value:50J2x7cr6tBtw4ZRFycoOPVRNkUD_gGbksbYUh-6jas

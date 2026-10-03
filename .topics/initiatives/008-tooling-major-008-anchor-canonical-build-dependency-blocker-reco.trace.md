@@ -92,8 +92,8 @@ The exact source-contract correction is accepted as bounded, and shared Core beh
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [033-kodax-to-anchor-tooling-major-008-emitted-runtime-parity-depende.trace.md](handoffs/033-kodax-to-anchor-tooling-major-008-emitted-runtime-parity-depende.trace.md)
-  - Value: T2w036PmLTpq4cbI49Ell0mCP7W66iD5LPwt2hYZ4MQ
+  - Value: QwqVJOcasRjM2bnKEnPL4J9L423FI3YIhqBXBo7BjbE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 52x2IwwtkhCobWCXJov7_pzdmqh5Q-Nc56B5Yw4UUjs
+  - Value: h4JIC6Bi4BJaDQLioEQP3pRrCd5jU6mwcOflYLUZGHA

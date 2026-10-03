@@ -63,8 +63,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Artifact, Lineage And Provenance Comprehension](001-3-2-artifact-lineage-provenance-comprehension-task.trace.md)
-  - Value: egsK-v-_-0N0O6NTlVZSPtwJKY-BWSTsICjrTzFY1tQ
+  - Value: B6OsqLoBSIJZQMMXUz0PFORGEPWl2G_ip5VfH4Cz49E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:fimkGxxp0YG83FVJfavmgnMMV8-6ulX9nZjgtGWND58
+  - Value:PcVZ4plsZRV0g-WxsC3sMYGsjUh9P8HHndnKLV5HiBQ

@@ -55,8 +55,8 @@ Core delegation-authority projection and focused regressions only. No Docs seman
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-5-forward-qualified-delegation-closure-projection.trace.md](001-2-7-5-1-5-forward-qualified-delegation-closure-projection.trace.md)
-  - Value: uuKJfUqEV5wQyZw1pzRifnWDGvKTFBspIDHcGJs62aE
+  - Value: DqmnY-bh3nIO-WzUZX3ojjteLiuKHbxIviHnvZlnJ0U
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: yCIqwxGqU4bka7SwoGorNSXFIEWAv_qdzbkyfRgQlCo
+  - Value: UGLFuFEs06xd7uRmdamMThJSQL_MedjmNTasDShpqog

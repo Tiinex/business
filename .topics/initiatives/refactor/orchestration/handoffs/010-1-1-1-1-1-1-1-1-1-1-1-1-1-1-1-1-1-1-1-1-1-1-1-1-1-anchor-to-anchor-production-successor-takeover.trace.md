@@ -76,7 +76,7 @@
 
 - anchor-semantic-capsule
   - Material: Docs-owned Anchor Successor Semantic Grounding Capsule.
-  - Material Reference: [Anchor Successor Semantic Grounding Capsule](docs::.topics/role-authority/001-3-6-4-3-1-1-anchor-successor-semantic-grounding-capsule.trace.md)
+  - Material Reference: [Anchor Successor Semantic Grounding Capsule](docs::.topics/work/role-authority/001-3-6-4-3-1-1-anchor-successor-semantic-grounding-capsule.trace.md)
   - Purpose: durable cross-cutting semantic distinctions for fresh successors.
   - Availability: available
 
@@ -114,7 +114,7 @@
 
 - outreach-provenance
   - Material: Sigma's audience-gap feedback and targeted provenance-community outreach evidence.
-  - Material Reference: [Sigma Audience Reach And External Learning Feedback](business::.topics/business-development/001-3-sigma-audience-reach-and-external-learning-feedback.trace.md)
+  - Material Reference: [Sigma Audience Reach And External Learning Feedback](business::.topics/work/business-development/001-3-sigma-audience-reach-and-external-learning-feedback.trace.md)
   - Purpose: preserve external communication provenance and the rule that outreach is input, not endorsement/semantic authority.
   - Availability: available
 
@@ -177,8 +177,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-vscode-transport-accepted-merge-active.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-vscode-transport-accepted-merge-active.trace.md)
-  - Value: m5fRaI7pfkXP3B2Hp9SLqYQAa5ZXxCYG44nqYhlYT2s
+  - Value: vlRT2slo1sCr32JQ66EMM4SqYzSKkfOU4yeLbge9TvY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: j6rJnhk5iSvszAADNr_hiOh67-cel_aQ_o7q1pW5uMM
+  - Value: 5D0gZXolNGgsOMD_GOJRQWqvcfo2kthhoxDpY5nzoYU

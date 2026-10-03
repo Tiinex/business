@@ -96,8 +96,8 @@ The next gate is the external no-precontext minimal-coldstart run, followed only
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [056-anchor-to-anchor-business-005-behavioral-gate-recovery.trace.md](handoffs/056-anchor-to-anchor-business-005-behavioral-gate-recovery.trace.md)
-  - Value: e887nO6Au8j-qtBVqvqnJSFpVH6N1tvxnWUeU2geNHI
+  - Value: -bb8UfaKI_GNYmkTEYPp-V9Ocj7OD2u_NDihte4byuA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:hY_N4w0lfeiWEK0ypUCs_MccP7cdNfa3XfoUUttEGIQ
+  - Value:lOW6bKDbN7XnSg8Tl7DYxd4Et0MZeSEC-d_H_3ZDdBo

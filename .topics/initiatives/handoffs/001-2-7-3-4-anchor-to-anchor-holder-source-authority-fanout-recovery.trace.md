@@ -67,13 +67,13 @@
 
 - axiom-task
   - Material: Axiom semantic authority-hardening Task in Docs.
-  - Material Reference: [Holder Binding And Implementation Source Authority Semantics](docs::.topics/grounding/006-holder-binding-and-implementation-source-authority-semantics-task.trace.md)
+  - Material Reference: [Holder Binding And Implementation Source Authority Semantics](docs::.topics/work/grounding/006-holder-binding-and-implementation-source-authority-semantics-task.trace.md)
   - Purpose: exact semantic work delegated in parallel.
   - Availability: available
 
 - loom-task
   - Material: Loom Core authority-introspection Task.
-  - Material Reference: [Holder And Source Authority Grounding Introspection](core::.topics/grounding/004-holder-and-source-authority-grounding-introspection-task.trace.md)
+  - Material Reference: [Holder And Source Authority Grounding Introspection](core::.topics/work/grounding/004-holder-and-source-authority-grounding-introspection-task.trace.md)
   - Purpose: exact Tooling work delegated in parallel.
   - Availability: available
 
@@ -122,8 +122,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-3-blind-fresh-anchor-thin-lineage-validation-task.trace.md](../001-2-7-3-blind-fresh-anchor-thin-lineage-validation-task.trace.md)
-  - Value: UIm93s4JX5kGXxdFxwO8Hajgl8iYEVGlY-QfSes2rFE
+  - Value: pWoRLJrxdt1mw16qGdTnFE4GXVS_BWWaE446txxUu0E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: nCXYPvFLXjXuDuR-cNtkoV3ijxevNKT7WMMAExpCtdc
+  - Value: U4UdNPg-EZ7INRrlIeyofMJRy568ims2eqXNUMqvgXU

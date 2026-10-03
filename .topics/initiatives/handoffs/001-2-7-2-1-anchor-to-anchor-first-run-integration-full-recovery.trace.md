@@ -73,13 +73,13 @@
 
 - axiom-first-disposition
   - Material: qualified Axiom semantic disposition from the first fresh specialist run.
-  - Material Reference: [Thin-Lineage Anchor Grounding Semantic Disposition](docs::.topics/grounding/003-thin-lineage-anchor-grounding-semantic-disposition.trace.md)
+  - Material Reference: [Thin-Lineage Anchor Grounding Semantic Disposition](docs::.topics/work/grounding/003-thin-lineage-anchor-grounding-semantic-disposition.trace.md)
   - Purpose: semantic basis already accepted for current Role/Core integration.
   - Availability: available
 
 - loom-first-evidence
   - Material: qualified Loom implementation/test Evidence from the first fresh specialist run.
-  - Material Reference: [Thin-Lineage Grounding Projection Tooling Qualification](core::.topics/grounding/evidence/001-thin-lineage-grounding-projection-tooling-qualification.trace.md)
+  - Material Reference: [Thin-Lineage Grounding Projection Tooling Qualification](core::.topics/work/grounding/evidence/001-thin-lineage-grounding-projection-tooling-qualification.trace.md)
   - Purpose: mechanical qualification and remaining semantic boundary.
   - Availability: available
 
@@ -124,8 +124,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [First Fresh Specialist Integration And Process-Discovery Hardening](../001-2-7-2-first-run-integration-and-process-discovery-hardening-task.trace.md)
-  - Value: C3x0DlggMNSWk-aZ539mEykq7QraPW2VL2oppg1J9-w
+  - Value: apqg9lcLTbaQv9CbCk_2BzVE8D7SLgjIo_eKvW77ir0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:O7Fw4mtzBa21g1b4qoGLOn14HQ3YA8q0o2tNlgVEfZs
+  - Value:1wRF4QW6zdlCxDAWs3dUb22dJBtucL5_PMsQ9gegCXg

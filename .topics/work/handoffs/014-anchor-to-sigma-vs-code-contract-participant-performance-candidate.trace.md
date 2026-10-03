@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: tiinex.evidence.v1
   - Created At: 2026-09-27 19:18:00
-  - Trace: [010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md](../processes/gpt/vscode-reentry/010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md)
+  - Trace: [010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md](../../processes/gpt/vscode-reentry/010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md)
   - Origin:
-    - [relative](../processes/gpt/vscode-reentry/010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md)
+    - [relative](../../processes/gpt/vscode-reentry/010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md)
 - Current
   - Current Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-27 19:19:00
@@ -24,24 +24,24 @@
 - Purpose: return one canonical five-Workspace VS Code candidate after closing Sigma's demonstrated grouped Handoff-authoring, participant-authority, routed pointer and avoidable Outgoing latency defects while preserving frozen Core and the shared human/LLM Tooling architecture.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Sigma
 - To Kind: role
-- To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
 - vscode-contract-participant-performance-candidate
   - Transfer Kind: work-and-responsibility
   - Description: test the exact carried VS Code source in the real Windows VS Code host, focusing on qualified Role-dropdown Handoff authoring, Core-projected participant authority, exact Outgoing Files Handoff/participant pointers, routed Pack, Transport and operator latency. Incoming open/Replace and reviewed Commit/Push are already accepted Sigma paths and need not be repeated unless this source regresses them.
-  - Controlling Artifact: [Contract, participant and latency closure Evidence](../processes/gpt/vscode-reentry/010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md)
+  - Controlling Artifact: [Contract, participant and latency closure Evidence](../../processes/gpt/vscode-reentry/010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md)
   - Boundary: Core remains frozen. VS Code consumes shared Core Tooling and must not infer endpoint/participant authority, pointer material, route identity, carrier lineage, package structure or missing Core capabilities.
 
 ## Required Context
 
 - contract-participant-latency-evidence
   - Material: exact real-host root causes, VS Code corrections, physical pointer/package qualification, comparative benchmarks and remaining Sigma gate.
-  - Material Reference: [Contract, participant and latency closure Evidence](../processes/gpt/vscode-reentry/010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md)
+  - Material Reference: [Contract, participant and latency closure Evidence](../../processes/gpt/vscode-reentry/010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md)
   - Purpose: defines the corrected host boundary and measured reduction of redundant host work.
   - Availability: available
 
@@ -85,7 +85,7 @@
 
 - shared-core-boundary
   - Material: prior shared-Core human-parity and Package V1 qualification lineage.
-  - Material Reference: [shared-Core merge candidate Evidence](../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
+  - Material Reference: [shared-Core merge candidate Evidence](../../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
   - Purpose: preserve the rule that Core owns semantics while VS Code owns human interaction/orchestration.
   - Availability: available
 
@@ -93,7 +93,7 @@
 
 - anchor-blocker-recovery
   - Retained By: Anchor
-  - Retained By Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
   - Responsibility: investigate any concrete reproducible blocker returned by Sigma from this exact candidate, keeping Core frozen unless a separately demonstrated owner-level Core defect or missing capability is reviewed with Sigma.
   - Boundary: Anchor does not infer acceptance, perform remote mutation, or ask Sigma to act as iterative live debugger when supplied evidence can reproduce the blocker.
 
@@ -119,7 +119,7 @@
 - Signal Kind: disposition
 - Signal Meaning: Sigma runs the focused correctness/performance acceptance on this exact candidate and either accepts the source frontier and performs the intended commit/push disposition, or returns one concrete reproducible blocker tied to the exact failing step. Delivery or machine qualification alone does not establish product acceptance.
 - Return To: Anchor
-- Return To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -132,9 +132,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md](../processes/gpt/vscode-reentry/010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md)
-  - Value: 8xGb8BD3mFV0x5F1nmAw4Cqhmu0T17OJf7re32CW9hE
+  - Towards: [010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md](../../processes/gpt/vscode-reentry/010-vs-code-re-entry-contract-participant-and-latency-closure-evidence.trace.md)
+  - Value: ZujKjMK9j3V4hi2ZUI988OyS_DlTEjLj-RBtpxDv91w
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:xMA2n5Stc2Zg6sL02hqtGcRPBomKIv91WAteDTITx7c
+  - Value:3UGQaOjoqTlAKsXkdXaS00VVvrn-7qQrXzS_I_brX6E

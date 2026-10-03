@@ -59,8 +59,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-2-1-1-1-1-identifier-only-historical-role-parent-authoring-correction.trace.md](001-2-7-5-1-2-1-1-1-1-identifier-only-historical-role-parent-authoring-correction.trace.md)
-  - Value: J6vISAbZ5HdMLrD25emWRHWNGgl6hlL9iZJV_IGMufg
+  - Value: wWOQZos2c_h3XVFba9YioALKzWOv0AXt7_g-vr6W-NE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: dHaWh3GK2mRQvU1_9pweXc9uyGuRpyLtuF2Wfz604QU
+  - Value: aDXliLxZKTT6XvmP1-KGy7PrBhyx2tOPQs-H8rGNlGs

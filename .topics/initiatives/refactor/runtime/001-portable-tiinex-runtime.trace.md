@@ -48,8 +48,8 @@ Create the durable repository/task frontier and public package/release readiness
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-turn-2-stable-full-source-frontier.trace.md](../001-turn-2-stable-full-source-frontier.trace.md)
-  - Value: J7eMDpiRtxZpCqeB-lUxH-EtODAqs4XIYFcndqClJnI
+  - Value: 3NcjIRYCC3pj1LAUnwpSItuFz9UFDPzjroC7F1kXaZc
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: J4YII_DXdQ1anoBAkyui3bUot3tX6ClP5IFJVtBxILY
+  - Value: 1AfFchE0YEN3LasNVjj8aenW5PTLhSVYeHuoYabPBNc

@@ -65,8 +65,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Sigma Foundation Workflow Feedback](001-2-sigma-foundation-workflow-feedback.trace.md)
-  - Value: NBeR7FsrkElEfzlQoUZE1dU9TPJthmtiidzD7eeK77g
+  - Value: u7y0dsv9laxfljhouG1X7UfY1exCN6A_Dc04ShEkl1I
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:zdiSNiVXYtTM98FZC1JqotRDZJU7e4Px6dbtqNVj518
+  - Value:q8yxPXuWBQ43WPnXbZb5yISD2034tnxJuxPxvjXL-B0

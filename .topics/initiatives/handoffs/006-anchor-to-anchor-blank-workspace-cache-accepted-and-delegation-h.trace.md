@@ -118,8 +118,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-qualified-delegation-grounding-and-transport-discipline.trace.md](../001-2-7-5-qualified-delegation-grounding-and-transport-discipline.trace.md)
-  - Value: 51KtsftRzPfWMLPOxK1tqdePWBCZyd-rxPwRY9_QQWo
+  - Value: VxA6T2rCEo944PjZ2WEHFYyTqSUBrg3AeZoJT1i-WAw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: -us0t8B-FmPcGiU3yi19xzfTRU3xJTNraKlEvq042Ww
+  - Value: mWYhlZpTLejNp81AeB7HlTuW5b_X9Enw7Wej1bxzxak

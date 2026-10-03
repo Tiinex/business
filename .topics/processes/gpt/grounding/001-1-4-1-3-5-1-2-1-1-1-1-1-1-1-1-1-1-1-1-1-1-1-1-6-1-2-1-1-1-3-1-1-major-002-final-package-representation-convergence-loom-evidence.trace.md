@@ -60,8 +60,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-3-1-anchor-to-loom-major-002-final-package-representation-convergenc.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-3-1-anchor-to-loom-major-002-final-package-representation-convergenc.trace.md)
-  - Value: mJTvcO4Xkr7c3iBB64YdWL50yiNU_RPDWPeOA_QZX38
+  - Value: 4Yy0dqT_2Jc8EEf9MSjex-VRGL4FMwYgI31zficpt5w
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 9zKI8UHUPALxPxE1NWbwMF_dQXKTNHE1v2tUN8HvxXc
+  - Value: tf8IZvvKBUEAYszrUHWIfphrO-wQDpr-rHe0kXY2agE

@@ -116,8 +116,8 @@ The internal source-contract blocker is resolved exactly as Anchor authorized. T
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [032-anchor-to-kodax-tooling-major-008-emitted-runtime-parity-resume.trace.md](handoffs/032-anchor-to-kodax-tooling-major-008-emitted-runtime-parity-resume.trace.md)
-  - Value: O2aBPnKKEJtMajT2h1A5sL9RzIh8FVWSQMERetEmN_s
+  - Value: HuQqEOV7H1gB1bJRmW3oUj_oCxfOH_aUNSTGLPk-wp0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: v1GJvZmogHALyg33U4nWKlbNe4wqeUH8XIK-hGuJf6s
+  - Value: F5j9_A7-8ovsjRchq-mjDXF4xqRwd4NRTDPe0DqxYiQ

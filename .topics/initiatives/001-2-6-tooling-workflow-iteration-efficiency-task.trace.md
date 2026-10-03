@@ -69,8 +69,8 @@ Make Tiinex development iteration observably faster and more parallelizable by m
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Tooling](001-2-tooling-project.trace.md)
-  - Value: id2V3L4aVv616_NbFUngZrbSnZ9T_HN5G-x8Z1003W4
+  - Value: aJ_GwH_29OC2dlx-SOAqDpl792FDjkHc49T3hJ3AiGs
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: HYsccUvA0Y3cWgJbmAOrvD5u4SdCPtbo5UTA2bhXVb4
+  - Value: qbXdUmXy0oO3eQUjPyzZVzVo5ylqP-ty-ssuKk3dy8w

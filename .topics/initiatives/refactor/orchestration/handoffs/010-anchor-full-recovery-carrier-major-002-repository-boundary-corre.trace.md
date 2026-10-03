@@ -198,8 +198,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-repository-boundary-placement-correction.trace.md](../001-1-repository-boundary-placement-correction.trace.md)
-  - Value: N6aESXBT7gissKfKMn5ju7hVnpb-y3o1kA0SpXsCcLg
+  - Value: pN_h8ZLo2Qoa6YlgG7fdPu7SBQ-ke1DmQHXygzeuIdE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: DlJjYcC_uzyR_PBIJ0U1FAUbIfl0kgnElcCQUnScf4Y
+  - Value: SyfqvY-__3sy6kSK6qsbFERiYnM3JoCDtx-SD2QsC2E

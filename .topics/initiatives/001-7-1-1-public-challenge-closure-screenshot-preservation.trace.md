@@ -60,8 +60,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Public Challenge Closure And Bounty Decision](001-7-1-public-challenge-closure-and-bounty-decision-task.trace.md)
-  - Value: 4siTOGBlzCM9sPafQSRZrO7Okw_kqlxlwz3pGDecScc
+  - Value: eetKLYmNe22LEJycrbw4x5Zh3uy6G7Ww1G60IC73Jf0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 6955fdwdMvQeInudNlpi9a8LtM542awawpDWaqx2zbI
+  - Value: RbOgArnjoqeo8x0W6wm_c6K58EqKG1PZMGSTDA1UsP8

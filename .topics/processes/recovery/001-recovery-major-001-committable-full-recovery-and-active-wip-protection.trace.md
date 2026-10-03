@@ -69,8 +69,8 @@ Make Full Recovery a trustworthy restart/checkpoint surface that can be handed t
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [014-1-1-1-anchor-full-recovery-grounding-transport-closed-fresh-succession.trace.md](../../initiatives/refactor/orchestration/handoffs/014-1-1-1-anchor-full-recovery-grounding-transport-closed-fresh-succession.trace.md)
-  - Value: SckhswSreuTsSYO_k_01olLfJsKhqC5VgnXK-lFHa_M
+  - Value: 8qML1yPyk3sUPKxVzvAgmMcFhLUIrUGHdtmPy1lFZLE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: -_YX-EmvHd9U_9qEosRUJkRhZVOx-w4-r-LdCiBhudQ
+  - Value: D7KFZKK0s3ISTgcU7X92v0J7vMWsXw0woOSjswWgOBY

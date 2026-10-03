@@ -115,8 +115,8 @@ The user supplied only the qualified Handoff package plus the normal Start/Conti
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-2-1-2-2-1-anchor-to-fresh-anchor-grounding-major-001-independent-behaviora.trace.md](002-2-1-2-2-1-anchor-to-fresh-anchor-grounding-major-001-independent-behaviora.trace.md)
-  - Value: wskUTKsa0a6s8czzPgyH2Jjd2hiCpMVSGF5PpuCwJI4
+  - Value: AiaQvbiyUvMwQNslW-F9nhzBJ2p2U7p2AaVMm62U5yA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: X-fe7Nr4wM8ulDSvwwz8OKBqIuvEPwTLrifNkQC45kg
+  - Value: 1WHomdqS7vtqTOGTxi_14AvaBPd82cWCzCXVSCUMO9I

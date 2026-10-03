@@ -75,8 +75,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [042-anchor-to-anchor-direct-package-v1-implementation-checkpoint.trace.md](handoffs/042-anchor-to-anchor-direct-package-v1-implementation-checkpoint.trace.md)
-  - Value: iDm7kL_c17Xb4WH7vyhbceLcnvbLg9-FDPEbxZTksqs
+  - Value: syDxSimLc2ilIZVezriwB-yoyp6TD53lvqXa6ebljGo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:MvcHbBtPTE-TJI3JXurnFq9B1FYSWpFcp8PuiAmUqkU
+  - Value:Nva8ig1RwyhklMXhMSYBIbpnwTW87NXNcAaAAu0HwuI

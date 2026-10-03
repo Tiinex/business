@@ -49,8 +49,8 @@ Current source is the user-replaced Workspace payloads in tiinex-all-002, not it
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-3-6-core-app-site-extraction-task.trace.md](001-3-6-core-app-site-extraction-task.trace.md)
-  - Value: SOxxB77pxLrbHBJ3AodTGDgynI770PNNulV-Ov0MPqQ
+  - Value: KchXq9Hb_zV5SqD58G2ps36Ts5T4jG0VBAaY4bSQcG8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 78cJ5X-DngDlHi9HdWMLDoIZ0KkHwN2RxnQPA4rNyNA
+  - Value: -pbqQwXuREzBhfLq5o0Oa71R35Z4XEBDh7176dq86qw

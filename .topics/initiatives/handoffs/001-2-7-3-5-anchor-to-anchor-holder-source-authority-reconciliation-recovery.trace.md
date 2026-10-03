@@ -67,13 +67,13 @@
 
 - axiom-semantic-return
   - Material: Axiom holder/source authority semantic disposition and return.
-  - Material Reference: [Holder Binding And Implementation Source Authority Semantic Disposition](docs::.topics/grounding/007-holder-binding-implementation-source-authority-semantic-disposition.trace.md)
+  - Material Reference: [Holder Binding And Implementation Source Authority Semantic Disposition](docs::.topics/work/grounding/007-holder-binding-implementation-source-authority-semantic-disposition.trace.md)
   - Purpose: accepted semantic contract reconciled by Anchor.
   - Availability: available
 
 - loom-mechanical-return
   - Material: Loom holder/source introspection qualification and return.
-  - Material Reference: [Holder And Source Authority Grounding Introspection Qualification](core::.topics/grounding/evidence/004-holder-and-source-authority-grounding-introspection-qualification.trace.md)
+  - Material Reference: [Holder And Source Authority Grounding Introspection Qualification](core::.topics/work/grounding/evidence/004-holder-and-source-authority-grounding-introspection-qualification.trace.md)
   - Purpose: accepted Core provenance/diagnostic mechanics and 125/125 regression basis.
   - Availability: available
 
@@ -132,8 +132,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-3-4-anchor-to-anchor-holder-source-authority-fanout-recovery.trace.md](001-2-7-3-4-anchor-to-anchor-holder-source-authority-fanout-recovery.trace.md)
-  - Value: nCXYPvFLXjXuDuR-cNtkoV3ijxevNKT7WMMAExpCtdc
+  - Value: U4UdNPg-EZ7INRrlIeyofMJRy568ims2eqXNUMqvgXU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 7qcNNZp4fE3FpVG3Y7xdHw13DSEtLES_N7hXhQ2X2Ys
+  - Value: JLJV67OKXspogY-HT6E5jGs2AWpcJIrwl9iZkAF2kKo

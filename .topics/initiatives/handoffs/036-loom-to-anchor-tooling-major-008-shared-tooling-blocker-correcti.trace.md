@@ -162,8 +162,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [011-tooling-major-008-real-role-projection-and-clean-cache-path-corr.trace.md](../../processes/gpt/grounding/011-tooling-major-008-real-role-projection-and-clean-cache-path-corr.trace.md)
-  - Value: QX5DL1UIM01xpMh0Ldi5gm7_l2QTCw6wNVpzUSX53bg
+  - Value: XZ9AcxUnTZ_FGli5YX2xjS48k0Rsmr4aBtJAUmNesvk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: gxVg4Qsd5VjGFRADRq4W1feW7w2f-gXZssr7b5IoImI
+  - Value: YXZNDfDNjDvfDu8P5uu2lB6KeiQcEh6PGnDg6XW7wAg

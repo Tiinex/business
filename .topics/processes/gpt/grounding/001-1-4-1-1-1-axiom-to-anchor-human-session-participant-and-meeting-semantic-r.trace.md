@@ -186,8 +186,8 @@ VS Code may render participant choices only from shared qualified participant pr
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-1-anchor-to-axiom-human-session-participant-and-meeting-semantics.trace.md](001-1-4-1-1-anchor-to-axiom-human-session-participant-and-meeting-semantics.trace.md)
-  - Value: a7Do5DpfVqEGt_wMf06bNT7v1_nQ3DeS5F5nl0IO8bM
+  - Value: VgX8fUFPrL-DcQ4i06o_EECFjqorsMyaIwQms3O2WnM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 5kDQJHxNKucBnqMA4xe9sUM_K1aC7Hb41_Otp82Lc3o
+  - Value: LQOwBQNYWmTIrH9vHyf1v0zQpaHGmomc6LomepSgvaI

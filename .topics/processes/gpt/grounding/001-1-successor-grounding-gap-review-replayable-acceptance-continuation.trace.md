@@ -84,8 +84,8 @@ This process evaluates successor usability and authority discipline. It does not
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-successor-grounding-gap-review.trace.md](001-successor-grounding-gap-review.trace.md)
-  - Value: sG5Tz4QeMy8Z-o_BuS7VabfKgwoTU3CCMV4oTMq0y-U
+  - Value: S1r5VJ_-9j4XrYk3DyExtga93utGwQNk_3JCRkF_7zM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: DjnF_Noi43gzPhSzb1tvkZumUyBy_ZOK7H--_dtg5pI
+  - Value: IMjiA5R4svBny6k_qtVMVP6rD7CLQ-v4_jShwYbm9pY

@@ -161,8 +161,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-3-major-002-final-handoff-package-convergence-and-vs-code-shared-c.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-3-major-002-final-handoff-package-convergence-and-vs-code-shared-c.trace.md)
-  - Value: UHveabmJPnd_Xcd2Zq0VujGITB3GYRIsOnunsLN1zwU
+  - Value: vjIuR02JuqDuRXl8BIEb24Fmg6WMUp5aD4BUjLZZclw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: N_2yiXqIGB_GEdWflZjAm2bwKeI4w8JmdHOHysT_7Tw
+  - Value: SVIqaqHDihm1FPZ9EHfZbkUtg0gJ-YOMHum4FUwpIdI

@@ -163,7 +163,7 @@
 
 - core-major-005-return
   - Material: accepted Core Major 005 return.
-  - Material Reference: [Core Major 005 Return](core::.topics/refactor/orchestration/handoffs/001-3-6-4-2-1-1-1-1-1-loom-to-anchor-core-major-005-reconciliation-and-manufacture-pro.trace.md)
+  - Material Reference: [Core Major 005 Return](core::.topics/work/refactor/orchestration/handoffs/001-3-6-4-2-1-1-1-1-1-loom-to-anchor-core-major-005-reconciliation-and-manufacture-pro.trace.md)
   - Purpose: exact reconciliation/manufacture proof implementation/result.
   - Availability: available
 
@@ -175,7 +175,7 @@
 
 - docs-successor-grounding
   - Material: accepted successor semantic grounding and evolved Anchor Role/process baseline.
-  - Material Reference: [Anchor Successor Semantic Grounding Capsule](docs::.topics/role-authority/001-3-6-4-3-1-1-anchor-successor-semantic-grounding-capsule.trace.md)
+  - Material Reference: [Anchor Successor Semantic Grounding Capsule](docs::.topics/work/role-authority/001-3-6-4-3-1-1-anchor-successor-semantic-grounding-capsule.trace.md)
   - Purpose: stable current Anchor evolution boundary.
   - Availability: available
 
@@ -243,8 +243,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-successor-evolution-frontier.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-successor-evolution-frontier.trace.md)
-  - Value: dtt3pYQVFNg1lrBSXlbJ7kD8cEUoKCEoaOTTcIPZDCY
+  - Value: oj1c4GsAr-ECEvYl6kBFPHb0lIimTO52fw1-dHZyokk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: YGLGP4O8ZcL1OA3-P_joxSlbk3pF0tu-ErcnVKpIA20
+  - Value: 4kpuaquVO4OgLc9q77A53ZhqfTKKZFurqdCRcmkiC2U

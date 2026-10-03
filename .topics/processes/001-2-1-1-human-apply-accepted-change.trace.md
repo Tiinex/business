@@ -101,8 +101,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Prepare Accepted Candidate](001-2-1-prepare-accepted-candidate.trace.md)
-  - Value: fHPOn_mdMFWkru0cb6xxm1GS5983uhxS_Ok4V8F087Y
+  - Value: ITb_D-KXJEPEL1oR-RGuqZv5XEpSvkNHnWa2SRXyhBo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: X5KR12tB-DoCpAWcruafw2ZBXaxx-s1Ft7L3v_4doR8
+  - Value: 9SCvGYGURlAPU7M0Nn04juK-K4-X4Fke0wH457jwyxM

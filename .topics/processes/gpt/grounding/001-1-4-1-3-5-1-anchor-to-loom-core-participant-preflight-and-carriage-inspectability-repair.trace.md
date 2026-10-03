@@ -152,8 +152,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-core-participant-preflight-and-carriage-inspectability-repair.trace.md](001-1-4-1-3-5-core-participant-preflight-and-carriage-inspectability-repair.trace.md)
-  - Value: VqWQSVmQhbxUP-q5_9C6Lo-Wvtx8b9uQCpoOt8U9Crs
+  - Value: ROVctiXJQtgcT7uy2ObFja6cZcJUolj4YJXf1GVZfhM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: tlw-pgxfi98q591KT2IJsJfkSw1RdghEXugvAu1EN_E
+  - Value: t6mZzT26oQDBqKjUJblnmEw59u9s5ERiBcEPoYS6h8o

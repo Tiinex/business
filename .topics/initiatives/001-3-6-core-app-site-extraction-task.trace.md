@@ -48,8 +48,8 @@ The new Core repository is an implementation/distribution boundary, not a reassi
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Viewer](001-3-viewer-project.trace.md)
-  - Value: Z9OpOKoRrUw36W8_jOf7E3_-Ec36pqymqyIHKtYWIYc
+  - Value: Qs60jEJaQpzTNqsCG9oQNswwk5r_X7rn4N8wO8xt7VI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:SOxxB77pxLrbHBJ3AodTGDgynI770PNNulV-Ov0MPqQ
+  - Value:KchXq9Hb_zV5SqD58G2ps36Ts5T4jG0VBAaY4bSQcG8

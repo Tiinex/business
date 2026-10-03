@@ -67,8 +67,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-project-wide-lineage-reduction-and-survivor-repair-task.trace.md](001-project-wide-lineage-reduction-and-survivor-repair-task.trace.md)
-  - Value: 3rSxxVEUc3iIPBmND7UP-pvCcsyKr-wGQojfunOWiFo
+  - Value: 55utYlk21AZSGTYFJsA3E0MgXstEOyLT8XJxCkD8rUg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: S1b2YdIhX9BYAVD5I2mS1Y9zrB8LJ59zpyDr6sAoOTQ
+  - Value: 0Qw7x51blf_aQrxOguLVah0YtB-IEe7VmApU3nAOEVg

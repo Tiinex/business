@@ -57,8 +57,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [039-kodax-to-anchor-tooling-major-008-canonical-build-environment-bl.trace.md](handoffs/039-kodax-to-anchor-tooling-major-008-canonical-build-environment-bl.trace.md)
-  - Value: tk0Joyy28-tF8MwdsVcB4g9beh30ipvGHYHC-FwS-bs
+  - Value: 6KGlVBWNzOP7KoWkhi9vavEkyIMFXDQeRZH_k_Pkoug
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: lthkAJvz7Qhgdmm7x2e_SFerzJP8qATAk1kprgCWo58
+  - Value: 0jIH7vOdThKrKfaKgZmyVF9sSfQwLv30dF75thkU-fo

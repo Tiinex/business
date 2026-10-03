@@ -152,7 +152,7 @@ A reader or LLM should state these as unknown or undeclared rather than filling 
 - Roadmap: [Tiinex Roadmap](../initiatives/001-5-roadmap.trace.md)
 - Current roadmap roll-up: [Tiinex Roadmap Follow](../initiatives/001-5-1-roadmap-follow.trace.md)
 - Current Foundation gate: [Foundation Readiness And Operating Reconciliation](../initiatives/001-6-foundation-readiness-operating-reconciliation-task.trace.md)
-- Current Business-repository workbench: [Tiinex Business Development](../business-development/001-business-development-project.trace.md)
+- Current Business-repository workbench: [Tiinex Business Development](../work/business-development/001-business-development-project.trace.md)
 - Repository-only LLM acceptance: [Business Repository-Only Cold-Start Acceptance](../initiatives/001-6-1-business-repository-only-cold-start-acceptance-task.trace.md)
 - Product areas: [Initiatives](../initiatives/001-initiatives.trace.md), [Core](../initiatives/001-1-core-project.trace.md), [Tooling](../initiatives/001-2-tooling-project.trace.md), [Viewer](../initiatives/001-3-viewer-project.trace.md)
 - Responsibility boundaries: [Roles](../roles/001-roles.trace.md)
@@ -169,8 +169,8 @@ This artifact is an executive synthesis of current Business authority. It is not
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex](../001-tiinex.trace.md)
-  - Value: p4YGHsMqWThhcRwqAOWh1RznaqBKd_pndsSvDXyZycQ
+  - Value: ktyPg8Ak50TwtAgUsEWAaM2Dejwhv0RY49fT8AkCwRg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:esDgVwGISDuNI5sPxe0oxKlDS3YEwKsVlV-XSY8KCs8
+  - Value:wYJcWk3mw9VG1O8hYy8FSxDpx8-kZMpf1hsubLy5N4c

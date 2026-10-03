@@ -39,13 +39,13 @@
 - docs-major-007-launched
   - Transfer Kind: work-and-responsibility
   - Description: preserve the corrected root-connected Docs Major 007 Task/Handoff that asks Axiom to decide bootstrap-only/zero-material carrier semantics, qualified material/Role carriage, recipient derivation, transport-text projection and package-cleanliness boundaries.
-  - Controlling Artifact: [Docs Major 007 Task](docs::.topics/handoff-package/001-1-1-1-docs-major-007-minimal-carrier-material-carriage-recipient-semantics-task.trace.md)
+  - Controlling Artifact: [Docs Major 007 Task](docs::.topics/work/handoff-package/001-1-1-1-docs-major-007-minimal-carrier-material-carriage-recipient-semantics-task.trace.md)
   - Boundary: Axiom owns semantics only; no Core or VS Code mutation is authorized.
 
 - core-major-008-activated
   - Transfer Kind: work-and-responsibility
   - Description: preserve the already-authored Core Major 008 bounded Handoff-carrier recipient-v2 closure lane as the mechanical prerequisite for carrying exact bounded Role/context material without whole-Workspace overcarriage.
-  - Controlling Artifact: [Core Major 008 Task](core::.topics/refactor/orchestration/003-core-major-008-bounded-handoff-carrier-isolation-recipient-closure.trace.md)
+  - Controlling Artifact: [Core Major 008 Task](core::.topics/work/refactor/orchestration/003-core-major-008-bounded-handoff-carrier-isolation-recipient-closure.trace.md)
   - Boundary: Core008 does not decide zero-material package semantics or recipient meaning.
 
 - human-readable-package-invariant
@@ -160,13 +160,13 @@
 
 - prior-package-semantic-reconciliation
   - Material: original Axiom Handoff Package semantic reconciliation establishing the current complete-Workspace package rule.
-  - Material Reference: [Handoff Package Semantic Reconciliation](docs::.topics/handoff-package/001-axiom-handoff-package-semantic-reconciliation.trace.md)
+  - Material Reference: [Handoff Package Semantic Reconciliation](docs::.topics/work/handoff-package/001-axiom-handoff-package-semantic-reconciliation.trace.md)
   - Purpose: historical canonical basis under bounded reconsideration in Docs Major 007.
   - Availability: available
 
 - core008-handoff
   - Material: Anchor to Loom Core Major 008 bounded-carrier Handoff.
-  - Material Reference: [Core Major 008 Handoff](core::.topics/refactor/orchestration/handoffs/003-1-anchor-to-loom-core-major-008-bounded-handoff-carrier-isolation-recipient-closure.trace.md)
+  - Material Reference: [Core Major 008 Handoff](core::.topics/work/refactor/orchestration/handoffs/003-1-anchor-to-loom-core-major-008-bounded-handoff-carrier-isolation-recipient-closure.trace.md)
   - Purpose: exact mechanical scope delegated to Loom.
   - Availability: available
 
@@ -223,8 +223,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-successor-isolation-core008-launch.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-successor-isolation-core008-launch.trace.md)
-  - Value: _RoWgH9y8lX8H6kl3vo-xDhDbX43IuZiX62jGWaw1jY
+  - Value: kwD8s62y9wwShMa8G5emV3S2rLjG6eoO1psFyvj6DyA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: FxKQJQgn9FVjE06fHwW6EQGOGs2JIk2o9FjO1WeIpvE
+  - Value: dr7NUNozGJBNiLDw-aDp-hnM_01Tms9wYO-JRVCrrnM

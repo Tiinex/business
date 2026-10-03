@@ -40,7 +40,7 @@
 - bounded-workspace-readiness-integration
   - Transfer Kind: work-and-responsibility
   - Description: carry the accepted Core implementation that permits independently qualified bounded Handoff routes to become action-ready without broadening source or orchestration authority.
-  - Controlling Artifact: [Bounded Workspace Grounding Readiness — Thin-Lineage Test 2](core::.topics/grounding/003-bounded-workspace-grounding-readiness-task.trace.md)
+  - Controlling Artifact: [Bounded Workspace Grounding Readiness — Thin-Lineage Test 2](core::.topics/work/grounding/003-bounded-workspace-grounding-readiness-task.trace.md)
   - Boundary: bounded source remains bounded; missing Required Context/Role/Parent/holder/route authority still blocks exactly.
 
 ## Required Context
@@ -122,8 +122,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-3-blind-fresh-anchor-thin-lineage-validation-task.trace.md](../001-2-7-3-blind-fresh-anchor-thin-lineage-validation-task.trace.md)
-  - Value: UIm93s4JX5kGXxdFxwO8Hajgl8iYEVGlY-QfSes2rFE
+  - Value: pWoRLJrxdt1mw16qGdTnFE4GXVS_BWWaE446txxUu0E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 1cNfACrrHM4XKgBeGuEj1pUMwRco1SXAKUdKoCoTlic
+  - Value: W2IptbfhTf8P_8_c04SXsnVmcJih5w4IbsIVmMc1nBI

@@ -70,8 +70,8 @@ Business/Anchor orchestration, initiative lineage, cross-role routing, return re
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Thin-Lineage Anchor Grounding And Orchestration Reliability Epic](001-2-7-thin-lineage-anchor-grounding-orchestration-epic.trace.md)
-  - Value: f0iMMxJZ5jrOIRd7SjL14TG2K-HriaX17b7g784ItO0
+  - Value: 0m0GzTrrKzgIlf48M98tVUVYGCiVrcODzNnkx2aTpM0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:IY7hFKsFLzB1CTOKtN_9_GpFpo0gmF4NeTR2iln7o7c
+  - Value:WyrXMRL2PH0ZyKqKvWrDdHbGxH81Wdx-R8xFLDDhg1E

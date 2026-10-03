@@ -34,8 +34,8 @@
 - core-major-010-accepted-resolver-correctness
   - Transfer Kind: responsibility
   - Description: accept the qualified Loom/Core candidate that makes Parent integrity method-aware and preserves explicit historical repository/ref identity instead of aliasing current same-path bytes.
-  - Controlling Artifact: [Core Major 010 — Parent Integrity Resolution Correctness](core::.topics/refactor/orchestration/010-core-major-010-parent-integrity-resolution-correctness.trace.md)
-  - Return Evidence: [Loom To Anchor — Core Major 010 Parent Integrity Resolution Correctness Return](core::.topics/refactor/orchestration/handoffs/010-1-1-loom-to-anchor-core-major-010-parent-integrity-resolution-correc.trace.md)
+  - Controlling Artifact: [Core Major 010 — Parent Integrity Resolution Correctness](core::.topics/work/refactor/orchestration/010-core-major-010-parent-integrity-resolution-correctness.trace.md)
+  - Return Evidence: [Loom To Anchor — Core Major 010 Parent Integrity Resolution Correctness Return](core::.topics/work/refactor/orchestration/handoffs/010-1-1-loom-to-anchor-core-major-010-parent-integrity-resolution-correc.trace.md)
   - Boundary: acceptance covers shared Core resolver mechanics and their carried validation evidence only; it does not authorize destructive Reduction, release, publication, commit, push or Docs semantic weakening.
 
 - integrity-major-001-mechanical-follow-up-closed
@@ -145,7 +145,7 @@
 
 - core-major-010-return
   - Material: qualified Loom-to-Anchor Core Major 010 return.
-  - Material Reference: [Loom To Anchor — Core Major 010 Parent Integrity Resolution Correctness Return](core::.topics/refactor/orchestration/handoffs/010-1-1-loom-to-anchor-core-major-010-parent-integrity-resolution-correc.trace.md)
+  - Material Reference: [Loom To Anchor — Core Major 010 Parent Integrity Resolution Correctness Return](core::.topics/work/refactor/orchestration/handoffs/010-1-1-loom-to-anchor-core-major-010-parent-integrity-resolution-correc.trace.md)
   - Purpose: exact implementation delta, root cause and validation evidence accepted by Anchor.
   - Availability: available
 
@@ -215,8 +215,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [013-anchor-full-recovery-reduction-and-integrity-parallel-batch-inte.trace.md](013-anchor-full-recovery-reduction-and-integrity-parallel-batch-inte.trace.md)
-  - Value: ypmzB6IeQWWX6uxkUlok94015tyPFciqZqBcjyj-4ck
+  - Value: GO0S7SzSk8roylM2B_AnRQxndidTFB8EozVdSeL11RA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Zk3KfmN1YL0Zvy3_fOolCLb0zgkJ-Dwmjw6G0t3CDZE
+  - Value: IDkJApyMFfrWBmqeCu_JX9QzR2yWdV-5Ge8iVJKJKCc

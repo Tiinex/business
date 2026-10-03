@@ -115,8 +115,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [015-tooling-major-008-package-v1-risk-closure-and-acceptance-evidence.trace.md](../015-tooling-major-008-package-v1-risk-closure-and-acceptance-evidence.trace.md)
-  - Value: Anf5H0Y2_3CEAfvPvEbrPhhHzyr7N6a7r2f4ZpFvglQ
+  - Value: IPvXRElFqJ603cJG0G8OgaR_pEBAQk1SYVDsoejX7HQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:mgMS4VhnpIrJVuAdk-QkecmYvlxPreqloKdpFcjPSUg
+  - Value:Cbz9P_QPNDKE2VlESMlqO87a2PWQ107YC6SqdrrexcI

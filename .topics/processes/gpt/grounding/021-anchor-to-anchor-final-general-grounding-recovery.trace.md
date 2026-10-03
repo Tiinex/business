@@ -57,7 +57,7 @@
 
 - fresh-return-that-exposed-generation-loss
   - Material: exact fresh return Handoff whose missing control field exposed the intergenerational fallback defect.
-  - Material Reference: [Post-Repair Fresh Successor Replay Return](../../../handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md)
+  - Material Reference: [Post-Repair Fresh Successor Replay Return](../../../work/handoffs/001-anchor-to-anchor-post-repair-fresh-successor-replay-return.trace.md)
   - Purpose: preserve the original failure boundary and prevent hindsight from erasing the demonstrated generations defect.
   - Availability: available
 
@@ -127,8 +127,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [020-anchor-to-fresh-anchor-final-intergenerational-grounding-replay.trace.md](020-anchor-to-fresh-anchor-final-intergenerational-grounding-replay.trace.md)
-  - Value: dpfo8BaizwlVGNP21Qgi6Y537WXAA7GRApMdtDVgFaQ
+  - Value: LnGQgPCtdveFiTWawq6gs2gv1qa-HYgFLpIBtoR4s-g
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: OK8Vp7AKeOWVo0D3B2rZXITFpNK7FS1hQpxiACAXEQg
+  - Value: fzQLjcFpn2MAcjTotCcFsY69HRM3JWTl2QozKD-ud9I

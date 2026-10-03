@@ -37,8 +37,8 @@ Concrete bounded use-case descendants when a scenario is useful enough to preser
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex](../001-tiinex.trace.md)
-  - Value: p4YGHsMqWThhcRwqAOWh1RznaqBKd_pndsSvDXyZycQ
+  - Value: ktyPg8Ak50TwtAgUsEWAaM2Dejwhv0RY49fT8AkCwRg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:CG5-37pyBAATVTWlOvAL3ua8wlYFl-JrAH3e52d0n7Y
+  - Value:C9I4otLcADjxnhl_zOsJO-8Pa1TzumdR32T8-hcRcrI

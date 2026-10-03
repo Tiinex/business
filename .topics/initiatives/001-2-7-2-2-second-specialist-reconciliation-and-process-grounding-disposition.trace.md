@@ -85,8 +85,8 @@ For future manufacture:
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-2-first-run-integration-and-process-discovery-hardening-task.trace.md](001-2-7-2-first-run-integration-and-process-discovery-hardening-task.trace.md)
-  - Value: C3x0DlggMNSWk-aZ539mEykq7QraPW2VL2oppg1J9-w
+  - Value: apqg9lcLTbaQv9CbCk_2BzVE8D7SLgjIo_eKvW77ir0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: gU-QX2HAUxWcJHp2Bczz5AFeEsNI57ic5FnWxUu7DBI
+  - Value: 8YLxGKIEUrNyE49QO2mM-6wvoNuqklxeQOhO9bF0fpg

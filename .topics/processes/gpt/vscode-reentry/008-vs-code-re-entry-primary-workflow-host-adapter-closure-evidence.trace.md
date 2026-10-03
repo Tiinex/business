@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-27 13:52:00
-  - Trace: [011-anchor-to-sigma-vs-code-embedded-bootstrap-primary-workflow-candidate.trace.md](../../../handoffs/011-anchor-to-sigma-vs-code-embedded-bootstrap-primary-workflow-candidate.trace.md)
+  - Trace: [011-anchor-to-sigma-vs-code-embedded-bootstrap-primary-workflow-candidate.trace.md](../../../work/handoffs/011-anchor-to-sigma-vs-code-embedded-bootstrap-primary-workflow-candidate.trace.md)
   - Origin:
-    - [relative](../../../handoffs/011-anchor-to-sigma-vs-code-embedded-bootstrap-primary-workflow-candidate.trace.md)
+    - [relative](../../../work/handoffs/011-anchor-to-sigma-vs-code-embedded-bootstrap-primary-workflow-candidate.trace.md)
 - Current
   - Current Schema: tiinex.evidence.v1
   - Created At: 2026-09-27 16:11:32
@@ -65,9 +65,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [011-anchor-to-sigma-vs-code-embedded-bootstrap-primary-workflow-candidate.trace.md](../../../handoffs/011-anchor-to-sigma-vs-code-embedded-bootstrap-primary-workflow-candidate.trace.md)
-  - Value: AgHKtSkWAm9HO47wJ5yDwQSMGLMPdms1TpeeUG2QTEQ
+  - Towards: [011-anchor-to-sigma-vs-code-embedded-bootstrap-primary-workflow-candidate.trace.md](../../../work/handoffs/011-anchor-to-sigma-vs-code-embedded-bootstrap-primary-workflow-candidate.trace.md)
+  - Value: vo3qyEeYs-UjXVn4BBkiz1GUek7E8WFpuZhi1NCvUb4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: KEeyiPE04Rxi71qXGz022uM9_xNeyL2Wa4D_uOT1fds
+  - Value: xA6LapVPrBuWaUKCfvFm0PVoiLokkdiBmV1PhV8TM4E

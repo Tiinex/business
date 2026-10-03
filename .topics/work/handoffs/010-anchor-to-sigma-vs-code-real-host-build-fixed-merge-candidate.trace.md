@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: tiinex.evidence.v1
   - Created At: 2026-09-26 22:36:06
-  - Trace: [006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md](../processes/gpt/vscode-reentry/006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md)
+  - Trace: [006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md](../../processes/gpt/vscode-reentry/006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md)
   - Origin:
-    - [relative](../processes/gpt/vscode-reentry/006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md)
+    - [relative](../../processes/gpt/vscode-reentry/006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md)
 - Current
   - Current Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-26 22:36:45
@@ -24,24 +24,24 @@
 - Purpose: return the exact five-Workspace bridge candidate after closing the TypeScript build blocker found in Sigma's first real VS Code run, while preserving frozen Core and the existing human/LLM shared-tooling architecture.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Sigma
 - To Kind: role
-- To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
 - vscode-real-host-build-fixed-merge-candidate
   - Transfer Kind: work-and-responsibility
   - Description: run the corrected VS Code source in the real Windows VS Code host. The only new source delta after Sigma's failed build is the bounded TypeScript projection typing correction documented by the controlling Evidence. Continue evaluating Discovery, Incoming, Outgoing and Transport as the primary human-facing surfaces.
-  - Controlling Artifact: [Real-host build blocker closure Evidence](../processes/gpt/vscode-reentry/006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md)
+  - Controlling Artifact: [Real-host build blocker closure Evidence](../../processes/gpt/vscode-reentry/006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md)
   - Boundary: Core remains frozen. Do not compensate for future host issues by changing Core or restoring V2/legacy paths without a separately demonstrated and reviewed Core blocker.
 
 ## Required Context
 
 - build-fix-evidence
   - Material: exact diagnosis, correction, tests and remaining real-host gate for the Windows build blocker.
-  - Material Reference: [Real-host build blocker closure Evidence](../processes/gpt/vscode-reentry/006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md)
+  - Material Reference: [Real-host build blocker closure Evidence](../../processes/gpt/vscode-reentry/006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md)
   - Purpose: lets Sigma distinguish this bounded host typing fix from semantic/tooling changes.
   - Availability: available
 
@@ -85,7 +85,7 @@
 
 - shared-core-human-parity-boundary
   - Material: preceding shared-Core human-parity merge-candidate Evidence and Handoff lineage.
-  - Material Reference: [preceding qualification Evidence](../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
+  - Material Reference: [preceding qualification Evidence](../../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
   - Purpose: preserve the architectural rule that Core owns semantics while VS Code owns human interaction/orchestration.
   - Availability: available
 
@@ -93,7 +93,7 @@
 
 - anchor-blocker-recovery
   - Retained By: Anchor
-  - Retained By Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
   - Responsibility: investigate any new concrete real-host blocker returned by Sigma, keeping Core frozen unless Sigma agrees a demonstrated Core defect justifies reopening it.
   - Boundary: Anchor does not infer Sigma acceptance or perform remote mutation from delivery of this package.
 
@@ -119,7 +119,7 @@
 - Signal Kind: disposition
 - Signal Meaning: Sigma reruns the exact corrected candidate in real VS Code and either accepts/commits the candidate or returns the next concrete blocker. Successful local delivery alone does not establish merge, push or product acceptance.
 - Return To: Anchor
-- Return To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -131,9 +131,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md](../processes/gpt/vscode-reentry/006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md)
-  - Value: OU2U7hcl_KJBE-GJtXAi4oIF8659xGo_7VjM_IJmtzQ
+  - Towards: [006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md](../../processes/gpt/vscode-reentry/006-vs-code-re-entry-real-host-build-blocker-closure-evidence.trace.md)
+  - Value: LZEotJLQSssMCVl0aRWFFd9X3wnd59gkOJdTYGQ51_g
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: WmPkiR3rLTPyDqaR121QbMxO5yzWF_8znr_45upf810
+  - Value: kqYdco6JBVPbi62yLl96IuAAPAzC6KLolULo2tzxS5Y

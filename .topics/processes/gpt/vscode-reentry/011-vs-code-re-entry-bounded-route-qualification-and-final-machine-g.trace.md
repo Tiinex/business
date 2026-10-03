@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-27 19:19:00
-  - Trace: [014-anchor-to-sigma-vs-code-contract-participant-performance-candidate.trace.md](../../../handoffs/014-anchor-to-sigma-vs-code-contract-participant-performance-candidate.trace.md)
+  - Trace: [014-anchor-to-sigma-vs-code-contract-participant-performance-candidate.trace.md](../../../work/handoffs/014-anchor-to-sigma-vs-code-contract-participant-performance-candidate.trace.md)
   - Origin:
-    - [relative](../../../handoffs/014-anchor-to-sigma-vs-code-contract-participant-performance-candidate.trace.md)
+    - [relative](../../../work/handoffs/014-anchor-to-sigma-vs-code-contract-participant-performance-candidate.trace.md)
 - Current
   - Current Schema: tiinex.evidence.v1
   - Created At: 2026-09-27 20:42:51
@@ -66,9 +66,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [014-anchor-to-sigma-vs-code-contract-participant-performance-candidate.trace.md](../../../handoffs/014-anchor-to-sigma-vs-code-contract-participant-performance-candidate.trace.md)
-  - Value: xMA2n5Stc2Zg6sL02hqtGcRPBomKIv91WAteDTITx7c
+  - Towards: [014-anchor-to-sigma-vs-code-contract-participant-performance-candidate.trace.md](../../../work/handoffs/014-anchor-to-sigma-vs-code-contract-participant-performance-candidate.trace.md)
+  - Value: 3UGQaOjoqTlAKsXkdXaS00VVvrn-7qQrXzS_I_brX6E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: tx1jQvcehXa4xqoVx2t4OCKtMa-bVyo9OExrbBT7EMk
+  - Value: 3c27TUFR8zPuH7q7TgwyLtXx2oJFF3xXAnanTA3m9l8

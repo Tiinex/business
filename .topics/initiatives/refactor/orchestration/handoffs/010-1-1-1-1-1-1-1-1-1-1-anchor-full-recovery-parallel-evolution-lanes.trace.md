@@ -169,13 +169,13 @@
 
 - core-schema-reference-task
   - Material: current Core Major 004 Task.
-  - Material Reference: [Core Major 004](core::.topics/refactor/orchestration/001-3-6-4-2-core-major-004-canonical-schema-reference-authoring-renderer-hygiene-task.trace.md)
+  - Material Reference: [Core Major 004](core::.topics/work/refactor/orchestration/001-3-6-4-2-core-major-004-canonical-schema-reference-authoring-renderer-hygiene-task.trace.md)
   - Purpose: exact shared generation/hygiene scope.
   - Availability: available
 
 - docs-grounding-task
   - Material: current Docs Major 003 Task.
-  - Material Reference: [Docs Major 003](docs::.topics/role-authority/001-3-6-4-3-docs-major-003-anchor-successor-grounding-evolution-task.trace.md)
+  - Material Reference: [Docs Major 003](docs::.topics/work/role-authority/001-3-6-4-3-docs-major-003-anchor-successor-grounding-evolution-task.trace.md)
   - Purpose: exact successor-grounding evolution scope.
   - Availability: available
 
@@ -225,8 +225,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-anchor-full-recovery-vscode0031-site005-launch.trace.md](010-1-1-1-1-1-1-1-1-1-anchor-full-recovery-vscode0031-site005-launch.trace.md)
-  - Value: shNzoIo-rGLS3R3jT4A_xbXO8d_Kdla85beC0ij9m8c
+  - Value: wMcjhepcOY76Og6cZT_00NJHglImxa6lqsESJWYCIN0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: VbDqwhVMkEUrDetgvHIBmKfT5gGnh1vwt32htLNkbFU
+  - Value: EBtYsdQM8uk4VNgCVp70zI9mczav6XGQjbRsbFaHii4

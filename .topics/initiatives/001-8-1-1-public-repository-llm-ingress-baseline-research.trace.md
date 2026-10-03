@@ -62,8 +62,8 @@ The gap is primarily an ingress/projection gap, not a new Tiinex semantic-model 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Repository LLM Cold-Start And Bootstrap Surface](001-8-1-repository-llm-cold-start-and-bootstrap-surface-task.trace.md)
-  - Value: W9ilLnXyCbsYd4_wCczszY87LLtPjEgULC5tmjA_Ikk
+  - Value: XoP783Hg-maCuUBTMat8OGeqsgdOKJEoWDRgxY4JvNA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: r4bSZ9UG5R6g8IVnXLjOXXR0IXb2bUtqrl_GBjO08X0
+  - Value: tFwkegSjnvUAIvJ8Jv5LBkm8uxs_TtSqMGjwdnBMmAE

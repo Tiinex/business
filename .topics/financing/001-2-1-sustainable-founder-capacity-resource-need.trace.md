@@ -55,8 +55,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Funding Readiness And Financial Provenance](001-2-funding-readiness-and-financial-provenance.trace.md)
-  - Value: -mdHGn9grRbUvrLrdxO9SNzLfacqy1C4kpoUjtX-QJk
+  - Value: uGvwMo28BmL_vT_h494CwcwQJMZ9twMfhOfbrx6isAs
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:RED5wESO1ptPRPZHHLA_jjML2r6mfjjK_6hscD3vJJs
+  - Value:MXZfhtnR41ubFpPyD9thRyd3d-_OVzrJLiLnkHn6nmE

@@ -69,8 +69,8 @@ Passing one does not imply the others, and none should be used to mask missing t
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Foundation Readiness And Operating Reconciliation](001-6-foundation-readiness-operating-reconciliation-task.trace.md)
-  - Value: iU8sDCJZpdCBP_MB6Rxk8InamgZBvbZXQnRPgy1dPM0
+  - Value: tw5CrUnfTcJMxlhxdOUXz7nRAgJguRJw2lkrbs6xILA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:jMnkDwuaxJa8HCxHGFjWlyBw-LqBTSuzSDHOqTEZdXw
+  - Value:FwDCBINmrb12Z8wbsIhSS4gkKrZkZSzxJLbErH-3mX0

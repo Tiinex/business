@@ -55,8 +55,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [037-anchor-to-anchor-tooling-major-008-canonical-runtime-and-sigma-continuation.trace.md](handoffs/037-anchor-to-anchor-tooling-major-008-canonical-runtime-and-sigma-continuation.trace.md)
-  - Value: PIcvo87omOmk1K4VMKUP2CFNi9fSp78sqvD5kqmnLU4
+  - Value: IJqmXduPV2gc7HUo900HpCC9190fQdjGY9Hl9YPbQi4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: PvDIdxah1-5ahhx293K2P-vrOUx5wVadHEf7X-FfsrA
+  - Value: 4HBFpWqCEIIdmlsCVO1D3XT-YQxNF5nMN6QsBzzlsbM

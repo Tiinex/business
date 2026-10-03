@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: tiinex.evidence.v1
   - Created At: 2026-09-27 17:54:30
-  - Trace: [009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md](../processes/gpt/vscode-reentry/009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md)
+  - Trace: [009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md](../../processes/gpt/vscode-reentry/009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md)
   - Origin:
-    - [relative](../processes/gpt/vscode-reentry/009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md)
+    - [relative](../../processes/gpt/vscode-reentry/009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md)
 - Current
   - Current Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-27 17:56:00
@@ -24,24 +24,24 @@
 - Purpose: return one canonical five-Workspace VS Code candidate after closing Sigma's demonstrated Role-dropdown Handoff authoring and routed pointer/Pack blockers while preserving frozen Core and the shared human/LLM Tooling architecture.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Sigma
 - To Kind: role
-- To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
 - vscode-routed-authoring-pointer-candidate
   - Transfer Kind: work-and-responsibility
   - Description: test the exact carried VS Code source in the real Windows VS Code host, focusing on qualified Role dropdown Handoff authoring, explicit participant selection, exact Outgoing Files pointer visibility, routed Pack and Transport. Incoming open/Replace and reviewed Commit/Push are already accepted Sigma paths and need not be repeated as blocker discovery unless this source regresses them.
-  - Controlling Artifact: [Routed authoring and pointer closure Evidence](../processes/gpt/vscode-reentry/009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md)
+  - Controlling Artifact: [Routed authoring and pointer closure Evidence](../../processes/gpt/vscode-reentry/009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md)
   - Boundary: Core remains frozen. VS Code consumes shared Core Tooling and must not infer endpoint authority, pointer material, route identity, carrier lineage, package structure or missing Core capabilities.
 
 ## Required Context
 
 - routed-authoring-pointer-evidence
   - Material: latest Sigma real-host observations, exact dropdown serialization root cause, direct Core ownership proof, physical pointer regression, machine qualification and remaining focused Sigma gate.
-  - Material Reference: [Routed authoring and pointer closure Evidence](../processes/gpt/vscode-reentry/009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md)
+  - Material Reference: [Routed authoring and pointer closure Evidence](../../processes/gpt/vscode-reentry/009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md)
   - Purpose: defines the corrected host boundary and distinguishes the demonstrated VS Code defects from Core semantics.
   - Availability: available
 
@@ -85,7 +85,7 @@
 
 - shared-core-human-parity-boundary
   - Material: prior shared-Core human-parity and Package V1 qualification lineage.
-  - Material Reference: [shared-Core merge candidate Evidence](../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
+  - Material Reference: [shared-Core merge candidate Evidence](../../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
   - Purpose: preserve the rule that Core owns semantics while VS Code owns human interaction/orchestration.
   - Availability: available
 
@@ -93,7 +93,7 @@
 
 - anchor-blocker-recovery
   - Retained By: Anchor
-  - Retained By Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
   - Responsibility: investigate any concrete reproducible blocker returned by Sigma from this exact candidate, keeping Core frozen unless a separately demonstrated owner-level Core defect or missing capability is reviewed with Sigma.
   - Boundary: Anchor does not infer Sigma acceptance, perform remote mutation, or ask Sigma to act as iterative live debugger when supplied evidence can reproduce the blocker.
 
@@ -119,7 +119,7 @@
 - Signal Kind: disposition
 - Signal Meaning: Sigma runs the focused routed-workflow acceptance on this exact candidate and either accepts the source frontier and performs the intended commit/push disposition, or returns one concrete reproducible blocker tied to the exact failing step. Delivery or machine qualification alone does not establish product acceptance.
 - Return To: Anchor
-- Return To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -132,9 +132,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md](../processes/gpt/vscode-reentry/009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md)
-  - Value: pXAkSFx0q34e58ZeN68xs9tGHfGs9YnaLvMYrhm9Fwg
+  - Towards: [009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md](../../processes/gpt/vscode-reentry/009-vs-code-re-entry-routed-authoring-pointer-closure-evidence.trace.md)
+  - Value: Jgu1D5ebRxOQHliArwJNtCeTjvhQhnJdQEYUtsP0_6Q
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: YJgkkBlHX_z995VvpXS33gKo768viQmnb2MCAQoe8XQ
+  - Value: KkuCszugJtaLt2tQqhF0p4MFvXj65X9u6t94ei8nX5k

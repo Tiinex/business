@@ -65,8 +65,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-vscode-reentry-source-integration-qualification-evidence.trace.md](001-vscode-reentry-source-integration-qualification-evidence.trace.md)
-  - Value: joMZqpWIS0eCWU2QT2BJMBQvSdDjI5f8-0rGqkilfAI
+  - Value: yQeVNOoSYxNdOi2af-ppafFFjNy1r6DMZgXFgiDaNbU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: FS1wmUVfBU25C_fa6EAG0DCev6AdgQHBcZyAuFNz4PU
+  - Value: df99b7NAMhF1VLr5aqmMjNeExxWJ2IzRkjHdb_8xwYM

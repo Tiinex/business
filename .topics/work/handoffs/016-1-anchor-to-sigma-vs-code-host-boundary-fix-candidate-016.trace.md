@@ -22,10 +22,10 @@
 - Purpose: validate the bounded VS Code host-adapter candidate that fixes the concrete real-host blockers discovered from Sigma's latest Windows recordings while preserving Core as the sole semantic authority.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Sigma
 - To Kind: role
-- To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
@@ -73,7 +73,7 @@
 
 - bounded-blocker-recovery
   - Retained By: Anchor
-  - Retained By Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
   - Responsibility: receive Sigma's disposition on this exact candidate. If accepted, preserve the accepted frontier. If one concrete blocker is returned, reproduce it against this exact carried Workspace and fix only at the demonstrated owner boundary.
   - Boundary: do not reopen Core, invent host-owned semantic authority, or broaden scope from subjective UX preference without a reproducible correctness blocker.
 
@@ -156,7 +156,7 @@
 - Signal Kind: disposition
 - Signal Meaning: Sigma either accepts the exact carried VS Code candidate for the focused host seams above, or returns one concrete reproducible blocker with visual evidence sufficient for bounded owner-level recovery.
 - Return To: Anchor
-- Return To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -170,8 +170,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [016-anchor-to-anchor-vscode-final-candidate-conversation-limit-recovery.trace.md](016-anchor-to-anchor-vscode-final-candidate-conversation-limit-recovery.trace.md)
-  - Value: zS1ObNlWpzk74JBzaK-CXZ7RxRrDN86azYBDxXIbTHQ
+  - Value: CsZSC6DjRno-Y-G1bPgv7n6uymNEj0qErDr-2JLJvu4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ybFLlfNGfzBEVYUY2s4oW0u4lDZfcryUS8G2kcGH8Rg
+  - Value: egGCqO5UcPAOgzQhUjxm6Vij1HV5c-guMGWx3Xt2dx4

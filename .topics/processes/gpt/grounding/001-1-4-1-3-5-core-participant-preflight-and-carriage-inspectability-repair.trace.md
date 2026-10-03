@@ -67,8 +67,8 @@ Prefer the smallest correction at the semantic-authority source boundary and the
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-architecture-recovery-audit-before-further-host-mutation.trace.md](001-1-4-1-3-architecture-recovery-audit-before-further-host-mutation.trace.md)
-  - Value: CwSMZE4hholnEXmxpP2EKrCNx1hOKzVThX58NGr7Glk
+  - Value: 0Yfw2_YJVZP3eXLIxRonI-IenS6dR-e45Km584n-M_I
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: VqWQSVmQhbxUP-q5_9C6Lo-Wvtx8b9uQCpoOt8U9Crs
+  - Value: ROVctiXJQtgcT7uy2ObFja6cZcJUolj4YJXf1GVZfhM

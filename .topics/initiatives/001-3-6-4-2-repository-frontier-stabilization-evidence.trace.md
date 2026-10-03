@@ -61,8 +61,8 @@ The 415-artifact Site reduction candidate set has 57 current graph leaves and no
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-3-6-4-repository-frontiers-lineage-stabilization-turn2-task.trace.md](001-3-6-4-repository-frontiers-lineage-stabilization-turn2-task.trace.md)
-  - Value: Z-8KDTRtswJDhg820T7a-hH1kHqlQimQNPz1HECJQSM
+  - Value: rNqAiyo-PIkKW9QaoDpwgeY5wXhz0qQQl98jt0W6za4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: tH6QZqcMgto4193XI__eYj93vXwjkIe4qaeBk99Yqu4
+  - Value: HAVHoHeCiQqMa83vKv8qhPzrM_CCaAAf8Gucz0WepmQ

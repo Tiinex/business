@@ -51,8 +51,8 @@ Historical Role Parent schema-reference authority during the canonical Assignmen
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-2-1-1-pre-migration-role-parent-audit-cutover-correction.trace.md](001-2-7-5-1-2-1-1-pre-migration-role-parent-audit-cutover-correction.trace.md)
-  - Value: 9U7jpleTHQpoQ5tJAkQoC35E3c5G64jXLZjmgAPZuGo
+  - Value: KVBrC93EISsthDNRMPPgpzl-gLlBOVEvGOq-KwhrzEg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: amoVp5X7FQ83c1SuPpW0Fw5PX_E6MTp7QwyyzrPscsw
+  - Value: 7n1jgGTwdBz6NvQ5D8VukX8u6h-vdJwd3Cx3ETWvWrs

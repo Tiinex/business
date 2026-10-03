@@ -51,8 +51,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Foundation Cross-Repository Work Turn Adoption](002-1-foundation-cross-repository-work-turn-adoption-decision.trace.md)
-  - Value: AdbhQ9oD8j4xjH37im4C6q16k-34s7-mfWrUidzZMqA
+  - Value: Aph-FZNINUyttVW-mC4ZUx-oRxnqoe10Dq3QV1743ug
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: HafP5gQBodmVvmhBxoULnHYOiKV2F-nu8oz-MY2XH2w
+  - Value: r3uqXAfCi0Y3EzzGZDO53cqkeT0IPN8yhJEbjn7Ljug

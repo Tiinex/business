@@ -198,8 +198,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-anchor-grounding-recovery-and-recipient-projection-hardening.trace.md](../../../../processes/gpt/grounding/002-anchor-grounding-recovery-and-recipient-projection-hardening.trace.md)
-  - Value: mK4JerPYAZOZ_kE5IiYaXyvvMaJG088uZtuBc-a9VBw
+  - Value: jTVFgwCW8ZihcSXR6y7vNZDtvpyMCtrgznqd_tVN5vk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: p1h-G8vAbW_t5Sl_b9cR0rIjH8MYcDZHTDVpy9xIAhc
+  - Value: FBR3eBjWw4FJj9B2ggmzbfwcTIqNkRQZcrh3_1Ycsec

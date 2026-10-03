@@ -49,8 +49,8 @@ One experimental first increment only. Choose a bounded slice that is useful for
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-bookkeeping-application-pilot-epic.trace.md](002-bookkeeping-application-pilot-epic.trace.md)
-  - Value: k7i2avVHQlKnMYSjBC_vcSbq-mh9RMl-RqZRkLwc4ok
+  - Value: cqjtsmrWk2SldkHGP_j2unrouw8q7UMpbJ6PRohpFao
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: GTTzXqb1PJICs-yZg0BF3Q-It6gacFTD5NdC0SivGlU
+  - Value: W1aHiYw3mrrb-F_G0N8t_OKvf_ycBwmRd0CE_TBFimY

@@ -61,8 +61,8 @@ Correct the one remaining Core fan-in regression so Workspace-only/pointerless m
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-3-3-1-preserve-package-v1-convergence-and-correct-pointerless-format-i.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-3-3-1-preserve-package-v1-convergence-and-correct-pointerless-format-i.trace.md)
-  - Value: uoyIM611FO2mhhFIsqZLEf3SJAbfKGHpYTmU6r76b1o
+  - Value: W8VPkOqOFdDXM-iFOxdecV6J5HNAMfLo2cTJQK_4Lvk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: HAMkX18ZIc9f4E9itx_Am0Mv-poNuFePmSpnltDI_UQ
+  - Value: bbUwpZL-D9U9dvY-PqT3OLrgLULU3vw3HThxJYXZFzk

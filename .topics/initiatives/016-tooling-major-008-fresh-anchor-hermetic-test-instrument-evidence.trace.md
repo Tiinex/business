@@ -99,8 +99,8 @@ The exact behavioral-test instrument is machine/hermetically qualified and ready
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [047-anchor-to-anchor-package-v1-fresh-grounding-pre-behavioral-recovery.trace.md](handoffs/047-anchor-to-anchor-package-v1-fresh-grounding-pre-behavioral-recovery.trace.md)
-  - Value: 2leol-cGrUs0MyACS6uoia6lL7FArKLt5MjgDPQQMVw
+  - Value: SA1vr_-mU64RUV2dwIOY3AXlSkSCKaeLiMiKrk8sQSQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: MulgOA4Y0cknEY0fkSy8uHVV42QjUzgyK7tqc8YaDOg
+  - Value: 3lXhHKtn0qQUoEGnj0xpT4Y5di_GxDD2qPWYZJ5lxNQ

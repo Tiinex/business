@@ -155,8 +155,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-3-1-1-major-002-final-package-representation-convergence-loom-evidence.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-3-1-1-major-002-final-package-representation-convergence-loom-evidence.trace.md)
-  - Value: 9zKI8UHUPALxPxE1NWbwMF_dQXKTNHE1v2tUN8HvxXc
+  - Value: tf8IZvvKBUEAYszrUHWIfphrO-wQDpr-rHe0kXY2agE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: cx3Fy0jMQhlgdqP-Pdhmv42aFGSjjueLubngM9nWXAw
+  - Value: TsVm1CWLevzrzmqBmv-qlhzI97udXW_E3mPBBZTtm1I

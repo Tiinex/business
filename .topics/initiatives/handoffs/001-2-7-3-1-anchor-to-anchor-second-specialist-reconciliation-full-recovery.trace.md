@@ -71,7 +71,7 @@
 
 - process-applicability-decision
   - Material: exact Axiom semantic disposition defining forward process-authority closure and separate process state dimensions.
-  - Material Reference: [Process Applicability And Cold-Grounding Semantic Disposition](docs::.topics/grounding/005-process-applicability-cold-grounding-semantic-disposition.trace.md)
+  - Material Reference: [Process Applicability And Cold-Grounding Semantic Disposition](docs::.topics/work/grounding/005-process-applicability-cold-grounding-semantic-disposition.trace.md)
   - Purpose: prevent process inventory/reverse discovery from becoming authority during blind validation.
   - Availability: available
 
@@ -85,13 +85,13 @@
 
 - loom-second-evidence
   - Material: qualified Core Evidence for grounding introspection, authoring diagnostics and manufacture preflight.
-  - Material Reference: [Grounding Introspection And Authoring Ergonomics Qualification](core::.topics/grounding/evidence/002-grounding-introspection-and-authoring-ergonomics-qualification.trace.md)
+  - Material Reference: [Grounding Introspection And Authoring Ergonomics Qualification](core::.topics/work/grounding/evidence/002-grounding-introspection-and-authoring-ergonomics-qualification.trace.md)
   - Purpose: implementation delta, tests, preservation boundaries and remaining semantic blocker behavior.
   - Availability: available
 
 - axiom-second-return
   - Material: qualified Axiom return carrying the accepted process-applicability semantic result.
-  - Material Reference: [Axiom To Anchor — Process Applicability Semantic Return](docs::.topics/grounding/handoffs/002-1-axiom-to-anchor-process-applicability-semantic-return.trace.md)
+  - Material Reference: [Axiom To Anchor — Process Applicability Semantic Return](docs::.topics/work/grounding/handoffs/002-1-axiom-to-anchor-process-applicability-semantic-return.trace.md)
   - Purpose: exact semantic return boundary and retained responsibilities.
   - Availability: available
 
@@ -146,8 +146,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-3-blind-fresh-anchor-thin-lineage-validation-task.trace.md](../001-2-7-3-blind-fresh-anchor-thin-lineage-validation-task.trace.md)
-  - Value: UIm93s4JX5kGXxdFxwO8Hajgl8iYEVGlY-QfSes2rFE
+  - Value: pWoRLJrxdt1mw16qGdTnFE4GXVS_BWWaE446txxUu0E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: vzKEAxEwSEHuGh2LYxZcTl0LUwji5sVbixM-Kybro9s
+  - Value: z66ZCDVKg_Jb-VWQjGXZaDfxg45ZZCqGOG9Peiqm0fc

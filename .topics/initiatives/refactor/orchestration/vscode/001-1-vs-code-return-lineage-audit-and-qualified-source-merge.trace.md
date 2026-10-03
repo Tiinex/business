@@ -54,8 +54,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-vs-code-carrier-major-001-operator-trust-and-ergonomics.trace.md](001-vs-code-carrier-major-001-operator-trust-and-ergonomics.trace.md)
-  - Value: X6UqB50cTIcfgzXPh3UWJYac2PtLPpiwBcCfYIinCjM
+  - Value: M4annuDSWrVblY6DSo--yECFKL9AcREn9cvLDaSsvGQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: rSvlRB8jeaYxptzNnt9NouQA_hjvGKXsYYLcB4WvRP8
+  - Value: DzjpRZfMr32IzdNX6RyJ5ksrruSkCsjEWqYQtRrtKpU

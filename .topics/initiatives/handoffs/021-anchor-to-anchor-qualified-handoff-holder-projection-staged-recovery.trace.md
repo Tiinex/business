@@ -40,7 +40,7 @@
 - staged-loom-correction
   - Transfer Kind: work-and-responsibility
   - Description: preserve the exact Core Task/Handoff prepared for a fresh Loom to implement and qualify the selected-Handoff holder projection correction.
-  - Controlling Artifact: [Qualified Handoff Recipient Holder Projection Mechanics](core::.topics/grounding/026-qualified-handoff-recipient-holder-projection-mechanics.trace.md)
+  - Controlling Artifact: [Qualified Handoff Recipient Holder Projection Mechanics](core::.topics/work/grounding/026-qualified-handoff-recipient-holder-projection-mechanics.trace.md)
   - Boundary: Loom owns Core implementation; Anchor owns reconciliation and later black-box acceptance.
 
 ## Required Context
@@ -65,7 +65,7 @@
 
 - core-correction-handoff
   - Material: exact qualified Anchor-to-Loom Handoff for the pending holder projection mechanics.
-  - Material Reference: [Anchor To Loom — Qualified Handoff Recipient Holder Projection Mechanics](core::.topics/grounding/handoffs/037-anchor-to-loom-qualified-handoff-recipient-holder-projection.trace.md)
+  - Material Reference: [Anchor To Loom — Qualified Handoff Recipient Holder Projection Mechanics](core::.topics/work/grounding/handoffs/037-anchor-to-loom-qualified-handoff-recipient-holder-projection.trace.md)
   - Purpose: direct specialist continuation if this Master conversation ends before the Loom return is reconciled.
   - Availability: available
 
@@ -73,7 +73,7 @@
 
 - latest-delegate-qualification
   - Material: fresh Loom Evidence proving downstream specialist selection is now separate from current recipient/holder.
-  - Material Reference: [Downstream Delegate Selection Projection Qualification](core::.topics/grounding/evidence/019-downstream-delegate-selection-projection-qualification.trace.md)
+  - Material Reference: [Downstream Delegate Selection Projection Qualification](core::.topics/work/grounding/evidence/019-downstream-delegate-selection-projection-qualification.trace.md)
   - Purpose: accepted Core baseline immediately before the pending holder correction.
   - Availability: available
 
@@ -136,8 +136,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-5-1-1-qualified-handoff-recipient-holder-projection-correction.trace.md](../001-2-7-5-1-5-1-1-qualified-handoff-recipient-holder-projection-correction.trace.md)
-  - Value: 7vWcdLQcpOjLT77Z0oNWSbHHTqAJsK9rOkyM02BmsWQ
+  - Value: QEqtR06iv3tCSqWarYyRP4nHsHbvTG63l_E4hNN74Jc
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: x1WIcqtBPMxY_FIhpsPoXjLRHxOyMjlFKuSdQ-ULP7U
+  - Value: f9X52_Pkr-NYRFl4tffVAEVhhT10gjZX7i_y23MC4mY

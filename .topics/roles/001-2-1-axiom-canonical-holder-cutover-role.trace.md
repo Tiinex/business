@@ -55,8 +55,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-axiom-role.trace.md](001-2-axiom-role.trace.md)
-  - Value: CPBR5D7_kmIJltdg6TUe-5oTiCWUD1s-vIHapXhAt3o
+  - Value: _8fMMZ9CT30bKsJKOoaJaI135TdZMUb_b9S6DAFPXQU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: GD3d7kncnd1ide5Z8AnbEM_zNuSGD7Gij1y6I63xTVk
+  - Value: b41f90x2L6Eu2ghcWZ0OCa4G6WZawLsHzPS67JuYZNg

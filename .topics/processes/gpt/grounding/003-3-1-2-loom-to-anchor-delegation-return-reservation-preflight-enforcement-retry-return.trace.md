@@ -109,8 +109,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [003-3-1-anchor-to-loom-delegation-return-reservation-preflight-enforcement-retry.trace.md](003-3-1-anchor-to-loom-delegation-return-reservation-preflight-enforcement-retry.trace.md)
-  - Value: JGjtYXJJskqdukeX71K5Dy2FrTPYMWG9nsZ4zgIaZ5M
+  - Value: lh4KxrxFzblGniaMTaz1cRZBizsu158MXi9Kp-U6tyA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: _U-roEISurc4aXGwhvF6Guor3q56f7VdCInEjDE9uAQ
+  - Value: reaj7GC-9c43h6SNPCTHLQmwfxmESGVk_x2OLeklrpA

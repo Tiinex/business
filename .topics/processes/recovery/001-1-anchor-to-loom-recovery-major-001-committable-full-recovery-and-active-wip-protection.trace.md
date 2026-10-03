@@ -125,8 +125,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-recovery-major-001-committable-full-recovery-and-active-wip-protection.trace.md](001-recovery-major-001-committable-full-recovery-and-active-wip-protection.trace.md)
-  - Value: -_YX-EmvHd9U_9qEosRUJkRhZVOx-w4-r-LdCiBhudQ
+  - Value: D7KFZKK0s3ISTgcU7X92v0J7vMWsXw0woOSjswWgOBY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: xzbFm8w-iXRSE6KHEof2uyCeGRN0Dwn7FUqT7ofahWo
+  - Value: kOw5JQO5cKOdu1FWXI8oiyctyED2QTS4fvRmJCiwRVw

@@ -71,8 +71,8 @@ Loom/Core needs to expose a shared qualified creation/update surface that can re
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [026-anchor-to-kodax-tooling-major-008-native-vs-code-handoff-ux.trace.md](handoffs/026-anchor-to-kodax-tooling-major-008-native-vs-code-handoff-ux.trace.md)
-  - Value: MDWEfdxZ810SqwNJg2FD0GGHep1cHa0FAFvl5SrlH58
+  - Value: R7y46r6LKmFTLRD9_SB472Vl7N3gd9JgpcrYC9f7fmA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 7puWLfXPheAtlym14pPrfkZOQCiYQonN5Zf0XBdoNFA
+  - Value: tGrJHuDJwCX7PgYOkWFTi05wiBFin4hd8I8hu4_xGU4

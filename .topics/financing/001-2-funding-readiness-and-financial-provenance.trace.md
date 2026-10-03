@@ -111,8 +111,8 @@ This artifact defines the Business operating boundary for funding and financial 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Financing](001-financing.trace.md)
-  - Value: LTTkyewmuNe9TEAVXdu4Nl28fHjw18N_PzWcMOCIYqg
+  - Value: uEfQuuNQnAJkdu1Rz--gDaIr4lmcEkdM5wuQII9C1q8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:-mdHGn9grRbUvrLrdxO9SNzLfacqy1C4kpoUjtX-QJk
+  - Value:uGvwMo28BmL_vT_h494CwcwQJMZ9twMfhOfbrx6isAs

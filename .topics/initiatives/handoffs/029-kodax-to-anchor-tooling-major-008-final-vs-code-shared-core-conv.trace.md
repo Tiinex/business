@@ -142,8 +142,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [004-tooling-major-008-kodax-final-vs-code-shared-core-convergence-ev.trace.md](../004-tooling-major-008-kodax-final-vs-code-shared-core-convergence-ev.trace.md)
-  - Value: G9ZqO3InYmkdeZm88AYFDVWb8TswPs5MmGX2NjzSzY8
+  - Value: 5mZi51DXx8kGL2MTrCqJg-BTCPJwUdaSdcMXnfwc2Ds
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: jBtqm-TnTmT-cdiZ1pQdkckMai_UDtX0WE-Is1zUun8
+  - Value: 6Hh4VyUfeUUTFLpAXjObZjGffvQd4ohdeIpAsJDCgSs

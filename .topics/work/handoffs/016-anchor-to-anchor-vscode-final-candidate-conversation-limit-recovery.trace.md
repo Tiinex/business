@@ -24,10 +24,10 @@
 - Purpose: preserve exact Anchor continuity at the current VS Code acceptance frontier before conversation-length exhaustion, without reopening completed discovery or changing the qualified candidate.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Anchor
 - To Kind: role
-- To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
@@ -47,7 +47,7 @@
 
 - current-machine-gate-evidence
   - Material: exact latest machine qualification and bounded route-discovery/performance evidence.
-  - Material Reference: [Evidence 011](../processes/gpt/vscode-reentry/011-vs-code-re-entry-bounded-route-qualification-and-final-machine-g.trace.md)
+  - Material Reference: [Evidence 011](../../processes/gpt/vscode-reentry/011-vs-code-re-entry-bounded-route-qualification-and-final-machine-g.trace.md)
   - Purpose: prevents successor Anchor from reconstructing or re-litigating already-qualified implementation work.
   - Availability: available
 
@@ -85,7 +85,7 @@
 
 - preceding-machine-gate
   - Material: Handoff 015 controlling Evidence and acceptance boundary.
-  - Material Reference: [Evidence 011](../processes/gpt/vscode-reentry/011-vs-code-re-entry-bounded-route-qualification-and-final-machine-g.trace.md)
+  - Material Reference: [Evidence 011](../../processes/gpt/vscode-reentry/011-vs-code-re-entry-bounded-route-qualification-and-final-machine-g.trace.md)
   - Purpose: preserve the exact final machine-gate facts and avoid broad rediscovery.
   - Availability: available
 
@@ -93,7 +93,7 @@
 
 - successor-anchor-blocker-recovery
   - Retained By: Anchor
-  - Retained By Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
   - Responsibility: after succession, receive Sigma's focused real-host acceptance evidence. If accepted, preserve disposition without inventing further VS Code scope. If a concrete blocker is returned, reproduce it against this exact candidate and fix only at the demonstrated owning boundary.
   - Boundary: do not infer Sigma acceptance, merge, push, publication or Core defect from machine qualification alone.
 
@@ -124,7 +124,7 @@
 - Signal Kind: disposition
 - Signal Meaning: successor Anchor grounds from this exact recovery, preserves the Handoff 015 frontier without reconstruction, and waits for Sigma acceptance or one concrete reproducible blocker before further implementation.
 - Return To: Anchor
-- Return To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -138,8 +138,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [015-anchor-to-sigma-vs-code-bounded-route-qualification-candidate.trace.md](015-anchor-to-sigma-vs-code-bounded-route-qualification-candidate.trace.md)
-  - Value: AzkYJ1s3oPQ4x0UcDT0M-Z14sylpefQyP34p3Y9nN6c
+  - Value: BqPnrB6SvOkl3ueWngRCAA3Qmh2x4cD6f3RHBYRG5lw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: zS1ObNlWpzk74JBzaK-CXZ7RxRrDN86azYBDxXIbTHQ
+  - Value: CsZSC6DjRno-Y-G1bPgv7n6uymNEj0qErDr-2JLJvu4

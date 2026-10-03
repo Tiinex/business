@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: tiinex.evidence.v1
   - Created At: 2026-09-26 21:30:56
-  - Trace: [005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md](../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
+  - Trace: [005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md](../../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
   - Origin:
-    - [relative](../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
+    - [relative](../../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
 - Current
   - Current Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-26 21:31:11
@@ -24,24 +24,24 @@
 - Purpose: deliver the exact full five-Workspace VS Code bridge candidate to Sigma for real VS Code Extension Host/manual TreeView acceptance and merge disposition after the bounded local shared-Core qualification passed.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Sigma
 - To Kind: role
-- To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
 - vscode-shared-core-human-parity-merge-candidate
   - Transfer Kind: work-and-responsibility
   - Description: inspect and test the exact carried VS Code bridge candidate against the exact carried frozen Core in a real VS Code host. The intended product boundary is one Core Tooling semantics path consumed by Tiinex/LLMs, human VS Code UI, and later native VS Code tool exposure; this Handoff does not authorize a parallel VS Code semantics path.
-  - Controlling Artifact: [VS Code shared-Core merge candidate Evidence](../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
+  - Controlling Artifact: [VS Code shared-Core merge candidate Evidence](../../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
   - Boundary: Sigma owns final product acceptance and merge/commit/push disposition. If testing reveals a concrete blocker, return that blocker without compensating in Core or reviving V2/legacy logic.
 
 ## Required Context
 
 - qualification-evidence
   - Material: exact final local technical qualification and environment boundary for this VS Code candidate.
-  - Material Reference: [VS Code shared-Core merge candidate Evidence](../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
+  - Material Reference: [VS Code shared-Core merge candidate Evidence](../../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
   - Purpose: tells Sigma exactly what was changed, what passed locally, what remains a real-host gate, and which semantic boundaries must remain intact.
   - Availability: available
 
@@ -85,7 +85,7 @@
 
 - core-closure
   - Material: qualified Core Package V1/return closure that remains frozen under this VS Code candidate.
-  - Material Reference: [Core closure Evidence](../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
+  - Material Reference: [Core closure Evidence](../../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
   - Purpose: preserve why VS Code consumes Core rather than adding compatibility semantics.
   - Availability: available
 
@@ -93,7 +93,7 @@
 
 - anchor-blocker-recovery
   - Retained By: Anchor
-  - Retained By Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
   - Responsibility: investigate any concrete blocker Sigma returns from real-host testing, preserving the Core-frozen rule unless Sigma explicitly agrees that a demonstrated Core blocker justifies reopening it.
   - Boundary: Anchor does not infer acceptance or remote landing from delivery of this package.
 
@@ -124,7 +124,7 @@
 - Signal Kind: disposition
 - Signal Meaning: Sigma tests this exact carried candidate in real VS Code, then either accepts it and performs the intended merge/commit/push disposition or returns one concrete blocker with the observed workflow and failure boundary so Anchor can resume from this full recovery without chat reconstruction.
 - Return To: Anchor
-- Return To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -137,9 +137,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md](../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
-  - Value: 6IVnDV7tCIuUBt7EBNbAItOFOL7ZLUTcWpxG0Z3dxB8
+  - Towards: [005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md](../../processes/gpt/vscode-reentry/005-vs-code-re-entry-shared-core-human-parity-bridge-merge-candidate.trace.md)
+  - Value: -tTDBBKbDH2ADd11p_QM3doXX-vrH_2RLevaXcNOj1Q
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: cxzRUHCZJ5NIgZdc8I4AjczqGe2soOzxIyXVW_vQkSk
+  - Value: fbMhqa_Qnj0M8YtpuKsgxs-fhWzfgt_L77q77eM87OA

@@ -133,8 +133,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-reduction-redaction-core-qualification-evidence.trace.md](001-reduction-redaction-core-qualification-evidence.trace.md)
-  - Value: sObGfcG7mxNskl0ZXSjurDl4GSsUP0vwyjS5UpM9Rz8
+  - Value: 5aCCIZdb04of5KjkKVTrc4zuuAhuQk4EGTYV08MnJIk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Sc5qJcuecil69Ck0RqIZXZtlYNMOFdcBwU-PP8Xmh6o
+  - Value: 8o9TwBeNUxOd3BLp02RHGj8pEmuH0RrUeHvejVCc3hc

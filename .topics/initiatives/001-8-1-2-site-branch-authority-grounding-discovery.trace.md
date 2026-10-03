@@ -63,8 +63,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/4cb7046454f1cf75333097fc1a3d4562838afc26/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Repository LLM Cold-Start And Bootstrap Surface](001-8-1-repository-llm-cold-start-and-bootstrap-surface-task.trace.md)
-  - Value: W9ilLnXyCbsYd4_wCczszY87LLtPjEgULC5tmjA_Ikk
+  - Value: XoP783Hg-maCuUBTMat8OGeqsgdOKJEoWDRgxY4JvNA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/4cb7046454f1cf75333097fc1a3d4562838afc26/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:VSW11faSGHjpEXIRP0F2HpyZgq5DDuym44aUIxXFRpc
+  - Value:9HDQUhMcpd0aUsq-t3-VWS_YvWB6tTEgJDePafo7VGk

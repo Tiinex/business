@@ -79,8 +79,8 @@ This Evidence does not accept the neutral replay cognitively. Task 021/Handoff 0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [052-anchor-to-anchor-neutral-fresh-anchor-grounding-replay.trace.md](handoffs/052-anchor-to-anchor-neutral-fresh-anchor-grounding-replay.trace.md)
-  - Value: j0aiXM7JXwBksWpQmrXpTLD9-VCCdMFUmVhlRbTOVSY
+  - Value: _5qgWVlXw1US-etaKZfD7dF4ddCByAzfMDQ9dOhgCNY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:J54800MbFqagmAjIJu_osCG4kUyUhWoBIZjcwm6prCM
+  - Value:WWc0AwB1onruOZJ_6MnygPlmjHX3unsppm4I9iON0uo

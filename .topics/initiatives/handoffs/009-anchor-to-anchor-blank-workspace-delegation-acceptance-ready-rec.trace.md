@@ -61,13 +61,13 @@
 
 - corrected-acceptance-route
   - Material: corrected Docs acceptance Handoff that carries Axiom only as grounding-only Role-cache material rather than semantic Required Context.
-  - Material Reference: [Blank-Workspace Qualified Delegation Acceptance Handoff](docs::.topics/grounding/handoffs/009-anchor-to-anchor-blank-workspace-qualified-delegation-acceptance.trace.md)
+  - Material Reference: [Blank-Workspace Qualified Delegation Acceptance Handoff](docs::.topics/work/grounding/handoffs/009-anchor-to-anchor-blank-workspace-qualified-delegation-acceptance.trace.md)
   - Purpose: exact route to be used for the fresh acceptance run.
   - Availability: available
 
 - core-role-cache-qualification
   - Material: Loom qualification evidence for the real-carrier bounded participant Role-cache fix.
-  - Material Reference: [Bounded Participant Role Cache Transport Mechanics Qualification](core::.topics/grounding/evidence/009-bounded-participant-role-cache-transport-mechanics-qualification.trace.md)
+  - Material Reference: [Bounded Participant Role Cache Transport Mechanics Qualification](core::.topics/work/grounding/evidence/009-bounded-participant-role-cache-transport-mechanics-qualification.trace.md)
   - Purpose: mechanical basis for the corrected acceptance carrier.
   - Availability: available
 
@@ -114,8 +114,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-blank-workspace-qualified-delegation-acceptance.trace.md](../001-2-7-5-1-blank-workspace-qualified-delegation-acceptance.trace.md)
-  - Value: yesQil2Qu4qHbmcJYHGIWacZMcpqZ3-inxvGoa5W-mE
+  - Value: iIyO5oqj-MHakpqIguyQG2knabtFujJ1nJc3EVicMto
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: uQJcXfiOVBR1rIuIkfsg-elwZ_GBmZhTqubM9ya49mo
+  - Value: T14yDwWvI3phUI9tIo0lyQGIpVXK0mzOhMLPNcbSeK4

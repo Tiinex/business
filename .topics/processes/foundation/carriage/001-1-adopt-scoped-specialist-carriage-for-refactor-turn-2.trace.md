@@ -49,8 +49,8 @@ Review after Turn 2 or if scoped carriers repeatedly fail cold-start/grounding s
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-foundation-scoped-specialist-carriage.trace.md](001-foundation-scoped-specialist-carriage.trace.md)
-  - Value: Ui261AFV26UVbnsBiob3pB0bxfW06KpScttwool4Eio
+  - Value: VT5W32VJNGfeddJn08cKtgX13RWLsj-1NAkAZuLge6I
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: rrM3GeLmYKz_YT6_WPumTLKycYaU20xwu4y4r0CPRiY
+  - Value: s3CBk-D3EAk7_bDExa9-SdepDBbCytcwnR-9gHEBJdU

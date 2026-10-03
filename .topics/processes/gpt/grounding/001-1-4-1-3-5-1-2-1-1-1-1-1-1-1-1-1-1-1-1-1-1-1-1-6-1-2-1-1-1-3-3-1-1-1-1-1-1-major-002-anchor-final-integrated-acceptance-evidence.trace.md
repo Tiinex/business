@@ -62,8 +62,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-3-3-1-1-1-1-1-loom-to-anchor-major-002-final-pointerless-package-v1-format-ali.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-3-3-1-1-1-1-1-loom-to-anchor-major-002-final-pointerless-package-v1-format-ali.trace.md)
-  - Value: cmpgaWtO-MNI4zhwdjbc2QTdfQt0354u8k8xCmdo44M
+  - Value: ZXN2Gpt7HMbkYwqOyogOradKSviT1hF_iFJR9Mz2UmQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Cav0pTKehpgM5mrYD0F6EqHD7SvDwmxwYNm8TO94mnQ
+  - Value: hx2yXkajH_x8zaSmTpYSrSFfGYbcGpEvhi4Zw2ySbvo

@@ -148,12 +148,12 @@
 
 - axiom-return
   - Material: accepted Docs/Axiom Role continuity and repository ownership disposition.
-  - Material Reference: [Axiom return](docs::.topics/role-lineage/001-1-2-axiom-to-anchor-role-continuity-and-repository-ownership-disposi.trace.md)
+  - Material Reference: [Axiom return](docs::.topics/work/role-lineage/001-1-2-axiom-to-anchor-role-continuity-and-repository-ownership-disposi.trace.md)
   - Purpose: semantic authority for the new direct Prism Role continuation.
   - Availability: available
 - loom-return
   - Material: accepted Core/Loom historical Parent schema-authority recovery return.
-  - Material Reference: [Loom return](core::.topics/refactor/orchestration/handoffs/001-1-2-loom-to-anchor-historical-parent-schema-authority-recovery-return.trace.md)
+  - Material Reference: [Loom return](core::.topics/work/refactor/orchestration/handoffs/001-1-2-loom-to-anchor-historical-parent-schema-authority-recovery-return.trace.md)
   - Purpose: qualified common-author mechanics used to author the new Role continuation without copying schemas into Business.
   - Availability: available
 - prism-current-role
@@ -235,8 +235,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-anchor-full-recovery-role-lineage-and-chrome-experiment-correcti.trace.md](010-1-anchor-full-recovery-role-lineage-and-chrome-experiment-correcti.trace.md)
-  - Value: 8UnR7sz0JWHGKiV3fC5yuPslrp_XGu6ydmiUR8Bfhfw
+  - Value: by68zp_M8pc_dvXhWzKkjbJQCFFwOaf3dnpXhgFv_ug
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: G3qLgLOo1ISaJbjgb2oHYMY0b_-vjqeQOevWnbZo8wI
+  - Value: 9RHoNsgnUt2D4gTvUtu64c0GHL0oe0N-rESPpu5JsoU

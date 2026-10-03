@@ -114,8 +114,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-architecture-recovery-audit-before-further-host-mutation.trace.md](001-1-4-1-3-architecture-recovery-audit-before-further-host-mutation.trace.md)
-  - Value: CwSMZE4hholnEXmxpP2EKrCNx1hOKzVThX58NGr7Glk
+  - Value: 0Yfw2_YJVZP3eXLIxRonI-IenS6dR-e45Km584n-M_I
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: cAdJLXSyWI9qEnNYk05DNfEHeNopZrx9o9zXIJ25ygs
+  - Value: FkeacD8T5Kqx9CcMi3ouF_E2mv6r71VKw5ZU02Jv73g

@@ -128,8 +128,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [009-anchor-to-anchor-blank-workspace-delegation-acceptance-ready-rec.trace.md](009-anchor-to-anchor-blank-workspace-delegation-acceptance-ready-rec.trace.md)
-  - Value: uQJcXfiOVBR1rIuIkfsg-elwZ_GBmZhTqubM9ya49mo
+  - Value: T14yDwWvI3phUI9tIo0lyQGIpVXK0mzOhMLPNcbSeK4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: VKimRNCZ7MJCaBu4TDQys4m5I17fnciqqzxpqEX9_Qk
+  - Value: zSBfyT0aTCHtrNVh8itHqlEcSDH2J7dvyGyHU0XPUlY

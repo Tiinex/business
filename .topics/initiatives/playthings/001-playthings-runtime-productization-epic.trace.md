@@ -45,8 +45,8 @@ Calling this Topic an Epic describes its Business planning role; it does not cre
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Playthings](../001-9-playthings-project.trace.md)
-  - Value: LXOmfYmsP9Pj65c1GC8jML-EM74fSeRR-8awOZwrRCs
+  - Value: 3l97uyObo5mte22ORRai65td3GYn10-7KghDdSA4ByY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:sJcu87wImZn2yW6VqhhfKHM7m02m5xGBdYMl3Rc1NwI
+  - Value:tLoWY_vtCDH0y77KJSkT-Y9_OTBX7ezAw5y1Mj_kArU

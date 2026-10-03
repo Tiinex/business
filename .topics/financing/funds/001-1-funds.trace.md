@@ -35,8 +35,8 @@ General Fund and Bounty Fund are the current persistent destinations. Add future
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-financing.trace.md](../001-financing.trace.md)
-  - Value: LTTkyewmuNe9TEAVXdu4Nl28fHjw18N_PzWcMOCIYqg
+  - Value: uEfQuuNQnAJkdu1Rz--gDaIr4lmcEkdM5wuQII9C1q8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: HtUMdKLV37Rcm-RlatIrRSqX90zVcdXmc3Zi7xV4tjM
+  - Value: O4zcz-B_Q0-0Dp7VPzfMlgMVEZUdQ3GzmZU7gSC8odo

@@ -91,7 +91,7 @@
 
 - carrier-allocation-core
   - Material: qualified Loom Core Task/result implementing machine-derived dense carrier allocation.
-  - Material Reference: [Machine-Derived Carrier Allocation](core::.topics/grounding/006-machine-derived-carrier-allocation-task.trace.md)
+  - Material Reference: [Machine-Derived Carrier Allocation](core::.topics/work/grounding/006-machine-derived-carrier-allocation-task.trace.md)
   - Purpose: transport mechanic ensuring ordinary return allocation is machine-derived rather than prose-coordinated.
   - Availability: available
 
@@ -145,8 +145,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-3-6-anchor-to-anchor-holder-gate-integrated-recovery.trace.md](001-2-7-3-6-anchor-to-anchor-holder-gate-integrated-recovery.trace.md)
-  - Value: su5_JOTYQCjXAkAEe8wCr7XrKkOeXUKq4etecb27a38
+  - Value: yimp9UIjdQV6eeDrsn0SWu0EqobVYg5WlDjSIeb4AM8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: RwBnj5-taYOsz2D7Vuhh6G2M6u8Q3xxtn5KQf5x8crg
+  - Value: ed4Y-RTrnLvwCng7SHBy8sf2vW_MtrHzFqSXMjFdzdg

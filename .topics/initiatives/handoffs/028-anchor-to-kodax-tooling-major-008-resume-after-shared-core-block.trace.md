@@ -157,8 +157,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-8-2-tooling-major-008-anchor-shared-core-blocker-reconciliation-evid.trace.md](../001-2-8-2-tooling-major-008-anchor-shared-core-blocker-reconciliation-evid.trace.md)
-  - Value: mH6uoeLkEYSoaCFLNrhW6vVJqP3z1KWo1PC1Q0SkgEA
+  - Value: 9_hPv32hc1zA3pQa5HoF8yNGzOfd2Qt5EaQDsiNJTlA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: tUrYzPHKQHN7LkrN1ReqsZZ3BLyD95IPlOWUFbmmTh8
+  - Value: yAy5vm_I31kGWQU1FAXHK3FQ8cw3HhueRwKhnMhCj-k

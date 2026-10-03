@@ -161,7 +161,7 @@
 
 - core-major-008-task
   - Material: current Core Major 008 Task.
-  - Material Reference: [Core Major 008 Task](core::.topics/refactor/orchestration/003-core-major-008-bounded-handoff-carrier-isolation-recipient-closure.trace.md)
+  - Material Reference: [Core Major 008 Task](core::.topics/work/refactor/orchestration/003-core-major-008-bounded-handoff-carrier-isolation-recipient-closure.trace.md)
   - Purpose: exact Tooling repair scope opened by bounded-carrier dogfood failure.
   - Availability: available
 
@@ -214,8 +214,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-vs-code-sigma-gate-and-clean-standard-succe.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-vs-code-sigma-gate-and-clean-standard-succe.trace.md)
-  - Value: uhg5SIXNiSK8dF-69bmtkXQ6Dg379zEOafFVpmZcS-c
+  - Value: JH7SknqUeJ8NQiTpBqbkfFfvyUqXIGzc6hq2KoEfX0A
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: _RoWgH9y8lX8H6kl3vo-xDhDbX43IuZiX62jGWaw1jY
+  - Value: kwD8s62y9wwShMa8G5emV3S2rLjG6eoO1psFyvj6DyA

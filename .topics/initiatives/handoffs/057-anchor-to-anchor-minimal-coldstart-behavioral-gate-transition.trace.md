@@ -100,8 +100,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [026-tooling-major-008-minimal-coldstart-cache-guidance-machine-qualification-evidence.trace.md](../026-tooling-major-008-minimal-coldstart-cache-guidance-machine-qualification-evidence.trace.md)
-  - Value: hY_N4w0lfeiWEK0ypUCs_MccP7cdNfa3XfoUUttEGIQ
+  - Value: lOW6bKDbN7XnSg8Tl7DYxd4Et0MZeSEC-d_H_3ZDdBo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:uWIynyY2d69iLHpf4S_wk6SV0JXJA6-EGVg5z8Ichag
+  - Value:nq0oGKIZZRyNmgHhGWX52uQhUbzMCCAlxGL4e63mmyM

@@ -41,19 +41,19 @@
 
 - core-return-recipient-acceptance
   - Material: exact Anchor acceptance Evidence for Core Task `026-1-3` after Loom qualification and independent Core regression.
-  - Material Reference: [Anchor Acceptance — Return Recipient Role Closure Symmetry](core::.topics/grounding/evidence/030-anchor-acceptance-return-recipient-role-closure-symmetry.trace.md)
+  - Material Reference: [Anchor Acceptance — Return Recipient Role Closure Symmetry](core::.topics/work/grounding/evidence/030-anchor-acceptance-return-recipient-role-closure-symmetry.trace.md)
   - Purpose: establish that no further Core return-recipient mechanics repair is required before the real fresh-session acceptance run.
   - Availability: available
 
 - fresh-anchor-selector-task
   - Material: exact Docs acceptance Task that explicitly selects Axiom while preserving Anchor/Axiom authority separation.
-  - Material Reference: [Fresh Anchor Delegation Acceptance — Explicit Axiom Selector](docs::.topics/grounding/012-1-fresh-anchor-delegation-acceptance-explicit-axiom-selector.trace.md)
+  - Material Reference: [Fresh Anchor Delegation Acceptance — Explicit Axiom Selector](docs::.topics/work/grounding/012-1-fresh-anchor-delegation-acceptance-explicit-axiom-selector.trace.md)
   - Purpose: qualified bounded specialist selector and acceptance behavior contract for the fresh Anchor.
   - Availability: available
 
 - fresh-anchor-handoff-template
   - Material: exact prior bounded Anchor-to-Anchor acceptance Handoff whose semantics remain valid for the repaired Core frontier.
-  - Material Reference: [Anchor To Anchor — Fresh Qualified Delegation Acceptance Rerun](docs::.topics/grounding/handoffs/017-anchor-to-anchor-fresh-qualified-delegation-acceptance-rerun.trace.md)
+  - Material Reference: [Anchor To Anchor — Fresh Qualified Delegation Acceptance Rerun](docs::.topics/work/grounding/handoffs/017-anchor-to-anchor-fresh-qualified-delegation-acceptance-rerun.trace.md)
   - Purpose: existing qualified acceptance transport semantics; carrier allocation for the new run remains Tooling-derived from the current recovery frontier.
   - Availability: available
 
@@ -61,7 +61,7 @@
 
 - accepted-participation-boundary
   - Material: accepted Axiom Decision that Role/cache carriage alone does not establish semantic participant membership.
-  - Material Reference: [Axiom Semantic Decision — Role Cache Participation Proposition](docs::.topics/grounding/013-axiom-semantic-decision-role-cache-participation-proposition.trace.md)
+  - Material Reference: [Axiom Semantic Decision — Role Cache Participation Proposition](docs::.topics/work/grounding/013-axiom-semantic-decision-role-cache-participation-proposition.trace.md)
   - Purpose: preserve the semantic boundary during fresh delegation and return grounding.
   - Availability: available
 
@@ -118,8 +118,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-blank-workspace-qualified-delegation-acceptance.trace.md](../../../001-2-7-5-1-blank-workspace-qualified-delegation-acceptance.trace.md)
-  - Value: yesQil2Qu4qHbmcJYHGIWacZMcpqZ3-inxvGoa5W-mE
+  - Value: iIyO5oqj-MHakpqIguyQG2knabtFujJ1nJc3EVicMto
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: RVum74HR5NfdaWfvnaSpl1G-N9B2hkNlM4Wlkt7g43Y
+  - Value: 39KpVtJj35aG5cxKeNiooGG3FXQIHt3BH7GehvxAqZY

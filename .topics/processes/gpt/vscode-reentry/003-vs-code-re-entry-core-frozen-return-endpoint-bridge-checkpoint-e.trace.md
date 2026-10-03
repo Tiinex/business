@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-26 19:17:54
-  - Trace: [006-anchor-to-anchor-core-handoff-closure-and-vs-code-shared-core-br.trace.md](../../../handoffs/006-anchor-to-anchor-core-handoff-closure-and-vs-code-shared-core-br.trace.md)
+  - Trace: [006-anchor-to-anchor-core-handoff-closure-and-vs-code-shared-core-br.trace.md](../../../work/handoffs/006-anchor-to-anchor-core-handoff-closure-and-vs-code-shared-core-br.trace.md)
   - Origin:
-    - [relative](../../../handoffs/006-anchor-to-anchor-core-handoff-closure-and-vs-code-shared-core-br.trace.md)
+    - [relative](../../../work/handoffs/006-anchor-to-anchor-core-handoff-closure-and-vs-code-shared-core-br.trace.md)
 - Current
   - Current Schema: tiinex.evidence.v1
   - Created At: 2026-09-26 20:25:04
@@ -64,9 +64,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [006-anchor-to-anchor-core-handoff-closure-and-vs-code-shared-core-br.trace.md](../../../handoffs/006-anchor-to-anchor-core-handoff-closure-and-vs-code-shared-core-br.trace.md)
-  - Value: KmdNFVuFS2SQ5_cQWsVqv_DTkFoQS2xXGtZv3_3Iztc
+  - Towards: [006-anchor-to-anchor-core-handoff-closure-and-vs-code-shared-core-br.trace.md](../../../work/handoffs/006-anchor-to-anchor-core-handoff-closure-and-vs-code-shared-core-br.trace.md)
+  - Value: fkL5uBUkwoDG9-h8e1RR3_6jU7j-Mtu8MPJxS6R5_vA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: DQQ3nB8N3spLBIbKt4WCjAD51cqcLzKdm4uLiOzqqdk
+  - Value: YBtFn9Op6X6LEVXEViefZ5rEc_IFSfeAvPGcIfVLAUI

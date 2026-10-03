@@ -34,7 +34,7 @@
 - canonical-role-authoring-return-preservation
   - Transfer Kind: work-and-responsibility
   - Description: preserve Loom Task 020 Core implementation as the current Core basis: direct current Assignment Modes schema packaging, exact historical Parent/current schema-reference separation, ordinary Role create/continuation capability, focused qualification and temporary legacy holder bridge.
-  - Controlling Artifact: [Canonical Role Authoring And Schema Packaging Cutover Qualification](core::.topics/grounding/evidence/014-canonical-role-authoring-and-schema-packaging-cutover-qualificat.trace.md)
+  - Controlling Artifact: [Canonical Role Authoring And Schema Packaging Cutover Qualification](core::.topics/work/grounding/evidence/014-canonical-role-authoring-and-schema-packaging-cutover-qualificat.trace.md)
   - Boundary: Task 020 is not accepted as sufficient for real Business migration because its historical-parent regression fixture still carried current Assignment Modes.
 
 - real-pre-migration-parent-blocker
@@ -46,7 +46,7 @@
 - narrow-loom-correction
   - Transfer Kind: work-and-responsibility
   - Description: preserve the exact Core follow-up delegated to Loom to separate genuine historical Parent audit qualification from strict current candidate validation and add regression coverage using the real pre-migration body shape.
-  - Controlling Artifact: [Pre-Migration Role Parent Audit Cutover Correction Mechanics](core::.topics/grounding/021-pre-migration-role-parent-audit-cutover-correction-mechanics.trace.md)
+  - Controlling Artifact: [Pre-Migration Role Parent Audit Cutover Correction Mechanics](core::.topics/work/grounding/021-pre-migration-role-parent-audit-cutover-correction-mechanics.trace.md)
   - Boundary: Loom may correct Core authoring/audit mechanics only; Business Role migration and completeness declaration remain with Anchor.
 
 - delegation-acceptance-preservation
@@ -79,19 +79,19 @@
 
 - hard-cutover-decision
   - Material: Axiom Canonical Holder Assignment Mode Hard Cutover Semantic Disposition.
-  - Material Reference: [Canonical Holder Assignment Mode Hard Cutover Semantic Disposition](docs::.topics/grounding/015-canonical-holder-assignment-mode-hard-cutover-semantic-dispositi.trace.md)
+  - Material Reference: [Canonical Holder Assignment Mode Hard Cutover Semantic Disposition](docs::.topics/work/grounding/015-canonical-holder-assignment-mode-hard-cutover-semantic-dispositi.trace.md)
   - Purpose: exact migration/completeness gate and canonical-only end state.
   - Availability: available
 
 - loom-return-handoff
   - Material: Loom Task 020 return Handoff.
-  - Material Reference: [Canonical Role Authoring And Schema Packaging Cutover Return](core::.topics/grounding/handoffs/025-loom-to-anchor-canonical-role-authoring-and-schema-packaging-cut.trace.md)
+  - Material Reference: [Canonical Role Authoring And Schema Packaging Cutover Return](core::.topics/work/grounding/handoffs/025-loom-to-anchor-canonical-role-authoring-and-schema-packaging-cut.trace.md)
   - Purpose: exact returned implementation claims and retained migration responsibility.
   - Availability: available
 
 - loom-correction-handoff
   - Material: Anchor to Loom Task 021 correction Handoff.
-  - Material Reference: [Pre-Migration Role Parent Audit Cutover Correction](core::.topics/grounding/handoffs/026-anchor-to-loom-pre-migration-role-parent-audit-cutover-correction.trace.md)
+  - Material Reference: [Pre-Migration Role Parent Audit Cutover Correction](core::.topics/work/grounding/handoffs/026-anchor-to-loom-pre-migration-role-parent-audit-cutover-correction.trace.md)
   - Purpose: exact next specialist action.
   - Availability: available
 
@@ -148,8 +148,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-2-1-1-pre-migration-role-parent-audit-cutover-correction.trace.md](../001-2-7-5-1-2-1-1-pre-migration-role-parent-audit-cutover-correction.trace.md)
-  - Value: 9U7jpleTHQpoQ5tJAkQoC35E3c5G64jXLZjmgAPZuGo
+  - Value: KVBrC93EISsthDNRMPPgpzl-gLlBOVEvGOq-KwhrzEg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 5DHxZreZfeHcqbHIpHLLAIns0hUgu4eiHsd4xLDeDo0
+  - Value: AZ8jqpGsQiS-EUspdRjc4-GDVYsvpxGDryJJbQo3ff4

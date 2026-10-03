@@ -131,8 +131,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [008-tooling-major-008-anchor-canonical-build-dependency-blocker-reco.trace.md](../008-tooling-major-008-anchor-canonical-build-dependency-blocker-reco.trace.md)
-  - Value: 52x2IwwtkhCobWCXJov7_pzdmqh5Q-Nc56B5Yw4UUjs
+  - Value: h4JIC6Bi4BJaDQLioEQP3pRrCd5jU6mwcOflYLUZGHA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: PfeTM8V8JorQIyQncRfW6ERVucekmBHlIOtiVg7GHvI
+  - Value: F63ZnD42ZzRYyH-Mr9yF9Am8ukNVYiAx5_CJKhfmOLQ

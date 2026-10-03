@@ -54,8 +54,8 @@ The supplied Turn-2 carrier contains current Business, Docs, Core, App, Site and
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-3-6-4-repository-frontiers-lineage-stabilization-turn2-task.trace.md](001-3-6-4-repository-frontiers-lineage-stabilization-turn2-task.trace.md)
-  - Value: Z-8KDTRtswJDhg820T7a-hH1kHqlQimQNPz1HECJQSM
+  - Value: rNqAiyo-PIkKW9QaoDpwgeY5wXhz0qQQl98jt0W6za4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: uFWIINQMVouGY_KTCdHOAoyuPD2_f4elpB6NaFPnILM
+  - Value: hoYnM8B8Uc0z5U67ugud2N2dnyCweaSVEy1j4HU1UxM

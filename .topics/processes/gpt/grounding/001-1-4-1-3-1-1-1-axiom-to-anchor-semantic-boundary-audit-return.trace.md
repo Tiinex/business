@@ -97,8 +97,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-1-1-axiom-semantic-boundary-disposition-handoff-endpoints-references.trace.md](001-1-4-1-3-1-1-axiom-semantic-boundary-disposition-handoff-endpoints-references.trace.md)
-  - Value: ZGkh5bDKrRJQNN7P1JK8h85S8BCMBbPmElMJbpIK8EE
+  - Value: 4zzxWWNBWkP8ltBZ5YNwf5VN6ZQDSvGn-wnHQPJ3vY0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: sgiuLuELaFycVHSaJokZY8g126m9irWmezJ4ycIgF6g
+  - Value: p2Nx_zuvHyttP7H8WMzBPfn3psp-F19spBjnOxWWV2E

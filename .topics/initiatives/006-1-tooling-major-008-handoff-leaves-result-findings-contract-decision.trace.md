@@ -54,8 +54,8 @@ Major 008 remains the sole active Major lineage. No Sigma promotion occurs until
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [006-tooling-major-008-kodax-emitted-runtime-build-blocker-evidence.trace.md](006-tooling-major-008-kodax-emitted-runtime-build-blocker-evidence.trace.md)
-  - Value: Xb0mpOfj1U2z7Ph9GrYLoQ22CdV2DPem1cpoauvNuAA
+  - Value: bJG8PciEL5qApxx10jgcShhWTeq4hCemGM13KG81QhA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: jfUlOMcIdh2Xc90A1yvlN_DSV_YEZ1TrIHY0-VO5CT4
+  - Value: tTny7-VpEUX90-dZaRMaEej6kBStMe17Xe1wu13mLsg

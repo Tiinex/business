@@ -52,8 +52,8 @@ Grounding/orchestration acceptance only. No Site/Playthings or production source
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-qualified-delegation-grounding-and-transport-discipline.trace.md](001-2-7-5-qualified-delegation-grounding-and-transport-discipline.trace.md)
-  - Value: 51KtsftRzPfWMLPOxK1tqdePWBCZyd-rxPwRY9_QQWo
+  - Value: VxA6T2rCEo944PjZ2WEHFYyTqSUBrg3AeZoJT1i-WAw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: yesQil2Qu4qHbmcJYHGIWacZMcpqZ3-inxvGoa5W-mE
+  - Value: iIyO5oqj-MHakpqIguyQG2knabtFujJ1nJc3EVicMto

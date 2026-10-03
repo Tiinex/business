@@ -65,8 +65,8 @@ Parallel bounded recovery across Core shared Tooling and Extension VS Code host/
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-real-host-sigma-gate-root-cause-recovery-disposition.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-real-host-sigma-gate-root-cause-recovery-disposition.trace.md)
-  - Value: km7MxkJouiA-NUvC6QO_BygYUr_l33caDyZRBFRHb6M
+  - Value: 41li0CfMAHU5xl73oepzCq0ELNTVVNgySeYixPcPnU0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: YQlYnFeSTjmcFkCch0U2il9eZT9mxsE4U9a7NqLMQ_w
+  - Value: 5JuUnWF8WexAtIpjSQbjodzXU3mXYQpcPNAk7Cw97Jo

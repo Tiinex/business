@@ -114,8 +114,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [025-tooling-major-008-business-005-recipient-guidance-machine-qualification-evidence.trace.md](../025-tooling-major-008-business-005-recipient-guidance-machine-qualification-evidence.trace.md)
-  - Value: xR-D9akylJ4l-5qgnLLy9WY7iqMqQ0n4BZOPbSXYaT4
+  - Value: QA-xJ9ECRKZ0Xkdiqf-2bqlLRUs8rg1j3GFK40s_uEg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:e887nO6Au8j-qtBVqvqnJSFpVH6N1tvxnWUeU2geNHI
+  - Value:-bb8UfaKI_GNYmkTEYPp-V9Ocj7OD2u_NDihte4byuA

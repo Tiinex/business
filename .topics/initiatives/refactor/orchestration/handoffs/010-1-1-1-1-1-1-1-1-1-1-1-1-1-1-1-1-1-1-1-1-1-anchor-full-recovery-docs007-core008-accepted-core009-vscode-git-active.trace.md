@@ -153,19 +153,19 @@
 
 - docs-major-007-return
   - Material: qualified Axiom return and canonical package semantics Decision.
-  - Material Reference: [Docs Major 007 Return](docs::.topics/handoff-package/handoffs/001-1-1-1-1-1-axiom-to-anchor-docs-major-007-minimal-carrier-material-recipient-semantics-return.trace.md)
+  - Material Reference: [Docs Major 007 Return](docs::.topics/work/handoff-package/handoffs/001-1-1-1-1-1-axiom-to-anchor-docs-major-007-minimal-carrier-material-recipient-semantics-return.trace.md)
   - Purpose: exact semantic basis for Core Major 009.
   - Availability: available
 
 - core-major-008-return
   - Material: qualified Loom return and Evidence.
-  - Material Reference: [Core Major 008 Return](core::.topics/refactor/orchestration/handoffs/003-1-1-loom-to-anchor-core-major-008-bounded-handoff-carrier-isolation-recipient-closure.trace.md)
+  - Material Reference: [Core Major 008 Return](core::.topics/work/refactor/orchestration/handoffs/003-1-1-loom-to-anchor-core-major-008-bounded-handoff-carrier-isolation-recipient-closure.trace.md)
   - Purpose: exact mechanical predecessor for Core Major 009.
   - Availability: available
 
 - core-major-009-handoff
   - Material: active Anchor-to-Loom Core Major 009 Handoff.
-  - Material Reference: [Core Major 009 Handoff](core::.topics/refactor/orchestration/handoffs/003-1-1-1-1-anchor-to-loom-core-major-009-minimal-carrier-material-transport-projection.trace.md)
+  - Material Reference: [Core Major 009 Handoff](core::.topics/work/refactor/orchestration/handoffs/003-1-1-1-1-anchor-to-loom-core-major-009-minimal-carrier-material-transport-projection.trace.md)
   - Purpose: exact active Core scope.
   - Availability: available
 
@@ -224,8 +224,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-minimal-carrier-semantics-core008-active.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-minimal-carrier-semantics-core008-active.trace.md)
-  - Value: FxKQJQgn9FVjE06fHwW6EQGOGs2JIk2o9FjO1WeIpvE
+  - Value: dr7NUNozGJBNiLDw-aDp-hnM_01Tms9wYO-JRVCrrnM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: MbAkWdpkTzkwbxwPuf1HaLopXttfMEx0UhuKrr0ikxw
+  - Value: zHqZvjyOw2XhIAohBzJ1TLEE0xP9lZzFmKU2DmyF7WM

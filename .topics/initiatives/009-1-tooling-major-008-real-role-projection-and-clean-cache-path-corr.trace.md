@@ -86,8 +86,8 @@ Completion means the exact shared Core/Tooling flow can discover the real curren
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [009-tooling-major-008-anchor-direct-tooling-acceptance-and-two-core.trace.md](009-tooling-major-008-anchor-direct-tooling-acceptance-and-two-core.trace.md)
-  - Value: QPlHhjvSdQhjHmXPDRRRgBxx1dfAUfSKRTcEmU7e4xo
+  - Value: 7TRxN8-sNrB9mOpYV-5pLvgSqcQAKmPVD-w6iItd0Pw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: XzQTGVPOvWPyZh_O9dR4wtmPh_pnwbCaIktjpLvheqI
+  - Value: nzq5b1yY2aG_7tFWMuq4YOFfI2zee7VMRAPKW9lze1U

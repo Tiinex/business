@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-26 20:25:50
-  - Trace: [007-anchor-to-anchor-core-frozen-vs-code-human-parity-bridge-recover.trace.md](../../../handoffs/007-anchor-to-anchor-core-frozen-vs-code-human-parity-bridge-recover.trace.md)
+  - Trace: [007-anchor-to-anchor-core-frozen-vs-code-human-parity-bridge-recover.trace.md](../../../work/handoffs/007-anchor-to-anchor-core-frozen-vs-code-human-parity-bridge-recover.trace.md)
   - Origin:
-    - [relative](../../../handoffs/007-anchor-to-anchor-core-frozen-vs-code-human-parity-bridge-recover.trace.md)
+    - [relative](../../../work/handoffs/007-anchor-to-anchor-core-frozen-vs-code-human-parity-bridge-recover.trace.md)
 - Current
   - Current Schema: tiinex.evidence.v1
   - Created At: 2026-09-26 20:46:24
@@ -63,9 +63,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [007-anchor-to-anchor-core-frozen-vs-code-human-parity-bridge-recover.trace.md](../../../handoffs/007-anchor-to-anchor-core-frozen-vs-code-human-parity-bridge-recover.trace.md)
-  - Value: 8oqP7qEH69pnhjhj_3j3WakmMpGxYUpn2mz5mcydheQ
+  - Towards: [007-anchor-to-anchor-core-frozen-vs-code-human-parity-bridge-recover.trace.md](../../../work/handoffs/007-anchor-to-anchor-core-frozen-vs-code-human-parity-bridge-recover.trace.md)
+  - Value: fqPPw7wcEd1UDhcz06IUI7xMvGku6irWF6bE-ApxJLk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Ws1CFNbVBNs6gFnzd7KoT0VIyvE4-7hqB4ghNbySUZ8
+  - Value: 8d2YzdFJuKKixIIfyGgRYuaLwjd83BzuCS_x-fDKsu0

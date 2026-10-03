@@ -132,8 +132,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [022-tooling-major-008-neutral-fresh-anchor-replay-machine-qualification-evidence.trace.md](../022-tooling-major-008-neutral-fresh-anchor-replay-machine-qualification-evidence.trace.md)
-  - Value: J54800MbFqagmAjIJu_osCG4kUyUhWoBIZjcwm6prCM
+  - Value: WWc0AwB1onruOZJ_6MnygPlmjHX3unsppm4I9iON0uo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:vTCsYqKgivzjbH0LXzWMus8TtlIqALryG-ZoDpT7tgo
+  - Value:e9jjGrC_t2hxjE_9mvcLAOh-OEB-PWidv0JaCxa-sN8

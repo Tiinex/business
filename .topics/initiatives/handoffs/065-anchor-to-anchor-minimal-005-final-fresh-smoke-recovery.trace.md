@@ -96,8 +96,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [035-tooling-major-008-minimal-004-behavioral-and-005-closure-evidence.trace.md](../035-tooling-major-008-minimal-004-behavioral-and-005-closure-evidence.trace.md)
-  - Value: XDn6vT7E_XH1IvFGf4mC1-G-puorA33zRBBUMALKssw
+  - Value: b6ip-5zzwMe1wrB9hBiPtMZABKd_LHPEanNx-VwYSB4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:-QLHq5ABsmRTwVZwHKLCEGn09wSttF-qmQzKYqbff-A
+  - Value:T0P4keL-Ta-k7YI3J1kn3gQ2yt7epqweIc2eAtfpCUM

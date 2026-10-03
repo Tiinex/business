@@ -55,8 +55,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-5-glimmer-role.trace.md](001-5-glimmer-role.trace.md)
-  - Value: wHP75EeviwjQPfXeYchwS0mqkfZ2QvWtRb7jTN6d0Dk
+  - Value: rBmoac8YbKiF81ql5oNyYoI1v-0hRpXHvCBaZnkSdvA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: t83LO-oZWV8inT-9IX1YbvKSzrX9-OanQPW7dl0skhQ
+  - Value: R0rc2WgEb9c7KCz_oLNfKTeX_KDqpYUbJL0d2FVuvig

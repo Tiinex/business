@@ -55,8 +55,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Anchor Role — Successor Evolution Continuation](001-1-1-1-anchor-successor-evolution-role.trace.md)
-  - Value: NGZJWaRa35vhEp1dkeCm59ynI6IcxwUfSgg_EUxj2uU
+  - Value: fx3HI-P3K4KwLqnoLkijytWf9W8bw_BvVA5kji-qy6c
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:Yhmwpn5I_6t4xW8rbUy79QhVAgaCriSihfZvBDYAB6c
+  - Value:mkIS3DTiU68w3fFGRmMahSac4nIeUU5gB2SRd0Tv118

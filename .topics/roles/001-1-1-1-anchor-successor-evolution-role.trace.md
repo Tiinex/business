@@ -55,8 +55,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-1-anchor-major-planning-role.trace.md](001-1-1-anchor-major-planning-role.trace.md)
-  - Value: Ma6eyA9lq4jSStmHPiIJamCSiz5wdnmKrfWPtmKutyE
+  - Value: 8M7MPK2j_qfcSliqYpkVs5KMN8CpDjB8ewYm1OmcliA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: NGZJWaRa35vhEp1dkeCm59ynI6IcxwUfSgg_EUxj2uU
+  - Value: fx3HI-P3K4KwLqnoLkijytWf9W8bw_BvVA5kji-qy6c

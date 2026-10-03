@@ -61,8 +61,8 @@ This Decision does not make every available Role a participant, does not require
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-4-blank-workspace-role-cache-grounded-progression-hardening.trace.md](001-2-7-4-blank-workspace-role-cache-grounded-progression-hardening.trace.md)
-  - Value: -yDCIQ4DYgb7Tzp2Uiq8rXGSq_-Ue8Viaw0e8QV3b70
+  - Value: lBvw-UiC_3sXNBfpOJXyv-Ssb55rr10zpuCh60_8BY4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Ae9vfloXz35a4pR-d71E48l3cO-qjT1AtgMci27VwsA
+  - Value: bNsv3tAMk0W8tdsm5ktJW1NL-La4Sk2qvoo8dksXU_s

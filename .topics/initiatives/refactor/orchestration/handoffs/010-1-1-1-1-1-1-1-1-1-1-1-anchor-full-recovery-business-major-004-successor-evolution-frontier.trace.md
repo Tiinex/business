@@ -158,17 +158,17 @@
 
 - successor-semantic-grounding-capsule
   - Material: stable Docs-owned Anchor successor semantic grounding.
-  - Material Reference: [Anchor Successor Semantic Grounding Capsule](docs::.topics/role-authority/001-3-6-4-3-1-1-anchor-successor-semantic-grounding-capsule.trace.md)
+  - Material Reference: [Anchor Successor Semantic Grounding Capsule](docs::.topics/work/role-authority/001-3-6-4-3-1-1-anchor-successor-semantic-grounding-capsule.trace.md)
   - Purpose: stable distinctions that must survive current lane/recovery changes.
   - Availability: available
 - docs-major-003-disposition
   - Material: accepted Axiom owner-classification and fresh-successor acceptance plan.
-  - Material Reference: [Docs Major 003 Grounding Evolution Disposition](docs::.topics/role-authority/001-3-6-4-3-1-1-1-docs-major-003-anchor-successor-grounding-evolution-disposition.trace.md)
+  - Material Reference: [Docs Major 003 Grounding Evolution Disposition](docs::.topics/work/role-authority/001-3-6-4-3-1-1-1-docs-major-003-anchor-successor-grounding-evolution-disposition.trace.md)
   - Purpose: exact basis for Business Role/process evolution and Core Major 005 recommendation.
   - Availability: available
 - core-major-004-return
   - Material: accepted Loom schema-reference authoring/renderer return.
-  - Material Reference: [Core Major 004 Return](core::.topics/refactor/orchestration/handoffs/001-3-6-4-2-1-1-loom-to-anchor-core-major-004-canonical-schema-reference-authori.trace.md)
+  - Material Reference: [Core Major 004 Return](core::.topics/work/refactor/orchestration/handoffs/001-3-6-4-2-1-1-loom-to-anchor-core-major-004-canonical-schema-reference-authori.trace.md)
   - Purpose: exact authoring/rendering repair and historical-debt disposition.
   - Availability: available
 - vscode-navigation-return
@@ -239,8 +239,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-parallel-evolution-lanes.trace.md](010-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-parallel-evolution-lanes.trace.md)
-  - Value: VbDqwhVMkEUrDetgvHIBmKfT5gGnh1vwt32htLNkbFU
+  - Value: EBtYsdQM8uk4VNgCVp70zI9mczav6XGQjbRsbFaHii4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: dtt3pYQVFNg1lrBSXlbJ7kD8cEUoKCEoaOTTcIPZDCY
+  - Value: oj1c4GsAr-ECEvYl6kBFPHb0lIimTO52fw1-dHZyokk

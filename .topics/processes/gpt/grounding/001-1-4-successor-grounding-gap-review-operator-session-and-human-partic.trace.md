@@ -123,8 +123,8 @@ Only create additional durable artifacts when they own a real transfer, decision
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-successor-grounding-gap-review-replayable-acceptance-continuation.trace.md](001-1-successor-grounding-gap-review-replayable-acceptance-continuation.trace.md)
-  - Value: DjnF_Noi43gzPhSzb1tvkZumUyBy_ZOK7H--_dtg5pI
+  - Value: IMjiA5R4svBny6k_qtVMVP6rD7CLQ-v4_jShwYbm9pY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: KifcFGB39qQBCykXneFQcF-atCVhu5VQGkM6D15-n48
+  - Value: g90Fs86Rpgyg3ahbIzJsXN04mrQTybVBn0wSaJm4J9U

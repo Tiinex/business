@@ -148,8 +148,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-reduction-major-001-current-frontier-and-historical-leaf-reducti.trace.md](001-reduction-major-001-current-frontier-and-historical-leaf-reducti.trace.md)
-  - Value: --QLlB6rz_n_5AhdaG17iLwXBEE09ZzbcJfSyEM1v-E
+  - Value: rcxGw-zKOv-FCeFPK-_OdcbO63RPCj01CQ6XLkiYD_c
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Z_HLVWGCTuQVRyHs5htymL1fPy7u46fjgncpzv8yXUM
+  - Value: ycFNmkVH2s_y8Tjs0_KRA5K-S2dzg-JMcAlgSQoCG8A

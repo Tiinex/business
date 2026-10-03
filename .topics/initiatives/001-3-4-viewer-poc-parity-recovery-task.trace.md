@@ -64,8 +64,8 @@ Sigma set the current Foundation ordering as: **repository/branch grounding → 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/4cb7046454f1cf75333097fc1a3d4562838afc26/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Viewer](001-3-viewer-project.trace.md)
-  - Value: Z9OpOKoRrUw36W8_jOf7E3_-Ec36pqymqyIHKtYWIYc
+  - Value: Qs60jEJaQpzTNqsCG9oQNswwk5r_X7rn4N8wO8xt7VI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/4cb7046454f1cf75333097fc1a3d4562838afc26/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:y13IhXNx0ljUTAD3Doer6EWzDs63LGDLFj2NSRkQ9-4
+  - Value:43GXGZhmu8gR86nndnYa7XvkX2oGwCQkFCCxJKfEfgY

@@ -123,8 +123,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [014-grounding-003-current-work-authority-reconciliation-evidence.trace.md](014-grounding-003-current-work-authority-reconciliation-evidence.trace.md)
-  - Value: J26dLK2KNlQjKJKMdIC5h_vKLOnQOaDO_3-Li2_Yr6k
+  - Value: -LVXxgnKIlMRfm2Bt1EXML3ansdfLG6lb0FD1Nsc6Ro
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 9O4xq5LwRrOd5ugv9u6CfopUNmkzvZGrSx65M9X8pk8
+  - Value: eixGyVJqMnW-ATE0lSNjfHcXyE_4-pq6tfLHZpNCIBk

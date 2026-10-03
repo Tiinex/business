@@ -51,8 +51,8 @@ Run one bounded production-grade secondary Anchor lane over the current Site + V
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-9-playthings-project.trace.md](001-9-playthings-project.trace.md)
-  - Value: LXOmfYmsP9Pj65c1GC8jML-EM74fSeRR-8awOZwrRCs
+  - Value: 3l97uyObo5mte22ORRai65td3GYn10-7KghDdSA4ByY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: lX_JFvL1nfXGKcGVrIGkq7I1Bfb8lfw0v61kNsrsZbQ
+  - Value: z0e5IaJ3_a2DwCzlHzUXBvHYFypZIkoKmA7Fsp5RWxI

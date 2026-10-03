@@ -56,8 +56,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [035-anchor-to-loom-tooling-major-008-shared-tooling-blocker-correcti.trace.md](../../../initiatives/handoffs/035-anchor-to-loom-tooling-major-008-shared-tooling-blocker-correcti.trace.md)
-  - Value: iTxOCD7O-6ULjE-vBv8AipzfK8hCGh2rPwVKScVKQO4
+  - Value: ocq9CnroZTMui5vRTUojlg6uTAaRtHVF3nl1s5wXrFE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: QX5DL1UIM01xpMh0Ldi5gm7_l2QTCw6wNVpzUSX53bg
+  - Value: XZ9AcxUnTZ_FGli5YX2xjS48k0Rsmr4aBtJAUmNesvk

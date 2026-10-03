@@ -134,8 +134,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-2-1-2-anchor-to-fresh-anchor-grounding-major-001-operating-contract-re.trace.md](002-2-1-2-anchor-to-fresh-anchor-grounding-major-001-operating-contract-re.trace.md)
-  - Value: WYv3vswwU6sT5QwGU5PjYNLB49i5MafLMAGSa5cATzQ
+  - Value: EUxGU2nPdqlk7BRle43xkU4-izqOqDtKvkJ3THIMxxM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: N2rHdSjQSmyIs_Kf31Zjqs2GZ5_WzPtkSpzNffQwRGo
+  - Value: K62KWDa5VhzA-JbeFaiozx_esh3OIs1yz-SPkaMz7k8

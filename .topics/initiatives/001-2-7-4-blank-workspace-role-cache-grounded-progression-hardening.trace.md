@@ -76,8 +76,8 @@ Current Carrier Major 001 grounding-hardening front only. This Task does not clo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-thin-lineage-anchor-grounding-orchestration-epic.trace.md](001-2-7-thin-lineage-anchor-grounding-orchestration-epic.trace.md)
-  - Value: f0iMMxJZ5jrOIRd7SjL14TG2K-HriaX17b7g784ItO0
+  - Value: 0m0GzTrrKzgIlf48M98tVUVYGCiVrcODzNnkx2aTpM0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: -yDCIQ4DYgb7Tzp2Uiq8rXGSq_-Ue8Viaw0e8QV3b70
+  - Value: lBvw-UiC_3sXNBfpOJXyv-Ssb55rr10zpuCh60_8BY4

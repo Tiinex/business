@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-27 17:56:00
-  - Trace: [013-anchor-to-sigma-vs-code-routed-authoring-pointer-candidate.trace.md](../../../handoffs/013-anchor-to-sigma-vs-code-routed-authoring-pointer-candidate.trace.md)
+  - Trace: [013-anchor-to-sigma-vs-code-routed-authoring-pointer-candidate.trace.md](../../../work/handoffs/013-anchor-to-sigma-vs-code-routed-authoring-pointer-candidate.trace.md)
   - Origin:
-    - [relative](../../../handoffs/013-anchor-to-sigma-vs-code-routed-authoring-pointer-candidate.trace.md)
+    - [relative](../../../work/handoffs/013-anchor-to-sigma-vs-code-routed-authoring-pointer-candidate.trace.md)
 - Current
   - Current Schema: tiinex.evidence.v1
   - Created At: 2026-09-27 19:18:00
@@ -68,9 +68,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [013-anchor-to-sigma-vs-code-routed-authoring-pointer-candidate.trace.md](../../../handoffs/013-anchor-to-sigma-vs-code-routed-authoring-pointer-candidate.trace.md)
-  - Value: YJgkkBlHX_z995VvpXS33gKo768viQmnb2MCAQoe8XQ
+  - Towards: [013-anchor-to-sigma-vs-code-routed-authoring-pointer-candidate.trace.md](../../../work/handoffs/013-anchor-to-sigma-vs-code-routed-authoring-pointer-candidate.trace.md)
+  - Value: KkuCszugJtaLt2tQqhF0p4MFvXj65X9u6t94ei8nX5k
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:8xGb8BD3mFV0x5F1nmAw4Cqhmu0T17OJf7re32CW9hE
+  - Value:ZujKjMK9j3V4hi2ZUI988OyS_DlTEjLj-RBtpxDv91w

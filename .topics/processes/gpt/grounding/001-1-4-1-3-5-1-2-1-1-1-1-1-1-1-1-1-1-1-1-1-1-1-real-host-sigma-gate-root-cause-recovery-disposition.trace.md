@@ -59,8 +59,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-sigma-real-host-gate-blocker-evidence.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-sigma-real-host-gate-blocker-evidence.trace.md)
-  - Value: L57FenwU_is-dnIjwvJKgUQhZqm7m-Xz_P7Lb0Wqemo
+  - Value: 5atJiA2ynvsv9cKlOVF-Ax2mrP3Kev5Siytuk9Pqq5c
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: km7MxkJouiA-NUvC6QO_BygYUr_l33caDyZRBFRHb6M
+  - Value: 41li0CfMAHU5xl73oepzCq0ELNTVVNgySeYixPcPnU0

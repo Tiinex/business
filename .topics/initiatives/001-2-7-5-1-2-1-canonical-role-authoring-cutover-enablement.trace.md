@@ -49,8 +49,8 @@ Portable Role authoring/schema-material packaging and exact Parent-schema qualif
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-2-canonical-holder-assignment-mode-normalization.trace.md](001-2-7-5-1-2-canonical-holder-assignment-mode-normalization.trace.md)
-  - Value: sHcRIrW-bE0NbTMBahP5wbeJg3VVtpaeU5wqWGajp_0
+  - Value: xD9J36u0kk_rKMUqiTd893tuK2dSKHx676jLSP7vOQw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 6JMU1QVWnVCv9VEH5e_l8uE_G64U5sA5DdtVYiP7zS4
+  - Value: MjVLd4WrTdNp2aipAx1hBAcZnEzpp8J12GVn7kxCIdc

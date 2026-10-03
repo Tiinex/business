@@ -22,10 +22,10 @@
 - Purpose: perform the final focused real Windows / VS Code acceptance pass on Candidate 018 and confirm the extension is ready to close the current VS Code stabilization frontier before Marketplace release automation is wired.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Sigma
 - To Kind: role
-- To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
@@ -73,7 +73,7 @@
 
 - bounded-final-recovery
   - Retained By: Anchor
-  - Retained By Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
   - Responsibility: receive Sigma's disposition on this exact Candidate 018. If one concrete blocker remains, reproduce it against this exact carried Workspace and correct only at the demonstrated owner boundary.
   - Boundary: do not reopen Core, Transport, participant authority, Title/Slug, manufacture, or pointer semantics without new owner-level evidence.
 
@@ -182,7 +182,7 @@
 - Signal Kind: disposition
 - Signal Meaning: Sigma either accepts the exact carried Candidate 018 as the final VS Code extension stabilization candidate, enabling the Marketplace automated release-flow phase, or returns one concrete reproducible blocker with visual evidence sufficient for bounded owner-level recovery.
 - Return To: Anchor
-- Return To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -196,8 +196,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [016-1-1-anchor-to-sigma-vs-code-tree-projection-and-send-route-candidate.trace.md](016-1-1-anchor-to-sigma-vs-code-tree-projection-and-send-route-candidate.trace.md)
-  - Value: WHyR3M93WUJ5GOFyc73q3nrBkDGq5GRnPyhy2MmkWH0
+  - Value: VmEf-szZY7DsCAsGlfoEIPlYMszj5xg_REv59VMcUKk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: sbsDKRcFqZ5jGhdZAgz81rnm5KZ6NkL6XVfnlXxCRLw
+  - Value: AT0d1V7Gct4ZSyYQlM_yL4v8NDZBtub1h6qlzT6cUzM

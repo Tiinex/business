@@ -120,8 +120,8 @@ After Sigma accepts the machine behavior and human package shape, record the Pac
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [044-anchor-to-anchor-package-v1-risk-closed-recovery-frontier.trace.md](handoffs/044-anchor-to-anchor-package-v1-risk-closed-recovery-frontier.trace.md)
-  - Value: mgMS4VhnpIrJVuAdk-QkecmYvlxPreqloKdpFcjPSUg
+  - Value: Cbz9P_QPNDKE2VlESMlqO87a2PWQ107YC6SqdrrexcI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:5JtuWr2GjE1KvS2X_j74ZSWulNQRF9AANy9FbMI5Fm4
+  - Value:nDpqIqszBoice6qkhkuzsyCfaxTPu_QqqDiBRJkJFlg

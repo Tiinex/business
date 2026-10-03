@@ -58,7 +58,7 @@
 
 - core-cleanup-handoff
   - Material: qualified Anchor-to-Loom Handoff delegating final removal of temporary legacy-positive holder authorization.
-  - Material Reference: [Anchor To Loom — Canonical Holder Legacy Removal](core::.topics/grounding/handoffs/031-anchor-to-loom-canonical-holder-legacy-removal.trace.md)
+  - Material Reference: [Anchor To Loom — Canonical Holder Legacy Removal](core::.topics/work/grounding/handoffs/031-anchor-to-loom-canonical-holder-legacy-removal.trace.md)
   - Purpose: exact next specialist transport frontier.
   - Availability: available
 
@@ -115,8 +115,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-5-1-2-1-1-1-1-2-canonical-holder-legacy-removal-and-cutover-completion.trace.md](../001-2-7-5-1-2-1-1-1-1-2-canonical-holder-legacy-removal-and-cutover-completion.trace.md)
-  - Value: KEFIwQD1P-87uD2mgR7WOCQhSLTpBakbPs8Q6tE9p7c
+  - Value: q5n04b6ueVr4EpmER8as2wly9_cuOZgw2rjpQZ9n7V0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: YvTDI3pwqDinGT1ezRk0qJBM35h0XDFwwZfpKVoXRVU
+  - Value: pSxQmgQpX1-rg3BVIMwLDVZCi5HJzsC8nL0XvcEkWg4

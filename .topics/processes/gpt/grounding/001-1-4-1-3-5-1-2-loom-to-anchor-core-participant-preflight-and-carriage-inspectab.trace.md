@@ -172,8 +172,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-anchor-to-loom-core-participant-preflight-and-carriage-inspectability-repair.trace.md](001-1-4-1-3-5-1-anchor-to-loom-core-participant-preflight-and-carriage-inspectability-repair.trace.md)
-  - Value: tlw-pgxfi98q591KT2IJsJfkSw1RdghEXugvAu1EN_E
+  - Value: t6mZzT26oQDBqKjUJblnmEw59u9s5ERiBcEPoYS6h8o
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: oyB4i60oRg5H8fXyxch4elRh1qvDCJGtjJP20KL6BKg
+  - Value: LH81sVO1HPT6RziH8jLe8eToRFNammGe4COFZEQqG6g

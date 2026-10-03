@@ -58,8 +58,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-3-sigma-audience-reach-and-external-learning-feedback.trace.md](001-3-sigma-audience-reach-and-external-learning-feedback.trace.md)
-  - Value: LC3tgYr2NvpZi4CQATCciTTh4mkXcQmY0rhiKahIE-c
+  - Value: eXiktNL_wY_4dmBG418D5NczCZtsbwxXE9OZYxo4lPo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: W98xmKgakDMK8_BsrbcDP-AKxOwCiXXPPQP3px2OpjY
+  - Value: XTErXKI32T0IHUSvdFEZ-K4QG9f18qW6zlClAg41OzQ

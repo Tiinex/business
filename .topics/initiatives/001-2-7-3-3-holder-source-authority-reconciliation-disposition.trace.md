@@ -93,8 +93,8 @@ Production Site/Playthings sub-Anchor orchestration remains gated until that val
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-3-blind-fresh-anchor-thin-lineage-validation-task.trace.md](001-2-7-3-blind-fresh-anchor-thin-lineage-validation-task.trace.md)
-  - Value: UIm93s4JX5kGXxdFxwO8Hajgl8iYEVGlY-QfSes2rFE
+  - Value: pWoRLJrxdt1mw16qGdTnFE4GXVS_BWWaE446txxUu0E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: pAS64xWqNTn1r9wIlRDO_nh0ycK1azebZoO0fj-LlSM
+  - Value: xY7qjHe0HEhsRGCQ71bNyFx0CFvIPD1K_Er_owyWFa0

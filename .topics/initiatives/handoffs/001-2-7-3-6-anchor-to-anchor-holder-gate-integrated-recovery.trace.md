@@ -67,7 +67,7 @@
 
 - loom-holder-gate-return
   - Material: Loom holder-binding authorization gate return and qualification evidence.
-  - Material Reference: [Holder Binding Authorization Gate Task](core::.topics/grounding/005-holder-binding-authorization-gate-task.trace.md)
+  - Material Reference: [Holder Binding Authorization Gate Task](core::.topics/work/grounding/005-holder-binding-authorization-gate-task.trace.md)
   - Purpose: accepted Core implementation/provenance basis for the final focused validation.
   - Availability: available
 
@@ -127,8 +127,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-3-5-anchor-to-anchor-holder-source-authority-reconciliation-recovery.trace.md](001-2-7-3-5-anchor-to-anchor-holder-source-authority-reconciliation-recovery.trace.md)
-  - Value: 7qcNNZp4fE3FpVG3Y7xdHw13DSEtLES_N7hXhQ2X2Ys
+  - Value: JLJV67OKXspogY-HT6E5jGs2AWpcJIrwl9iZkAF2kKo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: su5_JOTYQCjXAkAEe8wCr7XrKkOeXUKq4etecb27a38
+  - Value: yimp9UIjdQV6eeDrsn0SWu0EqobVYg5WlDjSIeb4AM8

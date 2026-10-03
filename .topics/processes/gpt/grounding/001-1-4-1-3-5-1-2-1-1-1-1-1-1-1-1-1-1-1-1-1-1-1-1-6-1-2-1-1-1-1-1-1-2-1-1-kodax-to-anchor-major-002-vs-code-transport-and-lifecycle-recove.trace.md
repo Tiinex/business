@@ -164,8 +164,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-1-1-2-1-kodax-major-002-vs-code-transport-and-lifecycle-recovery-evidenc.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-1-1-2-1-kodax-major-002-vs-code-transport-and-lifecycle-recovery-evidenc.trace.md)
-  - Value: CcYwzCuDiZj58iHwlyz1xitK0sOPBO1aBhyenF42igc
+  - Value: flNxneoh6gWhheqyZuRaBVIswJ0wEADY91L3UMkuHuA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Kxy0C5WXzoNrB2QSZpmTO3plPdB0yBSbp2qhF6hTVkg
+  - Value: LFWxmjfHp33CMVo9sjlB3CBR29ijsRLnyXL3lMW3UB8

@@ -79,8 +79,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [064-anchor-to-anchor-minimal-004-fresh-gate-recovery.trace.md](handoffs/064-anchor-to-anchor-minimal-004-fresh-gate-recovery.trace.md)
-  - Value: n_bgxv-_opfrlB815oszR_klW3sQ8uzVKCxcqk78cmQ
+  - Value: FG9iIxAF-5xK4lQIC8lqejTItHIN2CJ2reAhzKH-w9I
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:XDn6vT7E_XH1IvFGf4mC1-G-puorA33zRBBUMALKssw
+  - Value:b6ip-5zzwMe1wrB9hBiPtMZABKd_LHPEanNx-VwYSB4

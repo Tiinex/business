@@ -53,8 +53,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-turn-2-repository-decomposition-frontier.trace.md](../001-turn-2-repository-decomposition-frontier.trace.md)
-  - Value: FSTPBfQmP7ZXOwuLt5OxiGGRIC7uF4WtwqPKJO54Dzw
+  - Value: RFUgYMtU1bgnnjsRgaj5Pr50TATInikwyGkSnHyJ8-g
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: r5jRHlZ-OBaV-YOApZQ8XPI5KpePZsl4_qvXfWLRAcY
+  - Value: WN5TojauLOnlmL6pq2PjHRb9XKjL3lG2SuYTBWhopgA

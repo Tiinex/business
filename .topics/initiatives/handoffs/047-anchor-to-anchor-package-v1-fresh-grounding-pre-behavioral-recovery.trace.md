@@ -156,8 +156,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [017-tooling-major-008-fresh-anchor-grounding-behavioral-acceptance.trace.md](../017-tooling-major-008-fresh-anchor-grounding-behavioral-acceptance.trace.md)
-  - Value: J9lugLN788QZ0ucbtiA4q5tWEAZ6ZxQbggK9pwvcl40
+  - Value: Eku6GNKdKtVSzoGxdG_QrVtUUyHkl_oxwy96VWPuuTw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 2leol-cGrUs0MyACS6uoia6lL7FArKLt5MjgDPQQMVw
+  - Value: SA1vr_-mU64RUV2dwIOY3AXlSkSCKaeLiMiKrk8sQSQ

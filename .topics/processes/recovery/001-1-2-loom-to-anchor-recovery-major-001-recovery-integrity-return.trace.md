@@ -123,8 +123,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-anchor-to-loom-recovery-major-001-committable-full-recovery-and-active-wip-protection.trace.md](001-1-anchor-to-loom-recovery-major-001-committable-full-recovery-and-active-wip-protection.trace.md)
-  - Value: xzbFm8w-iXRSE6KHEof2uyCeGRN0Dwn7FUqT7ofahWo
+  - Value: kOw5JQO5cKOdu1FWXI8oiyctyED2QTS4fvRmJCiwRVw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: m5FfQuKjw0oR2wfJUJl_6S8GKHBVBFdVpnATGGez4m4
+  - Value: zZIkPMKBeSS1yqkPLVuEixKxUm2CQ6bJ1VHExJA5ecg

@@ -143,7 +143,7 @@
 
 - core-major-009-return
   - Material: qualified Loom Core Major 009 return.
-  - Material Reference: [Core Major 009 Return](core::.topics/refactor/orchestration/handoffs/003-1-1-1-1-1-loom-to-anchor-core-major-009-minimal-carrier-material-represent.trace.md)
+  - Material Reference: [Core Major 009 Return](core::.topics/work/refactor/orchestration/handoffs/003-1-1-1-1-1-loom-to-anchor-core-major-009-minimal-carrier-material-represent.trace.md)
   - Purpose: exact accepted mechanics and regression evidence.
   - Availability: available
 
@@ -218,8 +218,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-docs007-core008-accepted-core009-vscode-git-active.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-docs007-core008-accepted-core009-vscode-git-active.trace.md)
-  - Value: MbAkWdpkTzkwbxwPuf1HaLopXttfMEx0UhuKrr0ikxw
+  - Value: zHqZvjyOw2XhIAohBzJ1TLEE0xP9lZzFmKU2DmyF7WM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ENN8xLpzeGGMNtzZPzDXtIMF_-tC4x8A2XcdXq-mds8
+  - Value: wXHrCaghBJtc31LNGPvKojxBqhNaGobGv3yxmJVfaAg

@@ -148,7 +148,7 @@
 
 - docs-major-006-return
   - Material: qualified Axiom return and organizational-work-provenance Decision.
-  - Material Reference: [Docs Major 006 Return](docs::.topics/grounding/handoffs/001-1-1-axiom-to-anchor-docs-major-006-organizational-work-provenance-se.trace.md)
+  - Material Reference: [Docs Major 006 Return](docs::.topics/work/grounding/handoffs/001-1-1-axiom-to-anchor-docs-major-006-organizational-work-provenance-se.trace.md)
   - Purpose: exact semantic disposition for repeated successor grounding friction.
   - Availability: available
 
@@ -216,8 +216,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-successor-probe-disposition-vscode-final-docs006-replay.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-successor-probe-disposition-vscode-final-docs006-replay.trace.md)
-  - Value: 5Ofvoj1zJa1I-grDyqO6gIOeFOkYV0rzZHJVZ_b5yLc
+  - Value: rz2hkGvdIL7Q4yfDWi-T7EJzIblhQawmHCo26Y1eZdk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: SXJZN4O4AnISE_GgVljd-VGp-SNl7D6QHBgQCgtwU9c
+  - Value: VmMdzwEezjlEdP1eEGPsJMrfhOwxXI62UB9_XcoV4wQ

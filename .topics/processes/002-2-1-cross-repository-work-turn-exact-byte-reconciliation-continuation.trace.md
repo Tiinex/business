@@ -67,8 +67,8 @@ This process does not grant Tooling semantic merge authority, authorize deletion
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-2-cross-repository-work-turn-reconciliation-major-human-gate-continuation.trace.md](002-2-cross-repository-work-turn-reconciliation-major-human-gate-continuation.trace.md)
-  - Value: Iki4WHrUDupW1YcqT34MyBzwAzSQeIBYGJSxynO4t9Y
+  - Value: HrtqInnwsmlogXu2kyZI-Ue1Lx4ODQwgPwYS32sSyj4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: wmzNCH-EPTKqmhdLEbGm0fop5d8dftmZYPGAu66b34g
+  - Value: pc_gRCHaDYpkJgv0oLAVSPh1r0y-myUH0hC1sfBOK7w

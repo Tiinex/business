@@ -133,8 +133,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [013-tooling-major-008-handoff-package-v2-purge-and-native-v1-rebuild.trace.md](../013-tooling-major-008-handoff-package-v2-purge-and-native-v1-rebuild.trace.md)
-  - Value: cwm2qeefTfhCOkCKDjeP68fuN9bFu1RF6zixit3RFP0
+  - Value: CZ_xTTNwLv8rM34s0tmk595TXLXhb5Kf37yCJpJwp5M
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: iDm7kL_c17Xb4WH7vyhbceLcnvbLg9-FDPEbxZTksqs
+  - Value: syDxSimLc2ilIZVezriwB-yoyp6TD53lvqXa6ebljGo

@@ -74,8 +74,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-2-4-3-2-anchor-to-anchor-clean-standard-successor-replay-return-with-iso.trace.md](001-1-2-4-3-2-anchor-to-anchor-clean-standard-successor-replay-return-with-iso.trace.md)
-  - Value: o0zTiMWb2Ea27m-ZvWQUSAKTVVE2M2BpB-sgssvZ85c
+  - Value: D0Khm82KYKFK85KM3LLQxVaucwvb0gRVpNMMxBCLpxI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: tn8wCfzB4XblTxs4GTk680zGRLdYJzFUKBy1b5F0jOk
+  - Value: s0vL8zq-p5Hl0C8Kex3AJGzWBEbD041MibhyLn5Wbos

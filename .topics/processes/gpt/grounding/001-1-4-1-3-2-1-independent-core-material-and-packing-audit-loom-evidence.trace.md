@@ -58,8 +58,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-2-anchor-to-loom-independent-core-material-and-packing-audit.trace.md](001-1-4-1-3-2-anchor-to-loom-independent-core-material-and-packing-audit.trace.md)
-  - Value: xLska9WeNlgCuWLLNTztJtkUegX5350kFD5oQbYwCYw
+  - Value: -93gEqCj01V8XsMmLFnInD1gvqmmhe0KKpRetxDOVZI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: JLteuSNYC14vVepvcf6Dx6QTIAyr_0iETGvRIKkiE-w
+  - Value: 4-TeM_RUzv0LNDFNztAU9UyRhyYTjo_c___PXVrkgRQ

@@ -64,13 +64,13 @@
 
 - sigma-audience-feedback
   - Material: direct Sigma feedback lineage motivating targeted external learning/outreach.
-  - Material Reference: [Sigma Audience Reach And External Learning Feedback](business::.topics/business-development/001-3-sigma-audience-reach-and-external-learning-feedback.trace.md)
+  - Material Reference: [Sigma Audience Reach And External Learning Feedback](business::.topics/work/business-development/001-3-sigma-audience-reach-and-external-learning-feedback.trace.md)
   - Purpose: preserve the human motivation separately from the outreach event.
   - Availability: available
 
 - outreach-evidence
   - Material: bounded evidence of the sent provenance-community introduction.
-  - Material Reference: [Provenance Community Outreach Evidence](business::.topics/business-development/001-3-1-provenance-community-outreach-evidence.trace.md)
+  - Material Reference: [Provenance Community Outreach Evidence](business::.topics/work/business-development/001-3-1-provenance-community-outreach-evidence.trace.md)
   - Purpose: preserve what happened and how Tiinex was positioned, without promotion into semantic truth.
   - Availability: available
 
@@ -113,8 +113,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-core009-vscode-git-accepted-transport-active.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-core009-vscode-git-accepted-transport-active.trace.md)
-  - Value: ENN8xLpzeGGMNtzZPzDXtIMF_-tC4x8A2XcdXq-mds8
+  - Value: wXHrCaghBJtc31LNGPvKojxBqhNaGobGv3yxmJVfaAg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: L6lSyuFgo7TE1Oha8z48Al6oMmDbMH7Q8SOt5MHCGHM
+  - Value: ud_5tkFRkKDSEKxecQ46qj0XoS21CQ6YXt10o2c5EJg

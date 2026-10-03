@@ -77,8 +77,8 @@ After each meaningful frontier-changing result, create or refresh a qualified re
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-successor-grounding-gap-review-operator-session-and-human-partic.trace.md](001-1-4-successor-grounding-gap-review-operator-session-and-human-partic.trace.md)
-  - Value: KifcFGB39qQBCykXneFQcF-atCVhu5VQGkM6D15-n48
+  - Value: g90Fs86Rpgyg3ahbIzJsXN04mrQTybVBn0wSaJm4J9U
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: G720AFkM8X7Eug8WzTPnRCFxcKNLIRZ6HJQG4FJPEeY
+  - Value: kzJ8E6rWUTsQwBrgNCiLvHL74ePPpasy8YoinLGF4zg

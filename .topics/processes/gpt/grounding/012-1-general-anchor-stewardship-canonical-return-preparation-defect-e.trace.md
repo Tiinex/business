@@ -86,8 +86,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [012-anchor-to-fresh-anchor-general-stewardship-succession.trace.md](012-anchor-to-fresh-anchor-general-stewardship-succession.trace.md)
-  - Value: ARjuN4TjL6HC5vmyC9hpq8JRkB7ciD4inQ64BVNb1h0
+  - Value: _oos-LmA_Zl6ftuxqdcdbxRKaS5nZJEbJtoAAWeT8po
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: AYdjx9BbPJP1M-Ljdsoa-E6aFCNIaH1Fv3rAqJhwx_s
+  - Value: O0kHDyMNpKNs6BAjR4POssAdKqEOg0Z7DQ8_Hwjxqms

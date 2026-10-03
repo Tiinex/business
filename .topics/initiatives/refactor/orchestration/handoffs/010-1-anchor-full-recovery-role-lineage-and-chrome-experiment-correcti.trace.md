@@ -217,8 +217,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-anchor-full-recovery-carrier-major-002-repository-boundary-corre.trace.md](010-anchor-full-recovery-carrier-major-002-repository-boundary-corre.trace.md)
-  - Value: DlJjYcC_uzyR_PBIJ0U1FAUbIfl0kgnElcCQUnScf4Y
+  - Value: SyfqvY-__3sy6kSK6qsbFERiYnM3JoCDtx-SD2QsC2E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 8UnR7sz0JWHGKiV3fC5yuPslrp_XGu6ydmiUR8Bfhfw
+  - Value: by68zp_M8pc_dvXhWzKkjbJQCFFwOaf3dnpXhgFv_ug

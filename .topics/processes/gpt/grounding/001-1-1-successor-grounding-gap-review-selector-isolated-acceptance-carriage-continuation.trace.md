@@ -58,8 +58,8 @@ This continuation does not redefine ordinary specialist carriage, complete Works
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-successor-grounding-gap-review-replayable-acceptance-continuation.trace.md](001-1-successor-grounding-gap-review-replayable-acceptance-continuation.trace.md)
-  - Value: DjnF_Noi43gzPhSzb1tvkZumUyBy_ZOK7H--_dtg5pI
+  - Value: IMjiA5R4svBny6k_qtVMVP6rD7CLQ-v4_jShwYbm9pY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 1Ec68i1oj6RdbY2ttaXEwH8PcRHNK09pPagir_kqtiI
+  - Value: H7AZ8f2Y0eF2n5IjC6DRqyYAlP7vsTrV0PdN5CZAIJ0

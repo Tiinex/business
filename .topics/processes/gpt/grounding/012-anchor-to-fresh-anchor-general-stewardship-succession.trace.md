@@ -142,8 +142,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [066-anchor-to-anchor-core-llm-package-v1-frozen-recovery.trace.md](../../../initiatives/handoffs/066-anchor-to-anchor-core-llm-package-v1-frozen-recovery.trace.md)
-  - Value: gz1UJ1Lhi1L0s3vJC_2Bs6nr-GxYF8B9gqIlBXbhBgE
+  - Value: SuYZHwXeu47JFuvauEiaiwWeX-x-Srov8d4he1hFm5w
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ARjuN4TjL6HC5vmyC9hpq8JRkB7ciD4inQ64BVNb1h0
+  - Value: _oos-LmA_Zl6ftuxqdcdbxRKaS5nZJEbJtoAAWeT8po

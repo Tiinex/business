@@ -101,8 +101,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-2-fresh-anchor-successor-acceptance-core007-docs005-frontier-task.trace.md](001-1-2-fresh-anchor-successor-acceptance-core007-docs005-frontier-task.trace.md)
-  - Value: 3n8hXhEw35Q1q7uyIBtbIzuvRh4OPvFD94PzUHEvBOc
+  - Value: AQldhAAQ1_kv40CVxx2NSpOcCHrV5Zd5MM7689O5nAg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: SZGnhhR3JToHwdwq4EAg4nldfmAHJkSrn7RrM0iXHMA
+  - Value: loFUrcVia8oonYpf1nl85dMKE-X-FSsKwuc0RUPtqqg

@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: tiinex.evidence.v1
   - Created At: 2026-09-26 19:17:21
-  - Trace: [002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md](../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
+  - Trace: [002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md](../../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
   - Origin:
-    - [relative](../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
+    - [relative](../../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
 - Current
   - Current Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-26 19:17:54
@@ -24,30 +24,30 @@
 - Purpose: transfer the fully recovered five-Workspace frontier to a fresh Anchor after Core Package V1 topology and recipient-return hardening passed Tooling and Fresh Anchor behavioral qualification, and resume the existing VS Code shared-Core bridge without reconstructing state.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Anchor
 - To Kind: role
-- To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
 - vscode-shared-core-bridge-reentry
   - Transfer Kind: work-and-responsibility
   - Description: resume the existing VS Code shared-Core bridge from the exact carried VS Code Workspace while preserving the newly qualified Core Package V1, grounding, return-transition, and transport semantics. Core remains the semantic/tooling owner; VS Code remains a thin host adapter.
-  - Controlling Artifact: [Core Package V1 topology and return qualification closure Evidence](../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
+  - Controlling Artifact: [Core Package V1 topology and return qualification closure Evidence](../../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
   - Boundary: local continuation only. Do not rewrite the Core closure just completed, do not invent VS Code-private Tiinex semantics, and do not perform remote mutation. Complete the remaining VS Code bridge validation and actual workflow qualification before a stable Sigma return.
 
 ## Required Context
 
 - recovery-evidence
   - Material: exact Core closure and VS Code re-entry recovery Evidence from this turn.
-  - Material Reference: [Core closure Evidence](../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
+  - Material Reference: [Core closure Evidence](../../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
   - Purpose: preserves the exact corrected Package V1 topology, grounding/return semantics, validation state, Fresh Anchor behavior, remaining bridge gates, and interpretation boundaries.
   - Availability: available
 
 - prior-bridge-recovery-evidence
   - Material: exact implementation/recovery Evidence that carried the in-progress Core pointerless and VS Code thin-bridge source delta into this turn.
-  - Material Reference: [prior bridge recovery Evidence](../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
+  - Material Reference: [prior bridge recovery Evidence](../../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
   - Purpose: preserves the bridge source delta and original remaining validation plan without chat reconstruction.
   - Availability: available
 
@@ -99,7 +99,7 @@
 
 - sigma-final-acceptance
   - Retained By: Sigma
-  - Retained By Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
   - Responsibility: final human acceptance and any commit/merge/push disposition after Anchor returns a stable fully qualified VS Code bridge package.
   - Boundary: successful Core and Fresh Anchor qualification does not transfer Sigma's final acceptance responsibility.
 
@@ -140,7 +140,7 @@
 - Signal Kind: result
 - Signal Meaning: Anchor returns a stable full five-Workspace Package V1 to Sigma only after the VS Code shared-Core bridge is fully qualified through build/tests and actual routed/pointerless host workflows, with no parallel VS Code semantics and no unresolved bridge-relevant blocker.
 - Return To: Sigma
-- Return To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -152,9 +152,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md](../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
-  - Value: hS7fCYjmhmB-KxibZjiz4obWW0xov8NRQ4oGMsZ_As4
+  - Towards: [002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md](../../processes/gpt/vscode-reentry/002-1-1-vs-code-re-entry-core-package-v1-topology-and-return-qualificati.trace.md)
+  - Value: hvfJfMDedPTuAQK1H3hySXAtlWKMGtOapAR-mBK2HrI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: KmdNFVuFS2SQ5_cQWsVqv_DTkFoQS2xXGtZv3_3Iztc
+  - Value: fkL5uBUkwoDG9-h8e1RR3_6jU7j-Mtu8MPJxS6R5_vA

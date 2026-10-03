@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: tiinex.evidence.v1
   - Created At: 2026-09-26 11:44:35
-  - Trace: [002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md](../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
+  - Trace: [002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md](../../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
   - Origin:
-    - [relative](../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
+    - [relative](../../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
 - Current
   - Current Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-26 11:45:26
@@ -24,30 +24,30 @@
 - Purpose: transfer the exact resumed VS Code/Core bridge implementation state to a fresh Anchor conversation before further platform instability, without promoting the partial implementation to stable or Sigma-accepted status.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Anchor
 - To Kind: role
-- To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
 - vscode-shared-core-bridge-recovery
   - Transfer Kind: work-and-responsibility
   - Description: resume from the exact edited Core and VS Code Workspaces carried by this package. Preserve the current behavior-first architecture: Core owns Package V1, pointerless, Start/bootstrap, route, grounding, and transport semantics; VS Code remains a thin host adapter and must preserve useful existing UX/orchestration behavior.
-  - Controlling Artifact: [shared Core bridge implementation recovery Evidence](../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
+  - Controlling Artifact: [shared Core bridge implementation recovery Evidence](../../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
   - Boundary: local continuation only. Complete the remaining validation and actual workflow qualification before any stable Major/Sigma return. No remote mutation is authorized.
 
 ## Required Context
 
 - recovery-evidence
   - Material: exact implementation/recovery Evidence for the current resumed work turn.
-  - Material Reference: [implementation recovery Evidence](../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
+  - Material Reference: [implementation recovery Evidence](../../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
   - Purpose: recover exact local delta, focused PASS state, incomplete host dependency observation, and remaining gates without relying on chat history.
   - Availability: available
 
 - prior-recovery-evidence
   - Material: prior platform-recovery and bridge-discovery checkpoint.
-  - Material Reference: [prior recovery Evidence](../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
+  - Material Reference: [prior recovery Evidence](../../processes/gpt/vscode-reentry/002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
   - Purpose: preserve why the work was restarted from carrier-017 baseline and the original discovered bridge seams.
   - Availability: available
 
@@ -99,7 +99,7 @@
 
 - sigma-final-acceptance
   - Retained By: Sigma
-  - Retained By Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
   - Responsibility: final human acceptance, merge/commit/push only after Anchor returns a stable multi-Workspace package whose build/tests and actual workflow are fully qualified.
   - Boundary: Sigma is not a live debugger for this continuation.
 
@@ -135,7 +135,7 @@
 - Signal Kind: result
 - Signal Meaning: Anchor returns a stable multi-Workspace Package V1 only after full Core and VS Code closure validation and actual routed/pointerless workflow qualification are green, with no parallel VS Code semantics and no unresolved build/test blocker relevant to the bridge.
 - Return To: Sigma
-- Return To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -147,9 +147,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md](../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
-  - Value: a3LZIx2yyzUDhzY148-fydpXmnioZQInCtmArxcfgXU
+  - Towards: [002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md](../../processes/gpt/vscode-reentry/002-1-vs-code-re-entry-shared-core-bridge-implementation-recovery-chec.trace.md)
+  - Value: NJFEjze3aYMRdLWs2_HRZX9CoCA8aHB7YzEh-12J8Kw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: GtUPPsAggjfN16ogqX0oAXXRfOCSY-P2rma6GyWo95A
+  - Value: b-vbRP-9721i3F7V40W6LIYxCccgdpZpyLMWb7W3fvE

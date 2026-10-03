@@ -102,8 +102,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-tooling-major-008-core-llm-direct-package-v1-freeze.trace.md](../../decisions/002-tooling-major-008-core-llm-direct-package-v1-freeze.trace.md)
-  - Value: Pjs4wVweSKadLZvIwEPH-yWwvfXKLjtonZyFFo44Ack
+  - Value: 7H0SfAYiO3nXgk4ThbsQT-BcC8EwYxFbdk8LAuyy_5U
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: gz1UJ1Lhi1L0s3vJC_2Bs6nr-GxYF8B9gqIlBXbhBgE
+  - Value: SuYZHwXeu47JFuvauEiaiwWeX-x-Srov8d4he1hFm5w

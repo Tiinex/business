@@ -94,8 +94,8 @@ Anchor should reconcile this exact modified VS Code Workspace with the unchanged
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [028-anchor-to-kodax-tooling-major-008-resume-after-shared-core-block.trace.md](handoffs/028-anchor-to-kodax-tooling-major-008-resume-after-shared-core-block.trace.md)
-  - Value: tUrYzPHKQHN7LkrN1ReqsZZ3BLyD95IPlOWUFbmmTh8
+  - Value: yAy5vm_I31kGWQU1FAXHK3FQ8cw3HhueRwKhnMhCj-k
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: G9ZqO3InYmkdeZm88AYFDVWb8TswPs5MmGX2NjzSzY8
+  - Value: 5mZi51DXx8kGL2MTrCqJg-BTCPJwUdaSdcMXnfwc2Ds

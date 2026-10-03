@@ -40,7 +40,7 @@
 - integrity-major-001-semantic-classification
   - Transfer Kind: responsibility
   - Description: accept Axiom's bounded classification of the two Docs parent-integrity findings: one stale historical Root c14n-v1 declaration is corrected in the carried Docs bytes; the remaining post-correction historical-pin mismatch and the Reduction validator mismatch are shared Tooling resolver defects, not authority to weaken Docs integrity semantics.
-  - Controlling Artifact: [Integrity Major 001 — Docs Parent Integrity Disposition](docs::.topics/lineage-integrity/001-2-axiom-docs-parent-integrity-reduction-disposition-decision.trace.md)
+  - Controlling Artifact: [Integrity Major 001 — Docs Parent Integrity Disposition](docs::.topics/work/lineage-integrity/001-2-axiom-docs-parent-integrity-reduction-disposition-decision.trace.md)
   - Boundary: affected Docs lineage is semantically classified but not mechanically clean for destructive Reduction until shared Tooling is repaired/requalified or an equally exact independent path is accepted.
 
 - grounding-major-001-independent-replay-status
@@ -152,7 +152,7 @@
 
 - integrity-major-001-return
   - Material: qualified Axiom return carrying semantic closure and Loom-routable reproduction.
-  - Material Reference: [Integrity Major 001 Axiom Return](docs::.topics/lineage-integrity/handoffs/001-axiom-to-anchor-integrity-major-001-parent-integrity-classification-return.trace.md)
+  - Material Reference: [Integrity Major 001 Axiom Return](docs::.topics/work/lineage-integrity/handoffs/001-axiom-to-anchor-integrity-major-001-parent-integrity-classification-return.trace.md)
   - Purpose: exact semantic disposition and shared Tooling follow-up boundary.
   - Availability: available
 
@@ -226,8 +226,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-1-anchor-to-anchor-reduction-major-001-qualified-return.trace.md](../../../../processes/reduction/001-2-1-anchor-to-anchor-reduction-major-001-qualified-return.trace.md)
-  - Value: Z_HLVWGCTuQVRyHs5htymL1fPy7u46fjgncpzv8yXUM
+  - Value: ycFNmkVH2s_y8Tjs0_KRA5K-S2dzg-JMcAlgSQoCG8A
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ypmzB6IeQWWX6uxkUlok94015tyPFciqZqBcjyj-4ck
+  - Value: GO0S7SzSk8roylM2B_AnRQxndidTFB8EozVdSeL11RA

@@ -129,8 +129,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Business Repository-Only Cold-Start Acceptance](001-6-1-business-repository-only-cold-start-acceptance-task.trace.md)
-  - Value: jMnkDwuaxJa8HCxHGFjWlyBw-LqBTSuzSDHOqTEZdXw
+  - Value: FwDCBINmrb12Z8wbsIhSS4gkKrZkZSzxJLbErH-3mX0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:lOWMbMGY0IemT2t_kSG0MD3_6reM4LYlnWKQ7au4ff8
+  - Value:oYU7Iojr0IuwL7G8AI-s4xHh0rtsg9_Bo7IFxV10ZHo

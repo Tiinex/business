@@ -80,8 +80,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [063-anchor-to-anchor-post-003-return-ux-recovery.trace.md](handoffs/063-anchor-to-anchor-post-003-return-ux-recovery.trace.md)
-  - Value: km7lSul7MrcOy8xnEIIVTMVWj1TRblyQpW5PUkj0FlM
+  - Value: 9YWLU5GwQxN7QKf-HUflBeHf35KR4nr-UiiBRzW5Py8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:3EINPyabnExF7FWRswu5XZvr-bTpse20DD-e-1r_D6g
+  - Value:VNVQ8lDdTsxqi4fQ7Dj-qoV9IJJ7disOupXNXvHSVDQ

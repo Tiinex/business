@@ -68,8 +68,8 @@ This Task is an acceptance instrument, not permission to add new grounding seman
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [045-anchor-to-anchor-package-v1-final-qualification-recovery.trace.md](handoffs/045-anchor-to-anchor-package-v1-final-qualification-recovery.trace.md)
-  - Value: V8TkyMX5AwG5-AXBo2XtgKoP-m-199EIhGgVT83Uij8
+  - Value: wpKyx7FvO_C8_OhBlegUDTFKCZpOphcoje_JMZ9kdN8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:J9lugLN788QZ0ucbtiA4q5tWEAZ6ZxQbggK9pwvcl40
+  - Value:Eku6GNKdKtVSzoGxdG_QrVtUUyHkl_oxwy96VWPuuTw

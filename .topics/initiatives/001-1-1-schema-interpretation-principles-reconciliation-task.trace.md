@@ -49,8 +49,8 @@ Core/schema-authoring semantics and interpretation guidance only. Do not open br
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Tiinex Core](001-1-core-project.trace.md)
-  - Value: l3qjUzfBjSAKSsAzdoWSmvUhrNkvkAwzft8UUOZ37Ic
+  - Value: 8i2JFkA6796lC55B5Nj2WIvxikebPitopa1mo05o1to
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:-XRS8lLvdHyBgSn1bDjirtFDIXi5DVpKRjHpurZLO2E
+  - Value:dqeCcMRRkTB9c-J1YVRl9uwDalltX4aPGbuHrfDBHY0

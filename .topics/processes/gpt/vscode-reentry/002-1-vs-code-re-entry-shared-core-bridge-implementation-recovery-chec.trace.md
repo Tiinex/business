@@ -64,8 +64,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md](002-vscode-reentry-platform-recovery-and-bridge-discovery-checkpoint-evidence.trace.md)
-  - Value: FS1wmUVfBU25C_fa6EAG0DCev6AdgQHBcZyAuFNz4PU
+  - Value: df99b7NAMhF1VLr5aqmMjNeExxWJ2IzRkjHdb_8xwYM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: a3LZIx2yyzUDhzY148-fydpXmnioZQInCtmArxcfgXU
+  - Value: NJFEjze3aYMRdLWs2_HRZX9CoCA8aHB7YzEh-12J8Kw

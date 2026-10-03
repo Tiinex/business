@@ -22,10 +22,10 @@
 - Purpose: validate the bounded Candidate 017 VS Code presentation/host-orchestration delta after Candidate 016 passed its primary correctness seams on Sigma's real Windows host.
 - From: Anchor
 - From Kind: role
-- From Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- From Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 - To: Sigma
 - To Kind: role
-- To Reference: [Sigma Role](../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
+- To Reference: [Sigma Role](../../roles/001-4-1-sigma-canonical-holder-cutover-role.trace.md)
 
 ## Transfers
 
@@ -73,7 +73,7 @@
 
 - bounded-follow-up-recovery
   - Retained By: Anchor
-  - Retained By Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+  - Retained By Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
   - Responsibility: receive Sigma's disposition on this exact Candidate 017. If one concrete blocker remains, reproduce it against this exact carried Workspace and correct only at the demonstrated owner boundary.
   - Boundary: do not reopen Core or the Candidate 016 correctness seams without new reproducible evidence.
 
@@ -167,7 +167,7 @@
 - Signal Kind: disposition
 - Signal Meaning: Sigma either accepts the exact carried Candidate 017 for the focused real-host seams above, or returns one concrete reproducible blocker with visual evidence sufficient for bounded owner-level recovery.
 - Return To: Anchor
-- Return To Reference: [Anchor Role](../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
+- Return To Reference: [Anchor Role](../../roles/001-1-1-1-1-1-anchor-canonical-holder-cutover-role.trace.md)
 
 ## Interpretation Limits
 
@@ -181,8 +181,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [016-1-anchor-to-sigma-vs-code-host-boundary-fix-candidate-016.trace.md](016-1-anchor-to-sigma-vs-code-host-boundary-fix-candidate-016.trace.md)
-  - Value: ybFLlfNGfzBEVYUY2s4oW0u4lDZfcryUS8G2kcGH8Rg
+  - Value: egGCqO5UcPAOgzQhUjxm6Vij1HV5c-guMGWx3Xt2dx4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: WHyR3M93WUJ5GOFyc73q3nrBkDGq5GRnPyhy2MmkWH0
+  - Value: VmEf-szZY7DsCAsGlfoEIPlYMszj5xg_REv59VMcUKk

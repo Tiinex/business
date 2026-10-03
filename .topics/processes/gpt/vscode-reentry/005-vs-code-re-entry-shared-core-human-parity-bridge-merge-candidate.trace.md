@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.handoff.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/coordination/handoff/tiinex.handoff.v1.schema.md)
   - Created At: 2026-09-26 20:47:14
-  - Trace: [008-anchor-to-anchor-core-frozen-vs-code-grounding-bridge-recovery.trace.md](../../../handoffs/008-anchor-to-anchor-core-frozen-vs-code-grounding-bridge-recovery.trace.md)
+  - Trace: [008-anchor-to-anchor-core-frozen-vs-code-grounding-bridge-recovery.trace.md](../../../work/handoffs/008-anchor-to-anchor-core-frozen-vs-code-grounding-bridge-recovery.trace.md)
   - Origin:
-    - [relative](../../../handoffs/008-anchor-to-anchor-core-frozen-vs-code-grounding-bridge-recovery.trace.md)
+    - [relative](../../../work/handoffs/008-anchor-to-anchor-core-frozen-vs-code-grounding-bridge-recovery.trace.md)
 - Current
   - Current Schema: tiinex.evidence.v1
   - Created At: 2026-09-26 21:30:56
@@ -67,9 +67,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [008-anchor-to-anchor-core-frozen-vs-code-grounding-bridge-recovery.trace.md](../../../handoffs/008-anchor-to-anchor-core-frozen-vs-code-grounding-bridge-recovery.trace.md)
-  - Value: XbC1WcM0uI1tCFrk5K7qjQn2t8Yuhd8vQkO-9FwSErs
+  - Towards: [008-anchor-to-anchor-core-frozen-vs-code-grounding-bridge-recovery.trace.md](../../../work/handoffs/008-anchor-to-anchor-core-frozen-vs-code-grounding-bridge-recovery.trace.md)
+  - Value: lb_a3ESZA4lPnudCGHBXXQ_Hnr-aIs4keErUB6zLBrM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 6IVnDV7tCIuUBt7EBNbAItOFOL7ZLUTcWpxG0Z3dxB8
+  - Value: -tTDBBKbDH2ADd11p_QM3doXX-vrH_2RLevaXcNOj1Q

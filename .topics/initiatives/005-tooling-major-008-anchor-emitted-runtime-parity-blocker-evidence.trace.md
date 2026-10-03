@@ -97,8 +97,8 @@ The source implementation itself is accepted provisionally by Anchor's determini
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [029-kodax-to-anchor-tooling-major-008-final-vs-code-shared-core-conv.trace.md](handoffs/029-kodax-to-anchor-tooling-major-008-final-vs-code-shared-core-conv.trace.md)
-  - Value: jBtqm-TnTmT-cdiZ1pQdkckMai_UDtX0WE-Is1zUun8
+  - Value: 6Hh4VyUfeUUTFLpAXjObZjGffvQd4ohdeIpAsJDCgSs
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: evXhAOARyujwxq1x2x5rIoFxpFtz9maueE54vP6HSDA
+  - Value: RpXXfX4c6dLrBQiTyIdnsJgEEz5PPh5HNaveVdcRTKU

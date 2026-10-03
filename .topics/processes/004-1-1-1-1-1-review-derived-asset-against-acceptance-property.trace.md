@@ -39,8 +39,8 @@ Declare the acceptance property, primary review representation, secondary review
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Deterministically Transform Frozen Visual Source](004-1-1-1-1-deterministically-transform-frozen-visual-source.trace.md)
-  - Value: T00I9sukWcycZU0RkUEDhdbP9hKyxf6oPS5onu8rUC0
+  - Value: _-CV3QKBpQwOyN4rGW3mhBaNi1xg5JD08qV4AS4_vCY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:5MvkEN3UCA8CeBPm9TMTVcsttfBhLsFoacH9UvwULFE
+  - Value:UzOW-0MXa2csTPY4_NgmRY--9VTgKZdGtd5ft8HHHO0

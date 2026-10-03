@@ -41,8 +41,8 @@ This branch does not prove that any payment endpoint is active, any tip has been
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Financing](001-financing.trace.md)
-  - Value: LTTkyewmuNe9TEAVXdu4Nl28fHjw18N_PzWcMOCIYqg
+  - Value: uEfQuuNQnAJkdu1Rz--gDaIr4lmcEkdM5wuQII9C1q8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:Hfu-Br-AoVnOQWff8PiJh8ue1TaTDX3h6fYSFcistfQ
+  - Value:K_I8Su7CxCqKHwd_nj6b8J-otQvGBDI1RuCGF7j8HnQ

@@ -49,8 +49,8 @@ Scoped carriage is transport/recovery policy. It does not redefine semantic Pare
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-foundation-scoped-specialist-carriage.trace.md](001-foundation-scoped-specialist-carriage.trace.md)
-  - Value: Ui261AFV26UVbnsBiob3pB0bxfW06KpScttwool4Eio
+  - Value: VT5W32VJNGfeddJn08cKtgX13RWLsj-1NAkAZuLge6I
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: YIoMU9JNW4PPX1ZJj8HR6uW8wQ8mur2xNPtNxeNSNQk
+  - Value: uDTiNWBZuKkb-cLKFnicSpEeYDk4MaIbS5rgi_Lb8lI

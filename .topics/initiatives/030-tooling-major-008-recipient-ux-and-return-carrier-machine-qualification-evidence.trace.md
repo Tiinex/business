@@ -75,8 +75,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [029-tooling-major-008-recipient-ux-and-canonical-return-hardening.trace.md](029-tooling-major-008-recipient-ux-and-canonical-return-hardening.trace.md)
-  - Value: 1UQOoikslensfcVW5cnAPD2ttZsjkOHYC0MktFZOJX8
+  - Value: -vezCvhk0rCoyp5G9t-6KlRYJuFaS2CQZ0KG741Ftog
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: SqY9L0eQPwG8oJqSYilE7pz8vdJeGC4J8TVL8RUkmXY
+  - Value: bm-8LKWUNAc4RyxDrGJAP0aWfS8x8h1Q1CRZy8o7MeU

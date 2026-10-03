@@ -72,8 +72,8 @@ Close the bounded defects exposed by Sigma's latest real VS Code replay without 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-1-keep-major-002-open-and-parallelize-final-recovery.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-1-keep-major-002-open-and-parallelize-final-recovery.trace.md)
-  - Value: 9t0Nqr2fEUy6m61S4E8RZTV-aUpbKw92QKSl-4wHG4o
+  - Value: s6kOhJNc3pROqr9amgdk3W2if84YWFAvLzVbPy4EAMk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: w33mim_up_Sdg6cT-JYt_OX_4p4ytCepkj1yPyBeE_0
+  - Value: svx3r2kXoZEaR1FZXMGYniwmke1xPjITa4YAbv_RJ3g

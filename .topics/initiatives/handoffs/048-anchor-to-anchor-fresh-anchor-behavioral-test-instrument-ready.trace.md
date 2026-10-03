@@ -137,8 +137,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [016-tooling-major-008-fresh-anchor-hermetic-test-instrument-evidence.trace.md](../016-tooling-major-008-fresh-anchor-hermetic-test-instrument-evidence.trace.md)
-  - Value: MulgOA4Y0cknEY0fkSy8uHVV42QjUzgyK7tqc8YaDOg
+  - Value: 3lXhHKtn0qQUoEGnj0xpT4Y5di_GxDD2qPWYZJ5lxNQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: mjya4sdknXb1Q4GppFnbFQDNE5dMw7Kg8gUmrXJ9WJI
+  - Value: VULIXOs_B217vkSSrjaTRjLYgokBBRvwPXqt_bhhfkI

@@ -124,8 +124,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-3-1-kodax-vs-code-host-boundary-audit-evidence.trace.md](001-1-4-1-3-3-1-kodax-vs-code-host-boundary-audit-evidence.trace.md)
-  - Value: 6ZYaCPwWYMzLfKItJk7BuMTlxyo4wBztwEMEENQErQ0
+  - Value: g00iyUobRP7vdyRgqSkaPrFnI52e0PD9zST5GURJbOU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 1rraDvesiqgiNI_dZ-jCB6kPXmc4f5L_1AWSgtloerg
+  - Value: SSgFHl8tOpAWdGuQYFBWHK0kN99dR2OzyId1U_C_3sg

@@ -148,8 +148,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-1-1-1-anchor-to-loom-major-002-carrier-purity-and-multi-route-recovery.trace.md](001-1-4-1-3-5-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-6-1-2-1-1-1-1-1-1-1-anchor-to-loom-major-002-carrier-purity-and-multi-route-recovery.trace.md)
-  - Value: a9ql4R0mXOduo0aPfPuW8aBPsE_loX0t02LmRejgswA
+  - Value: iuu6a2qMpwqwSHTkH9f-Qve5UyFujY4YaaHaU_PTFTY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: HKVY_87ZuqyG7EqcSRELWVJmUAUayaRWxMWOdzgSSGE
+  - Value: 2FYtdHHoVJ6EfYq1-qLbBEKQAPmrtnpgVMi5iymXuMM

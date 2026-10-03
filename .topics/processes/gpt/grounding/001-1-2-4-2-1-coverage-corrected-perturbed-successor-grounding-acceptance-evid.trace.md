@@ -63,7 +63,7 @@
 
 10. **Schema-scalable host authoring.** Canonical schema meaning belongs to Docs; Core/schema capability owns host-neutral creation/reference mechanics; a host may own UX and integration but must consume qualified shared capabilities instead of privately redeclaring schema policy. Handoff-special host behavior is transport-only; in the VS Code tranche the intended special behavior is `Attach to Outgoing`, while artifact authoring itself should be ordinary/shared. Governing references: Executive Grounding; `business::.topics/initiatives/refactor/orchestration/handoffs/010-1-1-1-1-1-1-1-anchor-full-recovery-site004-return-vscode003-launch.trace.md`; current Business Major 004 recovery.
 
-11. **Per-field schema-reference authority.** Envelope, Parent and Current schema references are decided independently. Use a qualified immutable exact target for a field when available; if exact authority is unavailable, retain a truthful plain schema id rather than fabricating a locator. A locator that positively resolves to the wrong material blocks. Historical weak references remain diagnostic debt rather than being silently rewritten. Governing references: current Business Major 004 recovery; `core::.topics/refactor/orchestration/handoffs/002-1-1-1-1-loom-to-anchor-core-major-007-per-field-schema-reference-authori.trace.md`; `docs::.topics/role-authority/001-3-6-4-3-1-1-2-1-1-2-1-1-2-axiom-to-anchor-docs-major-005-canonical-root-schema-reference-contract-integration-return.trace.md`.
+11. **Per-field schema-reference authority.** Envelope, Parent and Current schema references are decided independently. Use a qualified immutable exact target for a field when available; if exact authority is unavailable, retain a truthful plain schema id rather than fabricating a locator. A locator that positively resolves to the wrong material blocks. Historical weak references remain diagnostic debt rather than being silently rewritten. Governing references: current Business Major 004 recovery; `core::.topics/work/refactor/orchestration/handoffs/002-1-1-1-1-loom-to-anchor-core-major-007-per-field-schema-reference-authori.trace.md`; `docs::.topics/work/role-authority/001-3-6-4-3-1-1-2-1-1-2-1-1-2-axiom-to-anchor-docs-major-005-canonical-root-schema-reference-contract-integration-return.trace.md`.
 
 12. **Recurring defect to durable owner to new cold successor.** Repeated teaching/workaround pressure is evidence of an incomplete durable layer. Capture the wrong decision/friction, classify the narrowest durable owner, correct only that owner unless evidence proves a cross-layer defect, qualify the correction, then cold-start a new successor. This replay exists because the prior instrument under-covered its own matrix; it was corrected in Business and replayed fresh instead of coaching old sessions. The repeated organizational-work-provenance gap remains routed for Axiom/Docs semantic classification rather than being patched here. Governing references: `business::.topics/processes/gpt/grounding/001-1-successor-grounding-gap-review-replayable-acceptance-continuation.trace.md`; `business::.topics/processes/gpt/grounding/001-1-2-3-fresh-anchor-successor-acceptance-disposition-evidence.trace.md`; controlling Task.
 
@@ -79,8 +79,8 @@
 - `business::.topics/initiatives/refactor/orchestration/handoffs/010-1-1-1-1-anchor-full-recovery-carrier-major-003-specialist-return-reconciliation.trace.md`
 - `business::.topics/initiatives/refactor/orchestration/handoffs/010-1-1-1-1-1-1-1-anchor-full-recovery-site004-return-vscode003-launch.trace.md`
 - `business::.topics/initiatives/refactor/orchestration/handoffs/010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-core007-docs005-accepted.trace.md`
-- `core::.topics/refactor/orchestration/handoffs/002-1-1-1-1-loom-to-anchor-core-major-007-per-field-schema-reference-authori.trace.md`
-- `docs::.topics/role-authority/001-3-6-4-3-1-1-2-1-1-2-1-1-2-axiom-to-anchor-docs-major-005-canonical-root-schema-reference-contract-integration-return.trace.md`
+- `core::.topics/work/refactor/orchestration/handoffs/002-1-1-1-1-loom-to-anchor-core-major-007-per-field-schema-reference-authori.trace.md`
+- `docs::.topics/work/role-authority/001-3-6-4-3-1-1-2-1-1-2-1-1-2-axiom-to-anchor-docs-major-005-canonical-root-schema-reference-contract-integration-return.trace.md`
 - `business::.topics/001-tiinex.trace.md`
 
 ## Uncertainty And Teaching Friction
@@ -114,8 +114,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-2-4-2-anchor-to-anchor-coverage-corrected-perturbed-successor-probe-handoff.trace.md](001-1-2-4-2-anchor-to-anchor-coverage-corrected-perturbed-successor-probe-handoff.trace.md)
-  - Value: IlA0rzYodxQRiHkMPaqdLnLqVE83pmmmGzZNSqtmMvc
+  - Value: -UDiZO971UFED45lqpmK0jKG_n2e3awYqYSBgLRCwqE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: LpBwNBhn7sR6v644IIhROFlOmYh3U-_03Q7F4Em1Dts
+  - Value: ZXGe-2BZ-KebkRwGuPScqRIBTxFlU-_LoMJk-ACRUcA

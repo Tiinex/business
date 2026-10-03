@@ -108,8 +108,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [027-tooling-major-008-minimal-coldstart-behavioral-acceptance.trace.md](../027-tooling-major-008-minimal-coldstart-behavioral-acceptance.trace.md)
-  - Value: JL76xBVBIulr1JXpk25dNpfrD1Z9VFZZ-s7c7XfYGBw
+  - Value: 3SfpKj_T_7cUSs_QwVhcW9g3PJ7YkzyueeKQ1MFDAMY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:ejSYesE5gijqJMApUNVnzlFSujWtTNcP3mGaCiOCxZ4
+  - Value:UU7EIhJW50RHy6Rlt-QEuORPv1FbOUac3ggTrqjkQZo
