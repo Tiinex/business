@@ -57,8 +57,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-1-1-1-anchor-thin-lineage-orchestration-discipline-role.trace.md](001-1-1-1-1-anchor-thin-lineage-orchestration-discipline-role.trace.md)
-  - Value: mkIS3DTiU68w3fFGRmMahSac4nIeUU5gB2SRd0Tv118
+  - Value: rjcMFjQbMZZIwAtg8DDZxAb93sGOA6tr4l0TDLgwwcU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: AT46FmAuZlP2T9JF2TC0aGRR7SAWBBgS8TZL3ySttaw
+  - Value: 0uhoy9d6IFQtbe_8p-vvbwjlvWxx9qo1gWYutmA8C6Y

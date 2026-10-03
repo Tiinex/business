@@ -42,6 +42,7 @@
 ## Holder Relationship
 
 - Holder State: human capacity assignable through explicit participation; no permanent holder relation is asserted by this artifact
+- Assignment Modes: explicit-participation
 - Possible Holder: a human participant explicitly exercising Sigma for a bounded Tiinex context
 
 ## Interpretation Limits
@@ -57,4 +58,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: mnGy0OkuFRZuI4gP4jXkUdN9gdI1q_h_sAwy6Z2jPqI
+  - Value: GOPf3uY74-sgVQfnGZwmp5Bk3pwRNTQJ5DkcnHuM09U

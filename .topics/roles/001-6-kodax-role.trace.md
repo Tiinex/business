@@ -69,6 +69,7 @@
 ## Holder Relationship
 
 - Holder State: assignable per explicit session, invocation, or Handoff; no permanent holder asserted
+- Assignment Modes: explicit-session, explicit-role-invocation, handoff
 - Possible Holder: a person, model, runtime, or coding agent explicitly operating in the Kodax capacity for one bounded Tiinex implementation context under supplied controlling artifacts and authority
 
 ## Interpretation Limits
@@ -86,4 +87,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ZG3M0-qy6kP8wSAVnXVYAAAH_vrMdyre01geyoYeKMk
+  - Value: cfSXxYIUwAECSPiSNSmn5RcZ6Fy0oYZN9lbDjOaIuV0

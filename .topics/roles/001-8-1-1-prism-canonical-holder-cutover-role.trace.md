@@ -89,8 +89,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-8-1-prism-role.trace.md](001-8-1-prism-role.trace.md)
-  - Value: nJa78eIMDNPPghX7gz6ANNmuNsNqHdSB_2i_h1OXLPg
+  - Value: zfJ9TES-1mLHVQQmKPbH1FSdaD_u3DWABJvUrZ8vZ7Y
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 7bGp_zqo_WzuobTI2wZQSRwM7AU32731LXKviXyS2w4
+  - Value: ovQGdCiQN9-sGyf7kI-39dl0XRg3AP458J6sRb5OE74

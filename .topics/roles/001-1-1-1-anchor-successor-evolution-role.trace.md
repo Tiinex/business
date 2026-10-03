@@ -42,6 +42,7 @@
 ## Holder Relationship
 
 - Holder State: assignable per explicit session or Handoff; no permanent holder asserted
+- Assignment Modes: explicit-session, handoff
 - Possible Holder: a person or runtime explicitly operating in the Anchor capacity for a bounded context under supplied controlling artifacts and an explicit holder-role binding when Tooling requires one
 
 ## Interpretation Limits
@@ -55,8 +56,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-1-anchor-major-planning-role.trace.md](001-1-1-anchor-major-planning-role.trace.md)
-  - Value: 8M7MPK2j_qfcSliqYpkVs5KMN8CpDjB8ewYm1OmcliA
+  - Value: dr0OBxPUYGFuVRmBJK8Uz31XxvVmCkY5SLydmfytFU8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: fx3HI-P3K4KwLqnoLkijytWf9W8bw_BvVA5kji-qy6c
+  - Value: k7LGbA0Z8hsVvt2Kc9HPtT-3oUq4xvNNzVie2dtYA2A

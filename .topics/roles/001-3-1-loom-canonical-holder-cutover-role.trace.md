@@ -55,8 +55,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-3-loom-role.trace.md](001-3-loom-role.trace.md)
-  - Value: k_mKobSTorTxvhglEqacJF9BZrvnXx_9CxCO6wq-qs8
+  - Value: vNqaH-lmEcOBlJ9t2jXPa2Q8NxJbqZkypFHxZa9G8fQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: vZWzKik9KDqaYWkaP-kaRB64RaJVdygx-BX7eEkwUMo
+  - Value: WSuoEM8HMTX-AWGR9ol4hkEc3qoakq_bUwRwL6pL0gY

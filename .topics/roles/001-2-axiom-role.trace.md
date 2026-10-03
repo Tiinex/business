@@ -42,6 +42,7 @@
 ## Holder Relationship
 
 - Holder State: assignable per explicit session or Handoff; no permanent holder asserted
+- Assignment Modes: explicit-session, handoff
 - Possible Holder: a person or runtime explicitly operating in the Axiom capacity for bounded Tiinex schema work under supplied controlling artifacts
 
 ## Interpretation Limits
@@ -57,4 +58,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: _8fMMZ9CT30bKsJKOoaJaI135TdZMUb_b9S6DAFPXQU
+  - Value: ouEl-QXzIFeJ82FZPRqZsDNJQ03PHDaPgpupbGrvidM

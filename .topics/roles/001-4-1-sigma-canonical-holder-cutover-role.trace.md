@@ -55,8 +55,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-4-sigma-role.trace.md](001-4-sigma-role.trace.md)
-  - Value: mnGy0OkuFRZuI4gP4jXkUdN9gdI1q_h_sAwy6Z2jPqI
+  - Value: GOPf3uY74-sgVQfnGZwmp5Bk3pwRNTQJ5DkcnHuM09U
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Fqaob-dGoVITB5mxpRb1BDjoi5ttEtBxa0xacTy-0UE
+  - Value: MJMiX86hzllwIIrbtlxxr36q3FKo6V7APVEZbM8pe4A

@@ -65,6 +65,7 @@
 ## Holder Relationship
 
 - Holder State: assignable per explicit session, invocation, or Handoff; no permanent holder asserted
+- Assignment Modes: explicit-session, explicit-role-invocation, handoff
 - Possible Holder: a person, model, runtime, or conversational agent explicitly operating in the Pilot capacity for one bounded human-mediated execution context under supplied controlling artifacts
 
 ## Interpretation Limits
@@ -80,4 +81,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: xbP1A8FYP3JLC0W_qbYy1OUkQASqz2JncDIAu8BaQXw
+  - Value: kKG2s-dvM_aHewtRddb-kdYvLX_wnRSTwYN8dVAm1hk

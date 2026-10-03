@@ -36,7 +36,7 @@
 ## Required For
 
 - Required For: continued Foundation closure, post-Foundation development thaw, public product qualification, contributor support, project continuity, and execution of the Tiinex roadmap at a focused pace
-- Related Plan: [Tiinex Roadmap](../initiatives/001-5-roadmap.trace.md)
+- Related Plan: [Tiinex Roadmap](../initiatives/002-fresh-start-roadmap.trace.md)
 
 ## Constraint Impact
 
@@ -55,8 +55,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Funding Readiness And Financial Provenance](001-2-funding-readiness-and-financial-provenance.trace.md)
-  - Value: uGvwMo28BmL_vT_h494CwcwQJMZ9twMfhOfbrx6isAs
+  - Value: TtS-ACgvyHgrcrLxCMY7WvD2mtsqlvUg_RtVT3KOSMI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:MXZfhtnR41ubFpPyD9thRyd3d-_OVzrJLiLnkHn6nmE
+  - Value:2DJWttOzOQeIrA4r-PlcUpu4BeWWfP4IPTAFIYCHooI

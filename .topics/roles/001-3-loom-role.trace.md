@@ -42,6 +42,7 @@
 ## Holder Relationship
 
 - Holder State: assignable per explicit session, role invocation, or Handoff; no permanent holder asserted
+- Assignment Modes: explicit-session, explicit-role-invocation, handoff
 - Possible Holder: a person or runtime explicitly operating in the Loom capacity for a bounded Tiinex context under supplied controlling artifacts and authority
 
 ## Interpretation Limits
@@ -57,4 +58,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: k_mKobSTorTxvhglEqacJF9BZrvnXx_9CxCO6wq-qs8
+  - Value: vNqaH-lmEcOBlJ9t2jXPa2Q8NxJbqZkypFHxZa9G8fQ

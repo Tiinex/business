@@ -39,7 +39,7 @@ The first funding case is deliberately small and concrete:
 
 Funding should be tied to roadmap milestones and explicit resource needs. Tiinex does not need to pretend that financing will create the project from nothing: substantial work already exists. The financing case is that stable resources can convert demonstrated momentum into more predictable delivery and lower continuity risk.
 
-See [Sustainable Founder Capacity](001-2-1-sustainable-founder-capacity-resource-need.trace.md) for the current resource need and [Tiinex Roadmap](../initiatives/001-5-roadmap.trace.md) for phase order. See [Funding Channels And Campaigns](001-4-funding-channels-and-campaigns-discovery.trace.md) for the still-unresolved provider-neutral entrypoint model; no example provider should be projected as active until a real binding exists.
+See [Sustainable Founder Capacity](001-2-1-sustainable-founder-capacity-resource-need.trace.md) for the current resource need and [Tiinex Roadmap](../initiatives/002-fresh-start-roadmap.trace.md) for phase order. See [Funding Channels And Campaigns](001-4-funding-channels-and-campaigns-discovery.trace.md) for the still-unresolved provider-neutral entrypoint model; no example provider should be projected as active until a real binding exists.
 
 ## Financial Provenance Operating Model
 
@@ -115,4 +115,4 @@ This artifact defines the Business operating boundary for funding and financial 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:uGvwMo28BmL_vT_h494CwcwQJMZ9twMfhOfbrx6isAs
+  - Value:TtS-ACgvyHgrcrLxCMY7WvD2mtsqlvUg_RtVT3KOSMI

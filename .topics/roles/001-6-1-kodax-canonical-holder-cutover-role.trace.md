@@ -84,8 +84,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-6-kodax-role.trace.md](001-6-kodax-role.trace.md)
-  - Value: ZG3M0-qy6kP8wSAVnXVYAAAH_vrMdyre01geyoYeKMk
+  - Value: cfSXxYIUwAECSPiSNSmn5RcZ6Fy0oYZN9lbDjOaIuV0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 0pi6-vJ1xGQNigwRmABVfxtHqn8X8uTYLlY8xM0EgdY
+  - Value: Bp-Z7KV12I6u_5BsYjdmZEHAHwZS0qP-3XGu2qQFcgI

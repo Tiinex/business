@@ -42,6 +42,7 @@
 ## Holder Relationship
 
 - Holder State: assignable per explicit user session or Handoff; no permanent holder asserted
+- Assignment Modes: explicit-user-session, handoff
 - Possible Holder: a person or runtime explicitly operating in the Glimmer capacity for bounded user assistance under supplied qualified context
 
 ## Interpretation Limits
@@ -57,4 +58,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:rBmoac8YbKiF81ql5oNyYoI1v-0hRpXHvCBaZnkSdvA
+  - Value:RmbQ4MiI0LPKXWR_LQnIs9IUO0zsmh8oLZJ2Yrb9b-U

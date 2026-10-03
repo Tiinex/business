@@ -78,8 +78,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-7-pilot-role.trace.md](001-7-pilot-role.trace.md)
-  - Value: xbP1A8FYP3JLC0W_qbYy1OUkQASqz2JncDIAu8BaQXw
+  - Value: kKG2s-dvM_aHewtRddb-kdYvLX_wnRSTwYN8dVAm1hk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: QrSJUfAZkyVzTuaebxgiqnPp_Pf0bIeBwUVbJw5LP0k
+  - Value: dENZ34a3qLie-dcWGRg7DX08HDPJbSDki-0ivmtRwjc

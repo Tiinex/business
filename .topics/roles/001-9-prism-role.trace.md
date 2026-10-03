@@ -69,6 +69,7 @@
 ## Holder Relationship
 
 - Holder State: assignable per explicit session, invocation or Handoff; no permanent holder asserted
+- Assignment Modes: explicit-session, explicit-role-invocation, handoff
 - Possible Holder: a person, model, runtime or coding agent explicitly operating in the Prism capacity for one bounded Tiinex context under supplied controlling artifacts and authority
 
 ## Interpretation Limits
@@ -87,4 +88,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 6qzVv-7MMESxP0X8GK2qyoBYfi-7FRG6npSHAj5qGSM
+  - Value: fP8gA9NpXosVxssZtexN2avF3ZfJHYL2av7NDpSMoPg
