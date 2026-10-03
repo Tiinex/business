@@ -11,34 +11,33 @@
   - Current Schema: [tiinex.relation.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/relation/tiinex.relation.v1.schema.md)
   - Created At: 2026-08-29 19:51:00
   - Authors: Anchor; Sigma
-  - Why: Make an ordinary recoverable landing mismatch visible as a process return instead of collapsing it into failure or creating a cyclic Parent chain.
-  - Summary: Proposed return from landed-state verification to Human Apply Accepted Change when the inspected target does not match the accepted landing candidate closely enough.
+  - Why: Keep successful landing as a visible sibling branch rather than an implicit status hidden inside verification prose.
+  - Summary: Proposed terminal branch when the inspected target state matches the accepted landing candidate within the bounded landing verification.
   - Status: proposed/local
 
 ---
 
-# Landing Mismatch Found
+# Landed As Accepted
 
 ## Relation Declaration
 
-- Relation Type: process return
-- Relation Direction: landing verification branch -> prior sub-process step
+- Relation Type: process terminal branch
+- Relation Direction: landing verification branch -> landed accepted outcome
 - Relation Scope: accepted-change-landing process-definition topology
 - Relation Family: accepted-change-landing
 
 ## Relation Target
 
-- Target: [Human Apply Accepted Change](001-2-1-1-human-apply-accepted-change.trace.md)
+- Target: landed target state materially matches the bounded accepted candidate
 
 ## Relation Boundary
 
-The relation target is not the Tiinex continuity Parent. This target is not this artifact's Tiinex `Parent`. `Parent` preserves acyclic process-definition lineage; this typed relation represents the current recoverable return path that a runtime may render as a loop. A real mismatch may instead reveal that preparation, acceptance, or another earlier boundary must be revisited; such variation should remain observable rather than forced into this one return.
+The relation target is not the Tiinex continuity Parent. This relation represents the successful branch in the proposed sub-process. It does not independently prove the target state, create a commit, publish a release, or replace the real verification evidence that supported the branch.
 
 ## Interpretation Limits
 
-- A mismatch is not automatically developer error, human error, process failure, or evidence that manual landing is inherently unsafe.
-- Repeated returns may be measured as observed process variation and can later justify Tooling or process changes.
-- Real executions should preserve what actually happened rather than fabricate a path that matches this definition.
+- Sibling position expresses that this path is an alternative to Landing Mismatch Found at the same represented verification branch point.
+- The branch does not require a real execution to materialize a matching Relation artifact when another real artifact owns the verification result.
 
 ---
 
@@ -46,8 +45,8 @@ The relation target is not the Tiinex continuity Parent. This target is not this
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Verify Landed State](001-2-1-1-1-verify-landed-state.trace.md)
-  - Value: _dctfkmXPHprF15gGsfY6_FH4h6-2Q5SmyaQBHdFDsw
+  - Value: gDJmI0k9VxkqNxkoGnr_EtSPxaAovGGoMb9UyvLJC3I
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: jW3Gt58IKisVIm48itFp1OGjay-q9lZ8iBld_win0pQ
+  - Value: BoZ0gl_slLyhNSQ8U_GIsM70hFdVvQEi5TG1YI0BaVc

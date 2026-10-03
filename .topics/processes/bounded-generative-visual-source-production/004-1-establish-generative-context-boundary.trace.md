@@ -39,8 +39,8 @@ Use the smallest boundary needed for the current source candidate. Keep process,
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Bounded Generative Visual Source Production](004-bounded-generative-visual-source-production-process.trace.md)
-  - Value: cSr2h5XyC3KWYXRdtL-G3mcLDnICy6sng-9jG4CBpsQ
+  - Value: euE6XjAWTWdaPbw3J8QW66Q_6tLeqAIIRkzb01F0puc
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:yA_PlfEFEoxWKIgFSy_i6KnRWwG2qK2D2NkmFD4ojd4
+  - Value:C1IW7JLwKJnoWWI017Fui7xXMs3T5Mkad4h0LU5XQ_c

@@ -37,8 +37,8 @@ Record source identity, provenance, acceptance boundary, and known limitations. 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Generate Bounded Visual Source Candidate](004-1-1-generate-bounded-visual-source-candidate.trace.md)
-  - Value: iTiUYEOWmUtVD_2Vjm4hLNcIL3KR8YJMeK-UUEKP4vc
+  - Value: 8UWUP93gzb9ritcncWUpof_psVOIvAD-lGMhN9bq5wI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:iYsq1UBfS6ahFKttg03xDcRgcV0wq5IJKuxIaY8oWxI
+  - Value:4MUbl-NrNuL88m2McDFScrIJ6gHPSbu18uMpKfkKRfs

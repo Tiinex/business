@@ -12,25 +12,39 @@
   - Created At: 2026-08-29 16:07:00
   - Authors: Anchor; Sigma
   - Why: Give reusable organizational behavior an artifact-native home where lineage shape can carry more of the process than explanatory prose.
-  - Summary: Proposed Processes branch for artifact-native process definitions and their observable topology.
-  - Status: proposed/local
+  - Summary: Business process catalog root for reusable Tiinex process definitions and their Workspace-local process directories.
+  - Status: ready/local
 
 ---
-
 # Processes
 
 ## Current Read
 
-This proposed branch tests whether Tiinex processes can be represented primarily by artifact lineage: descendants express progression, siblings express alternative branches, and typed non-parent relations express returns or other graph edges that must not become `Parent`.
+This artifact is the Business-local process catalog root for reusable Tiinex process definitions. Direct process-definition roots use this artifact as their real Parent when that ancestry is truthful, while each process owns a dedicated subdirectory under `.topics/processes/<process-handle>/`.
 
-## Design Direction
+Process definitions describe reusable operating shapes. Real Projects, Tasks, Decisions, Discovery, Handoffs, Evidence, and other work remain authoritative about what actually happened. A process artifact is therefore not an execution log, workflow-engine state, or proof of conformance.
 
-Keep process definitions small and inspectable. A process definition describes an intended reusable shape; real work keeps its own real schemas and lineage. Execution is not required to reproduce a process tree mechanically, and variation is not automatically failure.
+## Placement Convention
 
-## Next Artifacts
+- Keep the Workspace-local process catalog/root artifact directly beneath `.topics/processes/`.
+- Give every reusable process its own subdirectory beneath `.topics/processes/<process-handle>/`.
+- Keep the process-definition root and its ordinary steps/branches inside the owning process directory.
+- Give a true independently followable sub-process its own nested directory only when that semantic boundary is useful; folder nesting alone does not manufacture Parent continuity.
+- Viewer/tooling should discover process material from artifacts rather than requiring a manually maintained README/index.
 
-The first representation experiment is Development And Acceptance. This branch is not yet a claim that Tiinex has settled a universal Process schema, process-step schema, workflow engine, or conformance model.
+## Applicability Boundary
 
+Process inventory does not establish process applicability. A work artifact, Entry grounding contract, qualified Decision, specialized domain process, or other semantic authority must identify the process that applies. When applicability is uncertain, preserve that uncertainty rather than selecting a process by filename or directory proximity.
+
+## Current Process Families
+
+- `work-lifecycle/`: outer lifecycle for spawning, placing, executing, following, accepting, landing, and reducing work.
+- `development-and-acceptance/`: reusable develop/verify and acceptance-return process.
+- `accepted-change-landing/`: reusable landing and landed-state verification process.
+- `human-mediated-external-execution/`: bounded human-operated external execution boundary.
+- `bounded-generative-visual-source-production/`: bounded generative source/freeze/derive/review process.
+
+Workspace-local process authority may also exist under another Workspace's own `.topics/processes/` root when that Workspace owns the governed domain, as Docs does for Schema Development.
 ---
 
 # Continuity Integrity
@@ -41,4 +55,4 @@ The first representation experiment is Development And Acceptance. This branch i
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: cb5ORHgmT5h7tcfiX3xUedGVFH9fqhwB7yeRs7WJ34c
+  - Value: 894_R-4DZE3RsHODoloOXj00yq9YAvOSDFA_3iwmBgc
