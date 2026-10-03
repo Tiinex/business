@@ -51,8 +51,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [004-1-1-1-1-1-anchor-to-loom-carrier-major-002-lineage-safety-hardening-retry.trace.md](../handoffs/004-1-1-1-1-1-anchor-to-loom-carrier-major-002-lineage-safety-hardening-retry.trace.md)
-  - Value: M_W47B_Q3NYqu3KuxiYK0zvSP_1p_N_5raITxX38Jzo
+  - Value: m0iRsS20JNExkFnR8Hxiq0fk7llax7p3z3rHFTGOT3E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: TGfe5cyDB-IqXktn8z9xjWuyIQ70d4rb8p0j60rKTB0
+  - Value: ASWjc7Q18ASOaWGjfJcVw91djGVaE6U38f6iYTtEm0w

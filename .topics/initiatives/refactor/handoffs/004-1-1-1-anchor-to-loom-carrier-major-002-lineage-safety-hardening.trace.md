@@ -139,8 +139,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [004-1-1-anchor-full-recovery-carrier-major-002-lineage-safety-checkpoint.trace.md](004-1-1-anchor-full-recovery-carrier-major-002-lineage-safety-checkpoint.trace.md)
-  - Value: v2MZWIzKMxQe7dvPpcug4Z4Yj_YeJPnhq-mebHIS4NM
+  - Value: Ao2AUvdAugDv1NR1O0WNyAVtAVxbBkvfHX-nQFCLoSw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: L8O3w1VVo-yuCQTCigCNhvNhujmZNA__RJ1s9-Zdz3Q
+  - Value: 8h_3mV9sfSkgcDwAGgCLGTpBgCnER4yFYUJuioG57z0

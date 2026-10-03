@@ -214,8 +214,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-vs-code-sigma-gate-and-clean-standard-succe.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-vs-code-sigma-gate-and-clean-standard-succe.trace.md)
-  - Value: JH7SknqUeJ8NQiTpBqbkfFfvyUqXIGzc6hq2KoEfX0A
+  - Value: WSADDU7TjUmpM8Weu2hlV8eFoV630vbzWwSXk7sSf7k
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: kwD8s62y9wwShMa8G5emV3S2rLjG6eoO1psFyvj6DyA
+  - Value: SWx2jhB3UEECMJuepGmql7MsIn30AG9FMva-7D2JKeg

@@ -158,7 +158,7 @@
   - Availability: available
 - playthings-major-003-evidence
   - Material: Prism Major 003 readiness evidence and current blocker disposition.
-  - Material Reference: [Playthings Major 003 Evidence](verse-playthings::.topics/refactor/qualification/002-prism-playthings-major-003-real-browser-readiness-evidence.trace.md)
+  - Material Reference: [Playthings Major 003 Evidence](verse-playthings::.topics/work/refactor/qualification/002-prism-playthings-major-003-real-browser-readiness-evidence.trace.md)
   - Purpose: preserve the exact blocked-before-real-browser state and prevent synthetic PASS.
   - Availability: available
 
@@ -227,4 +227,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: DrRvl52MxQxsne8811DTOTduTtwBzas9D5nxigWsh8A
+  - Value: hG6DvBEIamhqvKuy86wdohQeJCnvpTpmWyYc6my3AY4

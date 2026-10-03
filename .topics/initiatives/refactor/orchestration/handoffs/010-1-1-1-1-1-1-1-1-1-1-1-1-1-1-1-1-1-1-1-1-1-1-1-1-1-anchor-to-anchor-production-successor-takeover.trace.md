@@ -177,8 +177,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-vscode-transport-accepted-merge-active.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-vscode-transport-accepted-merge-active.trace.md)
-  - Value: vlRT2slo1sCr32JQ66EMM4SqYzSKkfOU4yeLbge9TvY
+  - Value: TEbzOFz7SrwfuXhSo1caE3OPuLf3b1iiLQ1EX7gbAlE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 5D0gZXolNGgsOMD_GOJRQWqvcfo2kthhoxDpY5nzoYU
+  - Value: OfhBgNXnR1_Tl6cpZlWXZ3HZVAAuaCumx97LV434PcE

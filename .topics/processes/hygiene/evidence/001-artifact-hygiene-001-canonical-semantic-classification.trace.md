@@ -134,8 +134,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-1-anchor-to-axiom-artifact-hygiene-001-canonical-minimum-and-topology-normalization.trace.md](../001-1-1-anchor-to-axiom-artifact-hygiene-001-canonical-minimum-and-topology-normalization.trace.md)
-  - Value: hP4bvhwZISIpBMIUABdBvW2uT-mVARDiaP7qi4HhTLc
+  - Value: uEFemNniGPeU5y1-qfltCLkxRUVIJfaSQJHbPl6Du6s
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 63vHrq9SLk4eqRfGBMrEm51vUyBdY0P5MuOs1jRnHJQ
+  - Value: N5jv3APulCF_8Uqag4ULoouYJsTJ_HEfG3FyiALxFko

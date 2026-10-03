@@ -97,7 +97,7 @@
 
 - playthings-local-task
   - Material: Verse Playthings repository-local Major 003 continuation Task parented to the Business trial Epic.
-  - Material Reference: [Secondary Anchor Playthings Lane](verse-playthings::.topics/refactor/orchestration/002-secondary-anchor-playthings-major-003-continuation-task.trace.md)
+  - Material Reference: [Secondary Anchor Playthings Lane](verse-playthings::.topics/work/refactor/orchestration/002-secondary-anchor-playthings-major-003-continuation-task.trace.md)
   - Purpose: current Playthings-owned trial frontier.
   - Availability: available
 
@@ -155,4 +155,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: wlcO58JwgBOC-8iWDLElwXtXTPXnkxJY9skXCn5earo
+  - Value: sj5Igl65QHDO5Uz4f471b8YNuVcwu6bslxyJn5-0Akk

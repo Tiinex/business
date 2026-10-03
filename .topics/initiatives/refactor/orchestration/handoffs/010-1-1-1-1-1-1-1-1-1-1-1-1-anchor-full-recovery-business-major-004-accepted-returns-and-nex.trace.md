@@ -243,8 +243,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-successor-evolution-frontier.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-successor-evolution-frontier.trace.md)
-  - Value: oj1c4GsAr-ECEvYl6kBFPHb0lIimTO52fw1-dHZyokk
+  - Value: IxQdfBQC43kBeAdy9P5bm5wKvpMNk_1cSh05GNo_kI8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 4kpuaquVO4OgLc9q77A53ZhqfTKKZFurqdCRcmkiC2U
+  - Value: CeIyuZfLqXkRw8eWennCGUl0NnW3jwM_2nq5b_2jVEE

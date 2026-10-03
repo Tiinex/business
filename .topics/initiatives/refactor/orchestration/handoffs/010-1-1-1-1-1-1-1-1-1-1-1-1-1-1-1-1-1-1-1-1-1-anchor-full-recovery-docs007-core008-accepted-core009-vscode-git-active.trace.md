@@ -224,8 +224,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-minimal-carrier-semantics-core008-active.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-minimal-carrier-semantics-core008-active.trace.md)
-  - Value: dr7NUNozGJBNiLDw-aDp-hnM_01Tms9wYO-JRVCrrnM
+  - Value: wdlDycjXkeh3OGLiCC4hgjf8xbhq_rhmfX_VQ_Ebohw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: zHqZvjyOw2XhIAohBzJ1TLEE0xP9lZzFmKU2DmyF7WM
+  - Value: YGrvEBAC6HvedXgjS63qQO2sC4ZHG2pJrOSaXr7_83c

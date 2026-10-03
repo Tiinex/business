@@ -47,8 +47,8 @@ Recover the lost recursive Hygiene audit as durable qualified Tiinex material an
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [014-anchor-full-recovery-core-major-010-integrated.trace.md](../../../initiatives/refactor/orchestration/handoffs/014-anchor-full-recovery-core-major-010-integrated.trace.md)
-  - Value: IDkJApyMFfrWBmqeCu_JX9QzR2yWdV-5Ge8iVJKJKCc
+  - Value: K27Vis4WWNaowTcZ4Rqgx_bVftoaErpwCl7m__kLbLo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ySd6eku52vpyvR6r7jRPs7InVSY6gOSltFLn-rUNgQE
+  - Value: 11jCWoAuLGv19rSnHXbM8Rr7Kmdxk5ggkCU8_ZB7bzo

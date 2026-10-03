@@ -45,7 +45,7 @@
 - playthings-carrier-major-001-lane
   - Transfer Kind: responsibility
   - Description: Preserve the Playthings Major 001 return as technically qualified only. Exact carried Verse/App/Core/Site source-set gates passed locally: 219 runtime tests, package qualification, seven release-policy cases, 22 adapter tests, two Site node-integration tests and a Chromium launch probe. The full Site React/Vite browser smoke remains blocked before startup because the locked Site dependency tree was unavailable in the executing environment.
-  - Controlling Artifact: [Playthings qualification return](verse-playthings::.topics/refactor/qualification/001-2-playthings-to-anchor-carrier-major-001-qualification-return.trace.md)
+  - Controlling Artifact: [Playthings qualification return](verse-playthings::.topics/work/refactor/qualification/001-2-playthings-to-anchor-carrier-major-001-qualification-return.trace.md)
   - Boundary: Do not issue Sigma experience testing or claim Major completion until the real full browser host path genuinely passes. No App/Core/Site/Docs sibling source mutation was accepted from this return.
 
 - viewer-carrier-major-001-lane
@@ -160,7 +160,7 @@
   - Purpose: Preserve merge disposition: `verse-playthings` had 10 incoming-only additions, 0 current-only paths, 0 same-result concurrent paths, 0 conflict candidates, 0 removals and 0 changed pre-existing files; Business had 8 current-only Anchor orchestration paths and no conflict candidates, so current Business was preserved.
   - Availability: available
 - playthings-browser-blocker
-  - Material: [Playthings browser qualification evidence](verse-playthings::.topics/refactor/qualification/001-1-verse-playthings-turn-2-source-set-and-browser-qualification-evi.trace.md)
+  - Material: [Playthings browser qualification evidence](verse-playthings::.topics/work/refactor/qualification/001-1-verse-playthings-turn-2-source-set-and-browser-qualification-evi.trace.md)
   - Purpose: Preserve the exact technical PASS surface and fail-visible full-browser dependency blocker.
   - Availability: available
 - stream-day-orchestration
@@ -244,4 +244,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: mxQjAaQiSxcBCVP-QPodCblYCCtI1zfmEy4v4cNKZkM
+  - Value: NfBJPqdXdQZ1hkaZIBahUH8iab24EJBde1QXR_uy4CA

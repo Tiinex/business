@@ -155,7 +155,7 @@
 
 - playthings-major-003-return
   - Material: current Prism return for the still-open Playthings Major 003.
-  - Material Reference: [Playthings Major 003 Return](verse-playthings::.topics/refactor/qualification/003-prism-to-anchor-playthings-major-003-real-browser-readiness-retu.trace.md)
+  - Material Reference: [Playthings Major 003 Return](verse-playthings::.topics/work/refactor/qualification/003-prism-to-anchor-playthings-major-003-real-browser-readiness-retu.trace.md)
   - Purpose: exact Verse-local PASS and real-browser blocker basis.
   - Availability: available
 
@@ -215,8 +215,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-anchor-full-recovery-after-site-major-004-launch.trace.md](010-1-1-1-1-1-1-anchor-full-recovery-after-site-major-004-launch.trace.md)
-  - Value: 2Cle85mXjCgj8CRRLcASM0fZ5KHyQWoeFhoP6ws84mw
+  - Value: aTGvgqNjXAzPzx2Ill_gW_TkHYMmP22WuFn_YYsZgoE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: YcFF6AFQ-Enst1E98XQakmheE5YOE64Uo5PxmgMaH7Y
+  - Value: Dz8-KJ668slC1S3m-j4CET5MULO7mYYUkFLSK9Ik4xw

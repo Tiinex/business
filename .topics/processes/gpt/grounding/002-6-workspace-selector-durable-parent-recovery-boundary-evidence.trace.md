@@ -97,8 +97,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-anchor-grounding-recovery-and-recipient-projection-hardening.trace.md](002-anchor-grounding-recovery-and-recipient-projection-hardening.trace.md)
-  - Value: jTVFgwCW8ZihcSXR6y7vNZDtvpyMCtrgznqd_tVN5vk
+  - Value: 4QebEF7AFs_qxUvGxNBM94OsRZHwe2hx4ZkcTAACId0
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: JMwgFoFKbjCyvGLF7fpc9dPg5dK6l3lUIYQobS9_Log
+  - Value: _TVrt9WcvolDrwu89wR-nf0Ax2ZkzHUG7p9ymD4isOg

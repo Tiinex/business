@@ -77,8 +77,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-2-anchor-to-loom-hygiene-001-forward-authoring-guardrails.trace.md](../001-1-2-anchor-to-loom-hygiene-001-forward-authoring-guardrails.trace.md)
-  - Value: BeG5XLfGp0Ams6gk4lALqGLauPzCHiNPpTqrqwFSh5w
+  - Value: ezL86LSMYuOzlzr6G-dErBDzvlBVphjpycYlknx4qVA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 0e3IqDhoN-29Y-T0YkOxQ0nulDnggELd5zWmUnN6ohs
+  - Value: g2--mCScJ6Qkw-3SRQkTsPcJxQq29_MnOtHGiGS8AdE

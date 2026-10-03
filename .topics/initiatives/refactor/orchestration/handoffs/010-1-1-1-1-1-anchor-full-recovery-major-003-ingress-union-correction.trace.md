@@ -163,7 +163,7 @@
   - Availability: available
 - playthings-major-003-return
   - Material: qualified Prism return.
-  - Material Reference: [Playthings Major 003 Return](verse-playthings::.topics/refactor/qualification/003-prism-to-anchor-playthings-major-003-real-browser-readiness-retu.trace.md)
+  - Material Reference: [Playthings Major 003 Return](verse-playthings::.topics/work/refactor/qualification/003-prism-to-anchor-playthings-major-003-real-browser-readiness-retu.trace.md)
   - Purpose: exact open Playthings result and blocker evidence.
   - Availability: available
 
@@ -216,8 +216,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-anchor-full-recovery-carrier-major-003-specialist-return-reconciliation.trace.md](010-1-1-1-1-anchor-full-recovery-carrier-major-003-specialist-return-reconciliation.trace.md)
-  - Value: DrRvl52MxQxsne8811DTOTduTtwBzas9D5nxigWsh8A
+  - Value: hG6DvBEIamhqvKuy86wdohQeJCnvpTpmWyYc6my3AY4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: gsbGA10k301a3ZQK-6S8elLb6XuSuAoy2c6lOX0pCVw
+  - Value: 7pghS5FqjM5TjZdGA31n5ZX7GzNR0Sh9u9BiTw7bP3E

@@ -53,8 +53,8 @@ Reduce completed, accepted, superseded, and otherwise terminal historical Tiinex
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-1-anchor-to-anchor-reduction-major-001-qualified-return.trace.md](../../processes/reduction/001-2-1-anchor-to-anchor-reduction-major-001-qualified-return.trace.md)
-  - Value: ycFNmkVH2s_y8Tjs0_KRA5K-S2dzg-JMcAlgSQoCG8A
+  - Value: xJhxoSi4xVAyqzJFxL2UZww_2YEitDzBTx8OIELNEGM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 55utYlk21AZSGTYFJsA3E0MgXstEOyLT8XJxCkD8rUg
+  - Value: Ephc12KiZJAGwd92-fU5oZKD60q1esjtDiu3PEcOydc

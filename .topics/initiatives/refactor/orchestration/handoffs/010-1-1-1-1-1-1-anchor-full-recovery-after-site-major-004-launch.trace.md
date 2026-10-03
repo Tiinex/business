@@ -150,7 +150,7 @@
 
 - playthings-major-003-return
   - Material: current Prism return for the still-open Playthings Major 003.
-  - Material Reference: [Playthings Major 003 Return](verse-playthings::.topics/refactor/qualification/003-prism-to-anchor-playthings-major-003-real-browser-readiness-retu.trace.md)
+  - Material Reference: [Playthings Major 003 Return](verse-playthings::.topics/work/refactor/qualification/003-prism-to-anchor-playthings-major-003-real-browser-readiness-retu.trace.md)
   - Purpose: exact basis for the Site browser-smoke unblock.
   - Availability: available
 
@@ -199,8 +199,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-anchor-full-recovery-major-003-ingress-union-correction.trace.md](010-1-1-1-1-1-anchor-full-recovery-major-003-ingress-union-correction.trace.md)
-  - Value: gsbGA10k301a3ZQK-6S8elLb6XuSuAoy2c6lOX0pCVw
+  - Value: 7pghS5FqjM5TjZdGA31n5ZX7GzNR0Sh9u9BiTw7bP3E
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 2Cle85mXjCgj8CRRLcASM0fZ5KHyQWoeFhoP6ws84mw
+  - Value: aTGvgqNjXAzPzx2Ill_gW_TkHYMmP22WuFn_YYsZgoE
