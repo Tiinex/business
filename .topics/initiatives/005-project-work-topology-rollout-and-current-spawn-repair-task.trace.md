@@ -13,7 +13,7 @@
   - Authors: Anchor; Sigma
   - Why: Close the cross-repository spawn gap before implementation resumes.
   - Summary: Land the accepted work-topology convention and repair the current Native/Core root work to immutable Business Project ancestry after publication.
-  - Status: ready/local
+  - Status: completed/local
 
 ---
 
@@ -75,4 +75,4 @@ This is a topology/continuity repair Task only. It does not claim implementation
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: omoMbziiaeFBfla9vcO_XR704ZWSXhnQopCe--1QffU
+  - Value: 8m2bijRABGtkJvMJkewSZv_CY92-tbAFDwqVe0SvxGM

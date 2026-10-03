@@ -58,8 +58,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [005-project-work-topology-rollout-and-current-spawn-repair-task.trace.md](005-project-work-topology-rollout-and-current-spawn-repair-task.trace.md)
-  - Value: omoMbziiaeFBfla9vcO_XR704ZWSXhnQopCe--1QffU
+  - Value: 8m2bijRABGtkJvMJkewSZv_CY92-tbAFDwqVe0SvxGM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: vLxtWvCVgabHo_BCIW6H2GKXJkyBtVW-oM4RcOZPvoU
+  - Value: wOpt7QG3DjUFzJl_H8jeVCCIucpKdiVHlAQwF9aDhCg
