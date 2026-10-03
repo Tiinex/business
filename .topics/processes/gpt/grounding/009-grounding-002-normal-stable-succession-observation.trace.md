@@ -104,8 +104,8 @@ The session recovered and preserved these accepted/open distinctions before dura
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [014-1-1-1-1-1-anchor-full-recovery-mode-b-stewardship-accepted-stable-transition.trace.md](../../../initiatives/refactor/orchestration/handoffs/014-1-1-1-1-1-anchor-full-recovery-mode-b-stewardship-accepted-stable-transition.trace.md)
-  - Value: U-1HSqIuConIwhhBd76wQonH7J05CU9-6lk32QtX7lw
+  - Value: T7YL9NKy_wdPMGJ2Bl6rJh_HGbex2ePV1Tu4HB3lCCE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: RVpsFl-OQinGZNBpEpj6_q-MjSQKJ3C83clCrow3hrs
+  - Value: N4EbPI8lJxJine3S8hC_eYq9oefCH6VUisn5qf_v01Y

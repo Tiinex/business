@@ -91,7 +91,7 @@
 
 - site-local-task
   - Material: Site repository-local browser-gate continuation Task parented to the Business trial Epic.
-  - Material Reference: [Secondary Anchor Site Lane](site::.topics/refactor/orchestration/003-secondary-anchor-site-browser-gate-continuation-task.trace.md)
+  - Material Reference: [Secondary Anchor Site Lane](site::.topics/work/refactor/orchestration/003-secondary-anchor-site-browser-gate-continuation-task.trace.md)
   - Purpose: current Site-owned trial frontier.
   - Availability: available
 
@@ -155,4 +155,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: sj5Igl65QHDO5Uz4f471b8YNuVcwu6bslxyJn5-0Akk
+  - Value: V2uGJA16shG4XHZv379A18zKrtn5wzD8-ziwwzABMRY

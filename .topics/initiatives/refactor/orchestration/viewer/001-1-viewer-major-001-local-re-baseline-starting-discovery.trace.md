@@ -85,8 +85,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-viewer-carrier-major-001-poc-replacement-re-baseline.trace.md](001-viewer-carrier-major-001-poc-replacement-re-baseline.trace.md)
-  - Value: eRCaZEyb9pauyXMMG-HCnRmLb1ops-iUIqn9PrV_fJI
+  - Value: uD4tIuopVe_OoiHqO1c8tnY0NuKrKMqgdG5paa2jxBk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Rzk_qqzOQwuOgrR7kI7OC_NQf6yZUpLAsuwdz8ZG5so
+  - Value: 8oo_mqfNnYroNFFRKjPV5ogM9_viVDYL_UyNtIx1wX8

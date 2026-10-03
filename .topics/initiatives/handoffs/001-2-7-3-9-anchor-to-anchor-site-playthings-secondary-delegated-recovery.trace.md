@@ -40,7 +40,7 @@
 - site-first-route
   - Transfer Kind: work-and-responsibility
   - Description: the delegated selected route is the Site repository-local secondary-Anchor browser-gate continuation Task, with Verse Playthings/App/Core/Business carried as qualified context and all other carried Workspaces non-selected.
-  - Controlling Artifact: [Secondary Anchor Site Lane](site::.topics/refactor/orchestration/003-secondary-anchor-site-browser-gate-continuation-task.trace.md)
+  - Controlling Artifact: [Secondary Anchor Site Lane](site::.topics/work/refactor/orchestration/003-secondary-anchor-site-browser-gate-continuation-task.trace.md)
   - Boundary: carriage of sibling Workspaces creates no implicit mutation authority.
 
 - carrier-allocation
@@ -85,7 +85,7 @@
 
 - site-delegation-handoff
   - Material: Site-local Anchor-to-Anchor production-trial Handoff manufactured as carrier root `tiinex-site-001`.
-  - Material Reference: [Site + Playthings Secondary Anchor Production Trial Handoff](site::.topics/refactor/orchestration/004-anchor-to-anchor-site-playthings-secondary-production-trial-handoff.trace.md)
+  - Material Reference: [Site + Playthings Secondary Anchor Production Trial Handoff](site::.topics/work/refactor/orchestration/004-anchor-to-anchor-site-playthings-secondary-production-trial-handoff.trace.md)
   - Purpose: exact delegation artifact to be consumed by the fresh secondary Anchor.
   - Availability: available
 
@@ -134,8 +134,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-2-7-3-8-anchor-to-anchor-site-playthings-secondary-trial-staged-recovery.trace.md](001-2-7-3-8-anchor-to-anchor-site-playthings-secondary-trial-staged-recovery.trace.md)
-  - Value: sj5Igl65QHDO5Uz4f471b8YNuVcwu6bslxyJn5-0Akk
+  - Value: V2uGJA16shG4XHZv379A18zKrtn5wzD8-ziwwzABMRY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 5bNiwysFwsbMj40OWs8V9y8N3r6b64VXUIOuSlEbD6E
+  - Value: gHlAXNry_JlxlXGOzi8Q1RxxjoWblB-ILB4SOEF9fiw

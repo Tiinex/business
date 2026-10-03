@@ -107,8 +107,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-artifact-hygiene-major-001-canonical-minimum-and-topology-normalization.trace.md](001-1-artifact-hygiene-major-001-canonical-minimum-and-topology-normalization.trace.md)
-  - Value: yRO7AqkUjLTtlu6OsDMOwlVG7mHjmXo4EFoqF27gLNU
+  - Value: W_zd5pB7IMdwDVed-3m1BhEuBBquPDfDcxVS8iuEtGQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ezL86LSMYuOzlzr6G-dErBDzvlBVphjpycYlknx4qVA
+  - Value: gUON7PVHux-RGQAUJs5GzntYmleWIWk7Ns3ydcfmORQ

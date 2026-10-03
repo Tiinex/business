@@ -231,8 +231,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-anchor-full-recovery-qualified-returns-integrated-and-prism-line.trace.md](010-1-1-anchor-full-recovery-qualified-returns-integrated-and-prism-line.trace.md)
-  - Value: 9RHoNsgnUt2D4gTvUtu64c0GHL0oe0N-rESPpu5JsoU
+  - Value: vSb-GXrtf4YhTN8bzunxc6-s7QsR6Dfzzn-c1U-pKZw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: -nm7EI3uFVpgod2WzykulrQC_LTEOAkcIRBbDgXDy94
+  - Value: zsoQ8HwECMeiClOshZO7-RMsxcpnj86UT68Xiaf4DSM

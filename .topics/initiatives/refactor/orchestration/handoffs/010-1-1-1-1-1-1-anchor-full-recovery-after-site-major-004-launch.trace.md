@@ -138,13 +138,13 @@
 
 - site-major-004-task
   - Material: current Site Major 004 Task.
-  - Material Reference: [Site Major 004 Task](site::.topics/refactor/orchestration/001-1-1-1-1-1-site-major-004-playthings-browser-smoke-reconciliation-task.trace.md)
+  - Material Reference: [Site Major 004 Task](site::.topics/work/refactor/orchestration/001-1-1-1-1-1-site-major-004-playthings-browser-smoke-reconciliation-task.trace.md)
   - Purpose: fixed Site tranche scope.
   - Availability: available
 
 - site-major-004-handoff
   - Material: Anchor to Kodax Site Major 004 Handoff.
-  - Material Reference: [Site Major 004 Handoff](site::.topics/refactor/orchestration/handoffs/001-1-1-1-1-1-1-anchor-to-kodax-site-major-004-playthings-browser-smoke-reconciliation-handoff.trace.md)
+  - Material Reference: [Site Major 004 Handoff](site::.topics/work/refactor/orchestration/handoffs/001-1-1-1-1-1-1-anchor-to-kodax-site-major-004-playthings-browser-smoke-reconciliation-handoff.trace.md)
   - Purpose: exact delegated authority and completion boundary.
   - Availability: available
 
@@ -199,8 +199,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-anchor-full-recovery-major-003-ingress-union-correction.trace.md](010-1-1-1-1-1-anchor-full-recovery-major-003-ingress-union-correction.trace.md)
-  - Value: 7pghS5FqjM5TjZdGA31n5ZX7GzNR0Sh9u9BiTw7bP3E
+  - Value: N95_RYBJfYaSTYdL7O5_o4uX577b6IR4v9Eshzyn4Nc
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: aTGvgqNjXAzPzx2Ill_gW_TkHYMmP22WuFn_YYsZgoE
+  - Value: EaGAJo-WGseFW9cCwBaMCn_74TT2qG0aqX79WDP4E-M

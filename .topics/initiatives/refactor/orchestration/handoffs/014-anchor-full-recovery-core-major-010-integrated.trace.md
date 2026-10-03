@@ -215,8 +215,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [013-anchor-full-recovery-reduction-and-integrity-parallel-batch-inte.trace.md](013-anchor-full-recovery-reduction-and-integrity-parallel-batch-inte.trace.md)
-  - Value: iVxwOR55GPlDlhX7wvAoEnt3gW_aWZQywT4zoCc5Jn4
+  - Value: n-pb47YtWTf6wpj1upNAozW3Vvs_rA9NRe9rJeehQvk
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: K27Vis4WWNaowTcZ4Rqgx_bVftoaErpwCl7m__kLbLo
+  - Value: qd0gX2oAXVHHDQhrmIJJ1O5dr_4DHS5VAKomrPfvO7g

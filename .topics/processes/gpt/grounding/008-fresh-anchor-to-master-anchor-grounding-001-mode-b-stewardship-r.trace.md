@@ -127,8 +127,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [014-1-1-1-1-anchor-full-recovery-recovered-returns-integrated-conversation-b.trace.md](../../../initiatives/refactor/orchestration/handoffs/014-1-1-1-1-anchor-full-recovery-recovered-returns-integrated-conversation-b.trace.md)
-  - Value: 72u6Q1sQTVkXzHwTOm5C5e3EbSfgV-VriO8D_7UWmbM
+  - Value: PckHadtGcghnvCJyKIE4OdJtgaH4iayl5DdF6ddhILQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: SI3-2CRLMnUFmgsQlmHnJDP-nS0gF0utOC2gzkXqEyw
+  - Value: Q30aoe2KUEHkt2Lg8T_osF0S1gduT-PoI22rlp7VnM4

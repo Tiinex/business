@@ -133,8 +133,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [014-1-1-1-anchor-full-recovery-grounding-transport-closed-fresh-succession.trace.md](../../../initiatives/refactor/orchestration/handoffs/014-1-1-1-anchor-full-recovery-grounding-transport-closed-fresh-succession.trace.md)
-  - Value: WWpMgV7AZOx-ZAqFDuwdhWE6vcQl9qvx_N4rOYnUzBU
+  - Value: LFXqKj5Uz3gLnS_1ikE1dVf9DU4GEgQU-cOEOqEDrCM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ba4k1txHYYOm6_1S9zq8v9YlLvPEABhLpfSUTKGA2KA
+  - Value: 6Tjuukw1SVQtyfo3afKZrJD-JrE2lMqdWekLL-dzsNE

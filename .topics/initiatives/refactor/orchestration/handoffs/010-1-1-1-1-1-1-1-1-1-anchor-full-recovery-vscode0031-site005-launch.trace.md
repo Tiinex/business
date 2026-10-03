@@ -148,7 +148,7 @@
   - Availability: available
 - site-major-005-handoff
   - Material: current Site Major 005 Handoff.
-  - Material Reference: [Site Major 005 Handoff](site::.topics/refactor/orchestration/handoffs/001-1-1-1-1-1-1-1-1-1-anchor-to-kodax-site-major-005-self-contained-playthings-local-source-browser-harness-handoff.trace.md)
+  - Material Reference: [Site Major 005 Handoff](site::.topics/work/refactor/orchestration/handoffs/001-1-1-1-1-1-1-1-1-1-anchor-to-kodax-site-major-005-self-contained-playthings-local-source-browser-harness-handoff.trace.md)
   - Purpose: exact local-source browser-harness authority.
   - Availability: available
 
@@ -205,8 +205,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-anchor-full-recovery-latest-vscode-ergonomics-frontier.trace.md](010-1-1-1-1-1-1-1-1-anchor-full-recovery-latest-vscode-ergonomics-frontier.trace.md)
-  - Value: 6CdrK_pOdWXc19_bMfqIj54Vc6eUVi-Pa-tuUBHs4W8
+  - Value: PiQhzP94JqsNBjA7iO7XPzuAHza8e1ew7szW0vG_avE
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: rBn4sSUq_aucuP0mx6cWT8as4k3KWVC9ILrBcEor8AI
+  - Value: hHRHi5eXmE3Cu9O8nnVPjG5F2XUZEWNXBPvlEW82t40

@@ -163,7 +163,7 @@
   - Availability: available
 - viewer-return
   - Material: accepted Site Viewer reconciliation return.
-  - Material Reference: [Viewer Kodax return](site::.topics/refactor/orchestration/handoffs/001-1-viewer-poc-replacement-reconciliation-kodax-to-anchor-return.trace.md)
+  - Material Reference: [Viewer Kodax return](site::.topics/work/refactor/orchestration/handoffs/001-1-viewer-poc-replacement-reconciliation-kodax-to-anchor-return.trace.md)
   - Purpose: current product-contract reconciliation and ordered next-major plan.
   - Availability: available
 - vscode-checkpoint
@@ -239,4 +239,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 9RHoNsgnUt2D4gTvUtu64c0GHL0oe0N-rESPpu5JsoU
+  - Value: vSb-GXrtf4YhTN8bzunxc6-s7QsR6Dfzzn-c1U-pKZw

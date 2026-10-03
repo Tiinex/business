@@ -102,8 +102,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [003-grounding-major-001-delegation-return-reservation-preflight.trace.md](003-grounding-major-001-delegation-return-reservation-preflight.trace.md)
-  - Value: YLk3daz7GyP_9krxIEr8dhySkV1J94z-uOiv2GNJo6E
+  - Value: iJq0ktJtAXVbY-3H99jCgkJ6bu0v3GlRa-HuJ5Gbn58
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: B6_LCLzY5-rQ5Q_5M0O-LuwdXgMWeId4SN0J72dSkdw
+  - Value: 4-feOW5xeRYv4_Sos8qJLqoqOJwAE5EUg70HQcf7-sY

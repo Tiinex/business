@@ -143,7 +143,7 @@
 
 - site-major-004-return
   - Material: accepted Kodax Site Major 004 return.
-  - Material Reference: [Site Major 004 Return](site::.topics/refactor/orchestration/handoffs/001-1-1-1-1-1-1-1-kodax-to-anchor-site-major-004-playthings-browser-smoke-reconcil.trace.md)
+  - Material Reference: [Site Major 004 Return](site::.topics/work/refactor/orchestration/handoffs/001-1-1-1-1-1-1-1-kodax-to-anchor-site-major-004-playthings-browser-smoke-reconcil.trace.md)
   - Purpose: exact repaired smoke contract and remaining dependency-capable-host blocker.
   - Availability: available
 
@@ -215,8 +215,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-anchor-full-recovery-after-site-major-004-launch.trace.md](010-1-1-1-1-1-1-anchor-full-recovery-after-site-major-004-launch.trace.md)
-  - Value: aTGvgqNjXAzPzx2Ill_gW_TkHYMmP22WuFn_YYsZgoE
+  - Value: EaGAJo-WGseFW9cCwBaMCn_74TT2qG0aqX79WDP4E-M
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Dz8-KJ668slC1S3m-j4CET5MULO7mYYUkFLSK9Ik4xw
+  - Value: 1Cwp2FtjTOduSTV32l6ISSOlSVs1pmwCn1XaKmb8i4g

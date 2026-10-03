@@ -169,7 +169,7 @@
 
 - site-windows-return
   - Material: accepted Site Windows invocation repair return.
-  - Material Reference: [Site Windows Return](site::.topics/refactor/orchestration/handoffs/001-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-kodax-to-anchor-site-major-005-windows-local-source-harness-invo.trace.md)
+  - Material Reference: [Site Windows Return](site::.topics/work/refactor/orchestration/handoffs/001-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-kodax-to-anchor-site-major-005-windows-local-source-harness-invo.trace.md)
   - Purpose: exact current Windows harness result and next human-host boundary.
   - Availability: available
 
@@ -243,8 +243,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-successor-evolution-frontier.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-successor-evolution-frontier.trace.md)
-  - Value: IxQdfBQC43kBeAdy9P5bm5wKvpMNk_1cSh05GNo_kI8
+  - Value: tCEwevSLvUb2y39jiX6WnMHxQos8rhMdxb2yN7oLQUQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: CeIyuZfLqXkRw8eWennCGUl0NnW3jwM_2nq5b_2jVEE
+  - Value: 9JGHqIUou5DMyRHqccP9FhTw77WgCyEl9J0lc6mBYo8

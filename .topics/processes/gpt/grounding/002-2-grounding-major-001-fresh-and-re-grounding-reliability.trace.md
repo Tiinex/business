@@ -83,8 +83,8 @@ Return to Master Anchor with: durable changes made, owner-routed child work if a
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-anchor-grounding-recovery-and-recipient-projection-hardening.trace.md](002-anchor-grounding-recovery-and-recipient-projection-hardening.trace.md)
-  - Value: 4QebEF7AFs_qxUvGxNBM94OsRZHwe2hx4ZkcTAACId0
+  - Value: u5Eeneq_nOYGUxMTRXZf3vIU3fNICFT6SPDH--OYZJA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 5EMeuvsdk3ir6qEvz-wNu6A10L_i92IzsEVsSfhfPps
+  - Value: dZXLo3ccXs2ES7nH4cJ7OQpkrbjo7Vsn8odvBKic0T4

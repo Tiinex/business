@@ -119,8 +119,8 @@ Before authoring or mutating durable Tiinex material, the invocation recovered t
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [014-1-1-1-anchor-full-recovery-grounding-transport-closed-fresh-succession.trace.md](../../../initiatives/refactor/orchestration/handoffs/014-1-1-1-anchor-full-recovery-grounding-transport-closed-fresh-succession.trace.md)
-  - Value: WWpMgV7AZOx-ZAqFDuwdhWE6vcQl9qvx_N4rOYnUzBU
+  - Value: LFXqKj5Uz3gLnS_1ikE1dVf9DU4GEgQU-cOEOqEDrCM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: KiN1yX1mi_wmm7yKcFhF285CsGtYcdmF8hbCJOihnhU
+  - Value: EMMRRPuYPXnxZ4SUap9qdjAYCdimS2S9X4rfz3djYvQ

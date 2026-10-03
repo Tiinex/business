@@ -39,7 +39,7 @@ Product-contract discovery/reconciliation only. Current App/Site/Verse source ma
 
 ## Initial Local Evidence
 
-- `site::.topics/viewer/001-1-poc-product-contract-inventory-discovery.trace.md` and its seven product-contract groups.
+- `site::.topics/work/viewer/001-1-poc-product-contract-inventory-discovery.trace.md` and its seven product-contract groups.
 - Site Viewer parity Tasks/Decision/Reduction through current human authoring/Handoff package work.
 - `app::src/parity/poc.parityLedger.js` and current scenario definitions/tests.
 - Current App source surfaces for Workspace lifecycle, Feed/Tree/Lineage, authoring, Time Portal, publication and export.
@@ -70,4 +70,4 @@ Product-contract discovery/reconciliation only. Current App/Site/Verse source ma
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: eRCaZEyb9pauyXMMG-HCnRmLb1ops-iUIqn9PrV_fJI
+  - Value: uD4tIuopVe_OoiHqO1c8tnY0NuKrKMqgdG5paa2jxBk

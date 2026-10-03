@@ -70,8 +70,8 @@ Return to Master Anchor with: a project-wide leaf classification, qualified Redu
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [012-1-anchor-full-recovery-grounding-major-001-integrated.trace.md](../../initiatives/refactor/orchestration/handoffs/012-1-anchor-full-recovery-grounding-major-001-integrated.trace.md)
-  - Value: 46YHAzaOW2m1uiAwRtXTsQvtqKTJXw4PpeNxgiD5YBQ
+  - Value: Ezg0r1LO0Tz7xa0RUgqgjeazr7Sqbt05P4ZEU3dQb2k
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: aa3hlVrtHb2TPViXUs9d-qihNtKp0Qcpjt2itp7P6Qw
+  - Value: LZROH6fGns90PXl487jqrByp_01wPjFSTQdRjd5DCL4

@@ -198,8 +198,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-docs006-successor-replay-grading-and-vs-cod.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-docs006-successor-replay-grading-and-vs-cod.trace.md)
-  - Value: yQMxmrxi2gxJRfgj8uhZ6kKo9KAF46oyJR3qSKLrAGs
+  - Value: PlqPvN5ekNej0SsVUQlPzlGjlybMZEopjSM5dSi3LVY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: WSADDU7TjUmpM8Weu2hlV8eFoV630vbzWwSXk7sSf7k
+  - Value: 0iPGXCGbBjwQC2_vvKglJoro5agVPadrbWD7XRcrlYc

@@ -97,8 +97,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [003-artifact-hygiene-001-recursive-16-workspace-audit-replay.trace.md](003-artifact-hygiene-001-recursive-16-workspace-audit-replay.trace.md)
-  - Value: 11jCWoAuLGv19rSnHXbM8Rr7Kmdxk5ggkCU8_ZB7bzo
+  - Value: ARa4CWheI3h4PAvipKZ-84kVoH3xXLybqJlVwUpJ8GA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: J8qSCPzQgtaG0SEOHw5imyWpPyNPVSWomdQiNOdTx1Q
+  - Value: HP9fADorOsseit42F3AzBBy4JVC-1ZaNHbIM6aFtMAA

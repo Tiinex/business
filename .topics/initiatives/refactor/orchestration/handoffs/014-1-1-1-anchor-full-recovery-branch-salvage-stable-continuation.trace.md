@@ -155,8 +155,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [014-1-1-anchor-full-recovery-grounding-return-and-hygiene-classification.trace.md](014-1-1-anchor-full-recovery-grounding-return-and-hygiene-classification.trace.md)
-  - Value: 6QzOnyLVMSRUQYQs0s60FvBHqjrmDp2SKHLJusdWhn8
+  - Value: jigWe56yZGu1JQ9V0O9bOjXz4wrhTY-5698yDzxzfcw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: EV1poPZOOBKpoqE6IY2TSnvywYlZfVftQ7ks2HNPDgM
+  - Value: GCQYcnaaFkh2nqcgCtaB8_4KPQsLzj_ENJAcljlMH3U

@@ -153,7 +153,7 @@
   - Availability: available
 - viewer-major-003-return
   - Material: qualified Kodax to Anchor Viewer Major 003 return.
-  - Material Reference: [Viewer Major 003 Return](site::.topics/refactor/orchestration/handoffs/001-1-1-1-1-kodax-to-anchor-viewer-major-003-qualification-ownership-repair-return.trace.md)
+  - Material Reference: [Viewer Major 003 Return](site::.topics/work/refactor/orchestration/handoffs/001-1-1-1-1-kodax-to-anchor-viewer-major-003-qualification-ownership-repair-return.trace.md)
   - Purpose: exact accepted Viewer baseline result and next Native Verse blocker.
   - Availability: available
 - playthings-major-003-evidence
@@ -223,8 +223,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-anchor-full-recovery-vscode-source-salvage-and-glimmer-quarantine.trace.md](010-1-1-1-anchor-full-recovery-vscode-source-salvage-and-glimmer-quarantine.trace.md)
-  - Value: -nm7EI3uFVpgod2WzykulrQC_LTEOAkcIRBbDgXDy94
+  - Value: zsoQ8HwECMeiClOshZO7-RMsxcpnj86UT68Xiaf4DSM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: hG6DvBEIamhqvKuy86wdohQeJCnvpTpmWyYc6my3AY4
+  - Value: -NH-RMzz1vKOvc23w_yyy8dWEpv0k1bOo57VfiJUznc

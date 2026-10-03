@@ -165,13 +165,13 @@
 
 - site-major-005-return
   - Material: qualified Kodax zero-ambiguity Site Major 005 return.
-  - Material Reference: [Site Major 005 Return](site::.topics/refactor/orchestration/handoffs/002-1-kodax-to-anchor-site-major-005-zero-ambiguity-sigma-windows-fron.trace.md)
+  - Material Reference: [Site Major 005 Return](site::.topics/work/refactor/orchestration/handoffs/002-1-kodax-to-anchor-site-major-005-zero-ambiguity-sigma-windows-fron.trace.md)
   - Purpose: exact one-command Sigma technical browser gate basis.
   - Availability: available
 
 - sigma-browser-handoff
   - Material: current Anchor-to-Sigma technical browser execution Handoff.
-  - Material Reference: [Sigma Browser Gate](site::.topics/refactor/orchestration/handoffs/002-1-1-1-anchor-to-sigma-site-major-005-real-browser-execution-gate.trace.md)
+  - Material Reference: [Sigma Browser Gate](site::.topics/work/refactor/orchestration/handoffs/002-1-1-1-anchor-to-sigma-site-major-005-real-browser-execution-gate.trace.md)
   - Purpose: exact human execution boundary.
   - Availability: available
 
@@ -229,8 +229,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [010-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-accepted-returns-and-nex.trace.md](010-1-1-1-1-1-1-1-1-1-1-1-1-anchor-full-recovery-business-major-004-accepted-returns-and-nex.trace.md)
-  - Value: CeIyuZfLqXkRw8eWennCGUl0NnW3jwM_2nq5b_2jVEE
+  - Value: 9JGHqIUou5DMyRHqccP9FhTw77WgCyEl9J0lc6mBYo8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 5VuhmnEQhz8F27yN5FVvl-pic8B2FJJpDahJF_Fdj-A
+  - Value: mimpoS8lT0T7NToj6i_vNb6SRQ6rO9WydqYhU2TS8Og

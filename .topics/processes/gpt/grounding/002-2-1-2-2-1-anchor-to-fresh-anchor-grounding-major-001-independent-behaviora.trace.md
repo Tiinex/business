@@ -108,8 +108,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-2-1-2-2-anchor-to-anchor-grounding-major-001-reliability-checkpoint-retu.trace.md](002-2-1-2-2-anchor-to-anchor-grounding-major-001-reliability-checkpoint-retu.trace.md)
-  - Value: mRJoULHg6AInDW999LH9ngBZvWwc-KDBuhnEmQdAwSU
+  - Value: ZH9DjLkiQxMEzuhlEYv8xBako0eKmbRC_gy8GcnUhYU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: sh9Jd72A-Yt9ZavT8AnjUx8lAvjK4e-bBQitPi87qIY
+  - Value: sQIVisCAyEvH3Utlu0hbocio6HBCg1LEJFCmQ_DZEu8

@@ -140,8 +140,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-3-core-material-identity-and-commit-freshness-qualification-eviden.trace.md](002-3-core-material-identity-and-commit-freshness-qualification-eviden.trace.md)
-  - Value: QCbWVxlZDLC9aDykk9lwCnC1TAO9vatlv-zV70fhnn4
+  - Value: mklRTRNBV0X1GfSEClO_fXPwkBtDZhpk7fKvehLOewA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: -2yWEyrJeHh0euV0a8qfo9TgHfN1WWS8TEmNrSabzi0
+  - Value: joebmQcO3pCx8OMOc5oP2DGm1xSiiYWFLt1kQaVBKOY

@@ -61,8 +61,8 @@ Turn the completed recursive 16-Workspace Hygiene audit into a bounded normaliza
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [003-1-1-loom-to-anchor-artifact-hygiene-001-recursive-audit-return.trace.md](../gpt/grounding/003-1-1-loom-to-anchor-artifact-hygiene-001-recursive-audit-return.trace.md)
-  - Value: 61mOqMiwVnfpkNcFAdgx5FQEQGp9pmq4LfQCEJvGi-Q
+  - Value: Ms16CgLhN0VjH_EP10AbQsxu2X0TWNGpji0JQuuATrs
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: yRO7AqkUjLTtlu6OsDMOwlVG7mHjmXo4EFoqF27gLNU
+  - Value: W_zd5pB7IMdwDVed-3m1BhEuBBquPDfDcxVS8iuEtGQ

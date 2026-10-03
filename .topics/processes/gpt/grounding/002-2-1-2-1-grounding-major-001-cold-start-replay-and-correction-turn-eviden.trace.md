@@ -110,8 +110,8 @@ The user supplied the Handoff package plus normal cold-start/routing text and di
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [002-2-1-2-anchor-to-fresh-anchor-grounding-major-001-operating-contract-re.trace.md](002-2-1-2-anchor-to-fresh-anchor-grounding-major-001-operating-contract-re.trace.md)
-  - Value: bUA8RWoj_JoIF1bFj4Yw-YL3afh-xdS38G27HJ5W-AE
+  - Value: 0gs3hPnqC4LRcEqWlGO9T7oPTRbEYlEu1Bw5i5g9ZaY
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 1rq_AnwkQvIOfdXLOwLcttwyDylkn-9OVavrd650I9E
+  - Value: jVmqw6oA_xxbvGhinz0F8i7zxH602daO3j57zqaShJU
