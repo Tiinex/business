@@ -9,10 +9,10 @@
     - [relative](../001-processes.trace.md)
 - Current
   - Current Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
-  - Created At: 2026-10-04 02:24:00
+  - Created At: 2026-10-04 19:50:00
   - Authors: Anchor; Sigma
-  - Why: Keep Tiinex-specific Role, readiness, and acceptance discipline separate from portable session continuity and host-specific adaptation.
-  - Summary: Tiinex organizational profile for Anchor readiness disposition, Sigma human boundaries, and explicit composition with selected portable grounding material.
+  - Why: Keep Tiinex-specific Role, readiness, recipient-transfer, human-interaction, and acceptance discipline separate from portable session continuity and host-specific adaptation.
+  - Summary: Tiinex organizational profile for Anchor readiness, recipient parity, artifact-first operator transfer, concise human-facing projection, and Sigma acceptance boundaries.
   - Status: ready/local
 
 ---
@@ -54,6 +54,24 @@ Sigma is not the fallback store for hidden session state and should not be requi
 
 Use Sigma primarily at real human gates such as acceptance, external/manual execution, or bounded observational testing that cannot be qualified mechanically.
 
+## Recipient And Operator Interaction Boundary
+
+Tiinex treats a human Role, LLM Role, automation, or other qualified participant as a recipient under the same transfer semantics. A conversational UI does not make a human participant an out-of-band exception.
+
+When the next bounded action is assigned to another participant:
+
+- preserve the work in the appropriate durable artifact rather than relying on chat chronology;
+- use a qualified Handoff for responsibility transfer;
+- complete the operator-facing transfer with one qualified Handoff Package plus Tooling-projected routing text when package Tooling is available;
+- preserve the applicable recovery/carrier profile instead of sending a reduced set merely because the recipient is human;
+- let the recipient use the same Tiinex orientation/grounding/return Tooling appropriate to its capabilities.
+
+Loose patch files, repository ZIPs, status notes, or explanatory chat prose may be useful evidence or convenience projections, but they are not the normal transfer surface and must not become hidden reconstruction requirements.
+
+For interactive human-facing communication, present the smallest decision-relevant projection first: a TL;DR or meaningful delta, then explicit status/blocker/next action. Prefer short visually separated sections, bullets, small tables/patterns, and progressive disclosure over dense prose walls. This low-cognitive-load / dyslexia-friendly presentation is a collaboration projection only; it must not alter qualified Tooling routing text, hide uncertainty, or create semantic authority.
+
+During blind grounding acceptance, the non-leading transport boundary remains stronger: do not add semantic hints merely to improve readability.
+
 ## Specialist Boundary
 
 Specialist Roles may be used only when the current Handoff/work authority, Role material, process/applicability boundary, source authority, and return/reconciliation expectation are sufficiently qualified for the delegation.
@@ -93,4 +111,4 @@ Sigma owns the final human acceptance when that acceptance is the declared Tiine
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:JGN1BBsKgbnqLcjiEA2uStCJ98bVNnj08lEQ6b20sCs
+  - Value:5wocIGK8rox5tS1Umro7ei5goOF8caANVyEEsa9oii4
