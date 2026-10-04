@@ -11,110 +11,77 @@
   - Current Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-10-04 02:24:00
   - Authors: Anchor; Sigma
-  - Why: Let a cold Tiinex role enter or resume work without relying on hidden chat memory, transport accidents, or provider-specific improvisation.
-  - Summary: Human-first process for session grounding, Handoff/carrier continuity, explicit process applicability, host adaptation, and readiness disposition.
+  - Why: Keep Tiinex-specific Role, readiness, and acceptance discipline separate from portable session continuity and host-specific adaptation.
+  - Summary: Tiinex organizational profile for Anchor readiness disposition, Sigma human boundaries, and explicit composition with selected portable grounding material.
   - Status: ready/local
 
 ---
-
-# Session Grounding And Continuity Process
+# Tiinex Session Grounding And Continuity Profile
 
 ## Purpose
 
-Establish enough qualified context to begin or resume bounded Tiinex work safely, and preserve that context before a volatile host or long session can become the only copy of important state.
+Define only the Tiinex-specific organizational layer needed when a Tiinex work session uses a portable session-grounding/continuity process.
 
-The process is intentionally readable without knowing a specific runtime. Tooling may automate it, but Tooling does not replace the semantic authorities named here.
+Portable grounding, carrier continuity, source preference, host adaptation, and storage-survivability behavior remain owned by their selected portable/Interop material. This profile does not duplicate those rules and is not intended as a generic process for unrelated consumers.
 
-## When This Process Applies
+## When This Profile Applies
 
-Use this process when a Tiinex session is cold-starting, resuming from a Handoff or carrier, entering work after a material context change, or approaching a host/session boundary where important local state may not survive.
+Use this profile only when current work is explicitly inside the Tiinex organizational/project context and a qualified Entry, Handoff, controlling work artifact, Decision, or other authority selects this profile for the session.
 
-A concrete Session Entry may name this Process and other required Grounding Material. Process inventory, file proximity, package membership, or Role carriage alone do not make a Process applicable.
+Process inventory, Business placement, carried Role material, or the presence of Sigma/Anchor in a package does not make this profile applicable by itself.
 
-## Grounding Sequence
+When this profile applies, the same entry boundary must also identify the portable session-grounding/continuity material needed by the target environment. Host-specific adaptation is selected separately when required.
 
-1. **Identify the entry boundary.** Determine whether the session is entering through a formal Handoff, an informal continuation, a Workspace/Project frontier, or another explicit Entry. Do not manufacture transfer authority from transport delivery.
-2. **Ground the recipient and current work.** Read the exact Role, Handoff, Task/Project, Decision, Evidence, Process, and Workspace material required by the entry boundary. Preserve unknowns instead of filling them from chat intuition.
-3. **Ground the applicable process.** Use explicit semantic authority such as the Session Entry, controlling work, Handoff, Decision, or another qualified declaration. A catalog shows what exists; it does not decide what applies.
-4. **Prefer carried qualified material.** Resolve required material from the carried Workspace/package representation before using an external repository or connector. External recovery is for material that is not carried, cannot be qualified locally, or is explicitly declared external.
-5. **Apply host adaptation only after portable meaning is clear.** Provider-, application-, filesystem-, model-, or session-specific behavior belongs to the relevant Interop/host domain. Core remains host-neutral and must not absorb one provider's operating quirks as portable Tiinex semantics.
-6. **Disposition readiness explicitly.** State what the session is ready to do and what is still blocked. Do not collapse transport validity, grounding, and mutation authority into one word.
-7. **Checkpoint before survivability becomes uncertain.** When important progress exists and the host/session may lose local state, create a qualified carrier/checkpoint on a durable transport surface before continuing deep work.
+## Anchor Readiness Boundary
 
-## Readiness Ladder
+When Anchor is the active orchestration Role, Anchor owns the bounded readiness disposition for the next action.
 
-Use the smallest truthful readiness state:
+Anchor must distinguish at least:
 
-- **Carrier qualified:** the transport/package can be inspected and its declared carriage is qualified. This does not prove the recipient understands or may act on the work.
-- **Recipient grounded:** the intended recipient Role/capacity, transfer boundary when present, and session-holder relationship are sufficiently qualified for the current session.
-- **Semantically grounded:** current work, required context, applicable Process, relevant Workspace boundaries, and material source identities are sufficiently qualified to understand the next bounded action.
-- **Grounded to act:** the next bounded local action is authorized and its required evidence is available.
-- **Remote mutation authorized:** a separate explicit authority permits the named remote mutation. No connector, repository login, package delivery, or `grounded to act` state grants this by itself.
+- transport/carrier qualification;
+- recipient/session grounding;
+- semantic grounding for the bounded work;
+- local `grounded-to-act` authority;
+- any separate remote-mutation authorization.
 
-A later state requires the earlier truths that matter to that action, but these labels are not a protocol state machine and do not replace the controlling artifacts.
+Anchor must stop the stronger action when a required authority or source remains unresolved. Package validity, carried Role inventory, repository access, or conversational confidence must not substitute for readiness evidence.
 
-## Handoff And Carrier Boundary
+## Sigma Boundary
 
-- **Handoff** declares a bounded transfer of work or responsibility.
-- **Handoff Package / carrier** transports qualified material and may preserve a session checkpoint.
-- A carrier may exist without a new responsibility transfer.
-- Package validity does not prove Handoff acceptance, semantic grounding, or action readiness.
-- Handoff responsibility must not be inferred from package destination, chat sender/receiver, filename, directory, or upload channel.
+Sigma supplies human intent, observation, prioritization, feedback, and acceptance where the applicable Tiinex process actually reserves a human boundary.
 
-## Source Preference And Recovery
+Sigma is not the fallback store for hidden session state and should not be required to reconstruct prior work, explain ordinary host behavior, or independently prove that Anchor is grounded.
 
-For required material, prefer this order when each earlier source is qualified and sufficient:
+Use Sigma primarily at real human gates such as acceptance, external/manual execution, or bounded observational testing that cannot be qualified mechanically.
 
-1. carried qualified Workspace material;
-2. carried route/cache or other qualified carrier-local representation;
-3. explicit immutable recovery material;
-4. live external source/connector access.
+## Specialist Boundary
 
-Moving to a later source is a recovery decision, not a convenience shortcut. A live source may be fresher but must not silently replace the exact material that the controlling Handoff/Task/Decision intended.
+Specialist Roles may be used only when the current Handoff/work authority, Role material, process/applicability boundary, source authority, and return/reconciliation expectation are sufficiently qualified for the delegation.
 
-## Host And Interop Boundary
+Role presence in a carrier is not delegation authority. Until delegation grounding is trustworthy, Anchor may perform bounded work directly within its own authority rather than manufacture a specialist transfer from inventory.
 
-Portable Tiinex meaning belongs in the semantic owner and shared host-neutral mechanics belong in Core. Environment-specific behavior belongs in the relevant Interop or host Workspace.
+## Project And Workspace Boundary
 
-A host-specific profile may define, for example, volatile-storage behavior, attachment survival, connector limitations, UI constraints, capability names, or provider-specific workarounds. Such a profile must preserve the portable process instead of redefining Handoff, Parent, Role, Process, Workspace, or carrier semantics.
+Tiinex Projects describe outcome/work coordination. Workspaces describe technical/material ownership and placement. Neither is inferred from the other.
 
-Host capabilities are permissions/opportunities, not semantic authority. In particular, read capability does not imply write authority and remote write requires an explicit bounded authorization.
+Cross-Workspace work must preserve truthful Project/Task ancestry and the publication/recovery rules owned by the Work Lifecycle. Business must not become a duplicate implementation tracker merely because it owns organizational disposition.
 
-## Lineage And Continuity Separation
+## Readiness Disposition
 
-Keep these concerns separate during grounding and checkpointing:
+A Tiinex session is ready for ordinary work only when the portable grounding process, this Tiinex profile when applicable, the controlling work, and any required host adaptation can all be qualified for the next bounded action.
 
-- artifact identity describes the artifact itself;
-- Parent describes semantic continuity ancestry;
-- filename/dimension provides local navigation/allocation coordinates;
-- carrier lineage describes transport/checkpoint continuity.
+If one layer is unavailable or explicitly unresolved, report that exact layer rather than collapsing the result into a generic `grounded` or `not grounded` label.
 
-A matching number, directory, package dimension, or arrival order must never be used to infer one of the other relationships.
+## Cold Acceptance Boundary
 
-## Anchor Readiness Disposition
+For an intentional cold-start grounding acceptance exercise, Anchor owns the evidence-based readiness disposition after the portable process has frozen the recipient's first result and completed its non-leading retrospective. Anchor should classify process, Role, Tooling, source/recovery, and semantic-contract gaps without coaching the cold recipient retroactively.
 
-When Anchor is the active orchestration Role, Anchor owns the readiness disposition for the bounded work: proceed, proceed with an explicit limitation, or stop with an exact blocker.
-
-Sigma or another human may provide intent, feedback, acceptance, or required human action, but should not have to act as hidden memory or independently prove that Anchor is grounded.
-
-## Checkpoint Boundary
-
-A useful checkpoint preserves enough qualified material and routing information that a cold successor can recover the current bounded state without reconstructing it from conversational chronology.
-
-Checkpoint frequency is driven by survivability risk and meaningful progress, not by a fixed number of messages. A host-specific profile may define stricter practical triggers.
-
-Carrier progression is transport continuity only. It must not rewrite Parent ancestry, artifact identity, filename lineage, acceptance, or work ownership.
-
-## Failure Policy
-
-Stop the stronger action when a required grounding obligation cannot be qualified. Name the missing material or authority, why it matters, and the smallest recovery path.
-
-Do not compensate by broad repository archaeology, arbitrary connector search, guessed participant identity, guessed Process applicability, or invented structural placement.
+Sigma owns the final human acceptance when that acceptance is the declared Tiinex gate. Sigma should be able to judge a compact disposition and bounded observational evidence rather than repeat repository archaeology or reconstruct hidden session history. Acceptance must not be inferred from `grounded-to-act`, package validity, a passing regression suite, or the recipient sounding confident.
 
 ## Interpretation Limits
 
-- Does Not Establish: Handoff acceptance, durable Party identity, process execution, Task completion, semantic truth, remote-write authority, or universal applicability of any carried Process/Role/Scaffold.
-- Must Not Be Used To Claim: that package validity equals readiness; that a carried Role is a participant; that a carried Parent target should be fetched remotely again; that provider-specific constraints belong in Core; or that transport/carrier lineage creates semantic Parent ancestry.
+- Does Not Establish: portable host behavior, carrier implementation mechanics, process execution, Handoff acceptance, participant identity, specialist delegation, Task completion, remote-write authority, or Sigma acceptance.
+- Must Not Be Used To Claim: that Tiinex-specific Role conventions apply to a role-less or unrelated consumer; that Business owns portable session semantics; that a carried Role is a participant; or that human confirmation is required when the applicable boundary is mechanically qualified.
 
 ---
 
@@ -126,4 +93,4 @@ Do not compensate by broad repository archaeology, arbitrary connector search, g
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:t-2I0DOB7QvCRzZPVB16XXvvo5LUqOHfFJFduZgIpok
+  - Value:JGN1BBsKgbnqLcjiEA2uStCJ98bVNnj08lEQ6b20sCs

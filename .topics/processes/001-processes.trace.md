@@ -2,7 +2,7 @@
 
 - Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/8145c280093dff5d0b67db2aa72d5f5c12b6c7cb/.topics/.schemas/tiinex.root.v1.schema.md)
 - Parent
-  - Parent Schema: [tiinex.party.organization.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/party/organization/tiinex.party.organization.v1.schema.md)
+  - Parent Schema: [tiinex.party.organization.v1](https://github.com/Tiinex/docs/blob/d0e2b274558c2ee931c84318e4b84411a9da3265/.topics/.schemas/party/organization/tiinex.party.organization.v1.schema.md)
   - Created At: 2026-08-26 14:55:00
   - Trace: [Tiinex](../001-tiinex.trace.md)
   - Origin:
@@ -39,6 +39,7 @@ Process inventory does not establish process applicability. A work artifact, Ent
 ## Current Process Families
 
 - `work-lifecycle/`: outer lifecycle for spawning, placing, executing, following, accepting, landing, and reducing work.
+- `session-grounding-and-continuity/`: Tiinex-specific readiness/Role profile composed with separately selected portable session-grounding material.
 - `development-and-acceptance/`: reusable develop/verify and acceptance-return process.
 - `accepted-change-landing/`: reusable landing and landed-state verification process.
 - `human-mediated-external-execution/`: bounded human-operated external execution boundary.
@@ -55,4 +56,4 @@ Workspace-local process authority may also exist under another Workspace's own `
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 894_R-4DZE3RsHODoloOXj00yq9YAvOSDFA_3iwmBgc
+  - Value: xpTqB9Rfn0HDs-IWaFLmc62f7OSnYKubfmZSqnoM2ec

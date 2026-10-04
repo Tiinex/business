@@ -1,54 +1,7 @@
-# Tiinex/business LLM Router
+# Tiinex/business LLM Bootstrap
 
-Use this repository to recover Tiinex organizational intent, Project structure, Roles, Processes, financing, and cross-Workspace work ancestry. `.topics/**` is semantic/provenance authority; this file is only a routing surface.
+This repository uses Tiinex. `.topics/**` and qualified source material are semantic/provenance authority; this file is only a bootstrap hint.
 
-## Cold-start route
+Use Tiinex Tooling to discover and qualify the Workspace entrypoint under `.topics/.workspaces`, then follow only the qualified artifacts and processes applicable to the current task.
 
-1. `.topics/executive/002-fresh-start-executive-grounding.trace.md` — compact current organizational orientation after Major 017 cleanup.
-2. `.topics/initiatives/006-tiinex-project.trace.md` — current umbrella Project boundary.
-3. `.topics/initiatives/006-1-tiinex-business-project.trace.md` through `006-5-*` — current durable outcome Projects; do not equate them with Workspaces.
-4. `.topics/reductions/project/005-project-work-topology-rollout-reduction.trace.md` — current Project/Task/Subtask, cross-repository spawn, and ancestry carry-forward rules plus the explicit next implementation frontier.
-5. `.topics/processes/work-lifecycle/001-tiinex-work-lifecycle-process.trace.md` — how new bounded work should be classified, spawned, executed, accepted, landed, and reduced.
-6. `.topics/processes/001-processes.trace.md` — Business process catalog root; each reusable Process owns its own subdirectory.
-7. `.topics/roles/001-roles.trace.md` — responsibility/authority boundaries.
-8. `.topics/financing/001-financing.trace.md` — financing provenance; follow child material only when the question requires it.
-9. `.topics/001-tiinex.trace.md` — durable Tiinex organization root.
-
-## Current transition Projects
-
-- `.topics/initiatives/003-native-schema-authority-extraction-project.trace.md` — current pre-portfolio schema-authority transition Project. Its Native root Task has immutable cross-repository Parent ancestry to the pushed Business Project.
-- `.topics/initiatives/004-deterministic-lineage-maintenance-project.trace.md` — current pre-portfolio lineage-maintenance transition Project. Its Core root Task has immutable cross-repository Parent ancestry to the pushed Business Project.
-- Do not reparent these Projects merely to make the `006` portfolio visually tidy; their published ancestry is intentionally preserved until they complete/reduce.
-
-## Current work interpretation
-
-- Project is a real bounded outcome, not a grouping folder.
-- Project → Project is a subproject only when the child owns an independently meaningful outcome.
-- Task is bounded executable work. Task → Task is the ordinary subtask mechanism.
-- Workspace is an ownership/placement boundary and is not Project identity.
-- Tiinex-specific cross-repository development work should normally retain declared Parent ancestry to its governing Business Project.
-- A new cross-repository child is materialized only after its intended upstream Parent has qualified immutable published recovery; do not create parentless work to repair later and do not serialize `workspace::path` as durable external Parent provenance.
-- Filename dimensions are directory-local coordinates, not semantic Parent ancestry.
-- A qualified Reduction carries bounded state forward but does not by itself authorize destructive deletion or prove Task completion.
-
-## Current frontier discipline
-
-- The completed topology-repair Tasks `005` / `005-2` are retained physically only until their post-rollout bytes have immutable recovery; they are terminal, not current execution frontiers.
-- The explicit implementation frontier carried by the topology Reduction is Core `001-2 Qualify Lineage Maintenance Projection Contract` under the Deterministic Lineage Maintenance Project.
-- Native schema-authority extraction remains a separate preserved frontier and should resume only by explicit priority/process grounding.
-- The Public Trust / contribution-governance branch remains preserved because its public challenge/bounty disposition may still require explicit work; do not infer closure or payout without its own evidence.
-
-## Reading rules
-
-- Prefer qualified current artifacts and Reductions over stale-looking historical leaves, README prose, Git arrival order, or lexical status alone.
-- Parent is declared continuity ancestry; directory proximity and numeric filename shape do not create Parent.
-- Business owns organizational why, Project outcomes, priority, and cross-Workspace disposition where applicable. Implementation truth remains in the natural owning Workspace.
-- Processes are reusable operating contracts; real work artifacts record what actually happened. Process presence does not prove applicability or execution.
-- Do not create Projects for visual grouping, Workspaces, repositories, or every Task cluster.
-- Do not duplicate implementation status into Business merely for tracking; derive child work from the graph and retain concise organizational disposition.
-- State unknowns as unknowns. Do not invent legal incorporation, employment/headcount, balances, runway, funding, acceptance, publication, deployment, or completion.
-- Git/provider access is recovery evidence when required; carried qualified Workspace material should be used first.
-
-## Tooling / Viewer expectation
-
-Viewer and Tooling should discover current Project/work/process topology from qualified artifacts. This file must not become a manually maintained inventory of every Project, Task, Process, or Workspace.
+Do not use `llms.txt` or `README.md` as an artifact index, current-work declaration, or substitute for Tiinex discovery/grounding.
