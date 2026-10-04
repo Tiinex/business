@@ -23,6 +23,18 @@
 
 Leave a small truthful current frontier after the work reaches a disposition.
 
+## Distill Before Reduction
+
+Before terminal or superseded execution history is reduced, review what the work taught that future work should be able to rely on without recovering the old execution lineage.
+
+- Promote a lesson only when it changes reusable behavior, authority, interpretation, structure, or a durable operating boundary. Put it in the natural owner such as a Process, Role, Decision, Schema/specification, Scaffold, or another explicit durable artifact.
+- Keep ordinary observations, attempts, local implementation detail, and evidence of what happened in the work/Reduction history unless they have a real reusable owner.
+- Do not use Reduction as the only home for a rule that future cold-start work is expected to follow.
+- Do not manufacture durable authority merely to save every interesting detail. If no promotion is warranted, Reduction should state the relevant carry-forward state and loss honestly.
+- When a reusable lesson cannot yet be placed safely, preserve it as an explicit unresolved frontier before reducing the source that currently explains it.
+
+This is a durability gate, not an acceptance or deletion gate. Ordinary Reduction and any separate destructive-eligibility checks retain their own authority.
+
 ## Terminal Outcome
 
 When the work is accepted, landed, superseded, rejected, or otherwise terminal:
@@ -58,4 +70,4 @@ This process is complete for the current work instance when terminal history is 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 2q4kB77zure_r5mWfSYW-_1b94C3GolP70Z3mriGgS0
+  - Value: wZLZnwHKCyllnz-rq5jASyO8rsrgL0reshFEXEZNadA
