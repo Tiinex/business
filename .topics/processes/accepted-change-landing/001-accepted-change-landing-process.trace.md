@@ -33,7 +33,7 @@ A higher-level process may refer to this sub-process instead of duplicating its 
 
 ## Next Artifacts
 
-- [Prepare Accepted Candidate](001-2-1-prepare-accepted-candidate.trace.md)
+- [Prepare Accepted Candidate](001-1-prepare-accepted-candidate.trace.md)
 
 ---
 
@@ -41,8 +41,8 @@ A higher-level process may refer to this sub-process instead of duplicating its 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Processes](../001-processes.trace.md)
-  - Value: 894_R-4DZE3RsHODoloOXj00yq9YAvOSDFA_3iwmBgc
+  - Value: 45zoHVoM9WjJL_ONe7kDaotO2BRdnuHnzObbSXGimc4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: HZdVBplPSbcLJayn1qTMU718hoYZzD0UxmpT12Gtkb0
+  - Value: tYFYSsqm9eB-aRiDQcgJn1kgLIA5FgSF2-DXcNxHpZs

@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-09-06 00:13:00
-  - Trace: [Accept Or Reject And Freeze Visual Source](004-1-1-1-accept-or-reject-and-freeze-visual-source.trace.md)
+  - Trace: [Accept Or Reject And Freeze Visual Source](001-1-1-1-accept-or-reject-and-freeze-visual-source.trace.md)
   - Origin:
-    - [relative](004-1-1-1-accept-or-reject-and-freeze-visual-source.trace.md)
+    - [relative](001-1-1-1-accept-or-reject-and-freeze-visual-source.trace.md)
 - Current
   - Current Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-09-06 00:14:00
@@ -31,16 +31,16 @@ Use shared transform rules across comparable candidates and fail visibly when as
 
 ## Next Artifacts
 
-- [Review Derived Asset Against Acceptance Property](004-1-1-1-1-1-review-derived-asset-against-acceptance-property.trace.md)
+- [Review Derived Asset Against Acceptance Property](001-1-1-1-1-1-review-derived-asset-against-acceptance-property.trace.md)
 
 ---
 
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Accept Or Reject And Freeze Visual Source](004-1-1-1-accept-or-reject-and-freeze-visual-source.trace.md)
-  - Value: 4MUbl-NrNuL88m2McDFScrIJ6gHPSbu18uMpKfkKRfs
+  - Towards: [Accept Or Reject And Freeze Visual Source](001-1-1-1-accept-or-reject-and-freeze-visual-source.trace.md)
+  - Value: 0RFyuHxUD_wGAdKm025mnLiLUro0TBvT-YDespmv13w
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:FsLctqyNNVPlapNyNqMOLRD1_v1qJDhGr4jsyAQXw9U
+  - Value:hQ12VKiqahXEPFk6IrIITfAko-9cGjwDYYpsTCrtd1A

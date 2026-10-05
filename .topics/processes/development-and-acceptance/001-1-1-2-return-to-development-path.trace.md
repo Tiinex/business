@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.transition.definition.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/transition/definition/tiinex.transition.definition.v1.schema.md)
   - Created At: 2026-08-29 16:07:00
-  - Trace: [Acceptance Review](001-1-1-1-acceptance-review.trace.md)
+  - Trace: [Acceptance Review](001-1-1-acceptance-review.trace.md)
   - Origin:
-    - [relative](001-1-1-1-acceptance-review.trace.md)
+    - [relative](001-1-1-acceptance-review.trace.md)
 - Current
   - Current Schema: [tiinex.relation.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/relation/tiinex.relation.v1.schema.md)
   - Created At: 2026-08-29 16:07:00
@@ -28,7 +28,7 @@
 
 ## Relation Target
 
-- Target: [Develop And Verify](001-1-1-develop-and-verify.trace.md)
+- Target: [Develop And Verify](001-1-develop-and-verify.trace.md)
 
 ## Relation Boundary
 
@@ -44,9 +44,9 @@ The relation target is not the Tiinex continuity Parent. This target is not this
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Acceptance Review](001-1-1-1-acceptance-review.trace.md)
-  - Value: cuh07nPOZsONLBq2VFdiylhrbiX7kxDptAmHq-fGvUs
+  - Towards: [Acceptance Review](001-1-1-acceptance-review.trace.md)
+  - Value: LRiu91VeDZPbNExyyrIWViq2f4br9eORO9iWQ2MInEU
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: BdhtMNFLAaO1A-ltp7V7Am-RV1LviODPmUrgC95gFGc
+  - Value: EyaKYnP9Be3CaHOo_peg0CGX_FrM8Uquf4HyD63YxaE

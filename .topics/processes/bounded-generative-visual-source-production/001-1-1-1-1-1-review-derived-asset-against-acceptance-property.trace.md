@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-09-06 00:14:00
-  - Trace: [Deterministically Transform Frozen Visual Source](004-1-1-1-1-deterministically-transform-frozen-visual-source.trace.md)
+  - Trace: [Deterministically Transform Frozen Visual Source](001-1-1-1-1-deterministically-transform-frozen-visual-source.trace.md)
   - Origin:
-    - [relative](004-1-1-1-1-deterministically-transform-frozen-visual-source.trace.md)
+    - [relative](001-1-1-1-1-deterministically-transform-frozen-visual-source.trace.md)
 - Current
   - Current Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-09-06 00:15:00
@@ -38,9 +38,9 @@ Declare the acceptance property, primary review representation, secondary review
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Deterministically Transform Frozen Visual Source](004-1-1-1-1-deterministically-transform-frozen-visual-source.trace.md)
-  - Value: FsLctqyNNVPlapNyNqMOLRD1_v1qJDhGr4jsyAQXw9U
+  - Towards: [Deterministically Transform Frozen Visual Source](001-1-1-1-1-deterministically-transform-frozen-visual-source.trace.md)
+  - Value: hQ12VKiqahXEPFk6IrIITfAko-9cGjwDYYpsTCrtd1A
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:bXE1UxMRZYXzvY2KWlrEG5hRVzU_TzlV6eo7LYHHVUY
+  - Value:wd3YwTY0pKK1dGVIvbn2ZqgIhuNpSfnSVjGrJjeB_sE

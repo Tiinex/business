@@ -52,8 +52,8 @@ The owning Workspace, artifact family/schema, target placement, Business relatio
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-establish-work-need-and-boundary.trace.md](001-1-establish-work-need-and-boundary.trace.md)
-  - Value: g39fo-xLlEbOSuILM3RrtnhGOpiUuVydSxoVfWQ7c0E
+  - Value: 0tymDN8tsj0A5VXsdsg2xsmHjILu7F_A2BKcV5Hb7pI
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: dgzKVy_8fBzEgYIwetANemkvdBZYGXytej3wOTWZyK8
+  - Value: zpFuquFCTQkDi_HRC3e7YY8b8YXSexSkUtroQSMZQBQ

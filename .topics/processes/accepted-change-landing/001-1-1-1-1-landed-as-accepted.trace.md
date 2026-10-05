@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.transition.definition.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/transition/definition/tiinex.transition.definition.v1.schema.md)
   - Created At: 2026-08-29 19:51:00
-  - Trace: [Verify Landed State](001-2-1-1-1-verify-landed-state.trace.md)
+  - Trace: [Verify Landed State](001-1-1-1-verify-landed-state.trace.md)
   - Origin:
-    - [relative](001-2-1-1-1-verify-landed-state.trace.md)
+    - [relative](001-1-1-1-verify-landed-state.trace.md)
 - Current
   - Current Schema: [tiinex.relation.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/relation/tiinex.relation.v1.schema.md)
   - Created At: 2026-08-29 19:51:00
@@ -44,9 +44,9 @@ The relation target is not the Tiinex continuity Parent. This relation represent
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Verify Landed State](001-2-1-1-1-verify-landed-state.trace.md)
-  - Value: gDJmI0k9VxkqNxkoGnr_EtSPxaAovGGoMb9UyvLJC3I
+  - Towards: [Verify Landed State](001-1-1-1-verify-landed-state.trace.md)
+  - Value: 1vBLR-720vcN9KP68JT0mQz6Pb46YhQZ6YlBEfCfG9k
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: BoZ0gl_slLyhNSQ8U_GIsM70hFdVvQEi5TG1YI0BaVc
+  - Value: 4w6t4_qIpAdnVjCzGF_mtKjwynoCCwrzw7bVsGVXosY

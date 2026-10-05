@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-09-06 00:12:00
-  - Trace: [Generate Bounded Visual Source Candidate](004-1-1-generate-bounded-visual-source-candidate.trace.md)
+  - Trace: [Generate Bounded Visual Source Candidate](001-1-1-generate-bounded-visual-source-candidate.trace.md)
   - Origin:
-    - [relative](004-1-1-generate-bounded-visual-source-candidate.trace.md)
+    - [relative](001-1-1-generate-bounded-visual-source-candidate.trace.md)
 - Current
   - Current Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-09-06 00:13:00
@@ -29,16 +29,16 @@ Record source identity, provenance, acceptance boundary, and known limitations. 
 
 ## Next Artifacts
 
-- [Deterministically Transform Frozen Visual Source](004-1-1-1-1-deterministically-transform-frozen-visual-source.trace.md)
+- [Deterministically Transform Frozen Visual Source](001-1-1-1-1-deterministically-transform-frozen-visual-source.trace.md)
 
 ---
 
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Generate Bounded Visual Source Candidate](004-1-1-generate-bounded-visual-source-candidate.trace.md)
-  - Value: 8UWUP93gzb9ritcncWUpof_psVOIvAD-lGMhN9bq5wI
+  - Towards: [Generate Bounded Visual Source Candidate](001-1-1-generate-bounded-visual-source-candidate.trace.md)
+  - Value: q01Vgee87kUQoErGt7qc7D5M_808vXp77UDuLG3BPUs
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:4MUbl-NrNuL88m2McDFScrIJ6gHPSbu18uMpKfkKRfs
+  - Value:0RFyuHxUD_wGAdKm025mnLiLUro0TBvT-YDespmv13w

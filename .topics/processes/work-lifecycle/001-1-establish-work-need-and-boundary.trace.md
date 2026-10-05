@@ -44,8 +44,8 @@ A bounded need exists with enough context to classify ownership, placement, and 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-tiinex-work-lifecycle-process.trace.md](001-tiinex-work-lifecycle-process.trace.md)
-  - Value: dQzt98OXeCT_iZbCw46spUJSf7JVBk5KTKaUZs5rdao
+  - Value: vFkGNazAvMeHtGgxcntSqkyCYDmNelBAl3Ko_6NkHro
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: g39fo-xLlEbOSuILM3RrtnhGOpiUuVydSxoVfWQ7c0E
+  - Value: 0tymDN8tsj0A5VXsdsg2xsmHjILu7F_A2BKcV5Hb7pI

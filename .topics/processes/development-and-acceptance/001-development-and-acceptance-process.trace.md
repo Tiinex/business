@@ -29,7 +29,7 @@ Treat this as a process definition, not as proof that any specific Epic is compl
 
 ## Next Artifacts
 
-- [Develop And Verify](001-1-1-develop-and-verify.trace.md)
+- [Develop And Verify](001-1-develop-and-verify.trace.md)
 
 ---
 
@@ -37,8 +37,8 @@ Treat this as a process definition, not as proof that any specific Epic is compl
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Processes](../001-processes.trace.md)
-  - Value: 894_R-4DZE3RsHODoloOXj00yq9YAvOSDFA_3iwmBgc
+  - Value: 45zoHVoM9WjJL_ONe7kDaotO2BRdnuHnzObbSXGimc4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 4N8SXMEdHjQNFlmVcm-BekRePGGk-cWMI2m04v2N3vY
+  - Value: HdXEhvugLUHGj_YtnkipoA_W5HeCgqfDn4V13aaNl4E

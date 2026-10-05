@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-09-06 00:11:00
-  - Trace: [Establish Generative Context Boundary](004-1-establish-generative-context-boundary.trace.md)
+  - Trace: [Establish Generative Context Boundary](001-1-establish-generative-context-boundary.trace.md)
   - Origin:
-    - [relative](004-1-establish-generative-context-boundary.trace.md)
+    - [relative](001-1-establish-generative-context-boundary.trace.md)
 - Current
   - Current Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-09-06 00:12:00
@@ -31,16 +31,16 @@ Treat large design drift, missing required material, severe cutoffs, incoherent 
 
 ## Next Artifacts
 
-- [Accept Or Reject And Freeze Visual Source](004-1-1-1-accept-or-reject-and-freeze-visual-source.trace.md)
+- [Accept Or Reject And Freeze Visual Source](001-1-1-1-accept-or-reject-and-freeze-visual-source.trace.md)
 
 ---
 
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Establish Generative Context Boundary](004-1-establish-generative-context-boundary.trace.md)
-  - Value: C1IW7JLwKJnoWWI017Fui7xXMs3T5Mkad4h0LU5XQ_c
+  - Towards: [Establish Generative Context Boundary](001-1-establish-generative-context-boundary.trace.md)
+  - Value: EN5saDkSja4ZfroJFdxZ6D_e0uQeO802fPuuHQEM39Q
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:8UWUP93gzb9ritcncWUpof_psVOIvAD-lGMhN9bq5wI
+  - Value:q01Vgee87kUQoErGt7qc7D5M_808vXp77UDuLG3BPUs

@@ -35,7 +35,7 @@ Domain-specific specializations may narrow generation context, candidate shape, 
 
 ## Next Artifacts
 
-- [Establish Generative Context Boundary](004-1-establish-generative-context-boundary.trace.md)
+- [Establish Generative Context Boundary](001-1-establish-generative-context-boundary.trace.md)
 
 ---
 
@@ -43,8 +43,8 @@ Domain-specific specializations may narrow generation context, candidate shape, 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Processes](../001-processes.trace.md)
-  - Value: 894_R-4DZE3RsHODoloOXj00yq9YAvOSDFA_3iwmBgc
+  - Value: 45zoHVoM9WjJL_ONe7kDaotO2BRdnuHnzObbSXGimc4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:euE6XjAWTWdaPbw3J8QW66Q_6tLeqAIIRkzb01F0puc
+  - Value:k5-k7KuNzEW3zmd5yaETG1n72H8fZ4zETAPrEQuEMgs

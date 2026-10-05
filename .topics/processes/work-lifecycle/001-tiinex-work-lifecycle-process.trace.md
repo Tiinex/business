@@ -31,8 +31,8 @@ Use this lifecycle to avoid session-local conventions for creating Tasks, Projec
 
 ## Composition With Existing Processes
 
-- Ordinary implementation/development may use [Development And Acceptance](../development-and-acceptance/001-1-development-and-acceptance-process.trace.md).
-- Accepted candidates that require an explicit landing boundary may use [Accepted Change Landing](../accepted-change-landing/001-2-accepted-change-landing-process.trace.md).
+- Ordinary implementation/development may use [Development And Acceptance](../development-and-acceptance/001-development-and-acceptance-process.trace.md).
+- Accepted candidates that require an explicit landing boundary may use [Accepted Change Landing](../accepted-change-landing/001-accepted-change-landing-process.trace.md).
 - Specialized work, such as Docs schema development, may bind its own qualified Process instead of duplicating that process here.
 - A Process reference is grounding and an operating contract; it is not proof that execution occurred or conformed.
 
@@ -62,8 +62,8 @@ Terminal or superseded execution history should become Reduction material once i
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-processes.trace.md](../001-processes.trace.md)
-  - Value: 894_R-4DZE3RsHODoloOXj00yq9YAvOSDFA_3iwmBgc
+  - Value: 45zoHVoM9WjJL_ONe7kDaotO2BRdnuHnzObbSXGimc4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: dQzt98OXeCT_iZbCw46spUJSf7JVBk5KTKaUZs5rdao
+  - Value: vFkGNazAvMeHtGgxcntSqkyCYDmNelBAl3Ko_6NkHro

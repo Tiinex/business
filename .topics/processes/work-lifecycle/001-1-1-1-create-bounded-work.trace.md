@@ -48,8 +48,8 @@ One bounded current artifact owns the work and can be grounded independently of 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-1-classify-owner-placement-and-applicable-process.trace.md](001-1-1-classify-owner-placement-and-applicable-process.trace.md)
-  - Value: dgzKVy_8fBzEgYIwetANemkvdBZYGXytej3wOTWZyK8
+  - Value: zpFuquFCTQkDi_HRC3e7YY8b8YXSexSkUtroQSMZQBQ
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: VcXMBXpGwbqnhrDmBo65Pr5S51HcWyWY2eUXjjHzW2s
+  - Value: pU54KnXhcRwGe7ZBMVf8QNZKTlkl2JWulRqWtnNCpVc

@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.transition.definition.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/transition/definition/tiinex.transition.definition.v1.schema.md)
   - Created At: 2026-08-29 19:51:00
-  - Trace: [Human Apply Accepted Change](001-2-1-1-human-apply-accepted-change.trace.md)
+  - Trace: [Human Apply Accepted Change](001-1-1-human-apply-accepted-change.trace.md)
   - Origin:
-    - [relative](001-2-1-1-human-apply-accepted-change.trace.md)
+    - [relative](001-1-1-human-apply-accepted-change.trace.md)
 - Current
   - Current Schema: [tiinex.transition.definition.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/transition/definition/tiinex.transition.definition.v1.schema.md)
   - Created At: 2026-08-29 19:51:00
@@ -100,9 +100,9 @@
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Human Apply Accepted Change](001-2-1-1-human-apply-accepted-change.trace.md)
-  - Value: vKfXPPef3ABmNJI5IUrYCo6Iqg8DKMBrnLW-YNGZMm8
+  - Towards: [Human Apply Accepted Change](001-1-1-human-apply-accepted-change.trace.md)
+  - Value: RFxYx8IDfKxdaw8w1qLQ_wBQKCIyFuTXbetkY1VkDRg
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: gDJmI0k9VxkqNxkoGnr_EtSPxaAovGGoMb9UyvLJC3I
+  - Value: 1vBLR-720vcN9KP68JT0mQz6Pb46YhQZ6YlBEfCfG9k

@@ -4,9 +4,9 @@
 - Parent
   - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-09-06 00:10:00
-  - Trace: [Bounded Generative Visual Source Production](004-bounded-generative-visual-source-production-process.trace.md)
+  - Trace: [Bounded Generative Visual Source Production](001-bounded-generative-visual-source-production-process.trace.md)
   - Origin:
-    - [relative](004-bounded-generative-visual-source-production-process.trace.md)
+    - [relative](001-bounded-generative-visual-source-production-process.trace.md)
 - Current
   - Current Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-09-06 00:11:00
@@ -31,16 +31,16 @@ Use the smallest boundary needed for the current source candidate. Keep process,
 
 ## Next Artifacts
 
-- [Generate Bounded Visual Source Candidate](004-1-1-generate-bounded-visual-source-candidate.trace.md)
+- [Generate Bounded Visual Source Candidate](001-1-1-generate-bounded-visual-source-candidate.trace.md)
 
 ---
 
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Bounded Generative Visual Source Production](004-bounded-generative-visual-source-production-process.trace.md)
-  - Value: euE6XjAWTWdaPbw3J8QW66Q_6tLeqAIIRkzb01F0puc
+  - Towards: [Bounded Generative Visual Source Production](001-bounded-generative-visual-source-production-process.trace.md)
+  - Value: k5-k7KuNzEW3zmd5yaETG1n72H8fZ4zETAPrEQuEMgs
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:C1IW7JLwKJnoWWI017Fui7xXMs3T5Mkad4h0LU5XQ_c
+  - Value:EN5saDkSja4ZfroJFdxZ6D_e0uQeO802fPuuHQEM39Q
