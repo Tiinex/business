@@ -45,8 +45,8 @@ The relation target is not the Tiinex continuity Parent. This relation represent
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Verify Landed State](001-1-1-1-verify-landed-state.trace.md)
-  - Value: 1vBLR-720vcN9KP68JT0mQz6Pb46YhQZ6YlBEfCfG9k
+  - Value: hqxn0XVcmjnohuksqsnFRqHe6Jp_FbpkfWtKyNUv3RM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 4w6t4_qIpAdnVjCzGF_mtKjwynoCCwrzw7bVsGVXosY
+  - Value:UeKmNrzBiwfRoRNvax1GUgtgsxzW2uH5OS2Vmg40JTc

@@ -2,7 +2,7 @@
 
 - Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/tiinex.root.v1.schema.md)
 - Parent
-  - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
+  - Parent Schema: [tiinex.process.v1](https://github.com/Tiinex/docs/blob/2262a1c4b35e887d116d0d01a864074a9f1641c2/.topics/.schemas/process/tiinex.process.v1.schema.md)
   - Created At: 2026-10-04 19:50:00
   - Trace: [001-session-grounding-and-continuity-process.trace.md](001-session-grounding-and-continuity-process.trace.md)
   - Origin:
@@ -73,6 +73,17 @@
 - Applicability Meaning: applicable at a natural durable checkpoint where meaningful progress, branch/restart opportunity, recipient handover/return, acceptance boundary, or host/runtime survivability risk makes a fresh package materially improve recoverability
 - Unknown Meaning: if no meaningful checkpoint boundary exists, continue without package manufacture rather than turning every ordinary turn into transport noise
 
+## Operator Status Legend
+
+Use one stable human-facing legend whenever a compact checkpoint/recovery status projection is rendered:
+
+- `✅` = yes / recommended / required when the accompanying wording says required
+- `◯` = optional / not necessary
+- `❌` = no / do not
+- `⚠️` = attention / degraded or emergency state
+
+The icon is presentation, not authority. The field label and accompanying wording determine the exact disposition. If an operator asks what a symbol means, return the same grounded meaning rather than improvising a new legend.
+
 ## Operator Disposition Contract
 
 When a checkpoint package is produced, present the smallest human-facing disposition needed to continue safely. Where the active host supports the concepts, distinguish at least:
@@ -122,8 +133,8 @@ These fields are presentation/disposition only. Host-specific naming/branching s
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-session-grounding-and-continuity-process.trace.md](001-session-grounding-and-continuity-process.trace.md)
-  - Value: 4hM7bfYIE-c-B5fNnOKhcfS1_p9JTbgfdsZCIbfdrUE
+  - Value: L4AEKlaMovHFKlOxuyZLApsyM1TG5fNzZcVCSuFChzs
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: -ZJrXneGhLfc056ogQmi3-ZvnXC-o_JV1OE8mRg7BTE
+  - Value:bheTt2USotJ0_fg5bmo2vLItUeSgIe7p85bjZm5gmqA

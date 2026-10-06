@@ -8,7 +8,7 @@
   - Origin:
     - [relative](../001-processes.trace.md)
 - Current
-  - Current Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
+  - Current Schema: [tiinex.process.v1](https://github.com/Tiinex/docs/blob/2262a1c4b35e887d116d0d01a864074a9f1641c2/.topics/.schemas/process/tiinex.process.v1.schema.md)
   - Created At: 2026-10-04 19:50:00
   - Authors: Anchor; Sigma
   - Why: Keep Tiinex-specific Role, readiness, recipient-transfer, human-interaction, and acceptance discipline separate from portable session continuity and host-specific adaptation.
@@ -16,15 +16,52 @@
   - Status: ready/local
 
 ---
+
 # Tiinex Session Grounding And Continuity Profile
 
-## Purpose
+## Process Identity
+
+- Name: Tiinex Session Grounding And Continuity Profile
+- Version: 1
+- Canonical Identifier: tiinex.process.session-grounding-and-continuity.v1
+- Human Label: Tiinex Session Grounding And Continuity Profile
+
+## Purpose And Scope
+
+- Purpose: Define only the Tiinex-specific organizational layer needed when a Tiinex work session uses a portable session-grounding/continuity process.
+- Semantic Boundary: Defines reusable Tiinex Session Grounding And Continuity Profile process semantics; it does not prove invocation, execution, authority, acceptance, current work, or completion.
+- Intended Domains: qualified Tiinex work for the Tiinex Session Grounding And Continuity Profile process
+- Not Intended For: inferring applicability from carriage, directory placement, filename order, Role presence, or host presentation
+
+## Applicability And Conditions
+
+- Applicability Meaning: applicable only when a qualified Entry, Handoff, controlling work artifact, relation, invocation, or other owning authority selects this reusable Process for the bounded work.
+- Unknown Meaning: if applicability, authority, entry, or governing work is unresolved, Process applicability remains unresolved rather than being inferred from discovery or proximity.
+
+## Process Topology
+
+- Topology Meaning: typed Transition Definitions and qualified Relations in this Process lineage define reusable positions and durable non-parent topology where represented.
+- Entry Meaning: Process entry is established by qualified invocation/context and typed topology; semantic Parent and filename order do not independently select an executable entry.
+- Outcome Meaning: outcomes are established by qualified topology plus real execution/return/evidence artifacts; Process definition presence does not establish an outcome.
+- Transition Family: session-grounding-and-continuity
+
+## Interpretation Limits
+
+- Does Not Prove: that this Process ran, is current, was accepted for a particular context, or grants mutation authority.
+- Must Not Be Inferred: that semantic Parent, filename lineage, directory position, carrier presence, or apparent chronology is executable Process topology or current-work authority.
+- Execution Boundary: typed Process topology defines reusable semantics; real work lineage, qualified invocation/context, Handoffs, Returns/Reductions, Evidence, and accepting authority remain the truth about what actually happened.
+
+## Related Artifacts
+
+### Preserved Legacy Definition Notes
+
+### Purpose
 
 Define only the Tiinex-specific organizational layer needed when a Tiinex work session uses a portable session-grounding/continuity process.
 
 Portable grounding, carrier continuity, source preference, host adaptation, and storage-survivability behavior remain owned by their selected portable/Interop material. This profile does not duplicate those rules and is not intended as a generic process for unrelated consumers.
 
-## When This Profile Applies
+### When This Profile Applies
 
 Use this profile only when current work is explicitly inside the Tiinex organizational/project context and a qualified Entry, Handoff, controlling work artifact, Decision, or other authority selects this profile for the session.
 
@@ -32,7 +69,7 @@ Process inventory, Business placement, carried Role material, or the presence of
 
 When this profile applies, the same entry boundary must also identify the portable session-grounding/continuity material needed by the target environment. Host-specific adaptation is selected separately when required.
 
-## Anchor Readiness Boundary
+### Anchor Readiness Boundary
 
 When Anchor is the active orchestration Role, Anchor owns the bounded readiness disposition for the next action.
 
@@ -46,7 +83,7 @@ Anchor must distinguish at least:
 
 Anchor must stop the stronger action when a required authority or source remains unresolved. Package validity, carried Role inventory, repository access, or conversational confidence must not substitute for readiness evidence.
 
-## Sigma Boundary
+### Sigma Boundary
 
 Sigma supplies human intent, observation, prioritization, feedback, and acceptance where the applicable Tiinex process actually reserves a human boundary.
 
@@ -54,7 +91,7 @@ Sigma is not the fallback store for hidden session state and should not be requi
 
 Use Sigma primarily at real human gates such as acceptance, external/manual execution, or bounded observational testing that cannot be qualified mechanically.
 
-## Recipient And Operator Interaction Boundary
+### Recipient And Operator Interaction Boundary
 
 Tiinex treats a human Role, LLM Role, automation, or other qualified participant as a recipient under the same transfer semantics. A conversational UI does not make a human participant an out-of-band exception.
 
@@ -72,31 +109,31 @@ For interactive human-facing communication, present the smallest decision-releva
 
 During blind grounding acceptance, the non-leading transport boundary remains stronger: do not add semantic hints merely to improve readability.
 
-## Specialist Boundary
+### Specialist Boundary
 
 Specialist Roles may be used only when the current Handoff/work authority, Role material, process/applicability boundary, source authority, and return/reconciliation expectation are sufficiently qualified for the delegation.
 
 Role presence in a carrier is not delegation authority. Until delegation grounding is trustworthy, Anchor may perform bounded work directly within its own authority rather than manufacture a specialist transfer from inventory.
 
-## Project And Workspace Boundary
+### Project And Workspace Boundary
 
 Tiinex Projects describe outcome/work coordination. Workspaces describe technical/material ownership and placement. Neither is inferred from the other.
 
 Cross-Workspace work must preserve truthful Project/Task ancestry and the publication/recovery rules owned by the Work Lifecycle. Business must not become a duplicate implementation tracker merely because it owns organizational disposition.
 
-## Readiness Disposition
+### Readiness Disposition
 
 A Tiinex session is ready for ordinary work only when the portable grounding process, this Tiinex profile when applicable, the controlling work, and any required host adaptation can all be qualified for the next bounded action.
 
 If one layer is unavailable or explicitly unresolved, report that exact layer rather than collapsing the result into a generic `grounded` or `not grounded` label.
 
-## Cold Acceptance Boundary
+### Cold Acceptance Boundary
 
 For an intentional cold-start grounding acceptance exercise, Anchor owns the evidence-based readiness disposition after the portable process has frozen the recipient's first result and completed its non-leading retrospective. Anchor should classify process, Role, Tooling, source/recovery, and semantic-contract gaps without coaching the cold recipient retroactively.
 
 Sigma owns the final human acceptance when that acceptance is the declared Tiinex gate. Sigma should be able to judge a compact disposition and bounded observational evidence rather than repeat repository archaeology or reconstruct hidden session history. Acceptance must not be inferred from `grounded-to-act`, package validity, a passing regression suite, or the recipient sounding confident.
 
-## Interpretation Limits
+### Interpretation Limits
 
 - Does Not Establish: portable host behavior, carrier implementation mechanics, process execution, Handoff acceptance, participant identity, specialist delegation, Task completion, remote-write authority, or Sigma acceptance.
 - Must Not Be Used To Claim: that Tiinex-specific Role conventions apply to a role-less or unrelated consumer; that Business owns portable session semantics; that a carried Role is a participant; or that human confirmation is required when the applicable boundary is mechanically qualified.
@@ -111,4 +148,4 @@ Sigma owns the final human acceptance when that acceptance is the declared Tiine
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:4hM7bfYIE-c-B5fNnOKhcfS1_p9JTbgfdsZCIbfdrUE
+  - Value:L4AEKlaMovHFKlOxuyZLApsyM1TG5fNzZcVCSuFChzs

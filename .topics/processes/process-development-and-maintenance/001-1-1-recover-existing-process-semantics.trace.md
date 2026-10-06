@@ -101,8 +101,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-establish-process-need-owner-and-mode.trace.md](001-1-establish-process-need-owner-and-mode.trace.md)
-  - Value: 0eJ06Vy71uO5y_VZLK7XShBwbjxBYALF3uFgUYzwqpU
+  - Value: 3t4JieA8oLG4qjGDam-bSlw0gotwGxEz7VVEMUjt-t4
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: IMG4fgGM8UwDVD4l6jBiSi9kmQEJB8kkQk_V_SPzRMA
+  - Value:yGLeA0S_8Z_TjVmo1QINSDpp1benffNp30zp8xih8MM

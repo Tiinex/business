@@ -101,8 +101,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-1-1-design-typed-process-topology.trace.md](001-1-1-1-design-typed-process-topology.trace.md)
-  - Value: PwWWQKwKby_KlCqc0vHM6xyQn0ZPjDgas3ip4MQXStk
+  - Value: EqCJhzzv4Ykv5fuK93pd55gGOes4c8B5BtKQ5kP8e60
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: swDPb3qNFCiYbGhtyVoe1EuKQVQZfm1aGSWbTMmCXY8
+  - Value:5zC0GHSlCMkIGwt0kj4RZmo0dZfWWw46chgIpy4YS5U
