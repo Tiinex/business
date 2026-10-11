@@ -6,7 +6,7 @@
   - Created At: 2026-08-26 22:30:00
   - Trace: [Public Trust, Contribution And Governance Surface](001-7-public-trust-contribution-governance-task.trace.md)
   - Origin:
-    - [relative](001-7-public-trust-contribution-governance-task.trace.md)
+    - [relative](001-2-public-trust-contribution-governance-task.trace.md)
 - Current
   - Current Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
   - Created At: 2026-08-27 23:52:00

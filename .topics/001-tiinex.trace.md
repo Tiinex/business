@@ -2,7 +2,7 @@
 
 - Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/8145c280093dff5d0b67db2aa72d5f5c12b6c7cb/.topics/.schemas/tiinex.root.v1.schema.md)
 - Current
-  - Current Schema: [tiinex.party.organization.v1](https://github.com/Tiinex/docs/blob/911d4cf990e35ce25a56e8f376d296e327c48260/.topics/.schemas/party/organization/tiinex.party.organization.v1.schema.md)
+  - Current Schema: [tiinex.party.organization.v1](https://github.com/Tiinex/docs/blob/d0e2b274558c2ee931c84318e4b84411a9da3265/.topics/.schemas/party/organization/tiinex.party.organization.v1.schema.md)
   - Created At: 2026-08-26 14:55:00
   - Summary: Current Tiinex project-organization root for organizational, operating, and financial continuity.
   - Status: accepted/local
@@ -42,4 +42,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: ktyPg8Ak50TwtAgUsEWAaM2Dejwhv0RY49fT8AkCwRg
+  - Value: KRG1B-Ji9_5r_lohBI9hzKRBujgWn26w284R1nw2jZs
