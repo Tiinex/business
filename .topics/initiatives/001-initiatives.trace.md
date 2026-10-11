@@ -37,8 +37,8 @@ Concrete Project/Task/Topic descendants only when an actual durable initiative, 
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-tiinex.trace.md](../001-tiinex.trace.md)
-  - Value: ktyPg8Ak50TwtAgUsEWAaM2Dejwhv0RY49fT8AkCwRg
+  - Value: KRG1B-Ji9_5r_lohBI9hzKRBujgWn26w284R1nw2jZs
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 3fnapRu_n0UHSek_oxqq-VEKTbKNriPIb0Vr_vMvWUE
+  - Value: 4lC_zfVdASVV7I1bW2rVTcT85DRSNhrgISV46KBKSMA

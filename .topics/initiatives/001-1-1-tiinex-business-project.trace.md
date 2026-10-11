@@ -6,7 +6,7 @@
   - Created At: 2026-10-03 22:13:00
   - Trace: [001-1-tiinex-project.trace.md](001-1-tiinex-project.trace.md)
   - Origin:
-    - [relative](001-tiinex-project.trace.md)
+    - [relative](001-1-tiinex-project.trace.md)
 - Current
   - Current Schema: [tiinex.project.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/coordination/project/tiinex.project.v1.schema.md)
   - Created At: 2026-10-03 22:13:33
@@ -55,8 +55,8 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-1-tiinex-project.trace.md](001-1-tiinex-project.trace.md)
-  - Value: sC3A3zCR8C1mKNGERm0cj4lFbA33bthZMoEumdGLjOk
+  - Value: MWXtitxNiwcUNXYQBLVQS0uTRo2A8Uk-dvHz_qAVuSs
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: Ptqjv3xnoUOMSa8FPji7KjCZssl5uDTRN0inTZFVOfk
+  - Value: utoIXmpMIanQXauqaR9fhQUB__uX84vx1aw28qSiBlU

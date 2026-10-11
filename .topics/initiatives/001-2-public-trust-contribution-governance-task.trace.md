@@ -46,8 +46,8 @@ Provide a concise public trust surface that lets contributors, users, and potent
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [Initiatives](001-initiatives.trace.md)
-  - Value: pWr4HL_QQBPq0_BjNUtyrsTpS4d6atqEeR3TiLnJkD8
+  - Value: 4lC_zfVdASVV7I1bW2rVTcT85DRSNhrgISV46KBKSMA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: cHZINn_b1nMrnMKbEQwyD4IKS2DlS8E97yHAG85Al-8
+  - Value: eLrXXD3B8znYrTb8q5clyllf7lhpBLasGEKqNUyHoAo
