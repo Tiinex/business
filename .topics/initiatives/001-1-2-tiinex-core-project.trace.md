@@ -9,7 +9,7 @@
     - [relative](001-1-tiinex-project.trace.md)
 - Current
   - Current Schema: [tiinex.project.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/coordination/project/tiinex.project.v1.schema.md)
-  - Created At: 2026-10-03 22:13:34
+  - Created At: 2026-10-12 01:29:10
   - Authors: Anchor; Sigma
   - Why: Re-establish the durable Core project direction without reviving stale execution lineage or equating the Core Workspace with the Project.
   - Summary: Core Project sibling for semantic coherence across artifacts, provenance, lineage, schemas, relations, and coordination contracts.
@@ -23,7 +23,7 @@
 
 - Description: Project for the coherent semantic model behind Tiinex artifacts, provenance, continuity, lineage, schemas, relations, coordination contracts, authority boundaries, and interpretation rules.
 - Boundary: Core owns semantic coherence and canonical meaning boundaries, not host-specific UX, generic Business administration, or implementation grouping by repository.
-- Related Project: [Native Schema Authority Extraction](../initiatives/003-native-schema-authority-extraction-project.trace.md)
+- Historical Related Project: [Native Schema Authority Extraction](https://github.com/Tiinex/business/blob/b32b926678aaf8861bcfb756eb65a8df5e49ea71/.topics/initiatives/003-native-schema-authority-extraction-project.trace.md)
 
 ## Project Purpose And Scope
 
@@ -52,6 +52,8 @@
 
 ---
 
+---
+
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
@@ -60,4 +62,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: IxtIHw4efzs-rmTp4nHLQLCJzqNOSprXBrkwlv6olsU
+  - Value: bS0kej2NuFlWhsCojPa3vJf-z1SQr3gv4xWAcXQBcDk

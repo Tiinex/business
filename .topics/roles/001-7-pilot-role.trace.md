@@ -1,23 +1,23 @@
 # Continuity Context
 
-- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/tiinex.root.v1.schema.md)
+- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/tiinex.root.v1.schema.md)
 - Parent
   - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-08-26 14:56:00
-  - Trace: [Roles](001-roles.trace.md)
+  - Trace: [001-roles.trace.md](001-roles.trace.md)
   - Origin:
     - [relative](001-roles.trace.md)
 - Current
-  - Current Schema: [tiinex.party.role.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/party/role/tiinex.party.role.v1.schema.md)
-  - Created At: 2026-09-06 14:58:00
-  - Authors: Anchor; Sigma
-  - Why: Add a reusable Tiinex role for narrowly delegated execution that must cross a human-operated external boundary without turning Sigma into a courier or giving the execution role authority over the originating problem.
-  - Summary: Pilot role for bounded human-mediated external execution guidance, evidence capture, and lineage-correct return handoff.
-  - Status: accepted/local
+  - Current Schema: [tiinex.party.role.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/party/role/tiinex.party.role.v1.schema.md)
+  - Created At: 2026-10-12 00:03:19
+  - Authors: ChatGPT (grounding analysis session; holder unverified)
+  - Why: Replace Role instruction archaeology with one complete independently readable current Role
+  - Summary: Self-contained Pilot Role current candidate; direct Role-root Parent documents origin
+  - Status: draft/local
 
 ---
 
-# Pilot Role
+# Pilot Role — Canonical Holder Cutover Continuation
 
 ## Role Identity
 
@@ -73,12 +73,14 @@
 - Does Not Prove: that a particular person, model, runtime, chat, or external service currently holds Pilot; that the human completed the requested action; that returned material is correct or accepted; that Pilot has authority over the external system; that a successful transport is successful product work; or that a human relay upgrades ordinary conversation into durable truth.
 - Must Not Be Treated As: a general assistant role, courier role, product manager, universal external-tool operator, architecture or schema authority, final reviewer, acceptance authority, remote-write credential, permanent holder identity, model-personality prompt, delegation proof beyond the controlling artifact, or a replacement for the role that owns the originating problem.
 
+---
+
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Roles](001-roles.trace.md)
+  - Towards: [001-roles.trace.md](001-roles.trace.md)
   - Value: zWw2X3EoMJGo21ZIaAqQyQpXvQK2FZ9QUbMo_ZMVVYw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: kKG2s-dvM_aHewtRddb-kdYvLX_wnRSTwYN8dVAm1hk
+  - Value: lcbzc5YwxDr0LfBKLFKWsFERP5FdSLDpZAMoCnBlxss

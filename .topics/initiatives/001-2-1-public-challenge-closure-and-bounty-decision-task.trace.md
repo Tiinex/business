@@ -1,15 +1,15 @@
 # Continuity Context
 
-- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/8145c280093dff5d0b67db2aa72d5f5c12b6c7cb/.topics/.schemas/tiinex.root.v1.schema.md)
+- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/tiinex.root.v1.schema.md)
 - Parent
   - Parent Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
   - Created At: 2026-08-26 22:30:00
-  - Trace: [Public Trust, Contribution And Governance Surface](001-2-public-trust-contribution-governance-task.trace.md)
+  - Trace: [001-2-public-trust-contribution-governance-task.trace.md](001-2-public-trust-contribution-governance-task.trace.md)
   - Origin:
     - [relative](001-2-public-trust-contribution-governance-task.trace.md)
 - Current
-  - Current Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
-  - Created At: 2026-08-27 23:52:00
+  - Current Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
+  - Created At: 2026-10-12 01:29:19
   - Authors: Anchor; Sigma
   - Why: Materialize the imminent public AI-lineage challenge closure so the published 1000 SEK commitment, submission evidence, qualification, judging, payout, and final result do not remain only in conversation context.
   - Summary: Bounded public-challenge closure task for reproducible qualification of the two current Tiinex/docs submissions and a traceable post-deadline bounty Decision.
@@ -54,19 +54,21 @@ Close the published "build a traceable AI lineage schema and prove it works" cha
 
 ## Dependencies
 
-- [Public Trust, Contribution And Governance Surface](001-7-public-trust-contribution-governance-task.trace.md)
+- [Historical Public Trust, Contribution And Governance Surface](https://github.com/Tiinex/business/blob/b32b926678aaf8861bcfb756eb65a8df5e49ea71/.topics/initiatives/001-7-public-trust-contribution-governance-task.trace.md)
 - Existing Business financing/bounty lineage.
 - Public Tiinex/docs challenge, PRs, comments, and reproducible submitted code at closure time.
 - Sigma for final human payout/durability action; Anchor for evidence/reconciliation; Axiom only if schema-semantic ambiguity needs bounded review; Loom only if Tooling reproduction requires implementation expertise.
 
 ---
 
+---
+
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Public Trust, Contribution And Governance Surface](001-2-public-trust-contribution-governance-task.trace.md)
+  - Towards: [001-2-public-trust-contribution-governance-task.trace.md](001-2-public-trust-contribution-governance-task.trace.md)
   - Value: eLrXXD3B8znYrTb8q5clyllf7lhpBLasGEKqNUyHoAo
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: mGeuZ4yy9sBlY6tAY6_bLUT8aVhPOF8m4PgIdfnb4c0
+  - Value: yrapsLfbUn3R8NnQyWivYO_ggtIsqXCFQiyydYK_4E4

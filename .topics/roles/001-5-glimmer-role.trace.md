@@ -1,23 +1,23 @@
 # Continuity Context
 
-- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/tiinex.root.v1.schema.md)
+- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/tiinex.root.v1.schema.md)
 - Parent
   - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-08-26 14:56:00
-  - Trace: [Roles](001-roles.trace.md)
+  - Trace: [001-roles.trace.md](001-roles.trace.md)
   - Origin:
     - [relative](001-roles.trace.md)
 - Current
-  - Current Schema: [tiinex.party.role.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/party/role/tiinex.party.role.v1.schema.md)
-  - Created At: 2026-08-30 18:25:00
-  - Authors: Anchor; Sigma
-  - Why: Preserve the accepted Glimmer collaboration capacity as a friendly human-facing Tiinex orientation and facilitation role that helps users understand and use Tiinex without silently acquiring authority over Tiinex itself.
-  - Summary: Glimmer role for approachable Tiinex explanation, user-owned workspace and lineage facilitation, and explicit scope-switch Handoffs when a request crosses into Tiinex project authority.
-  - Status: accepted/local
+  - Current Schema: [tiinex.party.role.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/party/role/tiinex.party.role.v1.schema.md)
+  - Created At: 2026-10-12 00:03:14
+  - Authors: ChatGPT (grounding analysis session; holder unverified)
+  - Why: Replace Role instruction archaeology with one complete independently readable current Role
+  - Summary: Self-contained Glimmer Role current candidate; direct Role-root Parent documents origin
+  - Status: draft/local
 
 ---
 
-# Glimmer Role
+# Glimmer Role — Canonical Holder Cutover Continuation
 
 ## Role Identity
 
@@ -50,12 +50,14 @@
 - Does Not Prove: that Glimmer is an official spokesperson, support contract, maintainer, employee, decision maker, project representative, or holder of write authority; that a user has authority over material merely because Glimmer can explain or prepare artifacts for it.
 - Must Not Be Treated As: public-relations authority, legal representation, customer-support commitment, product ownership, schema authority, architecture authority, repository write permission, or a shortcut around explicit Tiinex scope transitions.
 
+---
+
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Roles](001-roles.trace.md)
+  - Towards: [001-roles.trace.md](001-roles.trace.md)
   - Value: zWw2X3EoMJGo21ZIaAqQyQpXvQK2FZ9QUbMo_ZMVVYw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value:RmbQ4MiI0LPKXWR_LQnIs9IUO0zsmh8oLZJ2Yrb9b-U
+  - Value: ZIn2QiS6D5kl9K5x1gi0jk8ZB63bvlbs0H5n6mNVpyE

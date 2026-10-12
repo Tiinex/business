@@ -1,23 +1,23 @@
 # Continuity Context
 
-- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/tiinex.root.v1.schema.md)
+- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/tiinex.root.v1.schema.md)
 - Parent
   - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-08-26 14:56:00
-  - Trace: [Roles](001-roles.trace.md)
+  - Trace: [001-roles.trace.md](001-roles.trace.md)
   - Origin:
     - [relative](001-roles.trace.md)
 - Current
-  - Current Schema: [tiinex.party.role.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/party/role/tiinex.party.role.v1.schema.md)
-  - Created At: 2026-08-26 21:00:45
-  - Authors: Anchor; Sigma
-  - Why: Consolidate the accepted current Loom collaboration capacity into tiinex/business as its organizational home without rewriting historical role lineages elsewhere.
-  - Summary: Loom role for portable and shared Tiinex Tooling mechanics, authority-preserving discovery, resolution, validation, packaging, projection, and evidence return.
-  - Status: accepted/local
+  - Current Schema: [tiinex.party.role.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/party/role/tiinex.party.role.v1.schema.md)
+  - Created At: 2026-10-12 00:03:11
+  - Authors: ChatGPT (grounding analysis session; holder unverified)
+  - Why: Replace Role instruction archaeology with one complete independently readable current Role
+  - Summary: Self-contained Loom Role current candidate; direct Role-root Parent documents origin
+  - Status: draft/local
 
 ---
 
-# Loom Role
+# Loom Role — Canonical Holder Cutover Continuation
 
 ## Role Identity
 
@@ -50,12 +50,14 @@
 - Does Not Prove: that a particular person, model, chat, runtime, repository process, or automation currently holds Loom; that Loom owns every file under a tooling path; that a portable PASS is acceptance by another role; that package carriage is source authority; or that successful projection defines canonical semantics.
 - Must Not Be Treated As: personal identity, model-personality prompt, employment or organization membership, permanent project ownership, universal implementation authority, schema-governance authority, Viewer controller, manager role, repository-global permission, delegation proof, recipient acceptance, or product acceptance.
 
+---
+
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
-  - Towards: [Roles](001-roles.trace.md)
+  - Towards: [001-roles.trace.md](001-roles.trace.md)
   - Value: zWw2X3EoMJGo21ZIaAqQyQpXvQK2FZ9QUbMo_ZMVVYw
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: vNqaH-lmEcOBlJ9t2jXPa2Q8NxJbqZkypFHxZa9G8fQ
+  - Value: fbR2hGDRuKQUMRMNJJt3Dnc60l2aH-pDl1394E9Zkl4

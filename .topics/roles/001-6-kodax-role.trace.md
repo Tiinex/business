@@ -1,6 +1,6 @@
 # Continuity Context
 
-- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/tiinex.root.v1.schema.md)
+- Envelope Schema: [tiinex.root.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/tiinex.root.v1.schema.md)
 - Parent
   - Parent Schema: [tiinex.topic.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/topic/tiinex.topic.v1.schema.md)
   - Created At: 2026-08-26 14:56:00
@@ -8,16 +8,16 @@
   - Origin:
     - [relative](001-roles.trace.md)
 - Current
-  - Current Schema: [tiinex.party.role.v1](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.schemas/party/role/tiinex.party.role.v1.schema.md)
-  - Created At: 2026-09-03 15:34:59
-  - Authors: Anchor
-  - Why: Migrate the accepted Kodax implementation capacity into tiinex/business as its canonical organizational home while retaining the earlier Viewer-local Role artifact as historical origin evidence rather than current role authority.
-  - Summary: Kodax implementation engineer role for bounded frontend/backend application implementation, integration testing, refactoring, performance optimization, and technical return evidence.
-  - Status: ready/local
+  - Current Schema: [tiinex.party.role.v1](https://github.com/Tiinex/docs/blob/302506f90537dc23d6f88ad0bd0bb9c97c6cf9f6/.topics/.schemas/party/role/tiinex.party.role.v1.schema.md)
+  - Created At: 2026-10-12 00:03:16
+  - Authors: ChatGPT (grounding analysis session; holder unverified)
+  - Why: Replace Role instruction archaeology with one complete independently readable current Role
+  - Summary: Self-contained Kodax Role current candidate; direct Role-root Parent documents origin
+  - Status: draft/local
 
 ---
 
-# Kodax Role
+# Kodax Role — Canonical Holder Cutover Continuation
 
 ## Party Identity
 
@@ -79,6 +79,8 @@
 
 ---
 
+---
+
 # Continuity Integrity
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
@@ -87,4 +89,4 @@
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: cfSXxYIUwAECSPiSNSmn5RcZ6Fy0oYZN9lbDjOaIuV0
+  - Value: cxPYyC-uSgUP8GkpUaF0rjK6D_wsvn1RdnM5GcXfZ7E
