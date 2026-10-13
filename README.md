@@ -6,7 +6,7 @@ Tiinex Business is the organizational Workspace for Tiinex. It owns organization
 
 ## Durable boundaries
 
-- Project is a repository or grouping-folder boundary; use one Project for each repository regardless of outcome.
+- Project represents a real bounded coordinated outcome, independent of repository or folder boundaries; one Project may span Workspaces, and one Workspace may carry multiple Projects.
 - Workspace is a technical/material ownership boundary and is independent of Project structure.
 - Task and Task children are the ordinary executable decomposition.
 - Cross-Workspace work preserves truthful declared ancestry and qualified recovery rather than creating parentless children for later repair.
